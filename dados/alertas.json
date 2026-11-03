@@ -1,5 +1,71 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579280",
+  "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
+  "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está com uma oferta imperdível para transferências para o Azul Fidelidade, permitindo gerar 1.000 milhas a partir de R$ 11,78 na modalidade pontos + dinheiro. Até sexta-feira (6), assinantes do Clube Azul podem garantir até 100% de bônus, além de até 30% extra dependendo do tempo de adesão ao clube. Não perca a chance de acumular milhas com um CPM super atrativo!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-03T16:59:39+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 100,
+  "desconto": 0,
+  "milheiro_citado": 11.78,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Livelo|Azul Fidelidade|100|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 100%"
+  ],
+  "visto_em": "2026-11-03T17:09:28.289825+00:00",
+  "codigo": "RT-0007"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148038",
+  "titulo": "Só hoje! Assine o Clube Livelo Premium anual e garanta 385.000 pontos",
+  "link": "https://pontospravoar.com/so-hoje-assine-o-clube-livelo-premium-anual-e-garanta-385-000-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quer dar um impulso no seu saldo de pontos Livelo? A Livelo está com uma nova oferta para quem deseja aderir ao Clube Livelo Premium, permitindo acumular 385 mil pontos na modalidade anual. Confira os valores, as condições da promoção e veja se vale a pena assinar! Promoção de assinatura do Clube Premium Esta promoção de…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Assinatura de Clube",
+   "Clube Livelo Premium"
+  ],
+  "data": "2026-11-03T17:00:10+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-03",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T17:09:28.469358+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579221",
   "titulo": "Receba até 385.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,36",
   "link": "https://passageirodeprimeira.com/receba-ate-385-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2436/",
@@ -25,7 +91,8 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T15:41:14.571798+00:00",
-  "fora_vitrine": "clube sem milheiro informado abaixo da referência"
+  "fora_vitrine": "clube sem milheiro informado abaixo da referência",
+  "codigo": "RT-0006"
  },
  {
   "id": "https://passageirodeprimeira.com/?p=579244",
@@ -107,7 +174,8 @@
   "motivos": [],
   "visto_em": "2026-11-03T14:27:00.572993+00:00",
   "trechos_total": 0,
-  "resgates": []
+  "resgates": [],
+  "codigo": "RT-0005"
  },
  {
   "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645302",
@@ -166,7 +234,8 @@
   "bonus": 25,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:59:15.175852+00:00"
+  "visto_em": "2026-11-03T13:59:15.175852+00:00",
+  "codigo": "RT-0004"
  },
  {
   "id": "https://passageirodeprimeira.com/?p=579157",
@@ -185,7 +254,8 @@
   "motivos": [
    "bônus de 130%"
   ],
-  "visto_em": "2026-11-03T13:34:47.719656+00:00"
+  "visto_em": "2026-11-03T13:34:47.719656+00:00",
+  "codigo": "RT-0003"
  },
  {
   "id": "https://pontospravoar.com/?p=148007",
@@ -620,7 +690,8 @@
     "milheiro": 37.42,
     "veredito": "milhas"
    }
-  ]
+  ],
+  "codigo": "RT-0001"
  },
  {
   "id": "https://passageirodeprimeira.com/?p=578316",
@@ -778,7 +849,8 @@
     "milheiro": null,
     "veredito": ""
    }
-  ]
+  ],
+  "codigo": "RT-0002"
  },
  {
   "id": "https://pontospravoar.com/?p=148012",

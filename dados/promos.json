@@ -1,5 +1,78 @@
 {
- "ativas": [],
- "vitrine": {},
- "combos": {}
+ "ativas": [
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 130,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-06",
+   "visto_em": "2026-11-03",
+   "titulo": "Azul Friday! Transfira pontos da Livelo e ganhe até 130% de bônus",
+   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-livelo-ganhe-ate-130-porcento-bonus/"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-03",
+   "visto_em": "2026-11-03",
+   "titulo": "Só hoje! Transfira pontos do Porto Bank para o LATAM Pass com 25% de bônus",
+   "link": "https://pontospravoar.com/so-hoje-transfira-pontos-porto-bank-latam-pass-25-porcento-bonus/"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 24.36,
+   "prazo": "",
+   "visto_em": "2026-11-03",
+   "titulo": "Receba até 385.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,36",
+   "link": "https://passageirodeprimeira.com/receba-ate-385-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2436/"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|100|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 100,
+   "desconto": 0,
+   "milheiro": 11.78,
+   "prazo": "",
+   "visto_em": "2026-11-03",
+   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
+   "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/"
+  }
+ ],
+ "vitrine": {
+  "transferencia|Livelo|Azul Fidelidade|130|": "2026-11-03T17:09:31.008585+00:00",
+  "transferencia||LATAM Pass|25|": "2026-11-03T17:09:31.573196+00:00",
+  "clube|Livelo|||": "2026-11-03T17:09:35.925370+00:00",
+  "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00"
+ },
+ "combos": {
+  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
+  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T17:09:38.053579+00:00"
+ }
 }

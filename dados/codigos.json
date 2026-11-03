@@ -1,0 +1,163 @@
+{
+ "ultimo": 9,
+ "alertas": [
+  {
+   "codigo": "RT-0001",
+   "enviado_em": "2026-11-03T17:09:29.708552+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira passagens nacionais a partir de 3 mil pontos Azul Fidelidade + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-nacionais-3-mil-pontos-azul-fidelidade-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": [
+     "BSB-CGH"
+    ]
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0002",
+   "enviado_em": "2026-11-03T17:09:30.268028+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Explore destinos internacionais a partir de 16.800 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-explore-destinos-internacionais-16800-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "GYN-AEP",
+     "BSB-MIA",
+     "BSB-MCO"
+    ]
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0003",
+   "enviado_em": "2026-11-03T17:09:31.008121+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Fidelidade oferece até 130% de bônus nas transferências da Livelo",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-130-de-bonus-nas-transferencias-da-livelo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0004",
+   "enviado_em": "2026-11-03T17:09:31.572741+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Porto Bank",
+   "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-porto-bank/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0005",
+   "enviado_em": "2026-11-03T17:09:35.366617+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul Fidelidade oferece 70% de desconto na Tarifa Congelada",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-70-de-desconto-na-tarifa-congelada/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0006",
+   "enviado_em": "2026-11-03T17:09:35.924656+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Receba até 385.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,36",
+   "link": "https://passageirodeprimeira.com/receba-ate-385-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2436/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0007",
+   "enviado_em": "2026-11-03T17:09:36.708689+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
+   "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0008",
+   "enviado_em": "2026-11-03T17:09:37.275382+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 10.59,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0009",
+   "enviado_em": "2026-11-03T17:09:38.052937+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 12.18,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  }
+ ]
+}
