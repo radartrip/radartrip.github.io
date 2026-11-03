@@ -1,16 +1,17 @@
-# Radar Trip - Medidor de precos (Vigia 2.3)
-# Consulta os menores precos de ida e volta saindo de Goiania, guarda o historico
-# e avisa no Telegram quando um preco cai bem abaixo da media.
+# Radar Trip - Medidor de precos (Vigia 3.0)
+# Mede os menores precos de ida e volta saindo de GOIANIA e de BRASILIA para os
+# mesmos destinos, guarda o historico de cada rota e avisa quando um preco cai bem
+# abaixo da media.
 #
-# O robo tenta "gavetas" em ordem e usa a primeira que tiver ida e volta:
-#   Saindo de GYN:
-#     1. datas  -> prices_for_dates sem datas (buscas das ultimas 48h)
-#     2. mes    -> prices_for_dates mes a mes, ida e volta explicita, proximos 6 meses
-#     3. semana -> get_latest_prices (buscas guardadas por ate 7 dias)
-#   Plano D, so se GYN vier vazio (saindo de Brasilia, ~2h30 de carro):
-#     4. bsb     -> prices_for_dates sem datas saindo de BSB
-#     5. bsb_mes -> mes a mes saindo de BSB
-# O registro (log) do GitHub mostra quantas opcoes cada gaveta trouxe (diagnostico).
+# Para cada rota (origem -> destino) o robo tenta "gavetas" em ordem e usa a
+# primeira que tiver ida e volta:
+#   1. datas  -> prices_for_dates sem datas (buscas das ultimas 48h)
+#   2. mes    -> prices_for_dates mes a mes, ida e volta explicita, proximos 6 meses
+#   3. semana -> get_latest_prices (buscas guardadas por ate 7 dias)
+#
+# Alertas de queda vao para a VITRINE (canal) com codigo RT-xxxx e comparacao com a
+# outra origem. Avisos tecnicos (atualizacao, falhas, diagnostico) vao para os
+# BASTIDORES (chat do dono).
 
 import html
 import json
@@ -19,12 +20,14 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-from vigia import telegram
+from vigia import enviar_vitrine, telegram
 
-ORIGEM = "GYN"
-ORIGEM_NOME = "Goiânia"
-ORIGEM_ALT = "BSB"           # plano D: usada só quando GYN não tem preço
-ORIGEM_ALT_NOME = "Brasília"
+# Origens medidas, na ordem de prioridade (GYN primeiro)
+ORIGENS = {
+    "GYN": "Goiânia",
+    "BSB": "Brasília",
+}
+NOTA_ORIGEM = {"BSB": "🚗 a ~2h30 de carro de Goiânia"}
 
 # Para incluir ou tirar um destino, edite esta lista: "CÓDIGO": "Nome"
 DESTINOS = {
@@ -48,24 +51,14 @@ QUEDA_MINIMA = 0.20          # avisa se o preço ficar 20% ou mais abaixo da mé
 DIAS_MEDIA = 7               # média dos últimos 7 dias
 MIN_LEITURAS = 12            # só compara depois de ter histórico suficiente
 INTERVALO_MIN = 55           # consulta no máximo 1 vez por hora
-MAX_LEITURAS = 1500          # cerca de 2 meses de histórico por destino
+MAX_LEITURAS = 1500          # cerca de 2 meses de histórico por rota
 MARKER = "800145"            # seu ID de afiliado Travelpayouts
-VERSAO = 4                   # versão do formato dos dados (4 = plano D, Brasília)
+VERSAO = 5                   # versão do formato dos dados (5 = GYN e BSB como origens completas)
 MESES_PLANO_C = 6            # quantos meses à frente a busca mês a mês procura
 
 CIAS = {"G3": "Gol", "LA": "LATAM", "JJ": "LATAM", "AD": "Azul", "AR": "Aerolíneas Argentinas",
         "TP": "TAP", "AA": "American", "UA": "United", "DL": "Delta", "CM": "Copa", "AV": "Avianca",
         "H2": "Sky", "JA": "JetSMART", "IB": "Iberia", "UX": "Air Europa", "AF": "Air France", "KL": "KLM"}
-
-# De onde veio o preço: rótulo curto para o Telegram
-FONTES = {
-    "datas": "",
-    "mes": "busca mês a mês (plano C)",
-    "semana": "busca de até 7 dias atrás (plano C)",
-    "bsb": f"saindo de {ORIGEM_ALT_NOME} (plano D)",
-    "bsb_mes": f"saindo de {ORIGEM_ALT_NOME}, busca mês a mês (plano D)",
-}
-ICONES = {"mes": " 🗓️", "semana": " 🕘", "bsb": " 🚗", "bsb_mes": " 🚗"}
 
 PASTA = "dados"
 ARQ = os.path.join(PASTA, "precos.json")
@@ -76,11 +69,15 @@ def agora():
     return datetime.now(timezone.utc)
 
 
+def rota(origem, destino):
+    return f"{origem}-{destino}"
+
+
 def chamar(caminho, params, token):
     url = BASE + caminho + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={
         "X-Access-Token": token, "Accept-Encoding": "identity",
-        "User-Agent": "RadarTrip/2.3",
+        "User-Agent": "RadarTrip/3.0",
     })
     with urllib.request.urlopen(req, timeout=25) as r:
         resposta = json.loads(r.read().decode("utf-8"))
@@ -154,22 +151,16 @@ def busca_semana(origem, destino, token):
     } for o in lista(dados)]
 
 
-# (nome da gaveta, origem, função de busca) — tentadas nesta ordem
-BUSCAS = [
-    ("datas", ORIGEM, busca_datas),
-    ("mes", ORIGEM, busca_mes),
-    ("semana", ORIGEM, busca_semana),
-    ("bsb", ORIGEM_ALT, busca_datas),
-    ("bsb_mes", ORIGEM_ALT, busca_mes),
-]
+# (nome da gaveta, função de busca) — tentadas nesta ordem para cada rota
+BUSCAS = [("datas", busca_datas), ("mes", busca_mes), ("semana", busca_semana)]
 
 
-def consultar(destino, token, diag=None):
+def consultar(origem, destino, token, diag=None):
     """Tenta as gavetas em ordem e devolve o menor preço da primeira que tiver ida e volta.
     Em diag anota o que cada gaveta trouxe: total bruto / quantos de ida e volta (ou erro)."""
     diag = diag if diag is not None else {}
     erros = []
-    for fonte, origem, busca in BUSCAS:
+    for fonte, busca in BUSCAS:
         try:
             brutas = busca(origem, destino, token)
         except Exception as erro:
@@ -246,6 +237,26 @@ def salvar(dados):
         json.dump(dados, f, ensure_ascii=False, indent=1)
 
 
+def migrar(dados):
+    """Versões antigas guardavam o histórico por destino ("REC"); agora é por rota ("GYN-REC").
+    Leituras que vieram de Brasília (plano D) vão para a rota BSB, com a gaveta equivalente."""
+    gaveta = {"bsb": "datas", "bsb_mes": "mes"}
+    novo_hist = {}
+    for chave, leituras in dados.get("historico", {}).items():
+        if "-" in chave:
+            novo_hist.setdefault(chave, []).extend(leituras)
+            continue
+        for l in leituras:
+            origem = l.get("origem", "GYN")
+            l = {**l, "origem": origem, "fonte": gaveta.get(l.get("fonte"), l.get("fonte", "datas"))}
+            novo_hist.setdefault(rota(origem, chave), []).append(l)
+    novos_alertas = {}
+    for chave, alerta in dados.get("alertas", {}).items():
+        novos_alertas[chave if "-" in chave else rota("GYN", chave)] = alerta
+    dados["historico"], dados["alertas"] = novo_hist, novos_alertas
+    return dados
+
+
 def media_recente(leituras, limite, fonte):
     # Só compara preço com preço da mesma gaveta (laranja com laranja)
     valores = [l["preco"] for l in leituras
@@ -255,8 +266,8 @@ def media_recente(leituras, limite, fonte):
     return sum(valores) / len(valores)
 
 
-def avaliar(codigo, atual, historico, alertas, momento):
-    leituras = historico.get(codigo, [])
+def avaliar(chave, atual, historico, alertas, momento):
+    leituras = historico.get(chave, [])
     limite = (momento - timedelta(days=DIAS_MEDIA)).isoformat()
     media = media_recente(leituras, limite, atual["fonte"])
     if not media:
@@ -265,13 +276,13 @@ def avaliar(codigo, atual, historico, alertas, momento):
     if queda < QUEDA_MINIMA:
         return None
 
-    anterior = alertas.get(codigo)
+    anterior = alertas.get(chave)
     if anterior:
         recente = anterior["t"] >= (momento - timedelta(hours=48)).isoformat()
         if recente and atual["preco"] >= anterior["preco"] * 0.95:
             return None
 
-    alertas[codigo] = {"preco": atual["preco"], "t": momento.isoformat()}
+    alertas[chave] = {"preco": atual["preco"], "t": momento.isoformat()}
     return media, queda
 
 
@@ -281,32 +292,48 @@ def texto_datas(atual):
     return data_br(atual["ida"])
 
 
-def linha_destino(nome, atual):
-    extra = ICONES.get(atual.get("fonte"), "")
-    return f"• <b>{html.escape(nome)}</b>: {reais(atual['preco'])} ({texto_datas(atual)}){extra}"
-
-
-def legenda(resultados):
-    usadas = {r["fonte"] for r in resultados.values()}
+def quadro(resultados, sem_preco):
+    """Resumo para os BASTIDORES: cada destino com o preço de cada origem."""
     linhas = []
-    if "mes" in usadas:
-        linhas.append("🗓️ = busca mês a mês (plano C)")
-    if "semana" in usadas:
-        linhas.append("🕘 = busca de até 7 dias atrás (plano C)")
-    if usadas & {"bsb", "bsb_mes"}:
-        linhas.append(f"🚗 = sem dados saindo de GYN; preço saindo de {ORIGEM_ALT_NOME} (~2h30 de carro)")
-    return "\n".join(linhas)
-
-
-def resumo(resultados, sem_preco):
-    linhas = [linha_destino(DESTINOS[c], r)
-              for c, r in sorted(resultados.items(), key=lambda x: x[1]["preco"])]
+    melhores = []
+    for destino, nome in DESTINOS.items():
+        precos = {o: resultados.get(rota(o, destino)) for o in ORIGENS}
+        validos = [p["preco"] for p in precos.values() if p]
+        melhores.append((min(validos) if validos else 10 ** 9, destino, nome, precos))
+    for _, destino, nome, precos in sorted(melhores):
+        partes = [f"{o} {reais(p['preco'])}" if p else f"{o} —" for o, p in precos.items()]
+        linhas.append(f"• <b>{html.escape(nome)}</b>: " + " · ".join(partes))
     texto = "\n".join(linhas)
-    leg = legenda(resultados)
-    if leg:
-        texto += "\n\n" + leg
     if sem_preco:
-        texto += "\n\n😶 Ainda sem preço: " + html.escape(", ".join(sem_preco))
+        texto += "\n\n😶 Sem preço nesta rodada: " + html.escape(", ".join(sem_preco))
+    return texto
+
+
+def alerta_vitrine(origem, destino, atual, media, queda, resultados):
+    nome = DESTINOS[destino]
+    escalas = "direto" if atual["escalas"] == 0 else f"{atual['escalas']} escala(s)" if atual["escalas"] else ""
+    detalhes = " · ".join(x for x in [atual["cia"], escalas] if x)
+    texto = (
+        "📉 <b>PREÇO EM QUEDA</b>\n\n"
+        f"✈️ <b>{ORIGENS[origem]} → {html.escape(nome)}</b>"
+        + (f"\n{NOTA_ORIGEM[origem]}" if origem in NOTA_ORIGEM else "")
+        + f"\n💰 <b>{reais(atual['preco'])}</b> ida e volta"
+        f"\n📊 {int(queda * 100)}% abaixo da média dos últimos {DIAS_MEDIA} dias ({reais(media)})"
+        f"\n📅 {texto_datas(atual)}" + (f" · {html.escape(detalhes)}" if detalhes else "")
+    )
+    # Compara com a outra origem: ajuda o goiano a decidir se vale ir até Brasília (ou não)
+    for outra in ORIGENS:
+        if outra == origem:
+            continue
+        outro = resultados.get(rota(outra, destino))
+        if outro:
+            diferenca = outro["preco"] - atual["preco"]
+            comparacao = (f"R$ {abs(diferenca):,.0f} mais caro".replace(",", ".") if diferenca > 0
+                          else f"R$ {abs(diferenca):,.0f} mais barato".replace(",", ".") if diferenca < 0
+                          else "mesmo preço")
+            texto += f"\n🔁 Saindo de {ORIGENS[outra]} hoje: {reais(outro['preco'])} ({comparacao})"
+    if atual["link"]:
+        texto += f"\n\n🔗 <a href=\"{html.escape(atual['link'])}\">Ver voo</a>"
     return texto
 
 
@@ -318,8 +345,10 @@ def main():
 
     dados = carregar()
     primeira_vez = dados is None
-    dados = dados or {"ultima_consulta": "", "historico": {}, "alertas": {}}
+    dados = dados or {"ultima_consulta": "", "historico": {}, "alertas": {}, "versao": VERSAO}
     atualizacao = not primeira_vez and dados.get("versao", 1) < VERSAO
+    if atualizacao:
+        dados = migrar(dados)
     momento = agora()
 
     if dados["ultima_consulta"] and not atualizacao:
@@ -331,80 +360,69 @@ def main():
     historico, alertas = dados["historico"], dados["alertas"]
     resultados, falhas, avisos, sem_preco, diagnostico = {}, [], [], [], {}
 
-    for codigo, nome in DESTINOS.items():
-        diag = {}
-        try:
-            atual = consultar(codigo, token, diag)
-        except Exception as erro:
-            falhas.append(f"{codigo}: {erro}")
-            sem_preco.append(nome)
-            continue
-        finally:
-            if "mes" in diag:
-                diagnostico[codigo] = diag
-        if not atual:
-            sem_preco.append(nome)
-            continue
-        resultados[codigo] = atual
-        queda = avaliar(codigo, atual, historico, alertas, momento)
-        if queda:
-            avisos.append((codigo, nome, atual, *queda))
-        leitura = {"t": momento.isoformat(), **atual}
-        historico.setdefault(codigo, []).append(leitura)
-        historico[codigo] = historico[codigo][-MAX_LEITURAS:]
+    for origem in ORIGENS:
+        for destino, nome in DESTINOS.items():
+            chave = rota(origem, destino)
+            diag = {}
+            try:
+                atual = consultar(origem, destino, token, diag)
+            except Exception as erro:
+                falhas.append(f"{chave}: {erro}")
+                sem_preco.append(f"{origem}→{nome}")
+                continue
+            finally:
+                if "mes" in diag:
+                    diagnostico[chave] = diag
+            if not atual:
+                sem_preco.append(f"{origem}→{nome}")
+                continue
+            resultados[chave] = atual
+            queda = avaliar(chave, atual, historico, alertas, momento)
+            if queda:
+                avisos.append((origem, destino, atual, *queda))
+            leitura = {"t": momento.isoformat(), **atual}
+            historico.setdefault(chave, []).append(leitura)
+            historico[chave] = historico[chave][-MAX_LEITURAS:]
 
     dados["ultima_consulta"] = momento.isoformat()
     dados["versao"] = VERSAO
     salvar(dados)
-    fontes_usadas = {f: sum(1 for r in resultados.values() if r["fonte"] == f) for f, _, _ in BUSCAS}
-    print(f"Medidor: {len(resultados)} destinos com preço {fontes_usadas} | "
-          f"{len(avisos)} alertas | sem preço: {sem_preco} | falhas: {falhas}")
-    for codigo, diag in diagnostico.items():
-        # Diagnóstico: "bruto/ida-e-volta" que cada gaveta trouxe para destinos que precisaram de plano C/D
-        print(f"Diagnóstico {codigo}: " + " | ".join(f"{f} {v}" for f, v in diag.items()))
+    por_origem = {o: sum(1 for c in resultados if c.startswith(o + "-")) for o in ORIGENS}
+    print(f"Medidor: {len(resultados)} rotas com preço {por_origem} | {len(avisos)} alertas | "
+          f"sem preço: {sem_preco} | falhas: {falhas}")
+    for chave, diag in diagnostico.items():
+        # Diagnóstico: "bruto/ida-e-volta" que cada gaveta trouxe para rotas que precisaram das gavetas extras
+        print(f"Diagnóstico {chave}: " + " | ".join(f"{f} {v}" for f, v in diag.items()))
 
     if primeira_vez or atualizacao:
         if resultados:
-            titulo = ("🔧 <b>Medidor atualizado: plano D (Brasília) ligado!</b>" if atualizacao
+            titulo = ("🔧 <b>Medidor atualizado: Goiânia e Brasília medidas lado a lado</b>" if atualizacao
                       else "📉 <b>Medidor de preços ligado!</b>")
             telegram(
-                f"{titulo}\n"
-                f"Menores preços de ida e volta saindo de {ORIGEM_NOME} agora "
-                f"({len(resultados)} de {len(DESTINOS)} destinos):\n\n"
-                + resumo(resultados, sem_preco)
-                + "\n\n🧠 Vou checar de hora em hora e avisar quando algum cair "
-                f"<b>{int(QUEDA_MINIMA * 100)}% ou mais</b> abaixo da média."
+                f"🛠️ <b>Bastidores</b>\n{titulo}\n"
+                f"Menores preços de ida e volta agora ({len(resultados)} de "
+                f"{len(ORIGENS) * len(DESTINOS)} rotas):\n\n"
+                + quadro(resultados, sem_preco)
+                + "\n\n🧠 Confiro de hora em hora. Quedas de "
+                f"<b>{int(QUEDA_MINIMA * 100)}% ou mais</b> abaixo da média vão para a vitrine."
                 + ("" if atualizacao else " Os alertas começam depois de ~12 horas de histórico.")
             )
         else:
             telegram(
-                "⚠️ <b>Medidor de preços:</b> não consegui ler nenhum preço nesta tentativa.\n"
-                + html.escape("\n".join(falhas[:5]) or "A fonte não trouxe resultados para os destinos.")
+                "🛠️ <b>Bastidores</b>\n⚠️ <b>Medidor de preços:</b> não consegui ler nenhum preço nesta tentativa.\n"
+                + html.escape("\n".join(falhas[:5]) or "A fonte não trouxe resultados.")
             )
         return
 
-    for codigo, nome, atual, media, queda in avisos:
-        origem = atual.get("origem", ORIGEM)
-        escalas = "direto" if atual["escalas"] == 0 else f"{atual['escalas']} escala(s)" if atual["escalas"] else ""
-        detalhes = " · ".join(x for x in [atual["cia"], escalas] if x)
-        link = f"\n<a href=\"{html.escape(atual['link'])}\">Ver voo</a>" if atual["link"] else ""
-        origem_preco = FONTES.get(atual["fonte"], "")
-        nota_fonte = f"\n🔎 Origem do preço: {origem_preco}" if origem_preco and origem == ORIGEM else ""
-        nota_carro = (f"\n🚗 Sem dados saindo de GYN: preço saindo de {ORIGEM_ALT_NOME} (~2h30 de carro)"
-                      if origem != ORIGEM else "")
-        telegram(
-            f"📉 <b>PREÇO EM QUEDA</b> · {origem} → {html.escape(nome)}\n\n"
-            f"💰 <b>{reais(atual['preco'])}</b> ida e volta\n"
-            f"📊 {int(queda * 100)}% abaixo da média de {DIAS_MEDIA} dias ({reais(media)})\n"
-            f"📅 {texto_datas(atual)}" + (f" · {html.escape(detalhes)}" if detalhes else "")
-            + nota_fonte
-            + nota_carro
-            + link
-            + "\n\n⚠️ Preço de busca recente: confirme no site antes de comprar."
-        )
+    for origem, destino, atual, media, queda in avisos:
+        enviar_vitrine(alerta_vitrine(origem, destino, atual, media, queda, resultados), {
+            "tipo": "Preço em queda", "rota": rota(origem, destino), "preco": atual["preco"],
+            "media": round(media), "ida": atual["ida"], "volta": atual["volta"], "link": atual["link"],
+        })
 
     if falhas and not resultados:
-        telegram("⚠️ Medidor de preços: nenhuma consulta funcionou nesta rodada.\n" + html.escape("\n".join(falhas[:5])))
+        telegram("🛠️ <b>Bastidores</b>\n⚠️ Medidor de preços: nenhuma consulta funcionou nesta rodada.\n"
+                 + html.escape("\n".join(falhas[:5])))
 
 
 if __name__ == "__main__":

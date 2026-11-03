@@ -1,10 +1,22 @@
-# Radar Trip - Vigia de promocoes (v2 - leitor de milhas)
+# Radar Trip - Vigia de promocoes (v3.1 - vitrine x bastidores, cadeia de pontos e combos)
 # Le os blogs de promocao, filtra o que interessa e avisa no Telegram.
 #
 # Novidade v2: nos posts de passagens com milhas, abre o post completo pelo canal
 # publico do WordPress (wp-json), le a tabela de resgates, separa os trechos que
 # saem ou chegam em GYN/BSB, busca o preco em dinheiro do mesmo trecho e calcula
 # o milheiro: "vale usar milhas" ou "melhor pagar em dinheiro".
+#
+# Novidade v3: alertas fortes (milhas GYN/BSB, promoções GYN/BSB, transferência >= 80%,
+# relâmpago) vão para a VITRINE (canal do Telegram) com código RT-xxxx; o resto vai
+# para os BASTIDORES (chat do dono). O canal é descoberto sozinho quando o robô vira
+# administrador dele. Sem canal, a vitrine chega ao dono como "prévia".
+#
+# Novidade v3.1: entende a cadeia de pontos (banco/cartão -> Livelo/Esfera -> companhia),
+# com corte de bônus POR PROGRAMA (CORTE_BONUS), compra de pontos com desconto, clubes
+# pelo milheiro, prazo da promoção, antirrepetição de "prorrogou/últimas horas" e o
+# COMBO (compra Livelo/Esfera + transferência com bônus = milheiro final).
+# Acúmulo ("X pontos por real") fica só nos bastidores. Cada alerta sai etiquetado
+# (categoria, programas, trechos) para a futura personalização por assinante.
 
 import html
 import json
@@ -35,6 +47,7 @@ TERMOS_PROMO = [
     "passage", "milha", "pontos", "bônus", "bonus", "transferên", "transferen",
     "milheiro", "cpm", "smiles", "latam pass", "azul fidelidade", "tudoazul",
     "livelo", "esfera", "tarifa", "voos a partir", "ida e volta",
+    "a partir de r$", "por r$", "voos saindo de", "voos de goiânia", "voos de brasília",
 ]
 TERMOS_IGNORAR = [
     "visto", "amenity", "wi-fi", "internet", "como ir", "onde ficar",
@@ -107,6 +120,142 @@ def maior_bonus(texto):
     return max([int(n) for n in nums], default=0)
 
 
+# ================= Analisador de promoções de pontos =================
+# Programas das companhias (destino final das milhas)
+PROGRAMAS_AEREOS = {
+    "Smiles": ["smiles"],
+    "LATAM Pass": ["latam pass", "latam"],
+    "Azul Fidelidade": ["azul fidelidade", "tudoazul", "azul"],
+    "TAP Miles&Go": ["tap miles", "miles&go", "miles & go"],
+    "AAdvantage": ["aadvantage"],
+}
+# Programas de pontos e bancos (origem dos pontos)
+PROGRAMAS_PONTOS = {
+    "Livelo": ["livelo"],
+    "Esfera": ["esfera"],
+    "C6 Átomos": ["átomos", "atomos", "c6"],
+    "Itaú": ["itaú", "itau", "iupp"],
+    "Inter Loop": ["inter loop", "loop"],
+    "BTG": ["btg"],
+    "XP": ["xp investimentos", "cartão xp", "xp "],
+    "Bradesco": ["bradesco"],
+    "Santander": ["santander"],
+    "Banco do Brasil": ["banco do brasil"],
+    "Caixa": ["caixa"],
+    "Nubank": ["nubank", "ultravioleta"],
+    "Sicoob": ["sicoob"],
+    "Sicredi": ["sicredi"],
+}
+CENTRAIS_DE_PONTOS = {"Livelo", "Esfera"}
+
+# Bônus mínimo de transferência para ir à VITRINE, por programa de DESTINO.
+# Base: faixas reais de 2025-2026 (LATAM 20-40%, Smiles 70-100%, Azul até 115%).
+CORTE_BONUS = {
+    "LATAM Pass": 30,
+    "Smiles": 80,
+    "Azul Fidelidade": 90,
+    "TAP Miles&Go": 50,
+    "AAdvantage": 40,
+    "Livelo": 30,      # banco/cartão -> Livelo
+    "Esfera": 30,      # banco/cartão -> Esfera
+}
+COMPRA_DESCONTO_MIN = 55     # compra de pontos Livelo/Esfera: desconto mínimo para a vitrine
+COMPRA_MILHEIRO_MAX = 30     # ...ou milheiro informado de até R$ 30
+JANELA_REPETICAO_DIAS = 10   # mesma promoção não volta à vitrine dentro desse prazo
+VALIDADE_SEM_PRAZO_DIAS = 3  # promoção sem prazo informado conta como ativa por 3 dias (para combos)
+
+TERMOS_REPOSTAGEM = ["prorrog", "últimas horas", "ultimas horas", "acaba hoje", "último dia", "ultimo dia",
+                     "ainda dá tempo", "ainda da tempo", "segue valendo", "voltou", "só hoje", "so hoje",
+                     "apenas hoje", "corra", "termina hoje", "reta final"]
+TERMOS_ACUMULO = [r"(?:pontos|milhas|pts)\s*(?:por|a cada)\s*(?:real|r\$|d[óo]lar)",
+                  r"acumul", r"cashback", r"pontos em compras", r"lojas parceiras", r"shopping"]
+
+
+def tem_termo(texto, termos):
+    return any(re.search(r"(?<![\w])" + re.escape(t.strip()) + r"(?![\w])", texto) for t in termos)
+
+
+def programas_citados(texto, tabela):
+    achados = []
+    for nome, termos in tabela.items():
+        if tem_termo(texto, termos):
+            achados.append(nome)
+    return achados
+
+
+def maior_desconto(texto):
+    nums = re.findall(r"(\d{2})\s*%\s*(?:de\s*)?(?:desconto|off)", texto)
+    nums += re.findall(r"desconto\s*(?:de\s*)?(?:até\s*)?(\d{2})\s*%", texto)
+    return max([int(n) for n in nums], default=0)
+
+
+def milheiro_citado(texto):
+    m = re.search(r"milheiro.{0,30}?r\$\s*(\d{1,3}(?:,\d{1,2})?)", texto)
+    if not m:
+        return None
+    return float(m.group(1).replace(",", "."))
+
+
+def prazo_da_promo(texto, hoje=None):
+    hoje = hoje or date.today()
+    if re.search(r"acaba hoje|último dia|ultimo dia|últimas horas|ultimas horas|só hoje|so hoje|apenas hoje|termina hoje", texto):
+        return hoje
+    if re.search(r"até amanhã|ate amanha", texto):
+        return date.fromordinal(hoje.toordinal() + 1)
+    m = re.search(r"até\s*(?:o\s*dia\s*)?(\d{1,2})/(\d{1,2})", texto)
+    if m:
+        return proxima_data(int(m.group(1)), int(m.group(2)), hoje)
+    m = re.search(r"até\s*(?:o\s*dia\s*)?(\d{1,2})\s*de\s*(" + "|".join(MESES) + r")", texto)
+    if m:
+        return proxima_data(int(m.group(1)), MESES[m.group(2)], hoje)
+    return None
+
+
+def analisar_pontos(item, texto):
+    """Etiqueta o post: categoria, programas de origem e destino, bônus, desconto, milheiro e prazo."""
+    aereos = programas_citados(texto, PROGRAMAS_AEREOS)
+    pontos = programas_citados(texto, PROGRAMAS_PONTOS)
+    bonus = maior_bonus(texto)
+    desconto = maior_desconto(texto)
+    transf = bool(re.search(r"transf|convers|converta|envie pontos|envie seus pontos", texto))
+    # "Esfera oferece 30% de bônus para o LATAM Pass": bônus + central/banco + companhia também é transferência
+    transf = transf or bool(bonus and pontos and (aereos or any(p in CENTRAIS_DE_PONTOS for p in pontos))
+                            and len(set(pontos + aereos)) >= 2)
+    compra = bool(re.search(r"compra de (?:pontos|milhas)|compre (?:pontos|milhas)|comprar (?:pontos|milhas)", texto))
+    clube = "clube" in texto
+    acumulo = any(re.search(t, texto) for t in TERMOS_ACUMULO) and not transf and not compra
+
+    if transf and bonus:
+        categoria = "transferencia"
+    elif compra:
+        categoria = "compra"
+    elif clube:
+        categoria = "clube"
+    elif acumulo:
+        categoria = "acumulo"
+    else:
+        categoria = ""
+
+    # Na transferência, destino é a companhia; sem companhia citada, é a central (banco -> Livelo/Esfera)
+    if categoria == "transferencia":
+        destinos = aereos or [p for p in pontos if p in CENTRAIS_DE_PONTOS]
+        origens = [p for p in pontos if p not in destinos]
+    else:
+        destinos, origens = aereos, pontos
+
+    item["categoria"] = categoria
+    item["programas_origem"] = origens
+    item["programas_destino"] = destinos
+    item["bonus"] = bonus
+    item["desconto"] = desconto
+    item["milheiro_citado"] = milheiro_citado(texto)
+    prazo = prazo_da_promo(texto)
+    item["prazo"] = prazo.isoformat() if prazo else ""
+    item["repostagem"] = tem_termo(texto, TERMOS_REPOSTAGEM)
+    item["assinatura"] = "|".join([categoria, ",".join(sorted(origens)), ",".join(sorted(destinos)),
+                                   str(bonus or desconto)]) if categoria else ""
+
+
 def classificar(item):
     texto = (item["titulo"] + " " + item["resumo"]).lower()
     titulo = item["titulo"].lower()
@@ -116,29 +265,39 @@ def classificar(item):
     if not any(t in texto for t in TERMOS_PROMO):
         return None
 
-    bonus = maior_bonus(texto)
-    if "transfer" in texto and bonus:
+    analisar_pontos(item, texto)
+    categoria = item["categoria"]
+    if categoria == "transferencia":
         tipo = "Transferência bonificada"
-    elif "clube" in texto or "compra de pontos" in texto or "compre pontos" in texto or "compra de milhas" in texto:
+    elif categoria in ("compra", "clube"):
         tipo = "Clube / compra de pontos"
+    elif categoria == "acumulo":
+        tipo = "Acúmulo de pontos"
     elif "milhas" in texto or "pontos" in texto:
         tipo = "Passagem com milhas"
     else:
         tipo = "Passagem em dinheiro"
 
     motivos = []
-    if any(t in texto for t in TERMOS_GYN):
+    if any(t in texto for t in TERMOS_GYN) and tipo in ("Passagem em dinheiro", "Passagem com milhas"):
         motivos.append("sai de GYN/BSB")
-    if bonus >= 80:
-        motivos.append(f"bônus de {bonus}%")
+    if categoria == "transferencia" and bonus_forte(item):
+        motivos.append(f"bônus de {item['bonus']}%")
     if any(t in texto for t in TERMOS_URGENTE):
         motivos.append("promoção relâmpago")
 
     item["tipo"] = tipo
-    item["bonus"] = bonus
     item["prioridade"] = "alta" if motivos else "normal"
     item["motivos"] = motivos
     return item
+
+
+def bonus_forte(item):
+    """Bônus atinge o corte de pelo menos um programa de destino citado."""
+    destinos = item.get("programas_destino") or []
+    cortes = [CORTE_BONUS[d] for d in destinos if d in CORTE_BONUS]
+    corte = min(cortes) if cortes else 80
+    return item.get("bonus", 0) >= corte
 
 
 # ================= Leitor de milhas =================
@@ -337,8 +496,8 @@ def preco_dinheiro(origem, destino, quando, token, precos_medidor):
     # Último recurso: metade do ida e volta que o medidor de preços já guardou
     if origem in AEROPORTOS_CASA:
         cidade = CIDADE_DO_AEROPORTO.get(destino, destino)
-        ultimo = (precos_medidor.get(cidade) or [{}])[-1]
-        if ultimo.get("preco") and ultimo.get("origem", "GYN") == origem:
+        ultimo = (precos_medidor.get(f"{origem}-{cidade}") or [{}])[-1]
+        if ultimo.get("preco"):
             return int(ultimo["preco"] / 2), "estimativa: metade do ida e volta"
     return None, ""
 
@@ -409,9 +568,10 @@ def salvar(caminho, dados):
         json.dump(dados, f, ensure_ascii=False, indent=1)
 
 
-def telegram(texto):
+def telegram(texto, chat=None):
+    """Envia para o chat de BASTIDORES (padrão) ou para o chat informado (ex.: canal vitrine)."""
     token = os.environ.get("TELEGRAM_TOKEN")
-    chat = os.environ.get("TELEGRAM_CHAT_ID")
+    chat = chat or os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat:
         print("Sem TELEGRAM_TOKEN/TELEGRAM_CHAT_ID; mensagem não enviada.")
         print(texto)
@@ -425,6 +585,72 @@ def telegram(texto):
         data=corpo, headers={"Content-Type": "application/json"},
     )
     urllib.request.urlopen(req, timeout=25).read()
+
+
+# ================= Vitrine (canal) x Bastidores (chat do dono) =================
+
+ARQ_CANAL = os.path.join(PASTA, "canal.json")
+ARQ_CODIGOS = os.path.join(PASTA, "codigos.json")
+MAX_CODIGOS = 5000
+RODAPE_VITRINE = ("<i>Preços e disponibilidade mudam a todo momento. "
+                  "Confira no site da companhia antes de comprar.</i>")
+
+
+def descobrir_canal():
+    """Procura o canal em que o robô foi colocado como administrador (sem ninguém copiar código)."""
+    token = os.environ.get("TELEGRAM_TOKEN")
+    if not token:
+        return None
+    filtro = urllib.parse.quote(json.dumps(["my_chat_member", "channel_post"]))
+    url = f"https://api.telegram.org/bot{token}/getUpdates?allowed_updates={filtro}"
+    try:
+        with urllib.request.urlopen(url, timeout=25) as r:
+            resp = json.loads(r.read().decode("utf-8"))
+    except Exception as erro:
+        print(f"Vitrine: não consegui procurar o canal: {erro}")
+        return None
+    achado = None
+    for upd in resp.get("result") or []:
+        membro = upd.get("my_chat_member")
+        if membro and (membro.get("chat") or {}).get("type") == "channel":
+            status = (membro.get("new_chat_member") or {}).get("status")
+            achado = membro["chat"] if status == "administrator" else None
+        post = upd.get("channel_post")
+        if post and (post.get("chat") or {}).get("type") == "channel":
+            achado = post["chat"]
+    if not achado:
+        return None
+    canal = {"id": achado["id"], "titulo": achado.get("title", "")}
+    salvar(ARQ_CANAL, canal)
+    telegram(f"📣 <b>Canal vitrine conectado:</b> {html.escape(canal['titulo'])}\n"
+             "A partir de agora, os alertas fortes vão para lá. Aqui ficam só os bastidores.")
+    return canal
+
+
+def canal_vitrine():
+    canal = carregar(ARQ_CANAL, None)
+    if not canal:
+        canal = descobrir_canal()
+    return (canal or {}).get("id")
+
+
+def enviar_vitrine(texto, registro):
+    """Manda um alerta forte para a VITRINE com código de rastreio RT-xxxx.
+    Sem canal criado ainda, manda ao chat do dono como prévia."""
+    codigos = carregar(ARQ_CODIGOS, {"ultimo": 0, "alertas": []})
+    codigos["ultimo"] += 1
+    codigo = f"RT-{codigos['ultimo']:04d}"
+    final = f"{texto}\n\n🏷️ <b>{codigo}</b> · Radar Trip\n{RODAPE_VITRINE}"
+    canal = canal_vitrine()
+    if canal:
+        telegram(final, canal)
+    else:
+        telegram("👁️ <i>Prévia da vitrine (canal ainda não criado)</i>\n\n" + final)
+    codigos["alertas"].append({"codigo": codigo, "enviado_em": datetime.now(timezone.utc).isoformat(),
+                               "canal": bool(canal), **registro})
+    codigos["alertas"] = codigos["alertas"][-MAX_CODIGOS:]
+    salvar(ARQ_CODIGOS, codigos)
+    return codigo
 
 
 EMOJI_TIPO = {
@@ -455,7 +681,9 @@ def linha_resgate(t):
     e = html.escape
     quando = data_curta(t["data"]) or e(t["datas_texto"][:20])
     clube = f" ({milhar(t['milhas_clube'])} no clube)" if t.get("milhas_clube") else ""
-    linha = (f"• <b>{e(t['origem'])} → {e(t['destino'])}</b> · {quando} · "
+    ori = f"{t['origem_nome']} ({t['origem']})" if t.get("origem_nome") else t["origem"]
+    des = f"{t['destino_nome']} ({t['destino']})" if t.get("destino_nome") else t["destino"]
+    linha = (f"• <b>{e(ori)} → {e(des)}</b> · {quando} · "
              f"<b>{milhar(t['milhas'])}</b> milhas{clube}")
     if t.get("milheiro"):
         estimativa = " (estimado)" if t["preco_origem"].startswith("estimativa") else ""
@@ -484,7 +712,193 @@ def formatar(item):
         texto += ("\n✈️ <b>Trechos de/para GYN/BSB:</b>\n"
                   + "\n".join(linha_resgate(t) for t in item["resgates"])
                   + "\n<i>Milheiro sem contar taxas. Confira no site antes de emitir.</i>\n\n")
+    if item.get("fora_vitrine"):
+        texto += f"<i>Fora da vitrine: {e(item['fora_vitrine'])}</i>\n"
     return texto + f"<a href=\"{e(item['link'])}\">Abrir promoção</a>"
+
+
+ARQ_PROMOS = os.path.join(PASTA, "promos.json")
+
+
+def prazo_texto(iso):
+    if not iso:
+        return ""
+    d = date.fromisoformat(iso)
+    if d == date.today():
+        return "⏰ <b>Termina hoje</b>"
+    return f"⏰ Até {d.strftime('%d/%m')}"
+
+
+def custo_ref(programas):
+    valores = [CUSTO_MILHEIRO[p] for p in programas if p in CUSTO_MILHEIRO]
+    return max(valores) if valores else None
+
+
+def decidir_vitrine(item, promos, hoje=None):
+    """Devolve (vai_para_vitrine, motivo). Só o que é forte e relevante vai para a vitrine."""
+    hoje = hoje or date.today()
+    categoria = item.get("categoria", "")
+    vai, motivo = False, ""
+    if categoria == "acumulo":
+        motivo = "acúmulo de pontos (fica nos bastidores)"
+    elif item.get("resgates"):
+        vai = True
+    elif "promoção relâmpago" in item.get("motivos", []):
+        vai = True
+    elif "sai de GYN/BSB" in item.get("motivos", []):
+        vai = True
+    elif categoria == "transferencia":
+        vai = bonus_forte(item)
+        motivo = "" if vai else "bônus abaixo do corte do programa"
+    elif categoria == "compra":
+        centrais = [p for p in item.get("programas_origem", []) if p in CENTRAIS_DE_PONTOS]
+        milheiro = item.get("milheiro_citado")
+        if centrais:
+            vai = item.get("desconto", 0) >= COMPRA_DESCONTO_MIN or (milheiro is not None and milheiro <= COMPRA_MILHEIRO_MAX)
+        else:
+            ref = custo_ref(item.get("programas_destino", []))
+            vai = milheiro is not None and ref is not None and milheiro <= ref
+        motivo = "" if vai else "compra sem desconto/milheiro forte"
+    elif categoria == "clube":
+        ref = custo_ref(item.get("programas_destino", []))
+        milheiro = item.get("milheiro_citado")
+        vai = milheiro is not None and ref is not None and milheiro <= ref
+        motivo = "" if vai else "clube sem milheiro informado abaixo da referência"
+    else:
+        motivo = "sem critério de vitrine"
+
+    assinatura = item.get("assinatura")
+    if vai and assinatura:
+        ultimo = promos["vitrine"].get(assinatura)
+        if ultimo and (hoje - date.fromisoformat(ultimo[:10])).days < JANELA_REPETICAO_DIAS:
+            return False, "repetição de promoção já enviada"
+    return vai, motivo
+
+
+def registrar_promo(item, promos, hoje=None):
+    """Guarda transferências e compras ativas (com prazo) para montar combos."""
+    hoje = hoje or date.today()
+    if item.get("categoria") not in ("transferencia", "compra") or not item.get("assinatura"):
+        return
+    promos["ativas"] = [p for p in promos["ativas"] if p["assinatura"] != item["assinatura"]]
+    promos["ativas"].append({
+        "assinatura": item["assinatura"], "categoria": item["categoria"],
+        "origens": item.get("programas_origem", []), "destinos": item.get("programas_destino", []),
+        "bonus": item.get("bonus", 0), "desconto": item.get("desconto", 0),
+        "milheiro": item.get("milheiro_citado"), "prazo": item.get("prazo", ""),
+        "visto_em": hoje.isoformat(), "titulo": item["titulo"], "link": item["link"],
+    })
+
+
+def limpar_promos(promos, hoje=None):
+    hoje = hoje or date.today()
+    vivas = []
+    for p in promos["ativas"]:
+        if p["prazo"]:
+            if date.fromisoformat(p["prazo"]) >= hoje:
+                vivas.append(p)
+        elif (hoje - date.fromisoformat(p["visto_em"])).days <= VALIDADE_SEM_PRAZO_DIAS:
+            vivas.append(p)
+    promos["ativas"] = vivas
+    limite = hoje.toordinal() - 60
+    promos["vitrine"] = {k: v for k, v in promos["vitrine"].items() if date.fromisoformat(v[:10]).toordinal() >= limite}
+    promos["combos"] = {k: v for k, v in promos["combos"].items() if date.fromisoformat(v[:10]).toordinal() >= limite}
+
+
+def achar_combos(promos):
+    """Compra de pontos Livelo/Esfera + transferência dessa central para uma companhia = milheiro final."""
+    combos = []
+    compras = [p for p in promos["ativas"] if p["categoria"] == "compra" and p["milheiro"]
+               and any(o in CENTRAIS_DE_PONTOS for o in p["origens"])]
+    transfs = [p for p in promos["ativas"] if p["categoria"] == "transferencia" and p["bonus"]]
+    for c in compras:
+        central = next(o for o in c["origens"] if o in CENTRAIS_DE_PONTOS)
+        for t in transfs:
+            if central not in t["origens"]:
+                continue
+            for destino in t["destinos"]:
+                ref = CUSTO_MILHEIRO.get(destino)
+                if not ref:
+                    continue
+                final = round(c["milheiro"] / (1 + t["bonus"] / 100), 2)
+                chave = f"{c['assinatura']}>>{t['assinatura']}>>{destino}"
+                if final <= ref and chave not in promos["combos"]:
+                    prazos = [p for p in (c["prazo"], t["prazo"]) if p]
+                    combos.append({"chave": chave, "central": central, "destino": destino, "compra": c,
+                                   "transf": t, "final": final, "ref": ref,
+                                   "prazo": min(prazos) if prazos else ""})
+    return combos
+
+
+def formatar_combo(combo):
+    e = html.escape
+    c, t = combo["compra"], combo["transf"]
+    linhas = [
+        "💎 <b>COMBO DO MOMENTO</b>",
+        "",
+        f"🛒 Compre <b>{e(combo['central'])}</b>"
+        + (f" com {c['desconto']}% OFF" if c["desconto"] else "")
+        + f" → milheiro de {reais(c['milheiro'])}" + (f" (até {date.fromisoformat(c['prazo']).strftime('%d/%m')})" if c["prazo"] else ""),
+        f"🔄 Transfira para a <b>{e(combo['destino'])}</b> com {t['bonus']}% de bônus"
+        + (f" (até {date.fromisoformat(t['prazo']).strftime('%d/%m')})" if t["prazo"] else ""),
+        f"✈️ <b>Milheiro final: {reais(combo['final'])}</b> — abaixo da referência de {reais(combo['ref'])} ✅",
+    ]
+    if combo["prazo"]:
+        linhas.append(prazo_texto(combo["prazo"]).replace("Até", "Faça até"))
+    linhas.append(f"<i>Conta: {reais(c['milheiro'])} ÷ (1 + {t['bonus']}%) = {reais(combo['final'])}</i>")
+    linhas.append("")
+    linhas.append(f"🔗 <a href=\"{e(c['link'])}\">Promoção de compra</a> · "
+                  f"<a href=\"{e(t['link'])}\">Promoção de transferência</a>")
+    return "\n".join(linhas)
+
+
+def formatar_vitrine(item):
+    e = html.escape
+    categoria = item.get("categoria", "")
+    origens = " + ".join(item.get("programas_origem") or [])
+    destinos = " / ".join(item.get("programas_destino") or [])
+    detalhe = []
+    if item.get("resgates"):
+        cab = "🎯 <b>MILHAS SAINDO DE GOIÂNIA / BRASÍLIA</b>"
+    elif "promoção relâmpago" in item.get("motivos", []):
+        cab = "⚡ <b>PROMOÇÃO RELÂMPAGO</b>"
+    elif categoria == "transferencia":
+        cab = "🔄 <b>TRANSFERÊNCIA BONIFICADA</b>"
+        detalhe.append(f"<b>{e(origens or 'Pontos')} → {e(destinos or 'programa')} · {item['bonus']}% de bônus</b>")
+        if item.get("milheiro_citado"):
+            detalhe.append(f"💡 Milheiro gerado: a partir de {reais(item['milheiro_citado'])}")
+    elif categoria == "compra":
+        cab = "🛒 <b>COMPRA DE PONTOS COM DESCONTO</b>"
+        nome = origens or destinos or "Pontos"
+        detalhe.append(f"<b>{e(nome)}</b>" + (f" · <b>{item['desconto']}% OFF</b>" if item.get("desconto") else ""))
+        if item.get("milheiro_citado"):
+            detalhe.append(f"💡 Milheiro a partir de {reais(item['milheiro_citado'])}")
+    elif categoria == "clube":
+        cab = "🎟️ <b>CLUBE DE MILHAS EM CONTA</b>"
+        detalhe.append(f"<b>{e(destinos or origens or 'Clube')}</b> · milheiro de {reais(item['milheiro_citado'])}")
+    elif item["tipo"] == "Passagem em dinheiro":
+        cab = "💵 <b>PASSAGEM EM PROMOÇÃO · GOIÂNIA / BRASÍLIA</b>"
+    else:
+        cab = "🎯 <b>PASSAGEM COM MILHAS · GOIÂNIA / BRASÍLIA</b>"
+    if item.get("prazo"):
+        detalhe.append(prazo_texto(item["prazo"]))
+    texto = cab + "\n"
+    if detalhe:
+        texto += "\n" + "\n".join(detalhe) + "\n"
+    texto += f"\n{e(item['titulo'])}\n"
+    if item.get("resgates"):
+        texto += ("\n" + "\n".join(linha_resgate(t) for t in item["resgates"])
+                  + "\n<i>Milheiro = preço em dinheiro ÷ milhas × 1.000, sem contar taxas.</i>\n")
+    return texto + f"\n🔗 <a href=\"{e(item['link'])}\">Ver detalhes da promoção</a> · fonte: {e(item['fonte'])}"
+
+
+def etiquetas(item):
+    """Etiquetas para a futura personalização por assinante."""
+    return {
+        "categoria": item.get("categoria") or item["tipo"],
+        "programas": sorted(set((item.get("programas_origem") or []) + (item.get("programas_destino") or []))),
+        "trechos": [f"{t['origem']}-{t['destino']}" for t in item.get("resgates", [])],
+    }
 
 
 def enviar_em_blocos(partes, cabecalho):
@@ -509,6 +923,7 @@ def main():
     vistos = carregar(ARQ_VISTOS, [])
     alertas = carregar(ARQ_ALERTAS, [])
     registro = carregar(ARQ_MILHAS, {"posts": [], "resgates": []})
+    promos = carregar(ARQ_PROMOS, {"ativas": [], "vitrine": {}, "combos": {}})
     conjunto = set(vistos)
     token = os.environ.get("TRAVELPAYOUTS_TOKEN")
     precos_medidor = precos_do_medidor()
@@ -547,14 +962,15 @@ def main():
     processar_milhas(novos + reprocessados, token, precos_medidor, registro)
 
     novos.sort(key=lambda i: (i["prioridade"] != "alta", i["data"]), reverse=False)
-    alertas = (novos + alertas)[:MAX_ALERTAS]
     salvar(ARQ_VISTOS, vistos[-MAX_VISTOS:])
-    salvar(ARQ_ALERTAS, alertas)
     salvar(ARQ_MILHAS, registro)
 
     print(f"Lidos: {total_lidos} | Novos relevantes: {len(novos)} | Falhas: {falhas}")
 
+    canal_vitrine()  # conecta o canal assim que o robô virar administrador dele
+
     if primeira_vez:
+        salvar(ARQ_ALERTAS, (novos + alertas)[:MAX_ALERTAS])
         telegram(
             "✅ <b>Radar Trip ligado!</b>\n\n"
             f"👀 Vigiando {len(FONTES)} fontes a cada 15 minutos.\n"
@@ -572,9 +988,38 @@ def main():
                "A partir de agora, todo post novo de milhas vem com o milheiro calculado.")
         enviar_em_blocos([formatar(a) for a in com_casa], cab)
 
-    if novos:
-        cab = f"✈️ <b>Radar Trip</b> · {len(novos)} novidade(s)"
-        enviar_em_blocos([formatar(i) for i in novos], cab)
+    hoje = date.today()
+    limpar_promos(promos, hoje)
+    vitrine, bastidores = [], []
+    for item in novos:
+        vai, motivo = decidir_vitrine(item, promos, hoje)
+        registrar_promo(item, promos, hoje)
+        if vai:
+            item["codigo"] = enviar_vitrine(formatar_vitrine(item), {
+                "tipo": item["tipo"], "titulo": item["titulo"], "link": item["link"], "fonte": item["fonte"],
+                "etiquetas": etiquetas(item),
+            })
+            if item.get("assinatura"):
+                promos["vitrine"][item["assinatura"]] = datetime.now(timezone.utc).isoformat()
+            vitrine.append(item)
+        else:
+            item["fora_vitrine"] = motivo
+            bastidores.append(item)
+    for combo in achar_combos(promos):
+        codigo = enviar_vitrine(formatar_combo(combo), {
+            "tipo": "Combo", "titulo": f"{combo['central']} → {combo['destino']}", "milheiro_final": combo["final"],
+            "etiquetas": {"categoria": "combo", "programas": [combo["central"], combo["destino"]], "trechos": []},
+        })
+        promos["combos"][combo["chave"]] = datetime.now(timezone.utc).isoformat()
+        vitrine.append({"codigo": codigo})
+    salvar(ARQ_PROMOS, promos)
+    salvar(ARQ_ALERTAS, (novos + alertas)[:MAX_ALERTAS])
+
+    if bastidores or vitrine:
+        cab = f"🛠️ <b>Bastidores</b> · {len(bastidores)} novidade(s) fora da vitrine"
+        if vitrine:
+            cab += f"\n📣 {len(vitrine)} alerta(s) enviados à vitrine: " + ", ".join(i["codigo"] for i in vitrine)
+        enviar_em_blocos([formatar(i) for i in bastidores], cab)
 
     if falhas and len(falhas) == len(FONTES):
         telegram("⚠️ Radar Trip: não consegui ler nenhuma fonte nesta rodada.\n" + html.escape("\n".join(falhas)))
