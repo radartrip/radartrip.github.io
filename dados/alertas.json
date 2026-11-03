@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579237",
+  "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
+  "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Até sexta-feira (6), o programa está oferecendo até 56% de desconto na compra de pontos para assinantes do Clube. A campanha conta com o parcelamento em até 12x sem juros para compras acima de R$ 240,00 e também oferta 3% de desconto no pagamento feito via Pix. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compra de pontos"
+  ],
+  "data": "2026-11-03T18:17:59+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 56,
+  "milheiro_citado": 29.87,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "compra|Livelo||56|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T19:00:42.548147+00:00",
+  "codigo": "RT-0010"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=578535",
+  "titulo": "5 dicas de ouro para aproveitar ao máximo as ofertas da Pink Friday da Livelo",
+  "link": "https://passageirodeprimeira.com/pink-friday-livelo-5-dicas-ofertas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Pink Friday da Livelo chegou com ofertas para juntar mais pontos e fazer bons resgates. Confira 5 dicas para aproveitar as promoções ao longo de novembro.",
+  "categorias": [
+   "Notícias",
+   "Publicidade"
+  ],
+  "data": "2026-11-03T18:50:40+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T19:00:42.547648+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148017",
   "titulo": "Alerta PPV! Sua próxima viagem internacional a partir de 20 mil milhas LATAM Pass",
   "link": "https://pontospravoar.com/alerta-ppv-proxima-viagem-internacional-20-mil-milhas-latam-pass/",

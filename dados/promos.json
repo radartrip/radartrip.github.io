@@ -63,16 +63,34 @@
    "visto_em": "2026-11-03",
    "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
    "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/"
+  },
+  {
+   "assinatura": "compra|Livelo||56|",
+   "categoria": "compra",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 56,
+   "milheiro": 29.87,
+   "prazo": "",
+   "visto_em": "2026-11-03",
+   "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/"
   }
  ],
  "vitrine": {
   "transferencia|Livelo|Azul Fidelidade|130|": "2026-11-03T17:09:31.008585+00:00",
   "transferencia||LATAM Pass|25|": "2026-11-03T17:09:31.573196+00:00",
   "clube|Livelo|||": "2026-11-03T17:09:35.925370+00:00",
-  "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00"
+  "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00",
+  "compra|Livelo||56|": "2026-11-03T19:00:44.072118+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
-  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T17:09:38.053579+00:00"
+  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T17:09:38.053579+00:00",
+  "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T19:00:44.586426+00:00",
+  "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T19:00:45.109209+00:00"
  }
 }

@@ -1,5 +1,5 @@
 {
- "ultimo": 9,
+ "ultimo": 12,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -150,6 +150,54 @@
    "tipo": "Combo",
    "titulo": "Livelo → Azul Fidelidade",
    "milheiro_final": 12.18,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0010",
+   "enviado_em": "2026-11-03T19:00:44.071663+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "compra",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0011",
+   "enviado_em": "2026-11-03T19:00:44.585802+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 12.99,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0012",
+   "enviado_em": "2026-11-03T19:00:45.108591+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 14.94,
    "etiquetas": {
     "categoria": "combo",
     "programas": [
