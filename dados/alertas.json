@@ -1,5 +1,75 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579323",
+  "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
+  "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta de disponibilidade! A Azul está com passagens nacionais a partir de 3.250 pontos + taxas ou R$ 47,12 + taxas na modalidade pontos + dinheiro. Além disso, você pode transferir pontos da Livelo para o programa de fidelidade com até 130% de bônus até sexta-feira (6).",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-03T19:32:06+00:00",
+  "nacional": true,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 130,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 130%"
+  ],
+  "visto_em": "2026-11-03T19:57:33.593831+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148011",
+  "titulo": "Magalu oferece até 14 pontos por real no Azul Fidelidade",
+  "link": "https://pontospravoar.com/magalu-oferece-ate-14-pontos-real-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Pensando em fazer algumas compras? Então vale a pena conferir a nova promoção do Azul Fidelidade em parceria com o Magalu! Nesta campanha, os clientes podem acumular até 14 pontos por real gasto em compras online. A oferta é válida até 7 de novembro. Confira os detalhes e saiba como aproveitar! Azul Fidelidade e Magalu…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS",
+   "livelo"
+  ],
+  "data": "2026-11-03T19:00:36+00:00",
+  "pontos_por_real": 14.0,
+  "parceiro": "Magalu",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-07",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|14.0|Magalu",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T19:57:33.802051+00:00",
+  "fora_vitrine": "acúmulo Magalu: ainda aprendendo o normal (0 registro(s))"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579237",
   "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/",

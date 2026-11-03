@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 130,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-06",
-   "visto_em": "2026-11-03",
-   "titulo": "Azul Friday! Transfira pontos da Livelo e ganhe até 130% de bônus",
-   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-livelo-ganhe-ate-130-porcento-bonus/"
-  },
-  {
    "assinatura": "transferencia||LATAM Pass|25|",
    "categoria": "transferencia",
    "origens": [],
@@ -78,6 +61,23 @@
    "visto_em": "2026-11-03",
    "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
    "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 130,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-03",
+   "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
+   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/"
   }
  ],
  "vitrine": {
@@ -92,5 +92,10 @@
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T17:09:38.053579+00:00",
   "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T19:00:44.586426+00:00",
   "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T19:00:45.109209+00:00"
+ },
+ "acumulo": {
+  "Magalu>Azul Fidelidade": [
+   14.0
+  ]
  }
 }
