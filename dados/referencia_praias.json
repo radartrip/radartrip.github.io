@@ -1,0 +1,91 @@
+{
+ "origem": "GYN",
+ "pesquisa": "2026-11-03",
+ "fonte": "Google Flights, sexta -> domingo, ida e volta, 1 adulto, com taxas",
+ "destinos": {
+  "AJU": {
+   "nome": "Aracaju",
+   "normal": 1076,
+   "manha_noite": 1076,
+   "ida": "2027-03-05",
+   "volta": "2027-03-07"
+  },
+  "RIO": {
+   "nome": "Rio de Janeiro",
+   "normal": 1109,
+   "manha_noite": 1137,
+   "ida": "2027-02-19",
+   "volta": "2027-02-21"
+  },
+  "FLN": {
+   "nome": "Florianópolis",
+   "normal": 853,
+   "manha_noite": 1154,
+   "ida": "2027-02-26",
+   "volta": "2027-02-28"
+  },
+  "FOR": {
+   "nome": "Fortaleza",
+   "normal": 949,
+   "manha_noite": 1455,
+   "ida": "2027-04-23",
+   "volta": "2027-04-25"
+  },
+  "MCZ": {
+   "nome": "Maceió",
+   "normal": 1318,
+   "manha_noite": 1519,
+   "ida": "2027-01-29",
+   "volta": "2027-01-31"
+  },
+  "REC": {
+   "nome": "Recife",
+   "normal": 1453,
+   "manha_noite": 1587,
+   "ida": "2027-01-15",
+   "volta": "2027-01-17"
+  },
+  "NVT": {
+   "nome": "Navegantes (Balneário Camboriú)",
+   "normal": 1081,
+   "manha_noite": 1598,
+   "ida": "2027-02-19",
+   "volta": "2027-02-21"
+  },
+  "BPS": {
+   "nome": "Porto Seguro",
+   "normal": 1443,
+   "manha_noite": 1672,
+   "ida": "2027-02-19",
+   "volta": "2027-02-21"
+  },
+  "JPA": {
+   "nome": "João Pessoa",
+   "normal": 1331,
+   "manha_noite": 1903,
+   "ida": "2027-03-12",
+   "volta": "2027-03-14"
+  },
+  "NAT": {
+   "nome": "Natal",
+   "normal": 1496,
+   "manha_noite": 2382,
+   "ida": "2027-02-26",
+   "volta": "2027-02-28"
+  },
+  "SSA": {
+   "nome": "Salvador",
+   "normal": 1950,
+   "manha_noite": null,
+   "ida": "2027-02-19",
+   "volta": "2027-02-21"
+  },
+  "IOS": {
+   "nome": "Ilhéus",
+   "normal": 799,
+   "manha_noite": null,
+   "ida": "2027-09-10",
+   "volta": "2027-09-12"
+  }
+ }
+}
