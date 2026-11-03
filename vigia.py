@@ -760,10 +760,18 @@ def decidir_vitrine(item, promos, hoje=None):
             vai = milheiro is not None and ref is not None and milheiro <= ref
         motivo = "" if vai else "compra sem desconto/milheiro forte"
     elif categoria == "clube":
-        ref = custo_ref(item.get("programas_destino", []))
         milheiro = item.get("milheiro_citado")
+        if any(p in CENTRAIS_DE_PONTOS for p in item.get("programas_origem", [])):
+            ref = COMPRA_MILHEIRO_MAX          # Clube Livelo/Esfera: mesma régua da compra de pontos
+        else:
+            ref = custo_ref(item.get("programas_destino", []))
         vai = milheiro is not None and ref is not None and milheiro <= ref
-        motivo = "" if vai else "clube sem milheiro informado abaixo da referência"
+        if vai:
+            motivo = ""
+        elif milheiro is None:
+            motivo = "clube sem milheiro informado"
+        else:
+            motivo = f"clube com milheiro de {reais(milheiro)}, acima da referência"
     else:
         motivo = "sem critério de vitrine"
 
@@ -778,7 +786,9 @@ def decidir_vitrine(item, promos, hoje=None):
 def registrar_promo(item, promos, hoje=None):
     """Guarda transferências e compras ativas (com prazo) para montar combos."""
     hoje = hoje or date.today()
-    if item.get("categoria") not in ("transferencia", "compra") or not item.get("assinatura"):
+    if item.get("categoria") not in ("transferencia", "compra", "clube") or not item.get("assinatura"):
+        return
+    if item["categoria"] == "clube" and not item.get("milheiro_citado"):
         return
     promos["ativas"] = [p for p in promos["ativas"] if p["assinatura"] != item["assinatura"]]
     promos["ativas"].append({
@@ -808,7 +818,7 @@ def limpar_promos(promos, hoje=None):
 def achar_combos(promos):
     """Compra de pontos Livelo/Esfera + transferência dessa central para uma companhia = milheiro final."""
     combos = []
-    compras = [p for p in promos["ativas"] if p["categoria"] == "compra" and p["milheiro"]
+    compras = [p for p in promos["ativas"] if p["categoria"] in ("compra", "clube") and p["milheiro"]
                and any(o in CENTRAIS_DE_PONTOS for o in p["origens"])]
     transfs = [p for p in promos["ativas"] if p["categoria"] == "transferencia" and p["bonus"]]
     for c in compras:
@@ -836,7 +846,7 @@ def formatar_combo(combo):
     linhas = [
         "💎 <b>COMBO DO MOMENTO</b>",
         "",
-        f"🛒 Compre <b>{e(combo['central'])}</b>"
+        (f"🎟️ Assine o <b>Clube {e(combo['central'])}</b>" if c["categoria"] == "clube" else f"🛒 Compre <b>{e(combo['central'])}</b>")
         + (f" com {c['desconto']}% OFF" if c["desconto"] else "")
         + f" → milheiro de {reais(c['milheiro'])}" + (f" (até {date.fromisoformat(c['prazo']).strftime('%d/%m')})" if c["prazo"] else ""),
         f"🔄 Transfira para a <b>{e(combo['destino'])}</b> com {t['bonus']}% de bônus"
@@ -847,7 +857,7 @@ def formatar_combo(combo):
         linhas.append(prazo_texto(combo["prazo"]).replace("Até", "Faça até"))
     linhas.append(f"<i>Conta: {reais(c['milheiro'])} ÷ (1 + {t['bonus']}%) = {reais(combo['final'])}</i>")
     linhas.append("")
-    linhas.append(f"🔗 <a href=\"{e(c['link'])}\">Promoção de compra</a> · "
+    linhas.append(f"🔗 <a href=\"{e(c['link'])}\">{'Promoção do clube' if c['categoria'] == 'clube' else 'Promoção de compra'}</a> · "
                   f"<a href=\"{e(t['link'])}\">Promoção de transferência</a>")
     return "\n".join(linhas)
 
@@ -875,7 +885,7 @@ def formatar_vitrine(item):
             detalhe.append(f"💡 Milheiro a partir de {reais(item['milheiro_citado'])}")
     elif categoria == "clube":
         cab = "🎟️ <b>CLUBE DE MILHAS EM CONTA</b>"
-        detalhe.append(f"<b>{e(destinos or origens or 'Clube')}</b> · milheiro de {reais(item['milheiro_citado'])}")
+        detalhe.append(f"<b>{e(origens or destinos or 'Clube')}</b> · milheiro a partir de {reais(item['milheiro_citado'])}")
     elif item["tipo"] == "Passagem em dinheiro":
         cab = "💵 <b>PASSAGEM EM PROMOÇÃO · GOIÂNIA / BRASÍLIA</b>"
     else:
