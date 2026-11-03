@@ -1,5 +1,76 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148077",
+  "titulo": "Alerta PPV! Explore as belezas do Nordeste a partir de 3.520 pontos Azul Fidelidade",
+  "link": "https://pontospravoar.com/alerta-ppv-explore-belezas-nordeste-3520-pontos-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal aproveitar a próxima viagem para explorar as belezas do Nordeste brasileiro? No alerta de passagens PPV de hoje, nossa equipe selecionou diversas oportunidades para conhecer destinos da região utilizando pontos Azul Fidelidade, com emissões a partir de 3.520 pontos + taxas. Confira os trechos e as datas disponíveis e comece a planejar sua…",
+  "categorias": [
+   "Azul",
+   "Azul Fidelidade",
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "azul fidelidade",
+   "NORDESTE",
+   "PUBLICIDADE",
+   "Trechos nacionais"
+  ],
+  "data": "2026-11-03T21:00:35+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T21:24:24.252631+00:00",
+  "trechos_total": 10,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579393",
+  "titulo": "LATAM prorroga pontuação turbinada do cartão LATAM Pass Itaú",
+  "link": "https://passageirodeprimeira.com/latam-prorroga-pontuacao-turbinada-do-cartao-latam-pass-itau/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A LATAM prorrogou a campanha de pontuação turbinada do cartão LATAM Pass Itaú até 30 de novembro de 2026, oferecendo até 5,25 pontos por dólar gasto.",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-03T21:00:45+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "acumulo|Itaú|LATAM Pass|0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T21:24:24.064506+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579300",
   "titulo": "Ganhe 60 mil pontos bônus na assinatura ou atualização do Clube Esfera",
   "link": "https://passageirodeprimeira.com/ganhe-60-mil-pontos-bonus-assinatura-atualizacao-clube-esfera/",
