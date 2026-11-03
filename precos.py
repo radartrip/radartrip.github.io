@@ -1,12 +1,13 @@
-# Radar Trip - Medidor de precos (Vigia 2.1)
+# Radar Trip - Medidor de precos (Vigia 2.2)
 # Consulta os menores precos de ida e volta saindo de Goiania, guarda o historico
 # e avisa no Telegram quando um preco cai bem abaixo da media.
 #
-# Plano C (v2.1): se a busca principal vier vazia, o robo tenta outras duas
+# Plano C (v2.2): se a busca principal vier vazia, o robo tenta outras duas
 # "gavetas" da mesma API, sempre ida e volta:
-#   1. prices_for_dates  -> datas exatas, buscas das ultimas 48h (principal)
-#   2. grouped_prices    -> menor preco de cada mes do ano (48h, visao ampla)
-#   3. get_latest_prices -> buscas guardadas por ate 7 dias (rede de seguranca)
+#   1. prices_for_dates sem datas      -> buscas das ultimas 48h (principal)
+#   2. prices_for_dates mes a mes      -> ida e volta explicita nos proximos 6 meses
+#   3. get_latest_prices               -> buscas guardadas por ate 7 dias (rede de seguranca)
+# O registro (log) do GitHub mostra quantas opcoes cada gaveta trouxe (diagnostico).
 
 import html
 import json
@@ -44,7 +45,8 @@ MIN_LEITURAS = 12            # só compara depois de ter histórico suficiente
 INTERVALO_MIN = 55           # consulta no máximo 1 vez por hora
 MAX_LEITURAS = 1500          # cerca de 2 meses de histórico por destino
 MARKER = "800145"            # seu ID de afiliado Travelpayouts
-VERSAO = 2                   # versão do formato dos dados (2 = plano C)
+VERSAO = 3                   # versão do formato dos dados (3 = plano C mês a mês)
+MESES_PLANO_C = 6            # quantos meses à frente o plano C procura
 
 CIAS = {"G3": "Gol", "LA": "LATAM", "JJ": "LATAM", "AD": "Azul", "AR": "Aerolíneas Argentinas",
         "TP": "TAP", "AA": "American", "UA": "United", "DL": "Delta", "CM": "Copa", "AV": "Avianca",
@@ -53,7 +55,7 @@ CIAS = {"G3": "Gol", "LA": "LATAM", "JJ": "LATAM", "AD": "Azul", "AR": "Aerolín
 # De onde veio o preço: rótulo curto para o Telegram
 FONTES = {
     "datas": "",
-    "mes": "melhor preço do mês",
+    "mes": "busca mês a mês (plano C)",
     "semana": "busca de até 7 dias atrás",
 }
 
@@ -70,7 +72,7 @@ def chamar(caminho, params, token):
     url = BASE + caminho + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={
         "X-Access-Token": token, "Accept-Encoding": "identity",
-        "User-Agent": "RadarTrip/2.1",
+        "User-Agent": "RadarTrip/2.2",
     })
     with urllib.request.urlopen(req, timeout=25) as r:
         resposta = json.loads(r.read().decode("utf-8"))
@@ -84,22 +86,48 @@ def so_ida_e_volta(opcoes):
     return [o for o in opcoes if o.get("price") and (o.get("return_at") or "")]
 
 
+def lista(dados):
+    if isinstance(dados, dict):
+        return list(dados.values())
+    return list(dados or [])
+
+
 def busca_datas(destino, token):
-    dados = chamar("/aviasales/v3/prices_for_dates", {
+    return lista(chamar("/aviasales/v3/prices_for_dates", {
         "origin": ORIGEM, "destination": destino, "currency": "brl",
         "sorting": "price", "one_way": "false", "limit": 30, "market": "br",
-    }, token)
-    return so_ida_e_volta(dados if isinstance(dados, list) else [])
+    }, token))
+
+
+def meses_a_frente(qtd, base=None):
+    base = base or agora()
+    ano, mes = base.year, base.month
+    meses = []
+    for _ in range(qtd + 1):
+        meses.append(f"{ano:04d}-{mes:02d}")
+        mes += 1
+        if mes > 12:
+            ano, mes = ano + 1, 1
+    return meses
 
 
 def busca_mes(destino, token):
-    dados = chamar("/aviasales/v3/grouped_prices", {
-        "origin": ORIGEM, "destination": destino, "currency": "brl",
-        "group_by": "month", "market": "br",
-        "min_trip_duration": 2, "max_trip_duration": 30,
-    }, token)
-    opcoes = list(dados.values()) if isinstance(dados, dict) else list(dados)
-    return so_ida_e_volta(opcoes)
+    # Ida e volta EXPLÍCITA, mês a mês: volta no mesmo mês ou no mês seguinte
+    meses = meses_a_frente(MESES_PLANO_C)
+    opcoes, erros = [], []
+    for i in range(MESES_PLANO_C):
+        for volta in (meses[i], meses[i + 1]):
+            try:
+                opcoes += lista(chamar("/aviasales/v3/prices_for_dates", {
+                    "origin": ORIGEM, "destination": destino, "currency": "brl",
+                    "departure_at": meses[i], "return_at": volta,
+                    "sorting": "price", "one_way": "false", "limit": 30, "market": "br",
+                }, token))
+            except Exception as erro:
+                erros.append(str(erro))
+    if erros and not opcoes and len(erros) == MESES_PLANO_C * 2:
+        raise RuntimeError(erros[0])
+    return opcoes
 
 
 def busca_semana(destino, token):
@@ -108,31 +136,33 @@ def busca_semana(destino, token):
         "period_type": "year", "one_way": "false", "sorting": "price",
         "market": "br", "limit": 30, "page": 1,
     }, token)
-    convertidas = []
-    for o in dados if isinstance(dados, list) else []:
-        convertidas.append({
-            "price": o.get("value"),
-            "departure_at": o.get("depart_date") or "",
-            "return_at": o.get("return_date") or "",
-            "airline": "",
-            "transfers": o.get("number_of_changes"),
-            "link": "",
-        })
-    return so_ida_e_volta(convertidas)
+    return [{
+        "price": o.get("value"),
+        "departure_at": o.get("depart_date") or "",
+        "return_at": o.get("return_date") or "",
+        "airline": "",
+        "transfers": o.get("number_of_changes"),
+        "link": "",
+    } for o in lista(dados)]
 
 
 BUSCAS = [("datas", busca_datas), ("mes", busca_mes), ("semana", busca_semana)]
 
 
-def consultar(destino, token):
-    """Tenta as 3 gavetas em ordem e devolve o menor preço da primeira que tiver dados."""
+def consultar(destino, token, diag=None):
+    """Tenta as 3 gavetas em ordem e devolve o menor preço da primeira que tiver ida e volta.
+    Em diag anota o que cada gaveta trouxe: total bruto / quantos de ida e volta (ou erro)."""
+    diag = diag if diag is not None else {}
     erros = []
     for fonte, busca in BUSCAS:
         try:
-            opcoes = busca(destino, token)
+            brutas = busca(destino, token)
         except Exception as erro:
             erros.append(f"{fonte}: {erro}")
+            diag[fonte] = "erro"
             continue
+        opcoes = so_ida_e_volta(brutas)
+        diag[fonte] = f"{len(brutas)}/{len(opcoes)}"
         if not opcoes:
             continue
         melhor = min(opcoes, key=lambda o: o["price"])
@@ -240,7 +270,7 @@ def linha_destino(nome, atual):
     return f"• <b>{html.escape(nome)}</b>: {reais(atual['preco'])} ({texto_datas(atual)}){extra}"
 
 
-LEGENDA = ("🗓️ = melhor preço do mês (plano C)\n"
+LEGENDA = ("🗓️ = busca mês a mês (plano C)\n"
            "🕘 = busca de até 7 dias atrás (plano C)")
 
 
@@ -274,15 +304,19 @@ def main():
             return
 
     historico, alertas = dados["historico"], dados["alertas"]
-    resultados, falhas, avisos, sem_preco = {}, [], [], []
+    resultados, falhas, avisos, sem_preco, diagnostico = {}, [], [], [], {}
 
     for codigo, nome in DESTINOS.items():
+        diag = {}
         try:
-            atual = consultar(codigo, token)
+            atual = consultar(codigo, token, diag)
         except Exception as erro:
             falhas.append(f"{codigo}: {erro}")
             sem_preco.append(nome)
             continue
+        finally:
+            if "mes" in diag:
+                diagnostico[codigo] = diag
         if not atual:
             sem_preco.append(nome)
             continue
@@ -300,6 +334,9 @@ def main():
     fontes_usadas = {f: sum(1 for r in resultados.values() if r["fonte"] == f) for f, _ in BUSCAS}
     print(f"Medidor: {len(resultados)} destinos com preço {fontes_usadas} | "
           f"{len(avisos)} alertas | sem preço: {sem_preco} | falhas: {falhas}")
+    for codigo, diag in diagnostico.items():
+        # Diagnóstico: "bruto/ida-e-volta" que cada gaveta trouxe para destinos que precisaram do plano C
+        print(f"Diagnóstico {codigo}: " + " | ".join(f"{f} {v}" for f, v in diag.items()))
 
     if primeira_vez or atualizacao:
         if resultados:
