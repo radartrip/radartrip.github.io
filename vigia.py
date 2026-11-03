@@ -1,4 +1,4 @@
-# Radar Trip - Vigia de promocoes (v3.3 - filtro equilibrado, acúmulo que compensa, nacionais)
+# Radar Trip - Vigia de promocoes (v3.3.1 - filtro equilibrado, acúmulo que compensa, nacionais + teste da praia)
 # Le os blogs de promocao, filtra o que interessa e avisa no Telegram.
 #
 # Novidade v2: nos posts de passagens com milhas, abre o post completo pelo canal
@@ -17,6 +17,10 @@
 # COMBO (compra Livelo/Esfera + transferência com bônus = milheiro final).
 # Acúmulo ("X pontos por real") fica só nos bastidores. Cada alerta sai etiquetado
 # (categoria, programas, trechos) para a futura personalização por assinante.
+#
+# Novidade v3.3.1: TESTE FORÇADO. Na próxima rodada, manda UMA vez ao canal o alerta de
+# demonstração "Praia no fim de semana" (marcado como TESTE, sem gastar código RT-xxxx).
+# Depois grava dados/teste_praia.json e nunca mais repete.
 
 import html
 import json
@@ -681,6 +685,71 @@ def enviar_vitrine(texto, registro):
     return codigo
 
 
+# ================= Teste forçado (v3.3.1): alerta de praia, uma única vez =================
+
+ARQ_TESTE = os.path.join(PASTA, "teste_praia.json")
+# Pesquisa no Google Flights de 03/11/2026: sexta de manhã -> domingo à noite, saindo de GYN
+TESTE_PRAIA = [
+    {"medalha": "🥇", "cidade": "Aracaju", "cod": "AJU", "ida": "2027-03-05", "volta": "2027-03-07",
+     "preco": "R$ 1.076", "cia": "Azul", "voo_ida": "04:55 → 09:40, 1 parada",
+     "voo_volta": "17:45 → 23:55, 1 parada"},
+    {"medalha": "🥈", "cidade": "Rio de Janeiro", "cod": "RIO", "ida": "2027-02-19", "volta": "2027-02-21",
+     "preco": "R$ 1.137", "cia": "LATAM", "voo_ida": "06:10 → 09:50, 1 parada",
+     "voo_volta": "17:00 → 23:55, 2 paradas"},
+    {"medalha": "🥉", "cidade": "Florianópolis", "cod": "FLN", "ida": "2027-02-26", "volta": "2027-02-28",
+     "preco": "R$ 1.154", "cia": "LATAM", "voo_ida": "04:55 → 10:30, 1 parada",
+     "voo_volta": "19:20 → 23:55, 1 parada"},
+]
+
+
+def montar_teste_praia():
+    e = html.escape
+    partes = [
+        "🧪 <b>TESTE</b> · mensagem de demonstração do Radar Trip",
+        "",
+        "🏖️ <b>PRAIA NO FIM DE SEMANA · SAINDO DE GOIÂNIA</b>",
+        "<i>Sexta de manhã → domingo à noite. Sem faltar ao trabalho.</i>",
+    ]
+    for o in TESTE_PRAIA:
+        consulta = f"Voos de GYN para {o['cod']} em {o['ida']} volta {o['volta']}"
+        link = "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=" + consulta.replace(" ", "%20")
+        partes += [
+            "",
+            f"{o['medalha']} <b>{e(o['cidade'])}</b> · {data_curta(o['ida'])} a {data_curta(o['volta'])}",
+            f"💰 <b>{o['preco']}</b> ida e volta · {e(o['cia'])}",
+            f"🛫 Sex {e(o['voo_ida'])}",
+            f"🛬 Dom {e(o['voo_volta'])}",
+            f"🔗 <a href=\"{e(link)}\">Ver no Google Flights</a>",
+        ]
+    partes += [
+        "",
+        "💡 Quer voltar sem escala no domingo? Maceió e Recife têm voo direto à noite.",
+        "📅 Melhor época: do fim de fevereiro a junho e de agosto a setembro.",
+        "<i>Preços por pessoa, com taxas, pesquisados em 03/11/2026.</i>",
+        "",
+        "🏷️ <b>RT-TESTE</b> · Radar Trip",
+        RODAPE_VITRINE,
+    ]
+    return "\n".join(partes)
+
+
+def teste_forcado():
+    """Manda o alerta de demonstração UMA vez (canal ou, sem canal, chat do dono). Nunca derruba o robô."""
+    if os.path.exists(ARQ_TESTE):
+        return
+    try:
+        texto = montar_teste_praia()
+        canal = canal_vitrine()
+        if canal:
+            telegram(texto, canal)
+        else:
+            telegram("👁️ <i>Prévia da vitrine (canal ainda não criado)</i>\n\n" + texto)
+        salvar(ARQ_TESTE, {"enviado_em": datetime.now(timezone.utc).isoformat(), "canal": bool(canal)})
+        print("Teste da praia enviado " + ("ao canal vitrine." if canal else "ao chat do dono (prévia)."))
+    except Exception as erro:
+        print(f"Teste da praia falhou: {erro}")
+
+
 EMOJI_TIPO = {
     "Transferência bonificada": "🔄",
     "Clube / compra de pontos": "🛒",
@@ -1080,6 +1149,7 @@ def main():
     print(f"Lidos: {total_lidos} | Novos relevantes: {len(novos)} | Falhas: {falhas}")
 
     canal_vitrine()  # conecta o canal assim que o robô virar administrador dele
+    teste_forcado()  # v3.3.1: alerta de demonstração da praia, uma única vez
 
     if primeira_vez:
         salvar(ARQ_ALERTAS, (novos + alertas)[:MAX_ALERTAS])
