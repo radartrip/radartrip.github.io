@@ -58,7 +58,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T14:27:00.572993+00:00"
+  "visto_em": "2026-11-03T14:27:00.572993+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645302",
@@ -403,7 +405,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801844+00:00"
+  "visto_em": "2026-11-03T13:34:47.801844+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://passageirodeprimeira.com/?p=579002",
@@ -461,7 +465,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801533+00:00"
+  "visto_em": "2026-11-03T13:34:47.801533+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://passageirodeprimeira.com/?p=578488",
@@ -497,7 +503,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801216+00:00"
+  "visto_em": "2026-11-03T13:34:47.801216+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://pontospravoar.com/?p=147933",
@@ -541,9 +549,31 @@
   "data": "2026-11-02T17:00:41+00:00",
   "tipo": "Passagem com milhas",
   "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.800703+00:00"
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-03T13:34:47.800703+00:00",
+  "trechos_total": 11,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "CGH",
+    "origem_nome": "Brasília",
+    "destino_nome": "São Paulo",
+    "milhas": 12000,
+    "milhas_clube": 11400,
+    "data": "2027-01-25",
+    "datas_texto": "25 de janeiro",
+    "cia": "",
+    "reserva": "https://www.voeazul.com.br/br/pt/home/selecao-voo?c[0].ds=BSB&c[0].as=CGH&c[0].std=01/25/2027&p[0].t=ADT&p[0].c=1&p[0].cp=false&cc=PTS&f.dl=3&f.dr=3&utm_linkcategory=everymundo&s_kwcid=buscapaga_brv_azf_ppv_conteudo_uf_aon-marca_insti_afiliado_cpc_rspnsv_lp_pontospravoar_responsivo&utm_source=ppv&utm_medium=cpc&utm_campaign=brv_azf_ppv_conteudo_uf_aon-marca_insti&utm_term=aon-marca_pontospravoar",
+    "programa": "Azul Fidelidade",
+    "preco_dinheiro": 449,
+    "preco_origem": "mesmo mês",
+    "milheiro": 37.42,
+    "veredito": "milhas"
+   }
+  ]
  },
  {
   "id": "https://passageirodeprimeira.com/?p=578316",
@@ -580,7 +610,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.800537+00:00"
+  "visto_em": "2026-11-03T13:34:47.800537+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://passageirodeprimeira.com/?p=578275",
@@ -618,7 +650,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.800289+00:00"
+  "visto_em": "2026-11-03T13:34:47.800289+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://pontospravoar.com/?p=147998",
@@ -639,9 +673,65 @@
   "data": "2026-11-03T12:00:02+00:00",
   "tipo": "Passagem com milhas",
   "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.800160+00:00"
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-03T13:34:47.800160+00:00",
+  "trechos_total": 10,
+  "resgates": [
+   {
+    "origem": "GYN",
+    "destino": "AEP",
+    "origem_nome": "Goiânia",
+    "destino_nome": "Buenos Aires",
+    "milhas": 53000,
+    "milhas_clube": 51500,
+    "data": "2027-01-08",
+    "datas_texto": "8 de janeiro",
+    "cia": "GOL",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1799420400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=GYN&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=AEP&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   },
+   {
+    "origem": "BSB",
+    "destino": "MIA",
+    "origem_nome": "Brasília",
+    "destino_nome": "Miami",
+    "milhas": 76000,
+    "milhas_clube": 72100,
+    "data": "2027-04-07",
+    "datas_texto": "7 de abril",
+    "cia": "COPA",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1807110000000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MIA&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   },
+   {
+    "origem": "BSB",
+    "destino": "MCO",
+    "origem_nome": "Brasília",
+    "destino_nome": "Orlando",
+    "milhas": 97000,
+    "milhas_clube": 92200,
+    "data": "2027-04-11",
+    "datas_texto": "11 de abril",
+    "cia": "Avianca",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1807455600000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MCO&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ]
  },
  {
   "id": "https://pontospravoar.com/?p=148012",
@@ -661,7 +751,9 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.799836+00:00"
+  "visto_em": "2026-11-03T13:34:47.799836+00:00",
+  "trechos_total": 0,
+  "resgates": []
  },
  {
   "id": "https://passageirodeprimeira.com/?p=579164",
@@ -678,6 +770,8 @@
   "bonus": 0,
   "prioridade": "normal",
   "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.719452+00:00"
+  "visto_em": "2026-11-03T13:34:47.719452+00:00",
+  "trechos_total": 0,
+  "resgates": []
  }
 ]
