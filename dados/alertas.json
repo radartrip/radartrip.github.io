@@ -1,5 +1,63 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579300",
+  "titulo": "Ganhe 60 mil pontos bônus na assinatura ou atualização do Clube Esfera",
+  "link": "https://passageirodeprimeira.com/ganhe-60-mil-pontos-bonus-assinatura-atualizacao-clube-esfera/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Esfera está oferecendo até 60.000 pontos bônus para quem realizar a assinatura ou upgrade de plano do Clube Esfera. Os bônus serão creditados em 12 parcelas mensais ao longo de 1 ano de assinatura. A campanha é válida até a sexta-feira (20).",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-03T20:00:29+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Esfera|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T20:39:20.027889+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579253",
+  "titulo": "Azul Fidelidade oferece até 14 pontos por real gasto no Magalu",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-14-pontos-por-real-gasto-no-magalu-8/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul Fidelidade está oferecendo até 14 pontos por real gasto no Magalu até sábado (7). Assinantes do Clube Azul acumulam 14 pontos por real, enquanto demais clientes ganham 8 pontos. Lembre-se de que a promoção é válida apenas para produtos selecionados e compras realizadas pelo site oficial.",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-03T20:35:19+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube||Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-03T20:39:20.026802+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579323",
   "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/",
