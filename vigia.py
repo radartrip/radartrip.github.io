@@ -1,4 +1,4 @@
-# Radar Trip - Vigia de promocoes (v3.1 - vitrine x bastidores, cadeia de pontos e combos)
+# Radar Trip - Vigia de promocoes (v3.3 - filtro equilibrado, acúmulo que compensa, nacionais)
 # Le os blogs de promocao, filtra o que interessa e avisa no Telegram.
 #
 # Novidade v2: nos posts de passagens com milhas, abre o post completo pelo canal
@@ -151,23 +151,44 @@ CENTRAIS_DE_PONTOS = {"Livelo", "Esfera"}
 # Bônus mínimo de transferência para ir à VITRINE, por programa de DESTINO.
 # Base: faixas reais de 2025-2026 (LATAM 20-40%, Smiles 70-100%, Azul até 115%).
 CORTE_BONUS = {
-    "LATAM Pass": 30,
-    "Smiles": 80,
-    "Azul Fidelidade": 90,
+    "LATAM Pass": 25,
+    "Smiles": 70,
+    "Azul Fidelidade": 80,
     "TAP Miles&Go": 50,
     "AAdvantage": 40,
-    "Livelo": 30,      # banco/cartão -> Livelo
-    "Esfera": 30,      # banco/cartão -> Esfera
+    "Livelo": 20,      # banco/cartão -> Livelo
+    "Esfera": 20,      # banco/cartão -> Esfera
 }
-COMPRA_DESCONTO_MIN = 55     # compra de pontos Livelo/Esfera: desconto mínimo para a vitrine
-COMPRA_MILHEIRO_MAX = 30     # ...ou milheiro informado de até R$ 30
+COMPRA_DESCONTO_MIN = 50     # compra de pontos Livelo/Esfera: desconto mínimo para a vitrine
+COMPRA_MILHEIRO_MAX = 32     # ...ou milheiro informado de até R$ 32
+CLUBE_TOLERANCIA = 1.20      # clube entra se o milheiro for até 20% acima da referência
+
+# Acúmulo (pontos por real em parceiros): só vai à vitrine quando compensa MUITO
+ACUMULO_MULTIPLO = 2.0       # pontuação >= 2x o "normal" já visto daquele parceiro
+ACUMULO_MIN_HISTORICO = 2    # observações anteriores necessárias para comparar
+TERMOS_ACUMULO_FORTE = [r"em dobro", r"\bdobr", r"\bdupl", r"\btripl", r"\b[23]x\b", r"\b[23] vezes mais"]
+PARCEIROS = {
+    "Mercado Livre": ["mercado livre", "meli"], "Amazon": ["amazon"], "Magalu": ["magalu", "magazine luiza"],
+    "Casas Bahia": ["casas bahia"], "Americanas": ["americanas"], "Shopee": ["shopee"], "AliExpress": ["aliexpress"],
+    "Netshoes": ["netshoes"], "Centauro": ["centauro"], "Nike": ["nike"], "Adidas": ["adidas"],
+    "Booking": ["booking"], "Hoteis.com": ["hoteis.com", "hotéis.com"], "Decolar": ["decolar"],
+    "iFood": ["ifood"], "Uber": ["uber"], "Shell": ["shell"], "Ipiranga": ["ipiranga"], "Petrobras": ["petrobras", "br mania"],
+    "Drogasil/Raia": ["drogasil", "droga raia", "raia"], "Natura": ["natura"], "O Boticário": ["boticário", "boticario"],
+    "Apple": ["apple"], "Samsung": ["samsung"], "Carrefour": ["carrefour"], "Pão de Açúcar": ["pão de açúcar", "pao de acucar"],
+    "Fast Shop": ["fast shop", "fastshop"], "Dell": ["dell"], "Renner": ["renner"], "C&A": ["c&a"], "Riachuelo": ["riachuelo"],
+    "Dafiti": ["dafiti"], "Sephora": ["sephora"], "Polishop": ["polishop"], "Leroy Merlin": ["leroy merlin"],
+    "Zattini": ["zattini"], "Kabum": ["kabum"], "Ponto": ["pontofrio", "ponto frio"], "Vivara": ["vivara"],
+}
+TERMOS_NACIONAL = [r"passagens nacionais", r"voos nacionais", r"todo o brasil", r"pelo brasil",
+                   r"azul,? gol e latam", r"gol,? azul e latam", r"latam,? gol e azul", r"mais de \d+ mil voos"]
 JANELA_REPETICAO_DIAS = 10   # mesma promoção não volta à vitrine dentro desse prazo
 VALIDADE_SEM_PRAZO_DIAS = 3  # promoção sem prazo informado conta como ativa por 3 dias (para combos)
 
 TERMOS_REPOSTAGEM = ["prorrog", "últimas horas", "ultimas horas", "acaba hoje", "último dia", "ultimo dia",
                      "ainda dá tempo", "ainda da tempo", "segue valendo", "voltou", "só hoje", "so hoje",
                      "apenas hoje", "corra", "termina hoje", "reta final"]
-TERMOS_ACUMULO = [r"(?:pontos|milhas|pts)\s*(?:por|a cada)\s*(?:real|r\$|d[óo]lar)",
+TERMOS_ACUMULO = [r"(?:pontos?|milhas?|pts)(?:\s+[a-zà-ú]+){0,2}?\s*(?:por|a cada)\s*(?:real|r\$|d[óo]lar)",
+                  r"(?:pontos|milhas|pontua\w*)\s*(?:em\s*)?dobr", r"(?:pontos|milhas)\s*(?:em\s*)?tripl",
                   r"acumul", r"cashback", r"pontos em compras", r"lojas parceiras", r"shopping"]
 
 
@@ -243,6 +264,12 @@ def analisar_pontos(item, texto):
     else:
         destinos, origens = aereos, pontos
 
+    if categoria == "acumulo":
+        nums = re.findall(r"(\d{1,2}(?:,\d)?)\s*(?:pontos?|milhas?|pts)(?:\s+[a-zà-ú]+){0,2}?\s*(?:por|a cada)\s*(?:real|r\$)", texto)
+        item["pontos_por_real"] = max([float(n.replace(",", ".")) for n in nums], default=0)
+        item["parceiro"] = next((nome for nome, termos in PARCEIROS.items() if tem_termo(texto, termos)), "")
+        item["acumulo_forte_texto"] = any(re.search(t, texto) for t in TERMOS_ACUMULO_FORTE)
+    item["nacional"] = any(re.search(t, texto) for t in TERMOS_NACIONAL)
     item["categoria"] = categoria
     item["programas_origem"] = origens
     item["programas_destino"] = destinos
@@ -253,7 +280,8 @@ def analisar_pontos(item, texto):
     item["prazo"] = prazo.isoformat() if prazo else ""
     item["repostagem"] = tem_termo(texto, TERMOS_REPOSTAGEM)
     item["assinatura"] = "|".join([categoria, ",".join(sorted(origens)), ",".join(sorted(destinos)),
-                                   str(bonus or desconto)]) if categoria else ""
+                                   str(bonus or desconto or item.get("pontos_por_real", "")),
+                                   item.get("parceiro", "")]) if categoria else ""
 
 
 def classificar(item):
@@ -718,6 +746,8 @@ def formatar(item):
 
 
 ARQ_PROMOS = os.path.join(PASTA, "promos.json")
+ARQ_ESTREIA = os.path.join(PASTA, "estreia_vitrine.json")
+HORAS_ESTREIA = 48
 
 
 def prazo_texto(iso):
@@ -740,12 +770,14 @@ def decidir_vitrine(item, promos, hoje=None):
     categoria = item.get("categoria", "")
     vai, motivo = False, ""
     if categoria == "acumulo":
-        motivo = "acúmulo de pontos (fica nos bastidores)"
+        vai, motivo = acumulo_compensa(item, promos)
     elif item.get("resgates"):
         vai = True
     elif "promoção relâmpago" in item.get("motivos", []):
         vai = True
     elif "sai de GYN/BSB" in item.get("motivos", []):
+        vai = True
+    elif item.get("nacional") and item["tipo"] in ("Passagem em dinheiro", "Passagem com milhas"):
         vai = True
     elif categoria == "transferencia":
         vai = bonus_forte(item)
@@ -765,6 +797,7 @@ def decidir_vitrine(item, promos, hoje=None):
             ref = COMPRA_MILHEIRO_MAX          # Clube Livelo/Esfera: mesma régua da compra de pontos
         else:
             ref = custo_ref(item.get("programas_destino", []))
+        ref = ref * CLUBE_TOLERANCIA if ref is not None else None
         vai = milheiro is not None and ref is not None and milheiro <= ref
         if vai:
             motivo = ""
@@ -781,6 +814,36 @@ def decidir_vitrine(item, promos, hoje=None):
         if ultimo and (hoje - date.fromisoformat(ultimo[:10])).days < JANELA_REPETICAO_DIAS:
             return False, "repetição de promoção já enviada"
     return vai, motivo
+
+
+def chave_acumulo(item):
+    programa = ",".join(sorted((item.get("programas_origem") or []) + (item.get("programas_destino") or [])))
+    return f"{item.get('parceiro', '')}>{programa}"
+
+
+def acumulo_compensa(item, promos):
+    """Acúmulo só vai à vitrine se o post falar em dobro/triplo ou se a pontuação for >= 2x o normal do parceiro."""
+    if item.get("acumulo_forte_texto"):
+        return True, ""
+    valor = item.get("pontos_por_real") or 0
+    if not item.get("parceiro") or not valor:
+        return False, "acúmulo genérico (fica nos bastidores)"
+    hist = promos.setdefault("acumulo", {}).get(chave_acumulo(item), [])
+    if len(hist) < ACUMULO_MIN_HISTORICO:
+        return False, f"acúmulo {item['parceiro']}: ainda aprendendo o normal ({len(hist)} registro(s))"
+    normal = sorted(hist)[len(hist) // 2]
+    item["pontos_normal"] = normal
+    if valor >= normal * ACUMULO_MULTIPLO:
+        return True, ""
+    return False, f"acúmulo {item['parceiro']}: {valor:g} pts/R$ (normal {normal:g})"
+
+
+def registrar_acumulo(item, promos):
+    if item.get("categoria") != "acumulo" or not item.get("parceiro") or not item.get("pontos_por_real"):
+        return
+    hist = promos.setdefault("acumulo", {}).setdefault(chave_acumulo(item), [])
+    hist.append(item["pontos_por_real"])
+    del hist[:-30]
 
 
 def registrar_promo(item, promos, hoje=None):
@@ -883,9 +946,20 @@ def formatar_vitrine(item):
         detalhe.append(f"<b>{e(nome)}</b>" + (f" · <b>{item['desconto']}% OFF</b>" if item.get("desconto") else ""))
         if item.get("milheiro_citado"):
             detalhe.append(f"💡 Milheiro a partir de {reais(item['milheiro_citado'])}")
+    elif categoria == "acumulo":
+        cab = "🛍️ <b>COMPRAS QUE RENDEM MUITOS PONTOS</b>"
+        prog = " / ".join((item.get("programas_origem") or []) + (item.get("programas_destino") or [])) or "pontos"
+        linha = f"<b>{e(item.get('parceiro') or 'Parceiros')} → {e(prog)}</b>"
+        if item.get("pontos_por_real"):
+            linha += f" · {item['pontos_por_real']:g} pontos por real"
+        detalhe.append(linha)
+        if item.get("pontos_normal"):
+            detalhe.append(f"📈 {item['pontos_por_real'] / item['pontos_normal']:.1f}x o normal (costuma ser {item['pontos_normal']:g} por real)")
     elif categoria == "clube":
         cab = "🎟️ <b>CLUBE DE MILHAS EM CONTA</b>"
         detalhe.append(f"<b>{e(origens or destinos or 'Clube')}</b> · milheiro a partir de {reais(item['milheiro_citado'])}")
+    elif item.get("nacional") and "sai de GYN/BSB" not in item.get("motivos", []):
+        cab = "🇧🇷 <b>PROMOÇÃO NACIONAL</b> · confira as saídas de Goiânia e Brasília"
     elif item["tipo"] == "Passagem em dinheiro":
         cab = "💵 <b>PASSAGEM EM PROMOÇÃO · GOIÂNIA / BRASÍLIA</b>"
     else:
@@ -911,6 +985,34 @@ def etiquetas(item):
     }
 
 
+def itens_para_estreia(alertas, agora_ts=None):
+    """Promoções das últimas 48h que ainda não foram à vitrine, reanalisadas com as regras atuais."""
+    agora_ts = agora_ts or datetime.now(timezone.utc).timestamp()
+    escolhidos = []
+    for a in alertas:
+        if a.get("codigo"):
+            continue
+        try:
+            recente = datetime.fromisoformat(a["data"]).timestamp() >= agora_ts - HORAS_ESTREIA * 3600
+        except Exception:
+            recente = False
+        if not recente:
+            continue
+        base = {k: a.get(k) for k in ("id", "titulo", "link", "fonte", "resumo", "categorias", "data")}
+        base["resumo"] = base.get("resumo") or ""
+        novo = classificar(base)
+        if not novo:
+            continue
+        if a.get("resgates"):
+            novo["resgates"] = a["resgates"]
+            if "resgate de GYN/BSB" not in novo["motivos"]:
+                novo["motivos"].append("resgate de GYN/BSB")
+        novo["_original"] = a
+        escolhidos.append(novo)
+    escolhidos.sort(key=lambda i: i["data"])
+    return escolhidos
+
+
 def enviar_em_blocos(partes, cabecalho):
     bloco = cabecalho
     for p in partes:
@@ -933,7 +1035,7 @@ def main():
     vistos = carregar(ARQ_VISTOS, [])
     alertas = carregar(ARQ_ALERTAS, [])
     registro = carregar(ARQ_MILHAS, {"posts": [], "resgates": []})
-    promos = carregar(ARQ_PROMOS, {"ativas": [], "vitrine": {}, "combos": {}})
+    promos = carregar(ARQ_PROMOS, {"ativas": [], "vitrine": {}, "combos": {}, "acumulo": {}})
     conjunto = set(vistos)
     token = os.environ.get("TRAVELPAYOUTS_TOKEN")
     precos_medidor = precos_do_medidor()
@@ -1001,9 +1103,35 @@ def main():
     hoje = date.today()
     limpar_promos(promos, hoje)
     vitrine, bastidores = [], []
+
+    # Estreia do canal: na 1ª rodada com o canal conectado, reavalia as últimas 48h com as regras atuais
+    estreia = []
+    if canal_vitrine() and not os.path.exists(ARQ_ESTREIA):
+        estreia = itens_para_estreia(alertas)
+        salvar(ARQ_ESTREIA, {"feita_em": datetime.now(timezone.utc).isoformat(), "reavaliados": len(estreia)})
+    estreia_enviados = []
+    for item in estreia:
+        if item.get("prazo") and date.fromisoformat(item["prazo"]) < hoje:
+            continue
+        vai, _ = decidir_vitrine(item, promos, hoje)
+        registrar_promo(item, promos, hoje)
+        registrar_acumulo(item, promos)
+        if vai:
+            codigo = enviar_vitrine(formatar_vitrine(item), {
+                "tipo": item["tipo"], "titulo": item["titulo"], "link": item["link"], "fonte": item["fonte"],
+                "etiquetas": etiquetas(item), "estreia": True,
+            })
+            item["_original"]["codigo"] = codigo
+            if item.get("assinatura"):
+                promos["vitrine"][item["assinatura"]] = datetime.now(timezone.utc).isoformat()
+            estreia_enviados.append(codigo)
+    if estreia:
+        print(f"Estreia da vitrine: {len(estreia)} reavaliados, {len(estreia_enviados)} publicados")
+
     for item in novos:
         vai, motivo = decidir_vitrine(item, promos, hoje)
         registrar_promo(item, promos, hoje)
+        registrar_acumulo(item, promos)
         if vai:
             item["codigo"] = enviar_vitrine(formatar_vitrine(item), {
                 "tipo": item["tipo"], "titulo": item["titulo"], "link": item["link"], "fonte": item["fonte"],
@@ -1024,6 +1152,11 @@ def main():
         vitrine.append({"codigo": codigo})
     salvar(ARQ_PROMOS, promos)
     salvar(ARQ_ALERTAS, (novos + alertas)[:MAX_ALERTAS])
+
+    if estreia:
+        telegram("🛠️ <b>Bastidores</b> · 🎬 <b>Estreia do canal</b>\n"
+                 f"Reavaliei {len(estreia)} promoção(ões) das últimas 48h com as regras novas e publiquei "
+                 f"{len(estreia_enviados)} na vitrine" + (": " + ", ".join(estreia_enviados) if estreia_enviados else "."))
 
     if bastidores or vitrine:
         cab = f"🛠️ <b>Bastidores</b> · {len(bastidores)} novidade(s) fora da vitrine"

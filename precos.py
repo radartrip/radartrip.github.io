@@ -47,7 +47,7 @@ DESTINOS = {
     "MCO": "Orlando",
 }
 
-QUEDA_MINIMA = 0.20          # avisa se o preço ficar 20% ou mais abaixo da média
+QUEDA_MINIMA = 0.15          # avisa se o preço ficar 15% ou mais abaixo da média
 DIAS_MEDIA = 7               # média dos últimos 7 dias
 MIN_LEITURAS = 12            # só compara depois de ter histórico suficiente
 INTERVALO_MIN = 55           # consulta no máximo 1 vez por hora
