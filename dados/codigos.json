@@ -1,5 +1,5 @@
 {
- "ultimo": 12,
+ "ultimo": 13,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -206,6 +206,18 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0013",
+   "enviado_em": "2026-11-04T01:09:14.835558+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-RIO",
+   "preco": 950,
+   "media": 1219,
+   "ida": "2027-02-20",
+   "volta": "2027-02-23",
+   "link": "https://www.aviasales.com/search/GYN2002RIO23021?t=G318031218001803135000000220GYNGRUGIG18034008001803414600000230GIGCGHGYN_269a20dcd7b82a6475e5a6d1a6e5cd6b_14130&search_date=04112026&expected_price_uuid=01a1a417-57a4-8040-2c37-1999870d4692&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tlNMvbI1W37s6e0St7lFmg&expected_price_source=share&expected_price_currency=brl&expected_price=950&marker=800145"
   }
  ]
 }
