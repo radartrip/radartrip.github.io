@@ -1,5 +1,5 @@
 {
- "ultimo": 24,
+ "ultimo": 29,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -397,6 +397,82 @@
      "Azul Fidelidade",
      "Livelo"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0025",
+   "enviado_em": "2026-11-04T19:39:50.396879+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Promo relâmpago! Cupom de até R$ 200 OFF em passagens aéreas da Azul na Decolar",
+   "link": "https://www.melhoresdestinos.com.br/promocao/cupom-azul-passagens-aereas-decolar",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0026",
+   "enviado_em": "2026-11-04T19:39:50.882091+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira destinos pelo Brasil a partir de 8.000 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-destinos-brasil-8000-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "GIG-BSB"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0027",
+   "enviado_em": "2026-11-04T19:39:51.338372+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Morro de São Paulo! Pacotes com voos + hotel pé na areia a partir de R$ 2.048 por pessoa mais cupom de até R$ 600 OFF",
+   "link": "https://www.melhoresdestinos.com.br/promocao/morro-de-sao-paulo-hospedagem-pacotes-04nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0028",
+   "enviado_em": "2026-11-04T19:39:51.768236+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Viagem 2 em 1 na melhor do mundo! Dubai + Doha voando Qatar Airways a partir de R$ 5.191 ida e volta com bagagem inclusa",
+   "link": "https://www.melhoresdestinos.com.br/promocao/viagem-2-em-1-dubai-doha-qatar-airways-5191",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0029",
+   "enviado_em": "2026-11-04T19:39:52.211090+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Viagem ao fim do mundo: passagens para Ushuaia ou Punta Arenas a partir de R$ 1.828 ida e volta",
+   "link": "https://www.melhoresdestinos.com.br/promocao/viagem-fim-do-mundo-passagens-ushuaia-punta-arenas-1828",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }

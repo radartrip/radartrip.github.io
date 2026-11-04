@@ -23,7 +23,8 @@
   "https://pontospravoar.com/?p=148201",
   "https://pontospravoar.com/?p=148130",
   "https://pontospravoar.com/?p=148215",
-  "https://passageirodeprimeira.com/?p=579622"
+  "https://passageirodeprimeira.com/?p=579622",
+  "https://pontospravoar.com/?p=148250"
  ],
  "resgates": [
   {
@@ -105,6 +106,26 @@
    "post": "https://pontospravoar.com/alerta-ppv-explore-destinos-internacionais-16800-milhas-smiles/",
    "titulo": "Alerta PPV! Explore destinos internacionais a partir de 16.800 milhas Smiles",
    "visto_em": "2026-11-03T14:56:43.744003+00:00"
+  },
+  {
+   "origem": "GIG",
+   "destino": "BSB",
+   "origem_nome": "Rio de Janeiro",
+   "destino_nome": "Brasília",
+   "milhas": 17300,
+   "milhas_clube": 16700,
+   "data": "2027-03-20",
+   "datas_texto": "20 de março",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1805511600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1806202799000&searchType=g3&segments=1&tripType=1&originAirport=GIG&destinationAirport=BSB&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-confira-destinos-brasil-8000-milhas-smiles/",
+   "titulo": "Alerta PPV! Confira destinos pelo Brasil a partir de 8.000 milhas Smiles",
+   "visto_em": "2026-11-04T19:39:49.886978+00:00"
   }
  ]
 }
