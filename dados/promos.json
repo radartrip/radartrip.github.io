@@ -91,6 +91,23 @@
    "visto_em": "2026-11-04",
    "titulo": "Pré Black Friday! Envie pontos Esfera para o ALL Accor e ganhe 20% de pontos de volta + até 10% de bônus",
    "link": "https://passageirodeprimeira.com/pre-black-friday-envie-pontos-esfera-para-o-all-accor-e-ganhe-20-de-pontos-de-volta-ate-10-de-bonus/"
+  },
+  {
+   "assinatura": "transferencia|Caixa|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Caixa"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-05",
+   "visto_em": "2026-11-04",
+   "titulo": "Azul oferece até 120% de bônus nas transferências de pontos do UAU Caixa",
+   "link": "https://passageirodeprimeira.com/azul-oferece-ate-120-bonus-transferencias-pontos-uau-caixa/"
   }
  ],
  "vitrine": {
@@ -98,7 +115,8 @@
   "transferencia||LATAM Pass|25|": "2026-11-03T17:09:31.573196+00:00",
   "clube|Livelo|||": "2026-11-03T17:09:35.925370+00:00",
   "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00",
-  "compra|Livelo||56|": "2026-11-03T19:00:44.072118+00:00"
+  "compra|Livelo||56|": "2026-11-03T19:00:44.072118+00:00",
+  "transferencia|Caixa|Azul Fidelidade|120|": "2026-11-04T14:48:52.060709+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

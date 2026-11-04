@@ -1,5 +1,106 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148172",
+  "titulo": "Azul Fidelidade e Uau CAIXA com até 120% de bônus na transferência de pontos",
+  "link": "https://pontospravoar.com/azul-fidelidade-uau-caixa-ate-120-porcento-bonus-transferencia-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade está com uma nova promoção em parceria com a Uau CAIXA, oferecendo até 120% de bônus na transferência de pontos. Uma oportunidade para quem deseja aumentar seu saldo e planejar futuras viagens utilizando pontos! Confira as condições da campanha e saiba como aproveitar. Promoção Azul Fidelidade e Uau Caixa Para esta campanha,…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Caixa",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS",
+   "Clube Uau CAIXA"
+  ],
+  "data": "2026-11-04T14:00:59+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Caixa"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Caixa|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-04T14:48:51.620219+00:00",
+  "codigo": "RT-0014"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579486",
+  "titulo": "Azul oferece até 120% de bônus nas transferências de pontos do UAU Caixa",
+  "link": "https://passageirodeprimeira.com/azul-oferece-ate-120-bonus-transferencias-pontos-uau-caixa/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos do UAU Caixa. Além disso, o programa está ofertando mais até 30% de bônus extra para assinantes do Clube Azul. A oferta é válida até amanhã (5). Confira!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-04T14:30:45+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Caixa"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-05",
+  "repostagem": false,
+  "assinatura": "transferencia|Caixa|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-04T14:48:51.538180+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579470",
+  "titulo": "Clube Livelo Days! Acumule até 15 pontos por real gasto na Mondaine, Insider e mais parceiros",
+  "link": "https://passageirodeprimeira.com/clube-livelo-days-acumule-ate-15-pontos-real-gasto-mondaine-insider-mais-parceiros/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo até 15 pontos por real gasto na Mondaine, Insider e mais parceiros. As ofertas contam com pontuações diferentes. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-04T14:05:03+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-04T14:48:51.539190+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579489",
   "titulo": "LATAM Pass vai reajustar tabela fixa de resgate com companhias parceiras",
   "link": "https://passageirodeprimeira.com/latam-pass-vai-reajustar-tabela-fixa-de-resgate-com-companhias-parceiras-2/",
