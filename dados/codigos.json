@@ -1,5 +1,5 @@
 {
- "ultimo": 14,
+ "ultimo": 20,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -235,6 +235,109 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0015",
+   "enviado_em": "2026-11-04T16:04:06.432722+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de voos internacionais a partir de 54 mil milhas Smiles + taxas",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-de-voos-internacionais-a-partir-de-54-mil-milhas-smiles-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0016",
+   "enviado_em": "2026-11-04T16:04:06.992315+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Sua próxima viagem internacional a partir de 20 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-proxima-viagem-internacional-20-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0017",
+   "enviado_em": "2026-11-04T16:04:07.555698+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Magalu oferece até 14 pontos por real no Azul Fidelidade",
+   "link": "https://pontospravoar.com/magalu-oferece-ate-14-pontos-real-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0018",
+   "enviado_em": "2026-11-04T16:04:10.293195+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
+   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0019",
+   "enviado_em": "2026-11-04T16:04:10.852169+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Explore as belezas do Nordeste a partir de 3.520 pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-ppv-explore-belezas-nordeste-3520-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   },
+   "estreia": true
+  },
+  {
+   "codigo": "RT-0020",
+   "enviado_em": "2026-11-04T16:04:11.472436+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Muito barato! Azul oferece trecho para Lisboa a partir de 77 mil pontos ou R$ 918 + taxas",
+   "link": "https://passageirodeprimeira.com/azul-oferece-trecho-para-lisboa-a-partir-77-mil-pontos-ou-r-918-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   },
+   "estreia": true
   }
  ]
 }
