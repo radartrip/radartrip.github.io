@@ -1,21 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia||LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-03",
-   "visto_em": "2026-11-03",
-   "titulo": "Só hoje! Transfira pontos do Porto Bank para o LATAM Pass com 25% de bônus",
-   "link": "https://pontospravoar.com/so-hoje-transfira-pontos-porto-bank-latam-pass-25-porcento-bonus/"
-  },
-  {
    "assinatura": "clube|Livelo|||",
    "categoria": "clube",
    "origens": [
