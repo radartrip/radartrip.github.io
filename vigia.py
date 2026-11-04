@@ -1,4 +1,4 @@
-# Radar Trip - Vigia de promocoes (v3.3.1 - filtro equilibrado, acúmulo que compensa, nacionais + teste da praia)
+# Radar Trip - Vigia de promocoes (v3.4 - toda oferta de passagem vai para a vitrine)
 # Le os blogs de promocao, filtra o que interessa e avisa no Telegram.
 #
 # Novidade v2: nos posts de passagens com milhas, abre o post completo pelo canal
@@ -21,6 +21,17 @@
 # Novidade v3.3.1: TESTE FORÇADO. Na próxima rodada, manda UMA vez ao canal o alerta de
 # demonstração "Praia no fim de semana" (marcado como TESTE, sem gastar código RT-xxxx).
 # Depois grava dados/teste_praia.json e nunca mais repete.
+#
+# Novidade v3.4 (vitrine mais cheia, sem perder a curadoria):
+#   - OFERTA DE PASSAGEM vem primeiro: post cujo título traz passagem/voo/trecho com preço
+#     ("a partir de R$ 47", "a partir de 3.520 pontos") ou "Alerta PPV" vira passagem, mesmo
+#     que o texto cite bônus de transferência. Vai para a vitrine como nacional, internacional
+#     ou GYN/BSB. Notícias (reajuste de tabela, dicas, seguro, apps) ficam nos bastidores
+#     com a etiqueta "Notícia / outros".
+#   - Acúmulo "X pontos por real" não é mais confundido com clube; acúmulo de 10+ pontos por
+#     real vai à vitrine (campanha forte), além da regra de 2x o normal.
+#   - Reavaliação única: na 1ª rodada da v3.4, as promoções das últimas 24h que ficaram de
+#     fora são reavaliadas com as regras novas.
 
 import html
 import json
@@ -185,6 +196,25 @@ PARCEIROS = {
 }
 TERMOS_NACIONAL = [r"passagens nacionais", r"voos nacionais", r"todo o brasil", r"pelo brasil",
                    r"azul,? gol e latam", r"gol,? azul e latam", r"latam,? gol e azul", r"mais de \d+ mil voos"]
+TERMOS_NACIONAL += [r"\bnacionais\b", r"\bnordeste\b", r"destinos? nacion", r"pelo pa[ií]s", r"\bsul do brasil",
+                    r"\bpraias? do", r"capitais"]
+TERMOS_INTERNACIONAL = [r"internacion", r"exterior", r"europa", r"lisboa", r"portugal", r"orlando", r"miami",
+                        r"nova york", r"estados unidos", r"\beua\b", r"buenos aires", r"argentina", r"santiago",
+                        r"\bchile\b", r"paris", r"madri", r"roma", r"londres", r"canc[uú]n", r"punta cana",
+                        r"montevid", r"lima\b", r"bogot", r"panam", r"caribe", r"jap[aã]o", r"dubai", r"[aá]frica",
+                        r"n[óo]rdic", r"copenhag", r"estocolm", r"\boslo\b", r"berlim", r"frankfurt", r"amsterd",
+                        r"zurique", r"mil[aã]o", r"istambul", r"t[óo]quio", r"sydney", r"austr[aá]lia", r"m[eé]xico",
+                        r"nova zel", r"\b(?:lis|mad|cdg|fco|lhr|jfk|mia|mco|eze|aep|scl|cun)\b"]
+# Título que anuncia passagem com preço = oferta de passagem
+RE_PALAVRA_PASSAGEM = r"passage|\bvoos?\b|\bvoe\b|\bvoar\b|\btrechos?\b|bilhetes?|\bemiss|\bida e volta"
+RE_PRECO_TITULO = (r"(?:a partir de|por apenas|por|desde|de)\s*(?:r\$\s*\d|\d[\d.,]*\s*(?:mil\s*)?"
+                   r"(?:pontos|milhas|pts))")
+RE_ALERTA_TITULO = r"alerta ppv|alerta de disponibilidade|alerta de passage|muito barato|baixou|imperd[ií]vel"
+# Notícias que citam passagem/milhas mas não são oferta
+TERMOS_NOTICIA = [r"reajust", r"encarec", r"\baumento", r"\baumenta", r"tabela fixa", r"novas? regras?",
+                  r"\bmudan", r"\bmuda\b", r"deixa de", r"\bdicas?\b", r"seguro viagem", r"awardwallet",
+                  r"revolut", r"entrevista", r"balan[cç]o", r"lucro", r"\bsugest[õo]es de leitura"]
+ACUMULO_FORTE_MIN = 10       # 10+ pontos por real em parceiro = campanha forte (vitrine)
 JANELA_REPETICAO_DIAS = 10   # mesma promoção não volta à vitrine dentro desse prazo
 VALIDADE_SEM_PRAZO_DIAS = 3  # promoção sem prazo informado conta como ativa por 3 dias (para combos)
 
@@ -247,13 +277,16 @@ def analisar_pontos(item, texto):
     transf = transf or bool(bonus and pontos and (aereos or any(p in CENTRAIS_DE_PONTOS for p in pontos))
                             and len(set(pontos + aereos)) >= 2)
     compra = bool(re.search(r"compra de (?:pontos|milhas)|compre (?:pontos|milhas)|comprar (?:pontos|milhas)", texto))
-    clube = "clube" in texto
+    por_real = bool(re.search(TERMOS_ACUMULO[0], texto))
+    clube = "clube" in texto and not por_real
     acumulo = any(re.search(t, texto) for t in TERMOS_ACUMULO) and not transf and not compra
 
     if transf and bonus:
         categoria = "transferencia"
     elif compra:
         categoria = "compra"
+    elif por_real and not transf:
+        categoria = "acumulo"
     elif clube:
         categoria = "clube"
     elif acumulo:
@@ -298,17 +331,30 @@ def classificar(item):
         return None
 
     analisar_pontos(item, texto)
+    oferta = eh_oferta_de_passagem(titulo, texto)
+    if oferta:
+        # Oferta de passagem manda: mesmo que o post cite bônus de transferência, ele é passagem
+        item["categoria"] = "passagem"
+        numeros = sorted(set(re.findall(r"\d[\d.,]*", titulo)))
+        item["assinatura"] = "passagem|" + ",".join(sorted(item.get("programas_destino") or [])) + "|" + ",".join(numeros)
+        item["escopo"] = ("gyn_bsb" if tem_termo(texto, TERMOS_GYN) else
+                          "internacional" if any(re.search(t, texto) for t in TERMOS_INTERNACIONAL) else
+                          "nacional")
+        item["nacional"] = item["nacional"] or item["escopo"] == "nacional"
     categoria = item["categoria"]
-    if categoria == "transferencia":
+    if categoria == "passagem":
+        tipo = "Passagem com milhas" if re.search(r"pontos|milhas|\bpts\b", titulo) else "Passagem em dinheiro"
+    elif categoria == "transferencia":
         tipo = "Transferência bonificada"
     elif categoria in ("compra", "clube"):
         tipo = "Clube / compra de pontos"
     elif categoria == "acumulo":
         tipo = "Acúmulo de pontos"
-    elif "milhas" in texto or "pontos" in texto:
-        tipo = "Passagem com milhas"
+    elif re.search(RE_PALAVRA_PASSAGEM, titulo) and not eh_noticia(titulo):
+        # Fala de passagem mas sem preço no título: o leitor de milhas ainda abre o post
+        tipo = "Passagem com milhas" if ("milhas" in texto or "pontos" in texto) else "Passagem em dinheiro"
     else:
-        tipo = "Passagem em dinheiro"
+        tipo = "Notícia / outros"
 
     motivos = []
     if any(t in texto for t in TERMOS_GYN) and tipo in ("Passagem em dinheiro", "Passagem com milhas"):
@@ -322,6 +368,19 @@ def classificar(item):
     item["prioridade"] = "alta" if motivos else "normal"
     item["motivos"] = motivos
     return item
+
+
+def eh_noticia(titulo):
+    return any(re.search(t, titulo) for t in TERMOS_NOTICIA)
+
+
+def eh_oferta_de_passagem(titulo, texto):
+    """Título anuncia passagem com preço (dinheiro ou pontos) ou é um alerta de disponibilidade."""
+    if eh_noticia(titulo):
+        return False
+    if re.search(RE_ALERTA_TITULO, titulo) and re.search(r"pontos|milhas|r\$|passage|voo|trecho", titulo):
+        return True
+    return bool(re.search(RE_PALAVRA_PASSAGEM, titulo) and re.search(RE_PRECO_TITULO, titulo))
 
 
 def bonus_forte(item):
@@ -751,6 +810,8 @@ def teste_forcado():
 
 
 EMOJI_TIPO = {
+    "Notícia / outros": "📰",
+    "Acúmulo de pontos": "🛍️",
     "Transferência bonificada": "🔄",
     "Clube / compra de pontos": "🛒",
     "Passagem com milhas": "🎯",
@@ -815,8 +876,8 @@ def formatar(item):
 
 
 ARQ_PROMOS = os.path.join(PASTA, "promos.json")
-ARQ_ESTREIA = os.path.join(PASTA, "estreia_vitrine.json")
-HORAS_ESTREIA = 48
+ARQ_ESTREIA = os.path.join(PASTA, "reavaliacao_v34.json")   # v3.4: reavalia as últimas 24h uma vez
+HORAS_ESTREIA = 24
 
 
 def prazo_texto(iso):
@@ -845,6 +906,8 @@ def decidir_vitrine(item, promos, hoje=None):
     elif "promoção relâmpago" in item.get("motivos", []):
         vai = True
     elif "sai de GYN/BSB" in item.get("motivos", []):
+        vai = True
+    elif categoria == "passagem":
         vai = True
     elif item.get("nacional") and item["tipo"] in ("Passagem em dinheiro", "Passagem com milhas"):
         vai = True
@@ -895,6 +958,8 @@ def acumulo_compensa(item, promos):
     if item.get("acumulo_forte_texto"):
         return True, ""
     valor = item.get("pontos_por_real") or 0
+    if item.get("parceiro") and valor >= ACUMULO_FORTE_MIN:
+        return True, ""
     if not item.get("parceiro") or not valor:
         return False, "acúmulo genérico (fica nos bastidores)"
     hist = promos.setdefault("acumulo", {}).get(chave_acumulo(item), [])
@@ -1027,8 +1092,12 @@ def formatar_vitrine(item):
     elif categoria == "clube":
         cab = "🎟️ <b>CLUBE DE MILHAS EM CONTA</b>"
         detalhe.append(f"<b>{e(origens or destinos or 'Clube')}</b> · milheiro a partir de {reais(item['milheiro_citado'])}")
+    elif categoria == "passagem" and item.get("escopo") == "internacional" and "sai de GYN/BSB" not in item.get("motivos", []):
+        cab = "🌎 <b>INTERNACIONAL EM PROMOÇÃO · SAINDO DO BRASIL</b>"
+        detalhe.append("🧭 Sai de outro aeroporto? Vale somar o trecho de Goiânia/Brasília até lá "
+                       "ou procurar a mesma data saindo de GYN/BSB.")
     elif item.get("nacional") and "sai de GYN/BSB" not in item.get("motivos", []):
-        cab = "🇧🇷 <b>PROMOÇÃO NACIONAL</b> · confira as saídas de Goiânia e Brasília"
+        cab = "🇧🇷 <b>PASSAGENS NACIONAIS EM PROMOÇÃO</b> · confira as saídas de Goiânia e Brasília"
     elif item["tipo"] == "Passagem em dinheiro":
         cab = "💵 <b>PASSAGEM EM PROMOÇÃO · GOIÂNIA / BRASÍLIA</b>"
     else:
@@ -1224,8 +1293,8 @@ def main():
     salvar(ARQ_ALERTAS, (novos + alertas)[:MAX_ALERTAS])
 
     if estreia:
-        telegram("🛠️ <b>Bastidores</b> · 🎬 <b>Estreia do canal</b>\n"
-                 f"Reavaliei {len(estreia)} promoção(ões) das últimas 48h com as regras novas e publiquei "
+        telegram("🛠️ <b>Bastidores</b> · 🔁 <b>Vigia v3.4 no ar</b>\n"
+                 f"Reavaliei {len(estreia)} promoção(ões) das últimas {HORAS_ESTREIA}h com as regras novas e publiquei "
                  f"{len(estreia_enviados)} na vitrine" + (": " + ", ".join(estreia_enviados) if estreia_enviados else "."))
 
     if bastidores or vitrine:

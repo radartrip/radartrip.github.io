@@ -1,4 +1,4 @@
-# Radar Trip - Medidor de precos (Vigia 3.1 - plano C: praia no fim de semana)
+# Radar Trip - Medidor de precos (Vigia 3.2 - sem afiliado + resumo das 7h)
 # Mede os menores precos de ida e volta saindo de GOIANIA e de BRASILIA para os
 # mesmos destinos, guarda o historico de cada rota e avisa quando um preco cai bem
 # abaixo da media.
@@ -22,6 +22,12 @@
 #     que o medidor ja faz e no fim de semana campeao da pesquisa (1 consulta extra).
 #     Se sair 15% ou mais abaixo do normal, manda "PRAIA NO FIM DE SEMANA" para a vitrine.
 #   - O alerta de queda das praias passa a mostrar a regua do fim de semana.
+#
+# Novidade v3.2:
+#   - SEM AFILIADO: o botao de cada alerta abre a busca do Google Flights (rota e datas),
+#     sem marker/comissao. A Travelpayouts segue so como termometro interno de preco.
+#   - RESUMO DAS 7H na vitrine: uma vez por dia, a partir das 7h de Brasilia, manda
+#     "Radar do dia" com os destinos mais baratos saindo de Goiania e de Brasilia.
 
 import html
 import json
@@ -91,7 +97,6 @@ DIAS_MEDIA = 7               # média dos últimos 7 dias
 MIN_LEITURAS = 12            # só compara depois de ter histórico suficiente
 INTERVALO_MIN = 55           # consulta no máximo 1 vez por hora
 MAX_LEITURAS = 1500          # cerca de 2 meses de histórico por rota
-MARKER = "800145"            # seu ID de afiliado Travelpayouts
 VERSAO = 6                   # versão do formato dos dados (6 = praias novas + régua do fim de semana)
 MESES_PLANO_C = 6            # quantos meses à frente a busca mês a mês procura
 
@@ -327,19 +332,16 @@ def ddmm(iso):
 
 
 def montar_link(caminho, origem, destino, ida, volta):
-    if caminho:
-        if not caminho.startswith("/"):
-            caminho = "/" + caminho
-        if not caminho.startswith("/search"):
-            caminho = "/search" + caminho
-        base = "https://www.aviasales.com" + caminho
-    elif ddmm(ida) and ddmm(volta):
-        # Sem link pronto: monta a busca do Aviasales com as datas (1 adulto)
-        base = f"https://www.aviasales.com/search/{origem}{ddmm(ida)}{destino}{ddmm(volta)}1"
+    """Link do alerta: busca pública do Google Flights (sem afiliado, sem comissão).
+    O 'caminho' do Aviasales é ignorado de propósito desde a v3.2."""
+    if ida and volta:
+        consulta = f"Flights from {origem} to {destino} on {ida} through {volta}"
+    elif ida:
+        consulta = f"Flights from {origem} to {destino} on {ida}"
     else:
-        return ""
-    junta = "&" if "?" in base else "?"
-    return f"{base}{junta}marker={MARKER}"
+        consulta = f"Flights from {origem} to {destino}"
+    return ("https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q="
+            + urllib.parse.quote(consulta))
 
 
 def data_br(iso):
@@ -519,6 +521,74 @@ def alerta_fds(destino, fds, queda):
     return texto
 
 
+# ================= Resumo diário (vitrine, 7h de Brasília) =================
+ARQ_RESUMO = os.path.join(PASTA, "resumo_diario.json")
+HORA_RESUMO = 7              # hora de Brasília a partir da qual o resumo sai (1x por dia)
+FUSO_BR = timezone(timedelta(hours=-3))
+NACIONAIS = {"REC", "SSA", "FOR", "MCZ", "NAT", "BPS", "SAO", "RIO", "FLN", "POA", "AJU", "JPA", "NVT", "IOS"}
+TOP_RESUMO = 8
+
+
+def hora_do_resumo(momento):
+    """True se já passou das 7h em Brasília e o resumo de hoje ainda não saiu."""
+    local = momento.astimezone(FUSO_BR)
+    if local.hour < HORA_RESUMO:
+        return False
+    try:
+        with open(ARQ_RESUMO, encoding="utf-8") as f:
+            ultimo = json.load(f).get("data", "")
+    except (FileNotFoundError, json.JSONDecodeError):
+        ultimo = ""
+    return ultimo != local.date().isoformat()
+
+
+def montar_resumo(resultados, momento):
+    """Melhor preço de cada destino (GYN x BSB lado a lado), do mais barato ao mais caro."""
+    linhas_nac, linhas_int = [], []
+    for destino, nome in DESTINOS.items():
+        precos = {o: resultados.get(rota(o, destino)) for o in ORIGENS}
+        validos = {o: p for o, p in precos.items() if p}
+        if not validos:
+            continue
+        melhor_origem = min(validos, key=lambda o: validos[o]["preco"])
+        melhor = validos[melhor_origem]
+        partes = []
+        for o in ORIGENS:
+            p = precos.get(o)
+            valor = reais(p["preco"]) if p else "—"
+            partes.append(f"<b>{o} {valor}</b>" if o == melhor_origem and len(validos) > 1 else f"{o} {valor}")
+        nome_html = html.escape(nome)
+        if melhor.get("link"):
+            nome_html = f"<a href=\"{html.escape(melhor['link'])}\">{nome_html}</a>"
+        linha = (melhor["preco"], f"• {nome_html}: " + " · ".join(partes))
+        (linhas_nac if destino in NACIONAIS else linhas_int).append(linha)
+    if not linhas_nac and not linhas_int:
+        return ""
+    local = momento.astimezone(FUSO_BR)
+    texto = (f"☀️ <b>RADAR DO DIA · {local.strftime('%d/%m')}</b>\n"
+             "Menores preços de ida e volta encontrados agora saindo de Goiânia (GYN) e Brasília (BSB) 🚗 ~2h30\n")
+    if linhas_nac:
+        texto += "\n🇧🇷 <b>Brasil</b>\n" + "\n".join(l for _, l in sorted(linhas_nac)[:TOP_RESUMO]) + "\n"
+    if linhas_int:
+        texto += "\n🌎 <b>Exterior</b>\n" + "\n".join(l for _, l in sorted(linhas_int)) + "\n"
+    texto += (f"\n<i>Em negrito, a origem mais barata. Toque no destino para ver as datas no Google Flights. "
+              f"Preços de buscas recentes, consultados às {local.strftime('%Hh%M')}: podem mudar.</i>")
+    return texto
+
+
+def enviar_resumo(resultados, momento):
+    texto = montar_resumo(resultados, momento)
+    if not texto:
+        return None
+    codigo = enviar_vitrine(texto, {"tipo": "Resumo diário", "titulo": "Radar do dia",
+                                    "etiquetas": {"categoria": "resumo_diario", "programas": [], "trechos": []}})
+    os.makedirs(PASTA, exist_ok=True)
+    with open(ARQ_RESUMO, "w", encoding="utf-8") as f:
+        json.dump({"data": momento.astimezone(FUSO_BR).date().isoformat(), "codigo": codigo,
+                   "enviado_em": momento.isoformat()}, f, ensure_ascii=False, indent=1)
+    return codigo
+
+
 def main():
     token = os.environ.get("TRAVELPAYOUTS_TOKEN")
     if not token:
@@ -633,6 +703,10 @@ def main():
             "etiquetas": {"categoria": "praia_fim_de_semana", "programas": [],
                           "trechos": [rota(ORIGEM_FDS, destino)]},
         })
+
+    if resultados and hora_do_resumo(momento):
+        codigo = enviar_resumo(resultados, momento)
+        print(f"Resumo do dia enviado: {codigo}")
 
     if falhas and not resultados:
         telegram("🛠️ <b>Bastidores</b>\n⚠️ Medidor de preços: nenhuma consulta funcionou nesta rodada.\n"
