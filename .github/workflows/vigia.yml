@@ -14,7 +14,8 @@ concurrency:
 
 jobs:
   vigiar:
-    runs-on: ubuntu-latest
+    # Versão fixa do Ubuntu: evita surpresa na troca automática para o Ubuntu 26
+    runs-on: ubuntu-24.04
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v5
@@ -37,15 +38,43 @@ jobs:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
         run: python precos.py
 
+      # v3.4: salvar à prova de falha. Guarda a pasta dados/ desta rodada, pega a versão
+      # mais nova do repositório (para não brigar com arquivos enviados no meio do caminho),
+      # devolve os dados por cima e envia. Tenta 3 vezes antes de desistir.
       - name: Guardar o que foi visto
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           git config user.name "radartrip-bot"
           git config user.email "radartrip-bot@users.noreply.github.com"
-          git add dados
-          if git diff --cached --quiet; then
+          if [ -z "$(git status --porcelain dados)" ]; then
             echo "Nada novo para guardar."
-          else
-            git commit -m "Vigia: atualiza dados"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          cp -r dados "$RUNNER_TEMP/dados_rodada"
+          for tentativa in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            rm -rf dados
+            cp -r "$RUNNER_TEMP/dados_rodada" dados
+            git add dados
+            if git diff --cached --quiet; then
+              echo "Nada novo para guardar."
+              exit 0
+            fi
+            git commit -m "Vigia: atualiza dados"
+            if git push origin HEAD:main; then
+              echo "Dados guardados na tentativa $tentativa."
+              exit 0
+            fi
+            echo "Envio falhou (tentativa $tentativa). Tentando de novo..."
+            sleep $((tentativa * 10))
+          done
+          echo "Não consegui guardar os dados depois de 3 tentativas."
+          if [ -n "$TELEGRAM_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+              -d chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode text="🛠️ Bastidores · ⚠️ Radar Trip: não consegui guardar os dados desta rodada no GitHub (3 tentativas). Se repetir, me avise." > /dev/null
+          fi
+          exit 1
