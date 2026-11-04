@@ -1,5 +1,5 @@
 {
- "ultimo": 29,
+ "ultimo": 30,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -473,6 +473,22 @@
    "etiquetas": {
     "categoria": "passagem",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0030",
+   "enviado_em": "2026-11-04T22:13:02.658651+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira destinos no Sul do Brasil a partir de 5 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-destinos-no-sul-do-brasil-a-partir-de-5-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
     "trechos": []
    }
   }
