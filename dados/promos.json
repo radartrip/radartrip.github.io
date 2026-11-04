@@ -1,21 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "clube|Livelo|||",
-   "categoria": "clube",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 24.36,
-   "prazo": "",
-   "visto_em": "2026-11-03",
-   "titulo": "Receba até 385.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,36",
-   "link": "https://passageirodeprimeira.com/receba-ate-385-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2436/"
-  },
-  {
    "assinatura": "transferencia|Livelo|Azul Fidelidade|100|",
    "categoria": "transferencia",
    "origens": [
@@ -108,6 +93,36 @@
    "visto_em": "2026-11-04",
    "titulo": "Azul oferece até 120% de bônus nas transferências de pontos do UAU Caixa",
    "link": "https://passageirodeprimeira.com/azul-oferece-ate-120-bonus-transferencias-pontos-uau-caixa/"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-04",
+   "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do PicPay",
+   "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-picpay/"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 21.55,
+   "prazo": "2026-11-05",
+   "visto_em": "2026-11-04",
+   "titulo": "Receba 25.000 pontos ao assinar o Clube Livelo Essencial – Milheiro a partir de R$ 21,55",
+   "link": "https://passageirodeprimeira.com/receba-25-000-pontos-ao-assinar-o-clube-livelo-essencial-milheiro-a-partir-de-r-2155/"
   }
  ],
  "vitrine": {

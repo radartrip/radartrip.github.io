@@ -1,5 +1,5 @@
 {
- "ultima_consulta": "2026-11-04T14:48:53.740199+00:00",
+ "ultima_consulta": "2026-11-04T15:44:49.055347+00:00",
  "historico": {
   "GYN-SSA": [
    {
@@ -235,6 +235,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1969,
+    "ida": "2027-01-08",
+    "volta": "2027-01-19",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN0801SSA19011?t=LA17993856001799404800000320GYNCGHSSA18003693001800382500000220SSABSBGYN_3f9da2ae0d94a1e2948c9a6abab31d90_29414&search_date=30102026&expected_price_uuid=01a18a5c-d213-8030-a2af-7208199170da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2Bz0JeFuzmUGAEGTthXb4w&expected_price_source=share&expected_price_currency=brl&expected_price=1969&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1969,
     "ida": "2027-01-08",
     "volta": "2027-01-19",
@@ -487,6 +498,17 @@
     "link": "https://www.aviasales.com/search/GYN1212FOR30121?t=G317970999001797118500000310GYNBSBFOR17986056001798656000000840FORGRUGYN_49ab5b6573097f79fff572302372dbfe_15386&search_date=31102026&expected_price_uuid=01a19449-2aa0-8031-6c62-65db7f4acf12&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fn4sfCb_45O69-VaVOt0YQ&expected_price_source=share&expected_price_currency=brl&expected_price=1042&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 1042,
+    "ida": "2026-12-12",
+    "volta": "2026-12-30",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN1212FOR30121?t=G317970999001797118500000310GYNBSBFOR17986056001798656000000840FORGRUGYN_49ab5b6573097f79fff572302372dbfe_15386&search_date=31102026&expected_price_uuid=01a19449-2aa0-8031-6c62-65db7f4acf12&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fn4sfCb_45O69-VaVOt0YQ&expected_price_source=share&expected_price_currency=brl&expected_price=1042&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-NAT": [
@@ -723,6 +745,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 2021,
+    "ida": "2027-01-07",
+    "volta": "2027-01-14",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN0701NAT14011?t=LA17993454001799369400000400GYNCGHNAT17999031001799925900000380NATGRUGYN_0bee16dddc3298f56361d6aeba8e6a59_30001&search_date=02112026&expected_price_uuid=01a19a32-5c60-8030-aed7-1ad600a488b9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ImifDNau-d4Rf7AOIpCn1g&expected_price_source=share&expected_price_currency=brl&expected_price=2021&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 2021,
     "ida": "2027-01-07",
     "volta": "2027-01-14",
@@ -975,6 +1008,17 @@
     "link": "https://www.aviasales.com/search/GYN1811SAO30111?t=AD17949846001794990000000090GYNVCP17960781001796083500000090VCPGYN_0f550669e919487431a17df79e5ffcfb_9660&search_date=29102026&expected_price_uuid=01a18593-8867-8040-246e-805270448639&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=75FqYzO34YzlLdZYzlg1mA&expected_price_source=share&expected_price_currency=brl&expected_price=645&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 645,
+    "ida": "2026-11-18",
+    "volta": "2026-11-30",
+    "cia": "Azul",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/GYN1811SAO30111?t=AD17949846001794990000000090GYNVCP17960781001796083500000090VCPGYN_0f550669e919487431a17df79e5ffcfb_9660&search_date=29102026&expected_price_uuid=01a18593-8867-8040-246e-805270448639&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=75FqYzO34YzlLdZYzlg1mA&expected_price_source=share&expected_price_currency=brl&expected_price=645&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-RIO": [
@@ -1219,6 +1263,17 @@
     "link": "https://www.aviasales.com/search/GYN2002RIO23021?t=G318031218001803135000000220GYNGRUGIG18034008001803414600000230GIGCGHGYN_269a20dcd7b82a6475e5a6d1a6e5cd6b_14130&search_date=04112026&expected_price_uuid=01a1a417-57a4-8040-2c37-1999870d4692&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tlNMvbI1W37s6e0St7lFmg&expected_price_source=share&expected_price_currency=brl&expected_price=950&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 947,
+    "ida": "2027-02-20",
+    "volta": "2027-02-23",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN2002RIO23021?t=G318031218001803135000000220GYNGRUGIG18034008001803414600000230GIGCGHGYN_269a20dcd7b82a6475e5a6d1a6e5cd6b_14130&search_date=04112026&expected_price_uuid=01a1a417-57a4-8040-2c37-1999870d4692&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tlNMvbI1W37s6e0St7lFmg&expected_price_source=share&expected_price_currency=brl&expected_price=947&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-FLN": [
@@ -1455,6 +1510,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1661,
+    "ida": "2026-11-20",
+    "volta": "2026-11-24",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN2011FLN24111?t=AD17951355001795151100000260GYNCNFFLN17955504001795565100000245FLNVCPGYN_a8407337a22445f9d5ba7494e3e7bb32_24526&search_date=31102026&expected_price_uuid=01a1943c-77b8-8031-28e4-d148503ce46f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iZ1skbBxTmEwRjTAsZT82Q&expected_price_source=share&expected_price_currency=brl&expected_price=1661&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1661,
     "ida": "2026-11-20",
     "volta": "2026-11-24",
@@ -1753,6 +1819,17 @@
     "link": "https://www.aviasales.com/search/GYN1811LIS26111?t=LA17950107001795069200000795GYNGRULIS17956830001795740900001145LISGRUGYN_c95c7498731a0162b10ba8707d748326_78663&search_date=02112026&expected_price_uuid=01a19e75-a2f2-8040-664a-299e0bac899a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jxfIXhIILR38M5WbLcfr4A&expected_price_source=share&expected_price_currency=brl&expected_price=5265&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 5265,
+    "ida": "2026-11-18",
+    "volta": "2026-11-26",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN1811LIS26111?t=LA17950107001795069200000795GYNGRULIS17956830001795740900001145LISGRUGYN_c95c7498731a0162b10ba8707d748326_78663&search_date=02112026&expected_price_uuid=01a19e75-a2f2-8040-664a-299e0bac899a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jxfIXhIILR38M5WbLcfr4A&expected_price_source=share&expected_price_currency=brl&expected_price=5265&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-MCO": [
@@ -1997,6 +2074,17 @@
     "link": "https://www.aviasales.com/search/GYN0202MCO16021?t=AV18015639001801658100001690GYNCNFGIGBOGMCO18027936001802873400001210MCOBOGGIGCNFGYN_83bf8186a6e3e2590ecd135c7563d03b_78676&search_date=01112026&expected_price_uuid=01a19816-0f5a-8030-e997-1ce79d0e36ed&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=w8BTJAp6Ts8D7dTHOoCCUg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=brl&expected_price=5328&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 5328,
+    "ida": "2027-02-02",
+    "volta": "2027-02-16",
+    "cia": "Azul",
+    "escalas": 3,
+    "link": "https://www.aviasales.com/search/GYN0202MCO16021?t=AV18015639001801658100001690GYNCNFGIGBOGMCO18027936001802873400001210MCOBOGGIGCNFGYN_83bf8186a6e3e2590ecd135c7563d03b_78676&search_date=01112026&expected_price_uuid=01a19816-0f5a-8030-e997-1ce79d0e36ed&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=w8BTJAp6Ts8D7dTHOoCCUg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=brl&expected_price=5328&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "BSB-REC": [
@@ -2200,6 +2288,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 911,
+    "ida": "2026-12-13",
+    "volta": "2026-12-20",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB1312REC20121?t=G317971395001797170100000510BSBGIGREC17977920001797841800000830RECCGHBSB_8f210850e117f646c2a593c75b09b68a_13452&search_date=01112026&expected_price_uuid=01a19803-d998-8030-ac11-2988d484d782&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m06qkVdLaWoZuF0SfMTBUQ&expected_price_source=share&expected_price_currency=brl&expected_price=911&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 911,
     "ida": "2026-12-13",
     "volta": "2026-12-20",
@@ -2419,6 +2518,17 @@
     "link": "https://www.aviasales.com/search/BSB2201MCZ30011?t=AD18006294001800660600000520BSBCNFCGHMCZ18012684001801302900000575MCZGYNCNFBSB_b779bcb8ecbe92db347711191ba90679_22659&search_date=31102026&expected_price_uuid=01a19352-e88b-8030-2056-212c56ebb9a6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cz12B8fSqWL8pMhdlr1PwQ&expected_price_source=share&expected_price_currency=brl&expected_price=1535&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 1535,
+    "ida": "2027-01-22",
+    "volta": "2027-01-30",
+    "cia": "Azul",
+    "escalas": 2,
+    "link": "https://www.aviasales.com/search/BSB2201MCZ30011?t=AD18006294001800660600000520BSBCNFCGHMCZ18012684001801302900000575MCZGYNCNFBSB_b779bcb8ecbe92db347711191ba90679_22659&search_date=31102026&expected_price_uuid=01a19352-e88b-8030-2056-212c56ebb9a6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cz12B8fSqWL8pMhdlr1PwQ&expected_price_source=share&expected_price_currency=brl&expected_price=1535&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-BPS": [
@@ -2622,6 +2732,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1264,
+    "ida": "2026-11-21",
+    "volta": "2026-11-26",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB2111BPS26111?t=G317952879001795350900001050BSBGRUBPS17956998001795716600000280BPSGRUBSB_febd44a25ed053e2649a96e3e05467a0_18752&search_date=03112026&expected_price_uuid=01a1a1e0-91ce-8040-ac5c-e86b97cb23bd&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sjarnJO9BdJMjAoSlea5Vw&expected_price_source=share&expected_price_currency=brl&expected_price=1264&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1264,
     "ida": "2026-11-21",
     "volta": "2026-11-26",
@@ -2841,6 +2962,17 @@
     "link": "https://www.aviasales.com/search/BSB2211BUE29111?t=LA17953212001795363200000700BSBGRUEZE17959428001795995300000875AEPGRUBSB_97324aced9b712a4588500115054a2ee_49735&search_date=03112026&expected_price_uuid=01a19eea-26d2-8030-aae8-e1949c32f9cc&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fKFxZSFPcCxZSGo3b42G-g&expected_price_source=share&expected_price_currency=brl&expected_price=3364&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 3364,
+    "ida": "2026-11-22",
+    "volta": "2026-11-29",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB2211BUE29111?t=LA17953212001795363200000700BSBGRUEZE17959428001795995300000875AEPGRUBSB_97324aced9b712a4588500115054a2ee_49735&search_date=03112026&expected_price_uuid=01a19eea-26d2-8030-aae8-e1949c32f9cc&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fKFxZSFPcCxZSGo3b42G-g&expected_price_source=share&expected_price_currency=brl&expected_price=3364&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-SCL": [
@@ -3052,6 +3184,17 @@
     "link": "https://www.aviasales.com/search/BSB1006SCL25061?t=LA18126306001812656400000490BSBGRUSCL18139035001813952400000755SCLFLNBSB_f4221a96acd63440c187a63e37232ce4_38792&search_date=02112026&expected_price_uuid=01a19d93-f6a9-8030-e944-c51f78413071&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XVvWT5zsy4ETc7qwAuZ_DQ&expected_price_source=share&expected_price_currency=brl&expected_price=2596&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 2596,
+    "ida": "2027-06-10",
+    "volta": "2027-06-25",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB1006SCL25061?t=LA18126306001812656400000490BSBGRUSCL18139035001813952400000755SCLFLNBSB_f4221a96acd63440c187a63e37232ce4_38792&search_date=02112026&expected_price_uuid=01a19d93-f6a9-8030-e944-c51f78413071&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XVvWT5zsy4ETc7qwAuZ_DQ&expected_price_source=share&expected_price_currency=brl&expected_price=2596&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-SSA": [
@@ -3244,6 +3387,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 713,
+    "ida": "2027-03-22",
+    "volta": "2027-03-27",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB2203SSA27031?t=LA18057168001805723700000115BSBSSA18061464001806153300000115SSABSB_a5cc23616533459972d39ac35954f65f_10528&search_date=01112026&expected_price_uuid=01a19900-5be5-8040-abf0-8480988da5da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9E_FX3ec82Nvsai-WOnmkQ&expected_price_source=share&expected_price_currency=brl&expected_price=713&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 713,
     "ida": "2027-03-22",
     "volta": "2027-03-27",
@@ -3452,6 +3606,17 @@
     "link": "https://www.aviasales.com/search/BSB1706FOR21061?t=LA18132156001813225200000160BSBFOR18135540001813563600000160FORBSB_4047ce0c62a0107e2795fdc00ab6ca38_14914&search_date=02112026&expected_price_uuid=01a19ea4-3239-8030-64b2-219c7ffc94cc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pMnMSe6dWCGia_osm_FTfQ&expected_price_source=share&expected_price_currency=brl&expected_price=998&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 998,
+    "ida": "2027-06-17",
+    "volta": "2027-06-21",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB1706FOR21061?t=LA18132156001813225200000160BSBFOR18135540001813563600000160FORBSB_4047ce0c62a0107e2795fdc00ab6ca38_14914&search_date=02112026&expected_price_uuid=01a19ea4-3239-8030-64b2-219c7ffc94cc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pMnMSe6dWCGia_osm_FTfQ&expected_price_source=share&expected_price_currency=brl&expected_price=998&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-NAT": [
@@ -3644,6 +3809,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1360,
+    "ida": "2026-12-05",
+    "volta": "2026-12-18",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB0512NAT18121?t=LA17965053001796514900000160BSBNAT17975694001797579600000170NATBSB_f0a87037f3f7e884f37909e7cf58a6b8_20082&search_date=31102026&expected_price_uuid=01a19237-4b14-8030-a6bc-8d3fdcc69fb0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VsVDsySiBruLY5oHKbKPEg&expected_price_source=share&expected_price_currency=brl&expected_price=1360&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1360,
     "ida": "2026-12-05",
     "volta": "2026-12-18",
@@ -3852,6 +4028,17 @@
     "link": "https://www.aviasales.com/search/BSB1303SAO14031?t=LA18049515001804957200000095BSBVCP18050040001805009700000095VCPBSB_5469758d899499c0271270e4d0df9817_7757&search_date=03112026&expected_price_uuid=01a1a34e-e463-8030-6772-9da99770085a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=48hM8qkdWFdOjkBFble_fQ&expected_price_source=share&expected_price_currency=brl&expected_price=522&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 522,
+    "ida": "2027-03-13",
+    "volta": "2027-03-14",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB1303SAO14031?t=LA18049515001804957200000095BSBVCP18050040001805009700000095VCPBSB_5469758d899499c0271270e4d0df9817_7757&search_date=03112026&expected_price_uuid=01a1a34e-e463-8030-6772-9da99770085a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=48hM8qkdWFdOjkBFble_fQ&expected_price_source=share&expected_price_currency=brl&expected_price=522&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-RIO": [
@@ -4044,6 +4231,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 483,
+    "ida": "2027-03-16",
+    "volta": "2027-03-24",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB1603RIO24031?t=LA18052188001805225100000105BSBSDU18059190001805925300000105SDUBSB_0c60485b2e0b8c0d6a3d752b1fa69cf3_7132&search_date=01112026&expected_price_uuid=01a1986c-6982-8031-6135-181930c97238&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CLRHTXoPlY4smXL96OrJjg&expected_price_source=share&expected_price_currency=brl&expected_price=483&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 483,
     "ida": "2027-03-16",
     "volta": "2027-03-24",
@@ -4252,6 +4450,17 @@
     "link": "https://www.aviasales.com/search/BSB0402FLN07021?t=G318017622001801821600000990BSBSDUGIGFLN18019785001801986300000130FLNBSB_00dde7cc1378c8dc5e8fc0b6a534957e_14355&search_date=02112026&expected_price_uuid=01a19e04-4b6d-8040-a976-bf793578474f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jsWI_XupJz-pNdSWEwgv7A&expected_price_source=share&expected_price_currency=brl&expected_price=961&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 961,
+    "ida": "2027-02-04",
+    "volta": "2027-02-07",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB0402FLN07021?t=G318017622001801821600000990BSBSDUGIGFLN18019785001801986300000130FLNBSB_00dde7cc1378c8dc5e8fc0b6a534957e_14355&search_date=02112026&expected_price_uuid=01a19e04-4b6d-8040-a976-bf793578474f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jsWI_XupJz-pNdSWEwgv7A&expected_price_source=share&expected_price_currency=brl&expected_price=961&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-POA": [
@@ -4444,6 +4653,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1932,
+    "ida": "2026-11-18",
+    "volta": "2026-11-25",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB1811POA25111?t=AD17949975001795012200000245BSBVCPPOA17955855001795599900000240POAVCPBSB_551b28a23dd7054e27137b3ba8fc41c0_28528&search_date=31102026&expected_price_uuid=01a19264-b7f3-8040-6e3c-f2a197c4a7c4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vWm58OIaitDpl5i3TLmKOg&expected_price_source=share&expected_price_currency=brl&expected_price=1932&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1932,
     "ida": "2026-11-18",
     "volta": "2026-11-25",
@@ -4652,6 +4872,17 @@
     "link": "https://www.aviasales.com/search/BSB0402LIS07021?t=G318017730001801908900002085BSBGIGLIS18020025001802040900000820LISGIGBSB_cf31501ecfac64b720d6196280748048_85369&search_date=02112026&expected_price_uuid=01a19e04-550c-8040-2a02-55f40fb90aa2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1-vyfWnpHXiM2Y88LgQ9aw&expected_price_source=share&expected_price_currency=brl&expected_price=5713&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 5713,
+    "ida": "2027-02-04",
+    "volta": "2027-02-07",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB0402LIS07021?t=G318017730001801908900002085BSBGIGLIS18020025001802040900000820LISGIGBSB_cf31501ecfac64b720d6196280748048_85369&search_date=02112026&expected_price_uuid=01a19e04-550c-8040-2a02-55f40fb90aa2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1-vyfWnpHXiM2Y88LgQ9aw&expected_price_source=share&expected_price_currency=brl&expected_price=5713&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-MCO": [
@@ -4852,6 +5083,17 @@
     "link": "https://www.aviasales.com/search/BSB0611MCO11111?t=CM17939301001794003720001347BSBPTYMCO17944092601794530400001899MCOPTYBSB_83c5552717e9aeb14d0356a45f9fc9b1_67555&search_date=03112026&expected_price_uuid=01a1a31f-1d0c-8040-acf0-2f4ab853224b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m8rmfN6oYHM__st3v01ryg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=brl&expected_price=4546&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 4546,
+    "ida": "2026-11-06",
+    "volta": "2026-11-11",
+    "cia": "Copa",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB0611MCO11111?t=CM17939301001794003720001347BSBPTYMCO17944092601794530400001899MCOPTYBSB_83c5552717e9aeb14d0356a45f9fc9b1_67555&search_date=03112026&expected_price_uuid=01a1a31f-1d0c-8040-acf0-2f4ab853224b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m8rmfN6oYHM__st3v01ryg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=brl&expected_price=4546&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "GYN-AJU": [
@@ -5022,6 +5264,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 2098,
+    "ida": "2027-01-05",
+    "volta": "2027-01-15",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN0501AJU15011?t=AD17991447001799171100000440GYNCNFAJU18000078001800028800000350AJURECGYN_3a4074abf5cd5484a50d2180788961df_31565&search_date=28102026&expected_price_uuid=01a18343-53eb-8040-68ba-d35ace99fed6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PEEdUf-O_ekFRldxIxuKoA&expected_price_source=share&expected_price_currency=brl&expected_price=2098&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 2098,
     "ida": "2027-01-05",
     "volta": "2027-01-15",
@@ -5208,6 +5461,17 @@
     "link": "https://www.aviasales.com/search/GYN1702JPA24021?t=AD18028944001802965200001180GYNVCPRECJPA18034854001803513900000475JPARECVCPGYN_5f2cf7fcfe3c47923ca154ac1a6db960_17024&search_date=31102026&expected_price_uuid=01a193b6-ffe0-8030-21f7-a51135cc4540&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WWkuaNL0jGueO_3RZVmGiA&expected_price_source=share&expected_price_currency=brl&expected_price=1153&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 1153,
+    "ida": "2027-02-17",
+    "volta": "2027-02-24",
+    "cia": "Azul",
+    "escalas": 2,
+    "link": "https://www.aviasales.com/search/GYN1702JPA24021?t=AD18028944001802965200001180GYNVCPRECJPA18034854001803513900000475JPARECVCPGYN_5f2cf7fcfe3c47923ca154ac1a6db960_17024&search_date=31102026&expected_price_uuid=01a193b6-ffe0-8030-21f7-a51135cc4540&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WWkuaNL0jGueO_3RZVmGiA&expected_price_source=share&expected_price_currency=brl&expected_price=1153&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "BSB-JPA": [
@@ -5378,6 +5642,17 @@
    },
    {
     "t": "2026-11-04T14:48:53.740199+00:00",
+    "preco": 1662,
+    "ida": "2026-12-09",
+    "volta": "2027-01-22",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.aviasales.com/search/BSB0912JPA22011?t=G317968500001796859600000160BSBJPA18005895001800614400000415JPAGIGBSB_5f3a1ae97b6281d1c5a7536a9daf155d_24541&search_date=01112026&expected_price_uuid=01a197a8-1ea5-8031-6a78-c607ef37b256&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b3gbSZNx8UR9OExZ9uo7SQ&expected_price_source=share&expected_price_currency=brl&expected_price=1662&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
     "preco": 1662,
     "ida": "2026-12-09",
     "volta": "2027-01-22",
@@ -5564,6 +5839,17 @@
     "link": "https://www.aviasales.com/search/BSB0312IOS07121?t=AD17962755001796303400000465BSBCGHIOS17966634001796691000000460IOSVCPBSB_7e1dcff6f70d26f87e41071eef7f7f44_24296&search_date=03112026&expected_price_uuid=01a1a1d4-bb1e-8040-ab69-e7f5d9d72999&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LCfIElogbZC3VeDV3ehWzw&expected_price_source=share&expected_price_currency=brl&expected_price=1638&marker=800145",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 1638,
+    "ida": "2026-12-03",
+    "volta": "2026-12-07",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/BSB0312IOS07121?t=AD17962755001796303400000465BSBCGHIOS17966634001796691000000460IOSVCPBSB_7e1dcff6f70d26f87e41071eef7f7f44_24296&search_date=03112026&expected_price_uuid=01a1a1d4-bb1e-8040-ab69-e7f5d9d72999&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LCfIElogbZC3VeDV3ehWzw&expected_price_source=share&expected_price_currency=brl&expected_price=1638&marker=800145",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "GYN-MCZ": [
@@ -5687,6 +5973,17 @@
     "link": "https://www.aviasales.com/search/GYN0701MCZ25011?t=AD17993232001799346300000385GYNRECMCZ18008481001800892800000745MCZRECGYN_8c00c4860c87f373c3bc99910797ed70_27206&search_date=03112026&expected_price_uuid=01a1a3cd-6c55-8040-2a78-dccdea544b8b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L-nPYlQAyAGpU3sSiTj1Gw&expected_price_source=share&expected_price_currency=brl&expected_price=1831&marker=800145",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-04T15:44:49.055347+00:00",
+    "preco": 1831,
+    "ida": "2027-01-07",
+    "volta": "2027-01-25",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.aviasales.com/search/GYN0701MCZ25011?t=AD17993232001799346300000385GYNRECMCZ18008481001800892800000745MCZRECGYN_8c00c4860c87f373c3bc99910797ed70_27206&search_date=03112026&expected_price_uuid=01a1a3cd-6c55-8040-2a78-dccdea544b8b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L-nPYlQAyAGpU3sSiTj1Gw&expected_price_source=share&expected_price_currency=brl&expected_price=1831&marker=800145",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ]
  },
@@ -5707,7 +6004,7 @@
    "link": "https://www.aviasales.com/search/GYN0503RIO07031?t=G318042444001804258200000230GYNGRUGIG18044157001804444800000485GIGGRUGYN_fde05f95c77cb06cb5d04427dcc7f8ce_18069&search_date=03112026&expected_price_uuid=01a19ee2-8308-8040-28d3-52b0f5f8f42f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yK1m7WBbi-uJammJIJbveA&expected_price_source=share&expected_price_currency=brl&expected_price=1222&marker=800145",
    "fonte": "datas",
    "origem": "GYN",
-   "t": "2026-11-04T14:48:53.740199+00:00"
+   "t": "2026-11-04T15:44:49.055347+00:00"
   }
  }
 }
