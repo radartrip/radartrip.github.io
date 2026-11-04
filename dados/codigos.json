@@ -1,5 +1,5 @@
 {
- "ultimo": 23,
+ "ultimo": 24,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -380,6 +380,23 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0024",
+   "enviado_em": "2026-11-04T18:32:11.909295+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para João Pessoa a partir de R$ 130 ou 10 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-joao-pessoa-a-partir-de-r-130-ou-10-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
     "trechos": []
    }
   }
