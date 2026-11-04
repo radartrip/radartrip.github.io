@@ -1,5 +1,68 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148090",
+  "titulo": "Ganhe até 60 mil pontos bônus na assinatura ou upgrade do Clube Esfera",
+  "link": "https://pontospravoar.com/ganhe-ate-60-mil-pontos-bonus-na-assinatura-ou-upgrade-do-clube-esfera/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quer turbinar seu saldo de pontos ao longo do ano? A Esfera está de volta com uma promoção especial para quem deseja realizar uma nova assinatura ou upgrade de plano do Clube Esfera! Nesta campanha, os participantes podem acumular até 60 mil pontos bônus em 12 meses. Confira os detalhes, saiba quem pode participar e…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Esfera",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Adesão Clube Esfera",
+   "Black Friday",
+   "Clube Esfera"
+  ],
+  "data": "2026-11-04T11:00:06+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Esfera|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-04T11:49:55.292173+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579423",
+  "titulo": "Pré Black Friday! Envie pontos Esfera para o ALL Accor e ganhe 20% de pontos de volta + até 10% de bônus",
+  "link": "https://passageirodeprimeira.com/pre-black-friday-envie-pontos-esfera-para-o-all-accor-e-ganhe-20-de-pontos-de-volta-ate-10-de-bonus/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Até sexta-feira (6), quem transferir pontos Esfera para o programa ALL Accor recebe 20% de pontos de volta e, se for assinante do ALL Signature, ainda ganha 10% de bônus. É uma ótima oportunidade para acumular pontos e aproveitar as vantagens do programa. Não perca essa chance de maximizar seus pontos!",
+  "categorias": [
+   "Promoções",
+   "Publicidade"
+  ],
+  "data": "2026-11-04T11:00:31+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Esfera"
+  ],
+  "bonus": 10,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Esfera|10|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-04T11:49:55.118965+00:00",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148167",
   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 3 de novembro de 2026",
   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-3-novembro-2026/",
