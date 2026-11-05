@@ -1,5 +1,5 @@
 {
- "ultimo": 30,
+ "ultimo": 31,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -489,6 +489,18 @@
     "programas": [
      "LATAM Pass"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0031",
+   "enviado_em": "2026-11-05T10:51:11.973353+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
     "trechos": []
    }
   }
