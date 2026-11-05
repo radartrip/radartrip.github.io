@@ -32,7 +32,8 @@
   "https://passageirodeprimeira.com/?p=579948",
   "https://passageirodeprimeira.com/?p=579902",
   "https://pontospravoar.com/?p=148480",
-  "https://passageirodeprimeira.com/?p=579991"
+  "https://passageirodeprimeira.com/?p=579991",
+  "https://pontospravoar.com/?p=148528"
  ],
  "resgates": [
   {
@@ -154,6 +155,29 @@
    "post": "https://pontospravoar.com/alerta-ppv-viaje-europa-57-mil-milhas-latam-pass/",
    "titulo": "Alerta PPV! Viaje para a Europa a partir de 57 mil milhas LATAM Pass",
    "visto_em": "2026-11-05T14:08:48.539350+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "AEP",
+   "origem_nome": "Brasília",
+   "destino_nome": "Buenos Aires",
+   "milhas": 37000,
+   "milhas_clube": 35000,
+   "data": "2026-12-13",
+   "datas_texto": "4 de dezembro",
+   "cia": "GOL",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1797174000000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=AEP&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Dezembro/2026: 4"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 1682,
+   "preco_origem": "estimativa: metade do ida e volta",
+   "milheiro": 45.46,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-voos-para-diferentes-destinos-argentinos-a-partir-de-29-500-milhas-smiles/",
+   "titulo": "Alerta PPV! Voos para diferentes destinos argentinos a partir de 29.500 milhas Smiles",
+   "visto_em": "2026-11-05T20:37:22.974030+00:00"
   }
  ]
 }

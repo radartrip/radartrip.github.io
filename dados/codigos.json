@@ -1,5 +1,5 @@
 {
- "ultimo": 38,
+ "ultimo": 39,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -618,6 +618,24 @@
      "Livelo"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0039",
+   "enviado_em": "2026-11-05T20:37:23.514198+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Voos para diferentes destinos argentinos a partir de 29.500 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-voos-para-diferentes-destinos-argentinos-a-partir-de-29-500-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "BSB-AEP"
+    ]
    }
   }
  ]
