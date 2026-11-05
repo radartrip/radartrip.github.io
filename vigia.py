@@ -1,4 +1,9 @@
-# Radar Trip - Vigia de promocoes (v3.4 - toda oferta de passagem vai para a vitrine)
+# Radar Trip - Vigia de promocoes (v3.5 - vitrine sem citar o blog: link oficial)
+# Novidade v3.5: a VITRINE nao cita mais a fonte (blog). O Radar Trip e a fonte: o assinante
+# recebe o link de quem vende (companhia, programa de pontos, banco) achado dentro do post,
+# limpo de rastreio (utm, afiliado). Sem link oficial, vai o site do programa; sem programa,
+# o post sai sem link. O titulo perde marcas de blog ("Alerta PPV"...). Bastidores seguem
+# mostrando a fonte e o link do blog (so o dono ve).
 # Le os blogs de promocao, filtra o que interessa e avisa no Telegram.
 #
 # Novidade v2: nos posts de passagens com milhas, abre o post completo pelo canal
@@ -562,6 +567,92 @@ def conteudo_do_post(link):
     return ""
 
 
+# ================= Link oficial (v3.5): a vitrine nao cita o blog =================
+
+DOMINIOS_OFICIAIS = (
+    "smiles.com.br", "shoppingsmiles.com.br", "voegol.com.br", "latamairlines.com", "latam.com",
+    "latampass.com", "voeazul.com.br", "tudoazul.com", "azulfidelidade.com.br", "livelo.com.br",
+    "esfera.com.vc", "flytap.com", "aa.com", "united.com", "delta.com", "copaair.com", "aerolineas.com.ar",
+    "airfrance.com.br", "klm.com.br", "iberia.com", "aireuropa.com", "jetsmart.com", "flysky.com",
+    "c6bank.com.br", "itau.com.br", "iupp.com.br", "bradesco.com.br", "santander.com.br", "bb.com.br",
+    "caixa.gov.br", "bancointer.com.br", "inter.co", "nubank.com.br", "btgpactual.com", "xpi.com.br",
+    "sicoob.com.br", "sicredi.com.br",
+)
+SITE_DO_PROGRAMA = {
+    "Smiles": "https://www.smiles.com.br", "LATAM Pass": "https://latampass.latam.com",
+    "Azul Fidelidade": "https://www.voeazul.com.br", "TAP Miles&Go": "https://www.flytap.com",
+    "AAdvantage": "https://www.aa.com", "Livelo": "https://www.livelo.com.br", "Esfera": "https://www.esfera.com.vc",
+}
+LINK_VOOS_GYN = ("https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q="
+                 + urllib.parse.quote("Voos saindo de Goiânia"))
+RE_RASTREIO = re.compile(r"^(utm_|fbclid|gclid|mc_|ref$|refer|aff|afil|parceiro|partner|source$|origem$|campaign)", re.I)
+RE_MARCA_BLOG = re.compile(r"\b(alerta(?:s)? (?:de passagens? )?ppv|ppv|pontos pra voar|passageiro de primeira|"
+                           r"melhores destinos)\b\s*[:\-–|!]*\s*", re.I)
+
+
+class LeitorLinks(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.links = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            href = dict(attrs).get("href") or ""
+            if href.startswith("http"):
+                self.links.append(href)
+
+
+def link_oficial_ok(url):
+    try:
+        partes = urllib.parse.urlparse(url)
+    except ValueError:
+        return False
+    host = (partes.hostname or "").lower()
+    if host.endswith("google.com") and partes.path.startswith("/travel"):
+        return True
+    return any(host == d or host.endswith("." + d) for d in DOMINIOS_OFICIAIS)
+
+
+def limpar_link(url):
+    """Tira do link os parametros de rastreio do blog (utm, afiliado...)."""
+    try:
+        partes = urllib.parse.urlparse(url)
+        query = [(k, v) for k, v in urllib.parse.parse_qsl(partes.query, keep_blank_values=True)
+                 if not RE_RASTREIO.match(k)]
+        return urllib.parse.urlunparse(partes._replace(query=urllib.parse.urlencode(query), fragment=""))
+    except ValueError:
+        return url
+
+
+def achar_link_oficial(item):
+    """Link de quem vende: 1o link oficial do post; senao reserva do resgate; senao site do programa."""
+    if "link_oficial" in item:
+        return item["link_oficial"]
+    link = ""
+    try:
+        leitor = LeitorLinks()
+        leitor.feed(conteudo_do_post(item["link"]))
+        link = next((limpar_link(u) for u in leitor.links if link_oficial_ok(u)), "")
+    except Exception as erro:
+        print(f"Link oficial: não consegui ler {item.get('link')}: {erro}")
+    if not link:
+        link = next((limpar_link(t["reserva"]) for t in item.get("resgates") or []
+                     if t.get("reserva") and link_oficial_ok(t["reserva"])), "")
+    if not link:
+        destino, origem = item.get("programas_destino") or [], item.get("programas_origem") or []
+        # Na transferencia, quem faz a acao e a origem (Livelo/Esfera/banco); no resto, o programa da companhia
+        programas = origem + destino if item.get("categoria") == "transferencia" else destino + origem
+        link = next((SITE_DO_PROGRAMA[p] for p in programas if p in SITE_DO_PROGRAMA), "")
+    item["link_oficial"] = link
+    return link
+
+
+def titulo_limpo(titulo):
+    """Titulo para a vitrine, sem marca de blog ('Alerta PPV: ...')."""
+    limpo = RE_MARCA_BLOG.sub("", titulo or "").strip(" -–|:!")
+    return (limpo[:1].upper() + limpo[1:]) if limpo else (titulo or "")
+
+
 def preco_dinheiro(origem, destino, quando, token, precos_medidor):
     """Menor preço SÓ IDA em dinheiro do mesmo trecho. Devolve (preço, de onde veio)."""
     if token and quando:
@@ -855,7 +946,7 @@ def linha_resgate(t):
     else:
         linha += "\n   ❔ Sem preço em dinheiro recente para comparar"
     if t.get("reserva"):
-        linha += f"\n   <a href=\"{e(t['reserva'])}\">Reservar</a>"
+        linha += f"\n   <a href=\"{e(limpar_link(t['reserva']))}\">Reservar</a>"
     return linha
 
 
@@ -993,7 +1084,7 @@ def registrar_promo(item, promos, hoje=None):
         "origens": item.get("programas_origem", []), "destinos": item.get("programas_destino", []),
         "bonus": item.get("bonus", 0), "desconto": item.get("desconto", 0),
         "milheiro": item.get("milheiro_citado"), "prazo": item.get("prazo", ""),
-        "visto_em": hoje.isoformat(), "titulo": item["titulo"], "link": item["link"],
+        "visto_em": hoje.isoformat(), "titulo": item["titulo"], "link": achar_link_oficial(item),
     })
 
 
@@ -1053,9 +1144,14 @@ def formatar_combo(combo):
     if combo["prazo"]:
         linhas.append(prazo_texto(combo["prazo"]).replace("Até", "Faça até"))
     linhas.append(f"<i>Conta: {reais(c['milheiro'])} ÷ (1 + {t['bonus']}%) = {reais(combo['final'])}</i>")
-    linhas.append("")
-    linhas.append(f"🔗 <a href=\"{e(c['link'])}\">{'Promoção do clube' if c['categoria'] == 'clube' else 'Promoção de compra'}</a> · "
-                  f"<a href=\"{e(t['link'])}\">Promoção de transferência</a>")
+    botoes = []
+    if c.get("link") and link_oficial_ok(c["link"]):
+        botoes.append(f"<a href=\"{e(c['link'])}\">{'Assinar o clube' if c['categoria'] == 'clube' else 'Comprar os pontos'}</a>")
+    if t.get("link") and link_oficial_ok(t["link"]):
+        botoes.append(f"<a href=\"{e(t['link'])}\">Fazer a transferência</a>")
+    if botoes:
+        linhas.append("")
+        linhas.append("🔗 " + " · ".join(botoes))
     return "\n".join(linhas)
 
 
@@ -1107,11 +1203,18 @@ def formatar_vitrine(item):
     texto = cab + "\n"
     if detalhe:
         texto += "\n" + "\n".join(detalhe) + "\n"
-    texto += f"\n{e(item['titulo'])}\n"
+    texto += f"\n{e(titulo_limpo(item['titulo']))}\n"
     if item.get("resgates"):
         texto += ("\n" + "\n".join(linha_resgate(t) for t in item["resgates"])
                   + "\n<i>Milheiro = preço em dinheiro ÷ milhas × 1.000, sem contar taxas.</i>\n")
-    return texto + f"\n🔗 <a href=\"{e(item['link'])}\">Ver detalhes da promoção</a> · fonte: {e(item['fonte'])}"
+    if item.get("resgates"):
+        return texto          # cada trecho ja tem o seu "Reservar"
+    link = achar_link_oficial(item)
+    if link:
+        texto += f"\n👉 <a href=\"{e(link)}\">Acessar a promoção</a>"
+    elif item.get("tipo") in ("Passagem em dinheiro", "Passagem com milhas"):
+        texto += f"\n👉 <a href=\"{e(LINK_VOOS_GYN)}\">Ver voos saindo de Goiânia</a>"
+    return texto
 
 
 def etiquetas(item):
