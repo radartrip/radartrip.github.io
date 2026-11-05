@@ -1,5 +1,5 @@
 {
- "ultimo": 35,
+ "ultimo": 37,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -567,6 +567,38 @@
     "categoria": "passagem",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0036",
+   "enviado_em": "2026-11-05T18:05:42.551290+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Orlando a partir de R$ 1.043 ou 87 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-orlando-a-partir-r-1-043-ou-87-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0037",
+   "enviado_em": "2026-11-05T18:05:43.259501+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Azul Fidelidade oferece voos para Curitiba a partir de 4.200 pontos",
+   "link": "https://pontospravoar.com/alerta-ppv-azul-fidelidade-oferece-voos-curitiba-4200-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
