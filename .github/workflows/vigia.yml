@@ -29,6 +29,8 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
+          # v3.6: preço da LATAM ao vivo nos resgates (opcional; sem a chave, o vigia segue normal)
+          GECKO_API_KEY: ${{ secrets.GECKO_API_KEY }}
         run: python vigia.py
 
       - name: Medir precos saindo de GYN
