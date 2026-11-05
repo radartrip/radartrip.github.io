@@ -138,6 +138,23 @@
    "visto_em": "2026-11-05",
    "titulo": "Gere euro a partir de R$ 4,39 ao transferir pontos Esfera para o ALL",
    "link": "https://passageirodeprimeira.com/gere-euro-a-partir-de-r-439-ao-transferir-pontos-esfera-para-o-all/"
+  },
+  {
+   "assinatura": "transferencia|Nubank|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Nubank"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-06",
+   "visto_em": "2026-11-05",
+   "titulo": "Transfira pontos do Nubank e ganhe até 120% de bônus no Azul Fidelidade",
+   "link": "https://pontospravoar.com/transfira-pontos-nubank-ganhe-ate-120-porcento-bonus-azul-fidelidade/"
   }
  ],
  "vitrine": {
@@ -160,7 +177,8 @@
   "passagem||2.048,600": "2026-11-04T19:39:51.339410+00:00",
   "passagem||1,2,5.191": "2026-11-04T19:39:51.769232+00:00",
   "passagem||1.828": "2026-11-04T19:39:52.212084+00:00",
-  "passagem|LATAM Pass|5": "2026-11-04T22:13:02.659326+00:00"
+  "passagem|LATAM Pass|5": "2026-11-04T22:13:02.659326+00:00",
+  "transferencia|Nubank|Azul Fidelidade|120|": "2026-11-05T12:49:40.199429+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
