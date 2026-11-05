@@ -1,5 +1,72 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579948",
+  "titulo": "Smiles tem voos nacionais a partir de 6 mil milhas",
+  "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-6-mil-milhas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Em nossas pesquisas identificamos que a Smiles está oferecendo voos nacionais a partir de 6.400 milhas por trecho + taxas.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-05T16:20:38+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|6",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T17:20:02.960435+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0035"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148426",
+  "titulo": "Livelo oferece até 105 mil pontos para upgrade ao Clube Especial",
+  "link": "https://pontospravoar.com/livelo-oferece-ate-105-mil-pontos-upgrade-clube-especial/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Livelo está com uma nova promoção para clientes que desejam realizar upgrade para o Clube Especial. Nesta campanha, é possível acumular 105 mil pontos na modalidade anual ou 102 mil pontos na modalidade mensal. Confira as condições e veja se vale a pena aproveitar! Promoção de upgrade para o Clube Especial Esta promoção de…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Clube Livelo Especial",
+   "livelo",
+   "Upgrade Clube Livelo"
+  ],
+  "data": "2026-11-05T17:00:54+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T17:20:03.041620+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579858",
   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos da Nubank",
   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-de-bonus-nas-transferencias-de-pontos-da-nubank/",

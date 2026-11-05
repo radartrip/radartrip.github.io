@@ -1,5 +1,5 @@
 {
- "ultimo": 34,
+ "ultimo": 35,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -551,6 +551,22 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0035",
+   "enviado_em": "2026-11-05T17:20:05.150081+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Smiles tem voos nacionais a partir de 6 mil milhas",
+   "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-6-mil-milhas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }
