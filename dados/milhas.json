@@ -26,7 +26,9 @@
   "https://passageirodeprimeira.com/?p=579622",
   "https://pontospravoar.com/?p=148250",
   "https://pontospravoar.com/?p=145059",
-  "https://pontospravoar.com/?p=148348"
+  "https://pontospravoar.com/?p=148348",
+  "https://passageirodeprimeira.com/?p=579825",
+  "https://pontospravoar.com/?p=148429"
  ],
  "resgates": [
   {
@@ -128,6 +130,26 @@
    "post": "https://pontospravoar.com/alerta-ppv-confira-destinos-brasil-8000-milhas-smiles/",
    "titulo": "Alerta PPV! Confira destinos pelo Brasil a partir de 8.000 milhas Smiles",
    "visto_em": "2026-11-04T19:39:49.886978+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "AMS",
+   "origem_nome": "Brasília",
+   "destino_nome": "Amsterdã",
+   "milhas": 74368,
+   "milhas_clube": null,
+   "data": "2026-11-08",
+   "datas_texto": "8 de novembro",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=AMS&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2026-11-08T00%3A00%3A00.000Z&inbound=2026-11-18T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=22ac1524-a8ff-4a53-a12a-7cc69fe46450&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+   "programa": "LATAM Pass",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-viaje-europa-57-mil-milhas-latam-pass/",
+   "titulo": "Alerta PPV! Viaje para a Europa a partir de 57 mil milhas LATAM Pass",
+   "visto_em": "2026-11-05T14:08:48.539350+00:00"
   }
  ]
 }

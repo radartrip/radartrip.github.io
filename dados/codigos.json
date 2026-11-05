@@ -1,5 +1,5 @@
 {
- "ultimo": 32,
+ "ultimo": 34,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -517,6 +517,40 @@
     "programas": [
      "Azul Fidelidade",
      "Nubank"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0033",
+   "enviado_em": "2026-11-05T14:08:49.387458+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Viaje para a Europa a partir de 57 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-57-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-AMS"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0034",
+   "enviado_em": "2026-11-05T14:08:49.988746+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe de São Paulo para Frankfurt a partir de 63 mil milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/voe-sao-paulo-para-frankfurt-a-partir-63-mil-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }

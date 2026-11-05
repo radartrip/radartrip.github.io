@@ -1,5 +1,163 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148429",
+  "titulo": "Alerta PPV! Viaje para a Europa a partir de 57 mil milhas LATAM Pass",
+  "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-57-mil-milhas-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal começar a planejar sua próxima viagem para a Europa utilizando milhas? No Alerta de Passagens PPV de hoje, nossa equipe selecionou oportunidades para conhecer diferentes destinos europeus com o LATAM Pass, com emissões a partir de 57 mil milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para organizar sua…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Europa",
+   "LATAM",
+   "PUBLICIDADE",
+   "TRECHOS INTERNACIONAIS"
+  ],
+  "data": "2026-11-05T13:00:22+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|57",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-05T14:08:47.057745+00:00",
+  "trechos_total": 8,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "AMS",
+    "origem_nome": "Brasília",
+    "destino_nome": "Amsterdã",
+    "milhas": 74368,
+    "milhas_clube": null,
+    "data": "2026-11-08",
+    "datas_texto": "8 de novembro",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=AMS&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2026-11-08T00%3A00%3A00.000Z&inbound=2026-11-18T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=22ac1524-a8ff-4a53-a12a-7cc69fe46450&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+    "programa": "LATAM Pass",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ],
+  "codigo": "RT-0033"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579825",
+  "titulo": "Voe de São Paulo para Frankfurt a partir de 63 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/voe-sao-paulo-para-frankfurt-a-partir-63-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Frankfurt (FRA). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.908 milhas LATAM Pass + taxas. Confira!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-05T13:00:48+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|63",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T14:08:45.385428+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "codigo": "RT-0034"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579882",
+  "titulo": "Smiles e Livelo lançam ferramenta que simplifica a transferência de pontos",
+  "link": "https://passageirodeprimeira.com/smiles-e-livelo-lancam-ferramenta-que-simplifica-a-transferencia-de-pontos/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles e a Livelo lançaram a funcionalidade 'Transferência Direta com Livelo'. A novidade permite converter pontos Livelo em milhas Smiles diretamente pelo site da Smiles, respeitando o saldo mínimo disponível na conta.",
+  "categorias": [
+   "Notícias",
+   "Programas de Fidelidade"
+  ],
+  "data": "2026-11-05T13:40:19+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T14:08:45.383422+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148438",
+  "titulo": "Pink Friday! Livelo oferece até 15 pontos por real em mais de 70 lojas parceiras",
+  "link": "https://pontospravoar.com/pink-friday-livelo-oferece-ate-15-pontos-real-mais-70-lojas-parceiras/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Começou a Pink Friday da Livelo! A campanha reúne ofertas para acumular a partir de 15 pontos por real gasto em compras realizadas em mais de 70 lojas parceiras. Uma oportunidade para aumentar seu saldo de pontos enquanto aproveita as promoções de diferentes estabelecimentos. Confira os destaques da campanha e saiba como aproveitar! Promoções Livelo…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "ACÚMULO DE PONTOS",
+   "Clube Livelo Days",
+   "livelo"
+  ],
+  "data": "2026-11-05T14:00:43+00:00",
+  "pontos_por_real": 15.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||15.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T14:08:47.056849+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148423",
   "titulo": "Transfira pontos do Nubank e ganhe até 120% de bônus no Azul Fidelidade",
   "link": "https://pontospravoar.com/transfira-pontos-nubank-ganhe-ate-120-porcento-bonus-azul-fidelidade/",

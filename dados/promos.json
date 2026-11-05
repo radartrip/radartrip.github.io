@@ -178,7 +178,9 @@
   "passagem||1,2,5.191": "2026-11-04T19:39:51.769232+00:00",
   "passagem||1.828": "2026-11-04T19:39:52.212084+00:00",
   "passagem|LATAM Pass|5": "2026-11-04T22:13:02.659326+00:00",
-  "transferencia|Nubank|Azul Fidelidade|120|": "2026-11-05T12:49:40.199429+00:00"
+  "transferencia|Nubank|Azul Fidelidade|120|": "2026-11-05T12:49:40.199429+00:00",
+  "passagem|LATAM Pass|57": "2026-11-05T14:08:49.388183+00:00",
+  "passagem|LATAM Pass|63": "2026-11-05T14:08:49.989641+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
