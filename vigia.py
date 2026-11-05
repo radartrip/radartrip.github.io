@@ -1,4 +1,14 @@
-# Radar Trip - Vigia de promocoes (v3.5 - vitrine sem citar o blog: link oficial)
+# Radar Trip - Vigia de promocoes (v3.6 - cacador de resgates em texto + LATAM Pass)
+# Novidade v3.6: o leitor de milhas tambem entende promocoes escritas em TEXTO
+# ("Uberlandia (UDI) x Brasilia (BSB) - a partir de 6.073 milhas + taxas por trecho",
+# "entre Rio (GIG) e Milao (MXP) ... a partir de 63.544 milhas"), e nao so tabelas.
+# Resgate da LATAM Pass saindo/chegando em GYN/BSB ganha prioridade maxima. A vitrine sai no
+# formato "Oportunidade de resgate" (rota, programa, pontos o trecho + taxas, datas por mes,
+# milheiro, link para emitir e aviso de simulacao). Com GECKO_API_KEY no cofre, o resgate
+# LATAM com data e sem preco do mesmo dia busca o preco em dinheiro AO VIVO na LATAM
+# (GeckoAPI, 5 creditos), com teto mensal de creditos (GECKO_MAX_CREDITOS_MES).
+#
+# v3.5 - vitrine sem citar o blog: link oficial
 # Novidade v3.5: a VITRINE nao cita mais a fonte (blog). O Radar Trip e a fonte: o assinante
 # recebe o link de quem vende (companhia, programa de pontos, banco) achado dentro do post,
 # limpo de rastreio (utm, afiliado). Sem link oficial, vai o site do programa; sem programa,
@@ -42,6 +52,7 @@ import html
 import json
 import os
 import re
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -553,6 +564,119 @@ def extrair_trechos(conteudo_html, hoje=None):
     return trechos
 
 
+# ---- v3.6: trechos escritos em texto corrido ----
+RE_SEPARADOR_TRECHO = re.compile(r"^\s*(?:x|×|>|→|⇄|–|—|-|/|e|para|até|ate|com destino a)\s+", re.I)
+RE_MILHAS_TEXTO = re.compile(r"(\d{1,3}(?:\.\d{3})+|\d+(?:[.,]\d+)?\s*mil(?!h)|\d{3,6})\s*(?:milhas|pontos|pts)\b", re.I)
+RE_BLOCO_FIM = re.compile(r"</(?:p|li|h[1-6]|tr|div|blockquote)>|<br\s*/?>", re.I)
+
+def blocos_do_post(conteudo_html):
+    """HTML do post -> [(texto, [links])], um parágrafo / item de lista por bloco."""
+    blocos = []
+    for pedaco in RE_BLOCO_FIM.split(conteudo_html or ""):
+        links = [html.unescape(h) for h in re.findall(r"href=[\"']([^\"']+)[\"']", pedaco)]
+        texto = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", pedaco))).strip()
+        if texto:
+            blocos.append((texto, links))
+    return blocos
+
+
+def linhas_do_post(conteudo_html):
+    """HTML do post -> linhas de texto (um parágrafo / item de lista por linha)."""
+    return [texto for texto, _ in blocos_do_post(conteudo_html)]
+
+
+CONECTORES_NOME = {"de", "do", "da", "dos", "das", "del"}
+
+
+def nome_antes(texto):
+    """Nome da cidade logo antes do '(AAA)': palavras com inicial maiúscula (e 'de/do/da' no meio)."""
+    ultimo = re.split(r"[:;,.!?>–—→⇄(\[\]]", texto or "")[-1].split()
+    nome = []
+    for palavra in reversed(ultimo):
+        if palavra[:1].isupper() or (palavra.lower() in CONECTORES_NOME and nome):
+            nome.insert(0, palavra)
+        else:
+            break
+    while nome and nome[0].lower() in CONECTORES_NOME:
+        nome.pop(0)
+    return " ".join(nome)
+
+
+def extrair_trechos_texto(conteudo_html):
+    """Trechos citados em texto: 'Cidade (AAA) x Cidade (BBB) – a partir de N milhas'."""
+    achados = []
+    for linha, links in blocos_do_post(conteudo_html):
+        codigos = list(re.finditer(r"\(([A-Z]{3})\)", linha))
+        if len(codigos) < 2:
+            continue
+        for a, b in zip(codigos, codigos[1:]):
+            entre = linha[a.end():b.start()]
+            sep = RE_SEPARADOR_TRECHO.match(entre)
+            if not sep or len(entre) > 50:
+                continue
+            resto = linha[b.end():]
+            corte = re.search(r"\([A-Z]{3}\)", resto)           # milhas antes do próximo trecho
+            m = RE_MILHAS_TEXTO.search(resto[:corte.start()] if corte else resto)
+            if not m:
+                continue
+            milhas = numero_milhas(m.group(0))
+            if milhas < 1000:
+                continue
+            ambos = sep.group(0).strip().lower() in ("x", "×", "⇄", "e", "/")
+            achados.append({
+                "origem": a.group(1), "destino": b.group(1),
+                "origem_nome": nome_antes(linha[:a.start()]),
+                "destino_nome": nome_antes(entre[sep.end():] if entre[sep.end():].strip() else ""),
+                "milhas": milhas, "milhas_clube": None, "data": "", "datas_texto": "",
+                "cia": "", "reserva": next((l for l in links if link_oficial_ok(l)), ""),
+                "ambos_sentidos": ambos, "formato": "texto",
+            })
+    # mesmo trecho repetido no post: fica o menor preço
+    unicos = {}
+    for t in achados:
+        chave = tuple(sorted((t["origem"], t["destino"]))) if t["ambos_sentidos"] else (t["origem"], t["destino"])
+        if chave not in unicos or t["milhas"] < unicos[chave]["milhas"]:
+            unicos[chave] = t
+    return list(unicos.values())
+
+
+RE_DIAS = r"(\d{1,2}(?:\s*(?:,|e)\s*\d{1,2})*)"
+RE_MES = r"(" + "|".join(sorted(MESES, key=len, reverse=True)) + r")"
+
+
+def datas_por_mes(texto, hoje=None):
+    """'3, 5 e 10 de março' / 'Dezembro/2026: 3, 5 e 8' -> ['Março/2027: 3, 5 e 10', ...]."""
+    hoje = hoje or date.today()
+    t = (texto or "").lower()
+    grupos = {}
+    padroes = [
+        (re.compile(RE_DIAS + r"\s+de\s+" + RE_MES + r"(?:\s+(?:de\s+)?(\d{4}))?"), (1, 2, 3)),
+        (re.compile(RE_MES + r"(?:\s*(?:/|de)\s*(\d{4}))?\s*:\s*" + RE_DIAS), (3, 1, 2)),
+    ]
+    for regex, (g_dias, g_mes, g_ano) in padroes:
+        for m in regex.finditer(t):
+            mes = MESES[m.group(g_mes)]
+            dias = sorted({int(d) for d in re.findall(r"\d{1,2}", m.group(g_dias)) if 1 <= int(d) <= 31})
+            if not dias:
+                continue
+            if m.group(g_ano):
+                ano = int(m.group(g_ano))
+            else:
+                primeiro = proxima_data(dias[-1], mes, hoje)
+                ano = primeiro.year if primeiro else hoje.year
+            if date(ano, mes, 1) < date(hoje.year, hoje.month, 1):
+                continue
+            grupos.setdefault((ano, mes), set()).update(dias)
+    nomes = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
+             "Outubro", "Novembro", "Dezembro"]
+    saida = []
+    for (ano, mes) in sorted(grupos):
+        dias = [str(d) for d in sorted(grupos[(ano, mes)])]
+        lista = dias[0] if len(dias) == 1 else ", ".join(dias[:-1]) + " e " + dias[-1]
+        saida.append(f"{nomes[mes - 1]}/{ano}: {lista}")
+    return saida
+
+
 def conteudo_do_post(link):
     """Pega o post completo pelo canal público do WordPress (wp-json)."""
     partes = urllib.parse.urlparse(link)
@@ -684,9 +808,59 @@ def preco_dinheiro(origem, destino, quando, token, precos_medidor):
     return None, ""
 
 
+# ---- v3.6: preço em dinheiro AO VIVO na LATAM pela GeckoAPI (pago: 5 créditos por busca) ----
+ARQ_GECKO = os.path.join(PASTA, "gecko.json")
+GECKO_API = "https://api.geckoapi.com.br/v1/extract"
+GECKO_CUSTO = 5                  # créditos por busca na LATAM
+GECKO_MAX_CREDITOS_MES = 50      # teto mensal só para o vigia (10 buscas). Suba para 150+ quando assinar um plano.
+
+
+def preco_latam_gecko(origem, destino, quando):
+    """Menor preço só ida na LATAM, ao vivo. Só roda com chave no cofre e dentro do teto do mês."""
+    chave = os.environ.get("GECKO_API_KEY")
+    if not chave or not quando:
+        return None
+    estado = carregar(ARQ_GECKO, {"mes": "", "creditos": 0, "cache": {}})
+    mes = date.today().strftime("%Y-%m")
+    if estado.get("mes") != mes:
+        estado = {"mes": mes, "creditos": 0, "cache": estado.get("cache", {})}
+    id_busca = f"{origem}-{destino}-{quando}"
+    if id_busca in estado["cache"]:
+        return estado["cache"][id_busca]
+    if estado["creditos"] + GECKO_CUSTO > GECKO_MAX_CREDITOS_MES:
+        print(f"Gecko: teto do mês atingido ({estado['creditos']} créditos); {id_busca} sem busca ao vivo.")
+        return None
+    corpo = {"target": "latamairlines.com", "type": "plp", "from": origem, "to": destino,
+             "departureDate": quando, "numAdults": 1, "numChildren": 0, "numInfants": 0}
+    req = urllib.request.Request(GECKO_API, data=json.dumps(corpo).encode("utf-8"), headers={
+        "Authorization": f"Bearer {chave}", "Content-Type": "application/json", "User-Agent": "RadarTrip/3.6"})
+    preco = None
+    try:
+        with urllib.request.urlopen(req, timeout=100) as r:
+            resp = json.loads(r.read().decode("utf-8"))
+        estado["creditos"] += GECKO_CUSTO
+        itens = ((resp.get("data") or {}).get("items")) or []
+        valores = [i["price"]["amount"] for i in itens if (i.get("price") or {}).get("amount")]
+        preco = int(min(valores)) if valores else None
+    except urllib.error.HTTPError as erro:
+        if erro.code not in (402, 429) and erro.code < 500:
+            estado["creditos"] += GECKO_CUSTO
+        print(f"Gecko: LATAM {id_busca} falhou: HTTP {erro.code}")
+    except Exception as erro:
+        print(f"Gecko: LATAM {id_busca} falhou: {erro}")
+    estado["cache"][id_busca] = preco
+    estado["cache"] = dict(list(estado["cache"].items())[-300:])
+    salvar(ARQ_GECKO, estado)
+    return preco
+
+
 def avaliar_trecho(trecho, programa, token, precos_medidor):
     preco, origem_preco = preco_dinheiro(trecho["origem"], trecho["destino"], trecho["data"],
                                          token, precos_medidor)
+    if programa == "LATAM Pass" and trecho.get("data") and origem_preco != "mesmo dia":
+        ao_vivo = preco_latam_gecko(trecho["origem"], trecho["destino"], trecho["data"])
+        if ao_vivo:
+            preco, origem_preco = ao_vivo, "LATAM ao vivo"
     trecho["programa"] = programa
     trecho["preco_dinheiro"] = preco
     trecho["preco_origem"] = origem_preco
@@ -701,10 +875,38 @@ def avaliar_trecho(trecho, programa, token, precos_medidor):
 
 def ler_milhas(item, token, precos_medidor):
     """Abre o post, separa os trechos de/para GYN/BSB e calcula o milheiro de cada um."""
-    trechos = extrair_trechos(conteudo_do_post(item["link"]))
+    conteudo = conteudo_do_post(item["link"])
+    trechos = extrair_trechos(conteudo)
+    vistos = {(t["origem"], t["destino"]) for t in trechos}
+    em_texto = [t for t in extrair_trechos_texto(conteudo)
+                if (t["origem"], t["destino"]) not in vistos and (t["destino"], t["origem"]) not in vistos]
+    if len(em_texto) == 1:
+        # Uma rota só no post: as datas citadas no texto são dela
+        linhas = linhas_do_post(conteudo)
+        datas = datas_por_mes(" ".join(l for l in linhas if "volta" not in l.lower()))
+        volta = datas_por_mes(" ".join(l for l in linhas if "volta" in l.lower()))
+        if volta:
+            em_texto[0]["datas_volta"] = volta
+        if datas:
+            em_texto[0]["datas_mes"] = datas
+            primeira = re.match(r"(\w+)/(\d{4}): (\d{1,2})", datas[0])
+            if primeira:
+                mes = MESES.get(primeira.group(1).lower())
+                try:
+                    em_texto[0]["data"] = date(int(primeira.group(2)), mes, int(primeira.group(3))).isoformat()
+                except (TypeError, ValueError):
+                    pass
+    trechos += em_texto
+    for t in trechos:
+        # Rota de ida e volta (A x B): mostra saindo de casa
+        if t.get("ambos_sentidos") and t["destino"] in AEROPORTOS_CASA and t["origem"] not in AEROPORTOS_CASA:
+            t["origem"], t["destino"] = t["destino"], t["origem"]
+            t["origem_nome"], t["destino_nome"] = t["destino_nome"], t["origem_nome"]
+        if not t.get("datas_mes") and t.get("datas_texto"):
+            t["datas_mes"] = datas_por_mes(t["datas_texto"])
     casa = [t for t in trechos if t["origem"] in AEROPORTOS_CASA or t["destino"] in AEROPORTOS_CASA]
     casa.sort(key=lambda t: (t["origem"] != "GYN", t["origem"] not in AEROPORTOS_CASA, t["milhas"]))
-    programa = programa_do_post(item["titulo"])
+    programa = programa_do_post(item["titulo"]) or programa_do_post(" ".join(linhas_do_post(conteudo))[:600])
     return len(trechos), [avaliar_trecho(t, programa, token, precos_medidor)
                           for t in casa[:MAX_TRECHOS_POR_POST]]
 
@@ -725,6 +927,8 @@ def processar_milhas(itens, token, precos_medidor, registro):
         if trechos:
             if "resgate de GYN/BSB" not in item["motivos"]:
                 item["motivos"].append("resgate de GYN/BSB")
+            if trechos[0].get("programa") == "LATAM Pass" and "LATAM Pass de GYN/BSB" not in item["motivos"]:
+                item["motivos"].insert(0, "LATAM Pass de GYN/BSB")
             item["prioridade"] = "alta"
             for t in trechos:
                 registro["resgates"].append({**t, "post": item["link"], "titulo": item["titulo"],
@@ -932,10 +1136,13 @@ def linha_resgate(t):
     clube = f" ({milhar(t['milhas_clube'])} no clube)" if t.get("milhas_clube") else ""
     ori = f"{t['origem_nome']} ({t['origem']})" if t.get("origem_nome") else t["origem"]
     des = f"{t['destino_nome']} ({t['destino']})" if t.get("destino_nome") else t["destino"]
-    linha = (f"• <b>{e(ori)} → {e(des)}</b> · {quando} · "
+    seta = "⇄" if t.get("ambos_sentidos") else "→"
+    quando = f" · {quando}" if quando else ""
+    linha = (f"• <b>{e(ori)} {seta} {e(des)}</b>{quando} · "
              f"<b>{milhar(t['milhas'])}</b> milhas{clube}")
     if t.get("milheiro"):
-        estimativa = " (estimado)" if t["preco_origem"].startswith("estimativa") else ""
+        estimativa = (" (estimado)" if t["preco_origem"].startswith("estimativa") else
+                      " (LATAM ao vivo)" if t["preco_origem"] == "LATAM ao vivo" else "")
         linha += (f"\n   💵 Em dinheiro: {reais(t['preco_dinheiro'])} só ida{estimativa} → "
                   f"milheiro <b>{reais(t['milheiro'])}</b>")
         custo = CUSTO_MILHEIRO.get(t.get("programa"))
@@ -948,6 +1155,48 @@ def linha_resgate(t):
     if t.get("reserva"):
         linha += f"\n   <a href=\"{e(limpar_link(t['reserva']))}\">Reservar</a>"
     return linha
+
+
+AVISO_RESGATE = ("<i>ℹ️ Simulação para 1 adulto, tarifa mais barata encontrada. Pontos e datas mudam a "
+                 "todo momento e podem variar conforme a categoria no programa. Confira antes de emitir.</i>")
+
+
+def bloco_resgate(t):
+    """v3.6: um trecho no formato 'Oportunidade de resgate' (vitrine)."""
+    e = html.escape
+    ori = f"{t['origem_nome']} ({t['origem']})" if t.get("origem_nome") else t["origem"]
+    des = f"{t['destino_nome']} ({t['destino']})" if t.get("destino_nome") else t["destino"]
+    seta = "⇄" if t.get("ambos_sentidos") else "→"
+    linhas = [f"🛫 <b>{e(ori)} {seta} {e(des)}</b>"]
+    if t.get("cia"):
+        linhas.append(f"✈️ Voando {e(t['cia'])}")
+    clube = f" ({milhar(t['milhas_clube'])} no clube)" if t.get("milhas_clube") else ""
+    linhas.append(f"💰 A partir de <b>{milhar(t['milhas'])} pontos</b> o trecho + taxas{clube}")
+    datas, volta = t.get("datas_mes") or [], t.get("datas_volta") or []
+    if datas:
+        linhas.append("📅 <b>Datas de ida:</b>" if volta else "📅 <b>Datas:</b>")
+        linhas += [f"   {e(d)}" for d in datas[:6]]
+    if volta:
+        linhas.append("📅 <b>Datas de volta:</b>")
+        linhas += [f"   {e(d)}" for d in volta[:6]]
+    if not datas and not volta and data_curta(t.get("data") or ""):
+        linhas.append(f"📅 Data: {data_curta(t['data'])}")
+    if t.get("milheiro"):
+        origem = (" (estimado)" if t["preco_origem"].startswith("estimativa") else
+                  " · conferido ao vivo na LATAM" if t["preco_origem"] == "LATAM ao vivo" else "")
+        linhas.append(f"💵 Pagando em dinheiro: {reais(t['preco_dinheiro'])} só ida{origem}")
+        custo = CUSTO_MILHEIRO.get(t.get("programa"))
+        texto_milheiro = f"📊 Cada 1.000 pontos rendem <b>{reais(t['milheiro'])}</b> aqui"
+        if t["veredito"] == "milhas":
+            texto_milheiro += f" ✅ <b>vale usar pontos</b> (comprar 1.000 sai ~{reais(custo)})"
+        elif t["veredito"] == "dinheiro":
+            texto_milheiro += f" 💸 <b>melhor pagar em dinheiro</b> (comprar 1.000 sai ~{reais(custo)})"
+        linhas.append(texto_milheiro)
+    link = limpar_link(t["reserva"]) if t.get("reserva") and link_oficial_ok(t["reserva"]) else \
+        SITE_DO_PROGRAMA.get(t.get("programa"), "")
+    if link:
+        linhas.append(f"👉 <a href=\"{e(link)}\">Emitir no site {'da ' + e(t['programa']) if t.get('programa') else ''}</a>")
+    return "\n".join(linhas)
 
 
 def formatar(item):
@@ -1162,7 +1411,9 @@ def formatar_vitrine(item):
     destinos = " / ".join(item.get("programas_destino") or [])
     detalhe = []
     if item.get("resgates"):
-        cab = "🎯 <b>MILHAS SAINDO DE GOIÂNIA / BRASÍLIA</b>"
+        programa = item["resgates"][0].get("programa") or ""
+        cab = ("🔥 " if programa == "LATAM Pass" else "") + "🎫 <b>OPORTUNIDADE DE RESGATE" + \
+              (f" · {e(programa.upper())}" if programa else "") + "</b>"
     elif "promoção relâmpago" in item.get("motivos", []):
         cab = "⚡ <b>PROMOÇÃO RELÂMPAGO</b>"
     elif categoria == "transferencia":
@@ -1205,10 +1456,8 @@ def formatar_vitrine(item):
         texto += "\n" + "\n".join(detalhe) + "\n"
     texto += f"\n{e(titulo_limpo(item['titulo']))}\n"
     if item.get("resgates"):
-        texto += ("\n" + "\n".join(linha_resgate(t) for t in item["resgates"])
-                  + "\n<i>Milheiro = preço em dinheiro ÷ milhas × 1.000, sem contar taxas.</i>\n")
-    if item.get("resgates"):
-        return texto          # cada trecho ja tem o seu "Reservar"
+        texto += ("\n" + "\n\n".join(bloco_resgate(t) for t in item["resgates"][:4]) + "\n\n" + AVISO_RESGATE)
+        return texto          # cada trecho ja tem o seu "Emitir"
     link = achar_link_oficial(item)
     if link:
         texto += f"\n👉 <a href=\"{e(link)}\">Acessar a promoção</a>"
