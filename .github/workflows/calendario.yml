@@ -1,0 +1,91 @@
+name: Calendário de milhas (Smiles)
+
+on:
+  schedule:
+    - cron: "11 10 * * *"   # todo dia às 07h11 de Brasília (10h11 UTC)
+    - cron: "41 12 * * *"   # rede de segurança às 09h41: só age se a 1ª rodada não tiver acontecido
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "Teste: manda a prévia só para os bastidores (não publica no canal)"
+        type: boolean
+        default: true
+      rota:
+        description: "Destino do teste (ex.: REC, SSA, FOR, MCZ, NAT, FLN, GIG)"
+        type: string
+        default: "REC"
+
+permissions:
+  contents: write
+
+# Mesmo grupo do vigia.yml: os dois nunca rodam ao mesmo tempo (não brigam pela pasta dados/)
+concurrency:
+  group: vigia
+  cancel-in-progress: false
+
+jobs:
+  calendario:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # Navegador de verdade (sem login, sem disfarce). Usa o Google Chrome que já vem no servidor.
+      - name: Preparar o navegador do robô
+        run: |
+          pip install playwright==1.63.0
+          if ! command -v google-chrome > /dev/null; then
+            python -m playwright install --with-deps chromium
+          fi
+
+      - name: Ler o calendário da Smiles
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste && '1' || '' }}
+          ROTA_TESTE: ${{ inputs.rota }}
+        run: python calendario.py
+
+      # Salvar à prova de falha (mesmo jeito do vigia.yml): guarda a pasta dados/ desta rodada,
+      # pega a versão mais nova do repositório, devolve os dados por cima e envia. Tenta 3 vezes.
+      - name: Guardar o que foi visto
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          git config user.name "radartrip-bot"
+          git config user.email "radartrip-bot@users.noreply.github.com"
+          if [ -z "$(git status --porcelain dados)" ]; then
+            echo "Nada novo para guardar."
+            exit 0
+          fi
+          cp -r dados "$RUNNER_TEMP/dados_rodada"
+          for tentativa in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            rm -rf dados
+            cp -r "$RUNNER_TEMP/dados_rodada" dados
+            git add dados
+            if git diff --cached --quiet; then
+              echo "Nada novo para guardar."
+              exit 0
+            fi
+            git commit -m "Calendário: atualiza dados"
+            if git push origin HEAD:main; then
+              echo "Dados guardados na tentativa $tentativa."
+              exit 0
+            fi
+            echo "Envio falhou (tentativa $tentativa). Tentando de novo..."
+            sleep $((tentativa * 10))
+          done
+          echo "Não consegui guardar os dados depois de 3 tentativas."
+          if [ -n "$TELEGRAM_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+              -d chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode text="🛠️ Bastidores · ⚠️ Calendário Smiles: não consegui guardar os dados desta rodada no GitHub (3 tentativas). Se repetir, me avise." > /dev/null
+          fi
+          exit 1
