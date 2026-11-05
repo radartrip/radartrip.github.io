@@ -1,5 +1,101 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=579913",
+  "titulo": "Qatar Airways oferece 25% de desconto em passagens com Avios",
+  "link": "https://passageirodeprimeira.com/qatar-airways-oferece-25-de-desconto-em-passagens-com-avios-2/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Qatar Airways está com uma super promoção! O Privilege Club oferece até 25% de desconto em passagens com Avios para destinos selecionados, válidas até 14 de novembro para viagens até 30 de dezembro de 2026. Aproveite para conhecer lugares incríveis em Classe Econômica, Executiva e Primeira Classe!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-05T19:00:59+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 25,
+  "milheiro_citado": null,
+  "prazo": "2026-11-14",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T19:50:25.001190+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148525",
+  "titulo": "Em parceria com Guia Michelin, American Airlines e terá experiências gastronômicas resgatáveis com milhas",
+  "link": "https://pontospravoar.com/em-parceria-com-guia-michelin-american-airlines-e-tera-experiencias-gastronomicas-resgataveis-com-milhas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quem acumula milhas no AAdvantage, programa de fidelidade da American Airlines, poderá utilizá-las para participar de experiências gastronômicas especiais, em parceria com o Guia Michelin. A ação dará acesso a jantares com chefs renomados, eventos do setor e até viagens organizadas em torno da gastronomia. Jantares com chefs estrelados em Los Angeles, Miami e Chicago…",
+  "categorias": [
+   "American Airlines",
+   "Empresas Aéreas",
+   "Notícias",
+   "empresas aéreas"
+  ],
+  "data": "2026-11-05T19:30:00+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "AAdvantage"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||AAdvantage|0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T19:50:25.180752+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579991",
+  "titulo": "Voe para Aracaju a partir de R$ 189 ou 15 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-para-aracaju-a-partir-de-r-189-ou-15-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Em nossa buscas, encontramos passagens de Campinas (VCP) para Aracaju (AJU) a partir de 15.980 pontos Azul + taxas. Além disso, caso você não tenha pontos para realizar a emissão, é possível transferir pontos da Livelo para o programa de fidelidade com até 130% de bônus, e emitir trechos a partir de R$ 189,52 + taxas com a modalidade pontos + dinheiro.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-05T19:40:19+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 130,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|15,189",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-05T19:50:25.000729+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/bancos",
+  "codigo": "RT-0038"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148498",
   "titulo": "British Airways anuncia codeshare com a aérea mexicana Viva",
   "link": "https://pontospravoar.com/british-airways-anuncia-codeshare-com-a-aerea-mexicana-viva/",

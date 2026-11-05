@@ -1,5 +1,5 @@
 {
- "ultimo": 37,
+ "ultimo": 38,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -599,6 +599,23 @@
     "categoria": "passagem",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0038",
+   "enviado_em": "2026-11-05T19:50:26.755139+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Aracaju a partir de R$ 189 ou 15 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-aracaju-a-partir-de-r-189-ou-15-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
     ],
     "trechos": []
    }
