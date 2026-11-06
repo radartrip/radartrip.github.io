@@ -110,21 +110,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/nubank"
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-06",
-   "titulo": "Azul Fidelidade e Premmia retomam parceria com oferta de até 120% de bônus na transferência de pontos",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
    "assinatura": "clube||Smiles||",
    "categoria": "clube",
    "origens": [],
@@ -138,6 +123,21 @@
    "visto_em": "2026-11-06",
    "titulo": "Gere o milheiro a partir R$ 15,52 assinando o Clube Smiles 1.000",
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-06",
+   "titulo": "Azul anuncia parceria com Premmia e oferece até 120% de bônus nas transferências – CPM a partir de R$ 15,32",
+   "link": "https://www.voeazul.com.br"
   }
  ],
  "vitrine": {
@@ -172,7 +172,8 @@
   "transferencia||Azul Fidelidade|120|": "2026-11-06T12:34:02.185656+00:00",
   "passagem|LATAM Pass|66": "2026-11-06T12:34:04.057089+00:00",
   "passagem|Azul Fidelidade|15,4": "2026-11-06T13:50:42.281550+00:00",
-  "acumulo|XP||0|": "2026-11-06T13:50:43.168828+00:00"
+  "acumulo|XP||0|": "2026-11-06T13:50:43.168828+00:00",
+  "passagem|Smiles|70.300": "2026-11-06T15:29:04.803755+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

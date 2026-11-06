@@ -1,5 +1,76 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580059",
+  "titulo": "Azul anuncia parceria com Premmia e oferece até 120% de bônus nas transferências – CPM a partir de R$ 15,32",
+  "link": "https://passageirodeprimeira.com/azul-anuncia-parceria-com-premmia-e-oferece-ate-120-de-bonus-nas-transferencias-cpm-a-partir-de-r-1532/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul anunciou uma nova parceria com o Premmia, oferecendo até 120% de bônus na transferência de pontos até 13 de novembro. Para receber a bonificação máxima, é preciso ser assinante do Clube Azul. Além disso, a parceria inclui descontos em passagens aéreas operadas pela Azul.",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-06T15:10:44+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-13",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-06T15:29:03.003924+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148602",
+  "titulo": "Alerta PPV! Cidade do Cabo e Joanesburgo a partir de 70.300 milhas Smiles",
+  "link": "https://pontospravoar.com/alerta-ppv-cidade-cabo-joanesburgo-70300-milhas-smiles/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal conhecer a África do Sul na sua próxima viagem utilizando milhas? No alerta de passagens PPV de hoje, nossa equipe selecionou oportunidades para explorar Cidade do Cabo e Joanesburgo, com saídas de São Paulo e emissões pela Smiles a partir de 70.300 milhas + taxas. Seja para conhecer as paisagens da Cidade do…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "South African Airways",
+   "África do Sul",
+   "GOL SMILES",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-06T15:00:14+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|70.300",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T15:29:03.084652+00:00",
+  "trechos_total": 10,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1814022000000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=congenere&segments=1&tripType=2&originAirport=GRU&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=CPT&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true",
+  "codigo": "RT-0045"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148508",
   "titulo": "Peça um cartão co-branded GOL Smiles com isenção de anuidade e até 55 mil milhas bônus",
   "link": "https://pontospravoar.com/peca-cartao-co-branded-gol-smiles-isencao-anuidade-ate-55-mil-milhas-bonus/",

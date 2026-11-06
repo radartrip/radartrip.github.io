@@ -1,5 +1,5 @@
 {
- "ultimo": 44,
+ "ultimo": 45,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -710,6 +710,22 @@
     "categoria": "acumulo",
     "programas": [
      "XP"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0045",
+   "enviado_em": "2026-11-06T15:29:04.802547+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Cidade do Cabo e Joanesburgo a partir de 70.300 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-cidade-cabo-joanesburgo-70300-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }
