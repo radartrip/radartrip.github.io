@@ -18,21 +18,6 @@
    "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/"
   },
   {
-   "assinatura": "compra|Livelo||56|",
-   "categoria": "compra",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 56,
-   "milheiro": 29.87,
-   "prazo": "",
-   "visto_em": "2026-11-03",
-   "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
-   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -138,6 +123,21 @@
    "visto_em": "2026-11-06",
    "titulo": "Último dia! Transfira pontos Livelo para o Azul Fidelidade e receba até 130% de bônus",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/livelo"
+  },
+  {
+   "assinatura": "compra|Livelo||56|",
+   "categoria": "compra",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 56,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-06",
+   "titulo": "Livelo oferece até 56% OFF na compra de pontos e desconto extra no Pix",
+   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos?skuId=LIVSKUCompraDePontos"
   }
  ],
  "vitrine": {
