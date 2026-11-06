@@ -1,5 +1,5 @@
 {
- "ultimo": 39,
+ "ultimo": 40,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -636,6 +636,18 @@
     "trechos": [
      "BSB-AEP"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0040",
+   "enviado_em": "2026-11-06T10:43:08.069229+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
    }
   }
  ]
