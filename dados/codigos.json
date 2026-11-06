@@ -1,5 +1,5 @@
 {
- "ultimo": 48,
+ "ultimo": 53,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -774,6 +774,81 @@
    "fonte": "Pontos pra Voar",
    "etiquetas": {
     "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0049",
+   "enviado_em": "2026-11-06T19:46:20.652882+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Europa com a Latam! Voos diretos para Lisboa, Paris, Roma e mais destinos a partir de R$ 3.632 ida e volta",
+   "link": "https://www.melhoresdestinos.com.br/promocao/europa-com-a-latam-voos-diretos-para-lisboa-06nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0050",
+   "enviado_em": "2026-11-06T19:46:21.770063+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Chile 2×1! Passagens para Santiago mais Deserto do Atacama ou Patagônia a partir de R$ 1.799",
+   "link": "https://www.melhoresdestinos.com.br/promocao/chile-2x1-passagens-para-santiago-mais-deserto-do-atacama-06nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0051",
+   "enviado_em": "2026-11-06T19:46:23.281427+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Bonito na Black Antecipada! Pacotes com voos + Zagaia Eco Resort a partir de R$ 2.609 por pessoa mais cupom de até 10% OFF",
+   "link": "https://www.melhoresdestinos.com.br/promocao/bonito-na-black-antecipada-pacotes-zagaia-06nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0052",
+   "enviado_em": "2026-11-06T19:46:24.811912+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Férias na Disney 🎢 Passagens aéreas para Orlando ou Tampa a partir de R$ 2.291 ida e volta",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-orlando-06-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0053",
+   "enviado_em": "2026-11-06T19:46:26.031766+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul oferece até 20% de desconto no resgate de passagens para portadores do cartão Azul Itaú",
+   "link": "https://passageirodeprimeira.com/azul-oferece-ate-20-desconto-resgate-passagens-portadores-cartao-azul-itau/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
     "programas": [
      "Azul Fidelidade",
      "Itaú"
