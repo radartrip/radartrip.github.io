@@ -33,23 +33,6 @@
    "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/"
   },
   {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 130,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-03",
-   "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
-   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -138,6 +121,23 @@
    "visto_em": "2026-11-06",
    "titulo": "Últimas horas para enviar pontos Esfera para o ALL Accor e ganhar 20% de pontos de volta + 10% de bônus",
    "link": "https://www.esfera.com.vc"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 130,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-06",
+   "visto_em": "2026-11-06",
+   "titulo": "Últimas horas! Transfira pontos da Livelo para o Azul Fidelidade e ganhe até 130% de bônus",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/livelo?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
