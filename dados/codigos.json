@@ -1,5 +1,5 @@
 {
- "ultimo": 53,
+ "ultimo": 54,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -853,6 +853,20 @@
      "Azul Fidelidade",
      "Itaú"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0054",
+   "enviado_em": "2026-11-06T22:04:36.360977+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "🇪🇺 Europa 2×1! Passagens aéreas para 2 destinos na Europa a partir de R$ 4.566 saindo de São Paulo e mais cidades!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-06-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }

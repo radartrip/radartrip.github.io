@@ -1,5 +1,100 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580333",
+  "titulo": "Último dia! Transfira pontos Livelo para o Azul Fidelidade e receba até 130% de bônus",
+  "link": "https://passageirodeprimeira.com/ultimo-dia-transfira-pontos-livelo-para-o-azul-fidelidade-e-receba-ate-130-de-bonus/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Último dia! Transfira seus pontos Livelo para o Azul Fidelidade e ganhe até 130% de bônus, sendo 100% para assinantes do Clube Azul e Clube Livelo. A promoção é válida até hoje (6), então não perca essa chance de turbinar suas milhas!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-06T21:40:48+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 130,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-06",
+  "repostagem": true,
+  "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 130%"
+  ],
+  "visto_em": "2026-11-06T22:04:34.703853+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/livelo",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646288",
+  "titulo": "🇪🇺 Europa 2×1! Passagens aéreas para 2 destinos na Europa a partir de R$ 4.566 saindo de São Paulo e mais cidades!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-06-11-26",
+  "fonte": "Melhores Destinos",
+  "resumo": "Quando se trata de Europa é difícil escolher um só destino, com tantas cidades incríveis como Roma, Paris, Lisboa e tantas outras! Por isso não escolha só uma, e aproveite as passagens aéreas 2 em 1, onde com uma passagem você conhece dois destinos europeus na mesma viagem! Encontramos voos 2 em 1 a partir…",
+  "categorias": [],
+  "data": "2026-11-06T19:20:38+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem||1,2,4.566",
+  "escopo": "internacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T22:04:34.109675+00:00",
+  "link_oficial": "",
+  "codigo": "RT-0054"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148170",
+  "titulo": "Prorrogado! Assine o Clube Smiles e ganhe 10 mil milhas bônus",
+  "link": "https://pontospravoar.com/prorrogado-assine-clube-smiles-ganhe-10-mil-milhas-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Boa notícia para quem deseja entrar para o Clube Smiles! O programa prorrogou sua promoção, que oferece até 11.000 milhas na hora para novos assinantes dos planos mensal e anual. Com a extensão do prazo, os interessados agora têm até 30 de novembro de 2026 para aproveitar a campanha. Confira os detalhes e saiba como…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "Smiles",
+   "Assinatura Clube Smiles",
+   "Clube Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-06T22:00:54+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "clube||Smiles||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T22:04:34.769901+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579766",
   "titulo": "Emirates desenvolve suíte para pessoas com deficiência em salas VIP",
   "link": "https://passageirodeprimeira.com/emirates-prototipo-suite-acessivel-salas-vip/",
