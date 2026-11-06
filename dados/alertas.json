@@ -1,5 +1,69 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580174",
+  "titulo": "Azul tem passagens nacionais a partir de R$ 59 ou de 4.200 pontos + taxas",
+  "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-59-ou-de-4-200-pontos-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta de disponibilidade! A Azul está com passagens nacionais a partir de 4.200 pontos + taxas ou R$ 59,30 + taxas com a opção de pontos + dinheiro. Além disso, a Livelo oferece até 130% de bônus na transferência de pontos para o programa de fidelidade, mas a oferta é válida até hoje (6).",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-06T16:40:45+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 130,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|4.200,59",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T17:16:35.507266+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/bancos",
+  "codigo": "RT-0046"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580121",
+  "titulo": "American Airlines e Guia Michelin se unem para oferecer experiências gastronômicas com milhas",
+  "link": "https://passageirodeprimeira.com/american-airlines-guia-michelin-unem-oferecer-experiencias-gastronomicas-milhas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A American Airlines anunciou uma parceria exclusiva com o Guia Michelin, que permitirá aos membros do AAdvantage resgatar milhas por experiências gastronômicas exclusivas e viagens culinárias personalizadas. A colaboração pretende aproximar os clientes aos chefs renomados, restaurantes, hotéis e vinícolas reconhecidos mundialmente, combinando viagens, cultura e gastronomia.",
+  "categorias": [
+   "Notícias",
+   "Companhias Aéreas"
+  ],
+  "data": "2026-11-06T17:10:28+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "AAdvantage"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T17:16:35.504519+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=579752",
   "titulo": "Precisando renovar sua casa? Aproveite as ofertas da Blackíssima e acumule pontos com a Esfera",
   "link": "https://passageirodeprimeira.com/precisando-renovar-sua-casa-aproveite-ofertas-blackissima-acumule-pontos-esfera/",

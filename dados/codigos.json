@@ -1,5 +1,5 @@
 {
- "ultimo": 45,
+ "ultimo": 46,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -726,6 +726,23 @@
     "categoria": "passagem",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0046",
+   "enviado_em": "2026-11-06T17:16:37.032307+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul tem passagens nacionais a partir de R$ 59 ou de 4.200 pontos + taxas",
+   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-59-ou-de-4-200-pontos-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
     ],
     "trechos": []
    }
