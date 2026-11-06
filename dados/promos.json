@@ -78,21 +78,6 @@
    "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-picpay/"
   },
   {
-   "assinatura": "transferencia||Esfera|10|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Esfera"
-   ],
-   "bonus": 10,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-05",
-   "titulo": "Gere euro a partir de R$ 4,39 ao transferir pontos Esfera para o ALL",
-   "link": "https://passageirodeprimeira.com/gere-euro-a-partir-de-r-439-ao-transferir-pontos-esfera-para-o-all/"
-  },
-  {
    "assinatura": "transferencia|Nubank|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -138,6 +123,21 @@
    "visto_em": "2026-11-06",
    "titulo": "Azul anuncia parceria com Premmia e oferece até 120% de bônus nas transferências – CPM a partir de R$ 15,32",
    "link": "https://www.voeazul.com.br"
+  },
+  {
+   "assinatura": "transferencia||Esfera|10|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Esfera"
+   ],
+   "bonus": 10,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-06",
+   "visto_em": "2026-11-06",
+   "titulo": "Últimas horas para enviar pontos Esfera para o ALL Accor e ganhar 20% de pontos de volta + 10% de bônus",
+   "link": "https://www.esfera.com.vc"
   }
  ],
  "vitrine": {
