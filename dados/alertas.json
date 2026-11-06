@@ -1,5 +1,114 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148690",
+  "titulo": "Shopping Azul tem oferta relâmpago com produtos a partir de 10 mil pontos",
+  "link": "https://pontospravoar.com/shopping-azul-tem-oferta-relampago-com-produtos-a-partir-de-10-mil-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Shopping Azul está com uma oferta relâmpago nesta sexta-feira, 6 de novembro, com preços especiais em pontos para clientes que assinam o Clube Azul ou possuem o Cartão Azul Itaú. A seleção inclui fones de ouvido, mala de bordo, perfumes, tablet e tênis de marcas conhecidas, com resgates a partir de 10 mil pontos…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "programas de fidelidade",
+   "shopping azul"
+  ],
+  "data": "2026-11-06T17:30:36+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "alta",
+  "motivos": [
+   "promoção relâmpago"
+  ],
+  "visto_em": "2026-11-06T18:10:29.168793+00:00",
+  "link_oficial": "https://shopping.azulfidelidade.com.br/produto/30994/QB1002P-P/5526997/mala-de-viagem-bordo-10-kg-abs-4-rodas-duplas-cadeado-embutido-preta",
+  "codigo": "RT-0047"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580045",
+  "titulo": "Cartão LATAM Pass Itaú: ganhe até 40 mil milhas na adesão e 5,25 milhas por dólar gasto",
+  "link": "https://passageirodeprimeira.com/cartao-latam-pass-itau-ganhe-ate-40-mil-milhas-adesao-525-milhas-dolar-gasto/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Solicite hoje os seus cartões LATAM Pass Black e Platinum e receba até 40.000 milhas bônus ao atingir a meta de gastos! Além disso, quem mantiver a meta em cada fatura garante isenção da anuidade, aproveitando ainda uma pontuação turbinada de até 5,25 milhas por dólar gasto. Confira!",
+  "categorias": [
+   "Promoções",
+   "Publicidade"
+  ],
+  "data": "2026-11-06T17:40:05+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Itaú|LATAM Pass|0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T18:10:29.022324+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148551",
+  "titulo": "Azul Fidelidade oferece até 20% de desconto em emissões nacionais com cartões Azul Itaú",
+  "link": "https://pontospravoar.com/azul-fidelidade-oferece-ate-20-porcento-desconto-emissoes-nacionais-cartoes-azul-itau/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Vai viajar pelo Brasil? Neste fim de semana, o Azul Fidelidade está com uma nova promoção para clientes dos cartões Azul Itaú, oferecendo até 20% de desconto no resgate de passagens nacionais. O percentual do benefício varia conforme a variante do cartão. Confira as condições da campanha e saiba como aproveitar! Azul Fidelidade com até…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Cartões de Crédito",
+   "Itaú",
+   "Promoções",
+   "azul fidelidade",
+   "cartão azul",
+   "Trechos nacionais"
+  ],
+  "data": "2026-11-06T18:00:48+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 20,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T18:10:29.167941+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/home.html",
+  "codigo": "RT-0048"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=580174",
   "titulo": "Azul tem passagens nacionais a partir de R$ 59 ou de 4.200 pontos + taxas",
   "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-59-ou-de-4-200-pontos-taxas/",

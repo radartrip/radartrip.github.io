@@ -1,5 +1,5 @@
 {
- "ultimo": 46,
+ "ultimo": 48,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -743,6 +743,40 @@
     "programas": [
      "Azul Fidelidade",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0047",
+   "enviado_em": "2026-11-06T18:10:30.003783+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Shopping Azul tem oferta relâmpago com produtos a partir de 10 mil pontos",
+   "link": "https://pontospravoar.com/shopping-azul-tem-oferta-relampago-com-produtos-a-partir-de-10-mil-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0048",
+   "enviado_em": "2026-11-06T18:10:30.819696+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Azul Fidelidade oferece até 20% de desconto em emissões nacionais com cartões Azul Itaú",
+   "link": "https://pontospravoar.com/azul-fidelidade-oferece-ate-20-porcento-desconto-emissoes-nacionais-cartoes-azul-itau/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
     ],
     "trechos": []
    }
