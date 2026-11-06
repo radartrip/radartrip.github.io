@@ -1,5 +1,5 @@
 {
- "ultimo": 42,
+ "ultimo": 44,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -678,6 +678,38 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0043",
+   "enviado_em": "2026-11-06T13:50:42.280444+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Selecionamos 15 voos pelo Brasil a partir de 4 mil pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-ppv-selecionamos-15-voos-brasil-4-mil-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0044",
+   "enviado_em": "2026-11-06T13:50:43.167626+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Esquenta Black Friday XP: pontos em dobro, câmbio reduzido e ofertas em investimentos",
+   "link": "https://pontospravoar.com/esquenta-black-friday-xp-investimentos-cartoes-pontos-livelo/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "XP"
     ],
     "trechos": []
    }
