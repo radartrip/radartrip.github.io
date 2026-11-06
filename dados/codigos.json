@@ -1,5 +1,5 @@
 {
- "ultimo": 40,
+ "ultimo": 42,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -647,6 +647,38 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0041",
+   "enviado_em": "2026-11-06T12:34:02.101912+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Fidelidade e Premmia retomam parceria com oferta de até 120% de bônus na transferência de pontos",
+   "link": "https://pontospravoar.com/azul-fidelidade-premmia-retomam-parceria-oferta-ate-120-porcento-bonus-transferencia-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0042",
+   "enviado_em": "2026-11-06T12:34:04.056087+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Roma a partir de 66 mil milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/voe-roma-a-partir-66-mil-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
     "trechos": []
    }
   }

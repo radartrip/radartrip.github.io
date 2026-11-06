@@ -78,21 +78,6 @@
    "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-picpay/"
   },
   {
-   "assinatura": "clube||Smiles||",
-   "categoria": "clube",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 15.52,
-   "prazo": "",
-   "visto_em": "2026-11-04",
-   "titulo": "Ganhe 10 mil milhas bônus assinando o Clube Smiles 1.000 – Milheiro a partir de R$ 15,52",
-   "link": "https://passageirodeprimeira.com/ganhe-10-mil-milhas-bonus-assinando-o-clube-smiles-1-000-milheiro-a-partir-de-r-1552/"
-  },
-  {
    "assinatura": "transferencia||Esfera|10|",
    "categoria": "transferencia",
    "origens": [],
@@ -123,6 +108,36 @@
    "visto_em": "2026-11-05",
    "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos da Nubank",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/nubank"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-06",
+   "titulo": "Azul Fidelidade e Premmia retomam parceria com oferta de até 120% de bônus na transferência de pontos",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "clube||Smiles||",
+   "categoria": "clube",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 15.52,
+   "prazo": "",
+   "visto_em": "2026-11-06",
+   "titulo": "Gere o milheiro a partir R$ 15,52 assinando o Clube Smiles 1.000",
+   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   }
  ],
  "vitrine": {
@@ -153,7 +168,9 @@
   "passagem|Azul Fidelidade|1.043,87": "2026-11-05T18:05:42.552026+00:00",
   "passagem|Azul Fidelidade|4.200": "2026-11-05T18:05:43.260536+00:00",
   "passagem|Azul Fidelidade|15,189": "2026-11-05T19:50:26.755850+00:00",
-  "passagem|Smiles|29.500": "2026-11-05T20:37:23.515167+00:00"
+  "passagem|Smiles|29.500": "2026-11-05T20:37:23.515167+00:00",
+  "transferencia||Azul Fidelidade|120|": "2026-11-06T12:34:02.185656+00:00",
+  "passagem|LATAM Pass|66": "2026-11-06T12:34:04.057089+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

@@ -1,5 +1,104 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148618",
+  "titulo": "Azul Fidelidade e Premmia retomam parceria com oferta de até 120% de bônus na transferência de pontos",
+  "link": "https://pontospravoar.com/azul-fidelidade-premmia-retomam-parceria-oferta-ate-120-porcento-bonus-transferencia-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Depois de mais de 3 anos do encerramento, o Azul Fidelidade retomou a parceria com o programa Premmia, da Petrobras. Para comemorar, está oferecendo aos seus clientes até 120% de bônus na transferência de pontos. Além disso, oferece desconto em passagens, possibilidade de trocar pontos por Vale-Premmia e mais! Promoção Azul Fidelidade e Premmia Para…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Premmia",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-06T12:01:42+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-06T12:33:58.406755+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "codigo": "RT-0041"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=579981",
+  "titulo": "Gere o milheiro a partir R$ 15,52 assinando o Clube Smiles 1.000",
+  "link": "https://passageirodeprimeira.com/gere-o-milheiro-a-partir-r-1552-assinando-o-clube-smiles-1-000/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles está oferecendo até 10 mil milhas bônus para quem realizar a contratação do Clube no Plano 1.000. Com a oferta, que é válida até 21h do dia 30 de novembro, é possível gerar o milheiro a partir de R$ 15,52.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-06T11:40:01+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 15.52,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube||Smiles||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T12:33:58.291227+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580123",
+  "titulo": "Voe para Roma a partir de 66 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/voe-roma-a-partir-66-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 66.380 milhas LATAM Pass + taxas.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-06T12:20:35+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|66",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-06T12:33:58.290643+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0042"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148540",
   "titulo": "Acaba hoje! Ganhe bônus e 20% de points back na transferência da Esfera para o ALL Accor",
   "link": "https://pontospravoar.com/acaba-hoje-ganhe-bonus-20-porcento-points-back-transferencia-esfera-all-accor/",
