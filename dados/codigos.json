@@ -1,5 +1,5 @@
 {
- "ultimo": 54,
+ "ultimo": 55,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -869,6 +869,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0055",
+   "enviado_em": "2026-11-07T01:04:10.152017+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-NAT",
+   "preco": 1088,
+   "media": 1310,
+   "ida": "2026-12-05",
+   "volta": "2026-12-18",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202026-12-05%20through%202026-12-18"
   }
  ]
 }
