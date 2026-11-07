@@ -1,5 +1,5 @@
 {
- "ultimo": 55,
+ "ultimo": 56,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -881,6 +881,18 @@
    "ida": "2026-12-05",
    "volta": "2026-12-18",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202026-12-05%20through%202026-12-18"
+  },
+  {
+   "codigo": "RT-0056",
+   "enviado_em": "2026-11-07T11:07:50.593518+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
   }
  ]
 }
