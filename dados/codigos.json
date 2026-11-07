@@ -1,5 +1,5 @@
 {
- "ultimo": 59,
+ "ultimo": 60,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -938,6 +938,20 @@
      "Itaú",
      "LATAM Pass"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0060",
+   "enviado_em": "2026-11-07T18:15:32.256904+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Resgate passagens no Flying Blue a partir de 6.000 milhas",
+   "link": "https://pontospravoar.com/resgate-passagens-flying-blue-6000-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }
