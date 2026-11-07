@@ -1,5 +1,5 @@
 {
- "ultimo": 56,
+ "ultimo": 57,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -891,6 +891,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0057",
+   "enviado_em": "2026-11-07T12:32:39.935823+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Azul Fidelidade e Premmia oferecem 15% de desconto em passagens nacionais",
+   "link": "https://pontospravoar.com/azul-fidelidade-premmia-oferecem-15-porcento-desconto-passagens-nacionais/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade"
+    ],
     "trechos": []
    }
   }
