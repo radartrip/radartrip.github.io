@@ -1,5 +1,5 @@
 {
- "ultimo": 57,
+ "ultimo": 58,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -907,6 +907,20 @@
     "programas": [
      "Azul Fidelidade"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0058",
+   "enviado_em": "2026-11-07T14:23:58.872187+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Resgate passagens nacionais a partir de 3.887 milhas + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-resgate-passagens-nacionais-3887-milhas-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }
