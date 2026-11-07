@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|100|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 100,
-   "desconto": 0,
-   "milheiro": 11.78,
-   "prazo": "",
-   "visto_em": "2026-11-03",
-   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
-   "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -91,38 +74,6 @@
    "visto_em": "2026-11-06",
    "titulo": "Azul anuncia parceria com Premmia e oferece até 120% de bônus nas transferências – CPM a partir de R$ 15,32",
    "link": "https://www.voeazul.com.br"
-  },
-  {
-   "assinatura": "transferencia||Esfera|10|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Esfera"
-   ],
-   "bonus": 10,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-06",
-   "visto_em": "2026-11-06",
-   "titulo": "Últimas horas para enviar pontos Esfera para o ALL Accor e ganhar 20% de pontos de volta + 10% de bônus",
-   "link": "https://www.esfera.com.vc"
-  },
-  {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 130,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-06",
-   "visto_em": "2026-11-06",
-   "titulo": "Último dia! Transfira pontos Livelo para o Azul Fidelidade e receba até 130% de bônus",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/livelo"
   },
   {
    "assinatura": "compra|Livelo||56|",
