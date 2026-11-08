@@ -1,5 +1,5 @@
 {
- "ultimo": 62,
+ "ultimo": 63,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -975,6 +975,20 @@
    "titulo": "Radar do dia",
    "etiquetas": {
     "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0063",
+   "enviado_em": "2026-11-08T14:23:33.091301+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens internacionais a partir de 17.800 pontos + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-17800-pontos-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
     "programas": [],
     "trechos": []
    }
