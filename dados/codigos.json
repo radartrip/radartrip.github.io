@@ -1,5 +1,5 @@
 {
- "ultimo": 64,
+ "ultimo": 65,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1004,6 +1004,22 @@
    "ida": "2027-01-28",
    "volta": "2027-02-03",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCZ%20on%202027-01-28%20through%202027-02-03"
+  },
+  {
+   "codigo": "RT-0065",
+   "enviado_em": "2026-11-08T15:43:41.926789+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Smiles tem voos nacionais a partir de 8 mil milhas",
+   "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-8-mil-milhas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
   }
  ]
 }

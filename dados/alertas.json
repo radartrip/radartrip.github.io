@@ -1,5 +1,38 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580384",
+  "titulo": "Smiles tem voos nacionais a partir de 8 mil milhas",
+  "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-8-mil-milhas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles está oferecendo voos nacionais a partir de 8.000 milhas por trecho + taxas. Exemplos incluem São José do Rio Preto (SJP) a São Paulo (CGH) por 8.000 milhas e taxas de R$ 37,13. Aproveite essa oportunidade para viajar com milhas!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-08T15:30:49+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|8",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-08T15:43:40.267265+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0065"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148787",
   "titulo": "Alerta PPV! Passagens internacionais a partir de 17.800 pontos + taxas",
   "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-17800-pontos-taxas/",
