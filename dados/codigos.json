@@ -1,5 +1,5 @@
 {
- "ultimo": 63,
+ "ultimo": 64,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -992,6 +992,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0064",
+   "enviado_em": "2026-11-08T15:02:45.567059+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-MCZ",
+   "preco": 1288,
+   "media": 1546,
+   "ida": "2027-01-28",
+   "volta": "2027-02-03",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCZ%20on%202027-01-28%20through%202027-02-03"
   }
  ]
 }
