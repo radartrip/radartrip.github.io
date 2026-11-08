@@ -18,21 +18,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/nubank"
   },
   {
-   "assinatura": "clube||Smiles||",
-   "categoria": "clube",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 15.52,
-   "prazo": "",
-   "visto_em": "2026-11-06",
-   "titulo": "Gere o milheiro a partir R$ 15,52 assinando o Clube Smiles 1.000",
-   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
-  },
-  {
    "assinatura": "transferencia||Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [],
@@ -78,6 +63,21 @@
    "visto_em": "2026-11-07",
    "titulo": "Cartão LATAM Pass Itaú: 40 mil milhas na adesão e até 35% de bônus nas transferências de pontos",
    "link": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-black?cpg_s=prt_pdp"
+  },
+  {
+   "assinatura": "clube||Smiles||",
+   "categoria": "clube",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 15.52,
+   "prazo": "",
+   "visto_em": "2026-11-08",
+   "titulo": "Ainda não faz parte? Assine o Clube Smiles e ganhe 11 mil milhas na hora",
+   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   }
  ],
  "vitrine": {
