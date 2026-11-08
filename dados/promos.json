@@ -1,34 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-04",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 3 de novembro de 2026",
-   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-3-novembro-2026/"
-  },
-  {
-   "assinatura": "transferencia||LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-04",
-   "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do PicPay",
-   "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-picpay/"
-  },
-  {
    "assinatura": "transferencia|Nubank|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
