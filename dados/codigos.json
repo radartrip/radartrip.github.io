@@ -1,5 +1,5 @@
 {
- "ultimo": 65,
+ "ultimo": 66,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1020,6 +1020,18 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0066",
+   "enviado_em": "2026-11-08T21:43:26.297336+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-SSA",
+   "preco": 1686,
+   "media": 2011,
+   "ida": "2027-01-08",
+   "volta": "2027-01-19",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SSA%20on%202027-01-08%20through%202027-01-19"
   }
  ]
 }
