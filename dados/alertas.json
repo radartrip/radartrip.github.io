@@ -1,5 +1,143 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580494",
+  "titulo": "Livelo oferece 35% de bônus na transferência para o Qatar Airways",
+  "link": "https://passageirodeprimeira.com/livelo-oferece-35-de-bonus-na-transferencia-para-o-qatar-airways/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo 35% de bônus na transferência de pontos para o Privilege Club da Qatar Airways. A promoção é válida até sexta-feira (13) e permite que todos os clientes que transferirem pontos durante o período recebam a bonificação em até 30 dias corridos após o término da campanha. Aproveite essa oportunidade para acumular mais Avios!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-09T13:00:03+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Livelo"
+  ],
+  "bonus": 35,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Livelo|35|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 35%"
+  ],
+  "visto_em": "2026-11-09T13:42:15.202825+00:00",
+  "link_oficial": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer",
+  "codigo": "RT-0071"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148885",
+  "titulo": "Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
+  "link": "https://pontospravoar.com/azul-friday-transfira-pontos-c6-bank-azul-fidelidade-ate-120-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Em mais uma campanha de acesso antecipado a Azul Friday, os clientes do Azul Fidelidade podem receber até 120% de bônus na transferência de pontos do C6 Bank feita até amanhã, dia 10 de novembro. A seguir, vejas os detalhes e aproveite. Azul Fidelidade e C6 Bank Para esta campanha, a bonificação está estruturada da…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Bancos",
+   "C6 Bank",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "C6 BANK"
+  ],
+  "data": "2026-11-09T13:00:51+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "C6 Átomos"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-10",
+  "repostagem": false,
+  "assinatura": "transferencia|C6 Átomos|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-09T13:42:15.318680+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "codigo": "RT-0072"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580518",
+  "titulo": "Voe para Nova York a partir de 61 mil milhas Smiles + taxas",
+  "link": "https://passageirodeprimeira.com/voe-nova-york-a-partir-61-mil-milhas-smiles-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Nova York (JFK). Os voos são operados pela American Airlines e a emissão pode ser feita a partir de 61.000 milhas Smiles + taxas por trecho.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-09T12:39:27+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|61",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-09T13:42:15.204399+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0073"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580509",
+  "titulo": "Turbina saldo! Esfera oferece até 14 pontos por real gasto na Insider, Polishop e mais",
+  "link": "https://passageirodeprimeira.com/turbina-saldo-esfera-oferece-ate-14-pontos-por-real-gasto-na-insider-polishop-e-mais/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Turbina Saldo Esfera está oferecendo até 14 pontos por real gasto na Insider, Polishop e mais parceiros. As ofertas contam com prazo de validade e pontuações diferentes. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-09T13:31:08+00:00",
+  "pontos_por_real": 14.0,
+  "parceiro": "Polishop",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Esfera||14.0|Polishop",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-09T13:42:15.202040+00:00",
+  "link_oficial": "https://www.esfera.com.vc/campanha-turbina-saldo",
+  "codigo": "RT-0074"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148869",
   "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
   "link": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",

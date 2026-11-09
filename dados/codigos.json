@@ -1,5 +1,5 @@
 {
- "ultimo": 70,
+ "ultimo": 74,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1085,6 +1085,71 @@
     "trechos": [
      "GYN-AEP"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0071",
+   "enviado_em": "2026-11-09T13:42:17.454738+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Livelo oferece 35% de bônus na transferência para o Qatar Airways",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-35-de-bonus-na-transferencia-para-o-qatar-airways/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0072",
+   "enviado_em": "2026-11-09T13:42:18.495586+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
+   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-c6-bank-azul-fidelidade-ate-120-porcento-bonus/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "C6 Átomos"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0073",
+   "enviado_em": "2026-11-09T13:42:19.919427+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Nova York a partir de 61 mil milhas Smiles + taxas",
+   "link": "https://passageirodeprimeira.com/voe-nova-york-a-partir-61-mil-milhas-smiles-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0074",
+   "enviado_em": "2026-11-09T13:42:21.230862+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Turbina saldo! Esfera oferece até 14 pontos por real gasto na Insider, Polishop e mais",
+   "link": "https://passageirodeprimeira.com/turbina-saldo-esfera-oferece-ate-14-pontos-por-real-gasto-na-insider-polishop-e-mais/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Esfera"
+    ],
+    "trechos": []
    }
   }
  ]

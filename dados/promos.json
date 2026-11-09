@@ -61,6 +61,38 @@
    "visto_em": "2026-11-08",
    "titulo": "Ainda não faz parte? Assine o Clube Smiles e ganhe 11 mil milhas na hora",
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
+  },
+  {
+   "assinatura": "transferencia||Livelo|35|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 35,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-09",
+   "titulo": "Livelo oferece 35% de bônus na transferência para o Qatar Airways",
+   "link": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
+  },
+  {
+   "assinatura": "transferencia|C6 Átomos|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "C6 Átomos"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-09",
+   "titulo": "Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
@@ -109,7 +141,11 @@
   "passagem||6.000": "2026-11-07T18:15:32.257948+00:00",
   "passagem||17.800": "2026-11-08T14:23:33.092214+00:00",
   "passagem|Smiles|8": "2026-11-08T15:43:41.928104+00:00",
-  "passagem|Smiles|16.800": "2026-11-09T12:21:47.291100+00:00"
+  "passagem|Smiles|16.800": "2026-11-09T12:21:47.291100+00:00",
+  "transferencia||Livelo|35|": "2026-11-09T13:42:17.455872+00:00",
+  "transferencia|C6 Átomos|Azul Fidelidade|120|": "2026-11-09T13:42:18.496923+00:00",
+  "passagem|Smiles|61": "2026-11-09T13:42:19.920772+00:00",
+  "acumulo|Esfera||14.0|Polishop": "2026-11-09T13:42:21.232257+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -123,6 +159,9 @@
    14.0,
    14.0,
    14.0,
+   14.0
+  ],
+  "Polishop>Esfera": [
    14.0
   ]
  }
