@@ -80,21 +80,6 @@
    "link": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   },
   {
-   "assinatura": "transferencia||Livelo|35|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Livelo"
-   ],
-   "bonus": 35,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-09",
-   "titulo": "Transfira pontos da Livelo para o Privilege Club da Qatar Airways com 35% de bônus",
-   "link": "http://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
-  },
-  {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -142,6 +127,21 @@
    "visto_em": "2026-11-09",
    "titulo": "Receba até 104.000 pontos ao assinar o Clube Livelo Especial – Milheiro a partir de R$ 21,80",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "transferencia||Livelo|35|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 35,
+   "desconto": 60,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-09",
+   "titulo": "Mundo Avios com 60% OFF na Black da UDM (o maior desconto da história!)",
+   "link": "https://www.livelo.com.br"
   }
  ],
  "vitrine": {

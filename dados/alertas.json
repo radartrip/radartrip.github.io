@@ -1,5 +1,68 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=580660",
+  "titulo": "Mundo Avios com 60% OFF na Black da UDM (o maior desconto da história!)",
+  "link": "https://passageirodeprimeira.com/mundo-avios-com-60-off-na-black-da-udm-o-maior-desconto-da-historia/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O curso Mundo Avios está com 60% OFF, o maior desconto da história, e ainda conta com 35% de bônus na transferência da Livelo para o Qatar Privilege Club. A promoção é válida até quinta-feira (12) e alunos da UDM têm 10% de desconto extra.",
+  "categorias": [
+   "Promoções",
+   "Universidade das Milhas"
+  ],
+  "data": "2026-11-09T16:15:12+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Livelo"
+  ],
+  "bonus": 35,
+  "desconto": 60,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Livelo|35|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 35%"
+  ],
+  "visto_em": "2026-11-09T16:43:58.026382+00:00",
+  "link_oficial": "https://www.livelo.com.br",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148820",
+  "titulo": "LATAM suspende venda de passagens para voos entre Guarulhos e Cabo Frio",
+  "link": "https://pontospravoar.com/latam-suspende-voos-guarulhos-cabo-frio/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A LATAM Airlines suspendeu preventivamente a venda de passagens para os voos que ligariam o Aeroporto de Guarulhos, em São Paulo, a Cabo Frio, no Rio de Janeiro. A nova rota tinha início previsto para 3 de dezembro de 2026, mas dificuldades operacionais no aeroporto de destino levaram a companhia a interromper as vendas. Problemas…",
+  "categorias": [
+   "Empresas Aéreas",
+   "LATAM",
+   "Notícias",
+   "Cabo Frio"
+  ],
+  "data": "2026-11-09T16:30:47+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-09T16:43:58.153070+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148899",
   "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos Itaú",
   "link": "https://pontospravoar.com/azul-friday-ganhe-ate-120-porcento-bonus-transferencia-pontos-itau/",
