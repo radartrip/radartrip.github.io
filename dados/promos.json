@@ -63,21 +63,6 @@
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   },
   {
-   "assinatura": "transferencia||Livelo|35|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Livelo"
-   ],
-   "bonus": 35,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Livelo oferece 35% de bônus na transferência para o Qatar Airways",
-   "link": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
-  },
-  {
    "assinatura": "transferencia|C6 Átomos|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -93,6 +78,21 @@
    "visto_em": "2026-11-09",
    "titulo": "Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
    "link": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "transferencia||Livelo|35|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 35,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-09",
+   "titulo": "Transfira pontos da Livelo para o Privilege Club da Qatar Airways com 35% de bônus",
+   "link": "http://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
   }
  ],
  "vitrine": {
