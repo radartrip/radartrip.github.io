@@ -1,5 +1,114 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148899",
+  "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos Itaú",
+  "link": "https://pontospravoar.com/azul-friday-ganhe-ate-120-porcento-bonus-transferencia-pontos-itau/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Pensando em transferir seus pontos? Nesta segunda-feira, o Azul Fidelidade liberou mais uma oferta antecipada da Azul Friday. Desta vez, seus clientes podem receber até 120% de bônus na transferência de pontos do Itaú. Vamos aos detalhes! Azul Fidelidade e Itaú Para esta campanha, a bonificação está estruturada da seguinte forma: 90% de bônus –…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Bancos",
+   "Itaú",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "Azul Friday"
+  ],
+  "data": "2026-11-09T15:00:50+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Itaú|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-09T15:36:37.139167+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/itau?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "codigo": "RT-0075"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=148957",
+  "titulo": "Transfira pontos Nubank Croma para a Smiles com até 80% de bônus",
+  "link": "https://pontospravoar.com/transfira-pontos-nubank-croma-smiles-ate-80-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Essa é para os clientes do Nubank! A Smiles acaba de disponibilizar uma nova oferta, em que é possível receber até 80% de bônus na transferência de pontos Nubank Croma. A promoção fica disponível até amanhã, dia 10 de outubro, e você confere os detalhes a seguir. Promoção Smiles e Nubank Croma Para esta campanha,…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Bancos",
+   "Nubank",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "NUBANK"
+  ],
+  "data": "2026-11-09T15:26:04+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Nubank"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-10",
+  "repostagem": false,
+  "assinatura": "transferencia|Nubank|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-09T15:36:37.138518+00:00",
+  "link_oficial": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-nubank-11-2026",
+  "codigo": "RT-0076"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=580634",
+  "titulo": "Receba até 104.000 pontos ao assinar o Clube Livelo Especial – Milheiro a partir de R$ 21,80",
+  "link": "https://passageirodeprimeira.com/receba-ate-104-000-pontos-ao-assinar-o-clube-livelo-especial-milheiro-a-partir-de-r-2180/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O Clube Livelo está oferecendo até 36.000 pontos bônus em novas assinaturas, totalizando até 104.000 pontos ao longo de 12 meses, com milheiro a partir de R$ 21,80. A promoção é válida somente hoje (9) e contempla planos mensais e anuais.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-09T15:15:59+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 21.8,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-09T15:36:36.976207+00:00",
+  "link_oficial": "https://www.livelo.com.br/clube",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148936",
   "titulo": "Transfira pontos da Livelo para o Privilege Club da Qatar Airways com 35% de bônus",
   "link": "https://pontospravoar.com/transfira-pontos-livelo-privilege-club-qatar-airways-35-porcento-bonus/",

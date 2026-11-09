@@ -1,5 +1,5 @@
 {
- "ultimo": 74,
+ "ultimo": 76,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1148,6 +1148,40 @@
     "categoria": "acumulo",
     "programas": [
      "Esfera"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0075",
+   "enviado_em": "2026-11-09T15:36:38.326913+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos Itaú",
+   "link": "https://pontospravoar.com/azul-friday-ganhe-ate-120-porcento-bonus-transferencia-pontos-itau/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0076",
+   "enviado_em": "2026-11-09T15:36:39.391567+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Transfira pontos Nubank Croma para a Smiles com até 80% de bônus",
+   "link": "https://pontospravoar.com/transfira-pontos-nubank-croma-smiles-ate-80-porcento-bonus/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Nubank",
+     "Smiles"
     ],
     "trechos": []
    }
