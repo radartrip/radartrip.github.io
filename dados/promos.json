@@ -142,6 +142,39 @@
    "visto_em": "2026-11-09",
    "titulo": "Mundo Avios com 60% OFF na Black da UDM (o maior desconto da história!)",
    "link": "https://www.livelo.com.br"
+  },
+  {
+   "assinatura": "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "C6 Átomos",
+    "Itaú"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-09",
+   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Itaú e C6 Bank",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/itau"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-09",
+   "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Sem Parar",
+   "link": "https://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras"
   }
  ],
  "vitrine": {
@@ -196,7 +229,8 @@
   "passagem|Smiles|61": "2026-11-09T13:42:19.920772+00:00",
   "acumulo|Esfera||14.0|Polishop": "2026-11-09T13:42:21.232257+00:00",
   "transferencia|Itaú|Azul Fidelidade|120|": "2026-11-09T15:36:38.328121+00:00",
-  "transferencia|Nubank|Smiles|80|": "2026-11-09T15:36:39.393042+00:00"
+  "transferencia|Nubank|Smiles|80|": "2026-11-09T15:36:39.393042+00:00",
+  "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|": "2026-11-09T17:39:33.516911+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
