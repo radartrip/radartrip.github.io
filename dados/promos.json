@@ -175,6 +175,36 @@
    "visto_em": "2026-11-09",
    "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Sem Parar",
    "link": "https://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras"
+  },
+  {
+   "assinatura": "transferencia||Smiles|70|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 70,
+   "desconto": 76,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-09",
+   "titulo": "Smiles oferece até 70% de bônus na transferência de pontos + cupom para compra de milhas",
+   "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026"
+  },
+  {
+   "assinatura": "compra|Livelo||57|",
+   "categoria": "compra",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 57,
+   "milheiro": 29.5,
+   "prazo": "",
+   "visto_em": "2026-11-09",
+   "titulo": "Livelo oferece até 57% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,50",
+   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
   }
  ],
  "vitrine": {
@@ -230,7 +260,10 @@
   "acumulo|Esfera||14.0|Polishop": "2026-11-09T13:42:21.232257+00:00",
   "transferencia|Itaú|Azul Fidelidade|120|": "2026-11-09T15:36:38.328121+00:00",
   "transferencia|Nubank|Smiles|80|": "2026-11-09T15:36:39.393042+00:00",
-  "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|": "2026-11-09T17:39:33.516911+00:00"
+  "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|": "2026-11-09T17:39:33.516911+00:00",
+  "transferencia||Smiles|70|": "2026-11-09T19:28:36.108392+00:00",
+  "acumulo||Azul Fidelidade|16.0|Netshoes": "2026-11-09T19:28:37.035181+00:00",
+  "compra|Livelo||57|": "2026-11-09T19:28:38.082311+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -248,6 +281,9 @@
   ],
   "Polishop>Esfera": [
    14.0
+  ],
+  "Netshoes>Azul Fidelidade": [
+   16.0
   ]
  }
 }

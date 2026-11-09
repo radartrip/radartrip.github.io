@@ -1,5 +1,5 @@
 {
- "ultimo": 77,
+ "ultimo": 80,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1200,6 +1200,54 @@
      "Azul Fidelidade",
      "C6 Átomos",
      "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0078",
+   "enviado_em": "2026-11-09T19:28:36.106761+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Smiles oferece até 70% de bônus na transferência de pontos + cupom para compra de milhas",
+   "link": "https://pontospravoar.com/smiles-oferece-ate-70-porcento-bonus-transferencia-pontos-cupom-compra-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0079",
+   "enviado_em": "2026-11-09T19:28:37.033494+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Fidelidade e Netshoes oferecem até 16 pontos por real",
+   "link": "https://pontospravoar.com/azul-fidelidade-netshoes-oferecem-ate-16-pontos-real/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0080",
+   "enviado_em": "2026-11-09T19:28:38.080627+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Livelo oferece até 57% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,50",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-57-desconto-compra-pontos-assinantes-clube-milheiro-a-partir-2950/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "compra",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }
