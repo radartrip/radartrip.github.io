@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Nubank|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Nubank"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-05",
-   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos da Nubank",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/nubank"
-  },
-  {
    "assinatura": "transferencia||Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [],
