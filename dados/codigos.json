@@ -1,5 +1,5 @@
 {
- "ultimo": 80,
+ "ultimo": 81,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1248,6 +1248,22 @@
     "categoria": "compra",
     "programas": [
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0081",
+   "enviado_em": "2026-11-09T21:17:55.874839+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 3.887 milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-3887-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }
