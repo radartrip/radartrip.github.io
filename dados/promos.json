@@ -129,21 +129,6 @@
    "link": "https://www.livelo.com.br/clube"
   },
   {
-   "assinatura": "transferencia||Livelo|35|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Livelo"
-   ],
-   "bonus": 35,
-   "desconto": 60,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Mundo Avios com 60% OFF na Black da UDM (o maior desconto da história!)",
-   "link": "https://www.livelo.com.br"
-  },
-  {
    "assinatura": "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -205,6 +190,21 @@
    "visto_em": "2026-11-09",
    "titulo": "Livelo oferece até 57% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,50",
    "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
+  },
+  {
+   "assinatura": "transferencia||Livelo|35|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 35,
+   "desconto": 57,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-09",
+   "titulo": "Gere o milheiro Privilege Club da Qatar a partir de R$ 65,55 comprando pontos Livelo",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
