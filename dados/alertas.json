@@ -1,5 +1,63 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=148869",
+  "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
+  "link": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "No alerta de passagens PPV desta segunda-feira, nossa equipe reuniu opções de trechos internacionais utilizando milhas Smiles, com emissões a partir de 16.800 milhas + taxas. Abaixo, confira as disponibilidades e aproveite! Passagens internacionais com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver alteração no valor…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-09T12:00:41+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|16.800",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-09T12:21:46.166690+00:00",
+  "trechos_total": 9,
+  "resgates": [
+   {
+    "origem": "GYN",
+    "destino": "AEP",
+    "origem_nome": "Goiânia",
+    "destino_nome": "Buenos Aires",
+    "milhas": 37000,
+    "milhas_clube": 34500,
+    "data": "2027-01-08",
+    "datas_texto": "8 de janeiro",
+    "cia": "GOL",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1799420400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=GYN&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=AEP&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Janeiro/2027: 8"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ],
+  "codigo": "RT-0070"
+ },
+ {
   "id": "https://pontospravoar.com/?p=148852",
   "titulo": "Turbina Saldo Esfera: confira mais de 20 ofertas em lojas parceiras",
   "link": "https://pontospravoar.com/turbina-saldo-esfera-confira-mais-20-ofertas-lojas-parceiras/",

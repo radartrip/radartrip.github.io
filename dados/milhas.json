@@ -43,7 +43,8 @@
   "https://pontospravoar.com/?p=148730",
   "https://pontospravoar.com/?p=148625",
   "https://pontospravoar.com/?p=148787",
-  "https://passageirodeprimeira.com/?p=580384"
+  "https://passageirodeprimeira.com/?p=580384",
+  "https://pontospravoar.com/?p=148869"
  ],
  "resgates": [
   {
@@ -188,6 +189,29 @@
    "post": "https://pontospravoar.com/alerta-ppv-voos-para-diferentes-destinos-argentinos-a-partir-de-29-500-milhas-smiles/",
    "titulo": "Alerta PPV! Voos para diferentes destinos argentinos a partir de 29.500 milhas Smiles",
    "visto_em": "2026-11-05T20:37:22.974030+00:00"
+  },
+  {
+   "origem": "GYN",
+   "destino": "AEP",
+   "origem_nome": "Goiânia",
+   "destino_nome": "Buenos Aires",
+   "milhas": 37000,
+   "milhas_clube": 34500,
+   "data": "2027-01-08",
+   "datas_texto": "8 de janeiro",
+   "cia": "GOL",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1799420400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=GYN&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=AEP&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Janeiro/2027: 8"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",
+   "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
+   "visto_em": "2026-11-09T12:21:46.746103+00:00"
   }
  ]
 }

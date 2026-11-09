@@ -1,5 +1,5 @@
 {
- "ultimo": 69,
+ "ultimo": 70,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1067,6 +1067,24 @@
     "categoria": "resumo_diario",
     "programas": [],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0070",
+   "enviado_em": "2026-11-09T12:21:47.289695+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
+   "link": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "GYN-AEP"
+    ]
    }
   }
  ]
