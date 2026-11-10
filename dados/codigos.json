@@ -1,5 +1,5 @@
 {
- "ultimo": 87,
+ "ultimo": 89,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1353,6 +1353,39 @@
     "categoria": "passagem",
     "programas": [
      "AAdvantage"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0088",
+   "enviado_em": "2026-11-10T16:20:42.566030+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Ganhe até 15 pontos Azul Fidelidade por real gasto no Magalu",
+   "link": "https://pontospravoar.com/ganhe-ate-15-pontos-azul-fidelidade-real-gasto-magalu/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0089",
+   "enviado_em": "2026-11-10T16:20:43.952705+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "11×1 na Livelo! Até 11 pontos por real gasto em diversos parceiros",
+   "link": "https://passageirodeprimeira.com/so-hoje-assinantes-clube-livelo-recebem-ate-11-pontos-real-gasto-ca-natura-mais/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }

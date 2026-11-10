@@ -270,7 +270,9 @@
   "passagem|Azul Fidelidade|5": "2026-11-09T22:12:05.817105+00:00",
   "passagem|Smiles|68": "2026-11-10T12:32:50.134586+00:00",
   "transferencia|Itaú|Azul Fidelidade|320|": "2026-11-10T13:49:38.432316+00:00",
-  "passagem|AAdvantage|1,8": "2026-11-10T13:49:39.046650+00:00"
+  "passagem|AAdvantage|1,8": "2026-11-10T13:49:39.046650+00:00",
+  "acumulo|Itaú|Azul Fidelidade|15.0|Magalu": "2026-11-10T16:20:42.567379+00:00",
+  "acumulo|Livelo||11.0|Natura": "2026-11-10T16:20:43.954390+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -291,6 +293,12 @@
   ],
   "Netshoes>Azul Fidelidade": [
    16.0
+  ],
+  "Magalu>Azul Fidelidade,Itaú": [
+   15.0
+  ],
+  "Natura>Livelo": [
+   11.0
   ]
  }
 }

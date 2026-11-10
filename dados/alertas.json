@@ -1,5 +1,108 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=244600",
+  "titulo": "Como emitir passagens da Delta com milhas LATAM Pass",
+  "link": "https://passageirodeprimeira.com/como-emitir-passagens-da-delta-com-milhas-latam-pass/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Você sabia que é possível emitir passagens para voar com a companhia americana Delta usando milhas do LATAM Pass, o programa de fidelidade da LATAM? Nesta matéria, te explicamos tudo o que você precisa saber para fazer essa emissão!",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-10T15:29:56+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T16:20:39.774764+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149123",
+  "titulo": "Ganhe até 15 pontos Azul Fidelidade por real gasto no Magalu",
+  "link": "https://pontospravoar.com/ganhe-ate-15-pontos-azul-fidelidade-real-gasto-magalu/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Perdeu a última oferta? O Azul Fidelidade acaba de lançar uma nova promoção em parceria com o Magalu. Desta vez, é possível ganhar até 15 pontos por cada real gasto. Ficou interessado? Confira os detalhes a seguir! Azul Fidelidade e Magalu O acúmulo turbinado de milhas está estruturado da seguinte forma: Com cartão Azul Itaú…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "MAGALU"
+  ],
+  "data": "2026-11-10T16:00:43+00:00",
+  "pontos_por_real": 15.0,
+  "parceiro": "Magalu",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Itaú|Azul Fidelidade|15.0|Magalu",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T16:20:39.899297+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0088"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581002",
+  "titulo": "11×1 na Livelo! Até 11 pontos por real gasto em diversos parceiros",
+  "link": "https://passageirodeprimeira.com/so-hoje-assinantes-clube-livelo-recebem-ate-11-pontos-real-gasto-ca-natura-mais/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo até 11 pontos por real gasto na C&A, Natura e mais para assinantes do Clube Livelo, e 10 pontos por real gasto para os demais clientes. As ofertas possuem a mesma pontuação e são válidas apenas hoje (10). Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-10T16:10:21+00:00",
+  "pontos_por_real": 11.0,
+  "parceiro": "Natura",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-10",
+  "repostagem": true,
+  "assinatura": "acumulo|Livelo||11.0|Natura",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T16:20:39.773533+00:00",
+  "link_oficial": "https://www.livelo.com.br/10-pra-1",
+  "codigo": "RT-0089"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149151",
   "titulo": "Pink Friday! Dia de até 11 pontos Livelo por real em mais de 30 lojas parceiras",
   "link": "https://pontospravoar.com/pink-friday-dia-ate-11-pontos-livelo-real-mais-30-lojas-parceiras/",
