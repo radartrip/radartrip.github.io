@@ -33,23 +33,6 @@
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   },
   {
-   "assinatura": "transferencia|C6 Átomos|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "C6 Átomos"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-10",
-   "visto_em": "2026-11-09",
-   "titulo": "Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -207,6 +190,23 @@
    "visto_em": "2026-11-10",
    "titulo": "Só hoje: Receba 12.000 pontos na hora ao assinar o Clube Livelo Essencial",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "transferencia|C6 Átomos|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "C6 Átomos"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-10",
+   "titulo": "Últimas horas! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
