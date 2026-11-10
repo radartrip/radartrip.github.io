@@ -52,7 +52,8 @@
   "https://pontospravoar.com/?p=149043",
   "https://passageirodeprimeira.com/?p=244600",
   "https://pontospravoar.com/?p=149202",
-  "https://pontospravoar.com/?p=149227"
+  "https://pontospravoar.com/?p=149227",
+  "https://passageirodeprimeira.com/?p=581163"
  ],
  "resgates": [
   {
@@ -243,6 +244,28 @@
    "post": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-6900-milhas-smiles-taxas/",
    "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 6.900 milhas Smiles + taxas",
    "visto_em": "2026-11-10T18:07:50.993742+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "UDI",
+   "origem_nome": "Brasília",
+   "destino_nome": "Uberlândia",
+   "milhas": 5205,
+   "milhas_clube": null,
+   "data": "",
+   "datas_texto": "",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+   "ambos_sentidos": true,
+   "formato": "texto",
+   "programa": "LATAM Pass",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://passageirodeprimeira.com/latam-oferece-trechos-para-diversos-destinos-a-partir-de-r-149-ou-3-mil-milhas-taxas/",
+   "titulo": "LATAM oferece trechos para diversos destinos a partir de R$ 149 ou 3 mil milhas + taxas",
+   "visto_em": "2026-11-10T21:22:12.168635+00:00"
   }
  ]
 }
