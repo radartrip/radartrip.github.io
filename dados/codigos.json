@@ -1,5 +1,5 @@
 {
- "ultimo": 85,
+ "ultimo": 87,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1320,6 +1320,39 @@
     "categoria": "passagem",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0086",
+   "enviado_em": "2026-11-10T13:49:38.430801+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-320-de-bonus-na-compra-de-pontos/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0087",
+   "enviado_em": "2026-11-10T13:49:39.044826+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "American Airlines coloca mais de 1 milhão de assentos em promoção no AAdvantage, com passagens a partir de 8 mil milhas",
+   "link": "https://pontospravoar.com/american-airlines-coloca-mais-de-1-milhao-de-assentos-em-promocao-no-aadvantage-com-passagens-a-partir-de-8-mil-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "AAdvantage"
     ],
     "trechos": []
    }
