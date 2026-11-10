@@ -1,5 +1,5 @@
 {
- "ultimo": 90,
+ "ultimo": 92,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1406,6 +1406,38 @@
     "trechos": [
      "GIG-BSB"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0091",
+   "enviado_em": "2026-11-10T20:34:38.008634+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens para a Europa a partir de 57.850 pontos Azul Fidelidade + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-europa-57850-pontos-azul-fidelidade-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0092",
+   "enviado_em": "2026-11-10T20:34:39.331216+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Fidelidade oferece até 15 pontos por real gasto no Magalu – incluindo Smartphones",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-15-pontos-por-real-gasto-no-magalu-incluindo-smartphones/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
    }
   }
  ]
