@@ -1,5 +1,5 @@
 {
- "ultimo": 94,
+ "ultimo": 98,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1468,6 +1468,64 @@
    "fonte": "Pontos pra Voar",
    "etiquetas": {
     "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0095",
+   "enviado_em": "2026-11-10T22:49:47.177871+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Bom preço! Passagens para Chicago a partir de R$ 2.736 saindo do Rio e mais cidades",
+   "link": "https://www.melhoresdestinos.com.br/promocao/bom-preco-passagens-para-chicago-10nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0096",
+   "enviado_em": "2026-11-10T22:49:48.418701+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Chile 2×1 🇨🇱 Passagens para Santiago mais Deserto do Atacama ou Patagônia a partir de R$ 1.987",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-chile-2-em-1-10-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0097",
+   "enviado_em": "2026-11-10T22:49:50.016837+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Alemanha ou Suíça! Passagens para Genebra, Berlim, Zurique e outras cidades a partir de R$ 4.009 ida e volta",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-europa-alemanha-suica-10-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0098",
+   "enviado_em": "2026-11-10T22:49:51.561570+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Esquenta Latam Friday! Voos nacionais com até 40% de desconto, a partir de R$ X ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-10-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
     "programas": [
      "LATAM Pass"
     ],
