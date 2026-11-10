@@ -1,5 +1,5 @@
 {
- "ultimo": 84,
+ "ultimo": 85,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1305,6 +1305,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0085",
+   "enviado_em": "2026-11-10T12:32:50.133612+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Trecho para Miami a partir de 68 mil milhas Smiles + taxas",
+   "link": "https://passageirodeprimeira.com/trecho-miami-a-partir-68-mil-milhas-smiles-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
     "trechos": []
    }
   }
