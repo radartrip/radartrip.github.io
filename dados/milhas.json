@@ -50,7 +50,8 @@
   "https://pontospravoar.com/?p=149054",
   "https://passageirodeprimeira.com/?p=580917",
   "https://pontospravoar.com/?p=149043",
-  "https://passageirodeprimeira.com/?p=244600"
+  "https://passageirodeprimeira.com/?p=244600",
+  "https://pontospravoar.com/?p=149202"
  ],
  "resgates": [
   {
@@ -218,6 +219,29 @@
    "post": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",
    "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
    "visto_em": "2026-11-09T12:21:46.746103+00:00"
+  },
+  {
+   "origem": "GIG",
+   "destino": "BSB",
+   "origem_nome": "Rio de Janeiro",
+   "destino_nome": "Brasília",
+   "milhas": 12500,
+   "milhas_clube": 11800,
+   "data": "2027-03-20",
+   "datas_texto": "20 de março",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1805511600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1806202799000&searchType=g3&segments=1&tripType=1&originAirport=GIG&destinationAirport=BSB&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Março/2027: 20"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-6900-milhas-smiles-taxas/",
+   "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 6.900 milhas Smiles + taxas",
+   "visto_em": "2026-11-10T18:07:50.993742+00:00"
   }
  ]
 }

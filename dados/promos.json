@@ -84,21 +84,6 @@
    "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-nubank-11-2026"
   },
   {
-   "assinatura": "clube|Livelo|||",
-   "categoria": "clube",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 21.8,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Receba até 104.000 pontos ao assinar o Clube Livelo Especial – Milheiro a partir de R$ 21,80",
-   "link": "https://www.livelo.com.br/clube"
-  },
-  {
    "assinatura": "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -207,6 +192,21 @@
    "visto_em": "2026-11-10",
    "titulo": "Novidade! LATAM Pass oferece 25% de bônus na transferência do Sem Parar Mais",
    "link": "http://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 23.43,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-10",
+   "titulo": "Só hoje: Receba 12.000 pontos na hora ao assinar o Clube Livelo Essencial",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
@@ -272,7 +272,8 @@
   "transferencia|Itaú|Azul Fidelidade|320|": "2026-11-10T13:49:38.432316+00:00",
   "passagem|AAdvantage|1,8": "2026-11-10T13:49:39.046650+00:00",
   "acumulo|Itaú|Azul Fidelidade|15.0|Magalu": "2026-11-10T16:20:42.567379+00:00",
-  "acumulo|Livelo||11.0|Natura": "2026-11-10T16:20:43.954390+00:00"
+  "acumulo|Livelo||11.0|Natura": "2026-11-10T16:20:43.954390+00:00",
+  "passagem|Smiles|6.900": "2026-11-10T18:07:51.718982+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

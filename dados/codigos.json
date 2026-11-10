@@ -1,5 +1,5 @@
 {
- "ultimo": 89,
+ "ultimo": 90,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1388,6 +1388,24 @@
      "Livelo"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0090",
+   "enviado_em": "2026-11-10T18:07:51.717587+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 6.900 milhas Smiles + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-6900-milhas-smiles-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "GIG-BSB"
+    ]
    }
   }
  ]

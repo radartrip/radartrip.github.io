@@ -1,5 +1,122 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149202",
+  "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 6.900 milhas Smiles + taxas",
+  "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-6900-milhas-smiles-taxas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Planejando sua próxima viagem? No alerta de passagens PPV de hoje, encontramos oportunidades para conhecer diferentes destinos pelo Brasil a partir de 8.000 milhas Smiles + taxas. A seguir, veja as disponibilidades disponíveis e arrume suas malas! Passagens com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-10T18:00:37+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|6.900",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-10T18:07:50.190253+00:00",
+  "trechos_total": 11,
+  "resgates": [
+   {
+    "origem": "GIG",
+    "destino": "BSB",
+    "origem_nome": "Rio de Janeiro",
+    "destino_nome": "Brasília",
+    "milhas": 12500,
+    "milhas_clube": 11800,
+    "data": "2027-03-20",
+    "datas_texto": "20 de março",
+    "cia": "",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1805511600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1806202799000&searchType=g3&segments=1&tripType=1&originAirport=GIG&destinationAirport=BSB&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Março/2027: 20"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ],
+  "codigo": "RT-0090"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149164",
+  "titulo": "Sem Parar e LATAM Pass fecham parceria para converter pontos em milhas aéreas",
+  "link": "https://pontospravoar.com/sem-parar-e-latam-pass-fecham-parceria-para-converter-pontos-em-milhas-aereas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A parceria entre o Sem Parar e o LATAM Pass permite transformar pontos acumulados com serviços de mobilidade em milhas aéreas. A novidade está disponível desde 9 de novembro e contempla clientes do programa Sem Parar Mais. Conversão será de um ponto por uma milha Os clientes poderão transferir os pontos acumulados no Sem Parar…",
+  "categorias": [
+   "LATAM Pass",
+   "Programas de Fidelidade"
+  ],
+  "data": "2026-11-10T17:30:36+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T18:07:50.190920+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581003",
+  "titulo": "Só hoje: Receba 12.000 pontos na hora ao assinar o Clube Livelo Essencial",
+  "link": "https://passageirodeprimeira.com/so-hoje-receba-12-000-pontos-na-hora-ao-assinar-o-clube-livelo-essencial/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Clube Livelo está oferecendo 12.000 pontos na hora para novas assinaturas do Clube Essencial anual, totalizando 23.000 pontos ao longo de 12 meses. A promoção é válida apenas hoje (10) e o custo por milheiro pode ser a partir de R$ 23,43.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-10T17:42:38+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 23.43,
+  "prazo": "2026-11-10",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T18:07:50.051530+00:00",
+  "link_oficial": "https://www.livelo.com.br/clube",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149168",
   "titulo": "Smiles lança ferramenta para multiplicar milhas acumuladas em até 12 vezes",
   "link": "https://pontospravoar.com/smiles-lanca-ferramenta-para-multiplicar-milhas-acumuladas-em-ate-12-vezes/",
