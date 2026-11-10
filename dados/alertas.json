@@ -1,5 +1,76 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149111",
+  "titulo": "Novidade! LATAM Pass oferece 25% de bônus na transferência do Sem Parar Mais",
+  "link": "https://pontospravoar.com/novidade-latam-pass-oferece-25-porcento-bonus-transferencia-sem-parar-mais/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O LATAM Pass lançou sua primeira promoção em parceria com o Sem Parar Mais! Nesta campanha, os clientes podem receber 25% de bônus, além de 1.000 milhas extras pela primeira transferência. Abaixo, veja os detalhes desta oferta, que acaba hoje, dia 10 de novembro. LATAM Pass e Sem Parar Mais Para esta campanha, a bonificação…",
+  "categorias": [
+   "Acumulando Milhas",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Promoções",
+   "sem parar",
+   "Sem Parar Mais"
+  ],
+  "data": "2026-11-10T14:00:07+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 25,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-10",
+  "repostagem": true,
+  "assinatura": "transferencia||LATAM Pass|25|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 25%"
+  ],
+  "visto_em": "2026-11-10T14:42:28.819839+00:00",
+  "link_oficial": "http://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149148",
+  "titulo": "Visa Infinite Private: conheça o novo cartão do BB com até 9 pontos por dólar",
+  "link": "https://pontospravoar.com/visa-infinite-private-conheca-o-novo-cartao-do-bb-com-ate-9-pontos-por-dolar/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O novo cartão do Banco do Brasil chega a um segmento bastante restrito do mercado de alta renda: o Visa Infinite Private combina pontuação de até 9 pontos por dólar, IOF zero nas compras internacionais e acesso ilimitado a salas VIP, mas cobra anuidade de R$ 15 mil, sem possibilidade de isenção. Pontuação elevada e…",
+  "categorias": [
+   "Banco do Brasil",
+   "Cartões de Crédito",
+   "Cartões Visa",
+   "cartões de crédito",
+   "CARTÕES VISA"
+  ],
+  "data": "2026-11-10T14:30:12+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Banco do Brasil"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Banco do Brasil||0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-10T14:42:28.819209+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149106",
   "titulo": "Azul Friday! Transfira pontos do BRB para o Azul Fidelidade com até 120% de bônus",
   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-brb-azul-fidelidade-ate-120-porcento-bonus/",

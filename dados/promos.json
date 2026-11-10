@@ -117,21 +117,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/itau"
   },
   {
-   "assinatura": "transferencia||LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-10",
-   "visto_em": "2026-11-09",
-   "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Sem Parar",
-   "link": "https://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras"
-  },
-  {
    "assinatura": "transferencia||Smiles|70|",
    "categoria": "transferencia",
    "origens": [],
@@ -207,6 +192,21 @@
    "visto_em": "2026-11-10",
    "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos-geral"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-10",
+   "visto_em": "2026-11-10",
+   "titulo": "Novidade! LATAM Pass oferece 25% de bônus na transferência do Sem Parar Mais",
+   "link": "http://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras"
   }
  ],
  "vitrine": {
