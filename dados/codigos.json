@@ -1,5 +1,5 @@
 {
- "ultimo": 83,
+ "ultimo": 84,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1295,6 +1295,18 @@
    "ida": "2027-06-06",
    "volta": "2027-06-13",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-06-06%20through%202027-06-13"
+  },
+  {
+   "codigo": "RT-0084",
+   "enviado_em": "2026-11-10T10:45:15.860569+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
   }
  ]
 }
