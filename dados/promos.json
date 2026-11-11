@@ -185,6 +185,23 @@
    "visto_em": "2026-11-11",
    "titulo": "Só hoje! Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|90|",
+   "categoria": "transferencia",
+   "origens": [
+    "Inter Loop"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 90,
+   "desconto": 0,
+   "milheiro": 12.39,
+   "prazo": "2026-11-12",
+   "visto_em": "2026-11-11",
+   "titulo": "Gere o milheiro Azul a partir de R$ 12,39 transferindo pontos Inter Loop + dinheiro",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
   }
  ],
  "vitrine": {
@@ -268,7 +285,8 @@
   "acumulo|Livelo||14.0|Centauro": "2026-11-11T14:59:37.877732+00:00",
   "passagem|LATAM Pass|64": "2026-11-11T16:38:51.430649+00:00",
   "passagem|Smiles|11.11,26.800": "2026-11-11T18:30:01.479146+00:00",
-  "passagem|Smiles|7": "2026-11-11T18:30:02.846523+00:00"
+  "passagem|Smiles|7": "2026-11-11T18:30:02.846523+00:00",
+  "transferencia|Inter Loop|Azul Fidelidade|90|": "2026-11-11T19:32:24.312920+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
