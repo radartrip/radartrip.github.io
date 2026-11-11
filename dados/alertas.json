@@ -1,5 +1,106 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149307",
+  "titulo": "Azul Friday! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
+  "link": "https://pontospravoar.com/azul-friday-transfira-pontos-inter-loop-azul-fidelidade-ate-120-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade acaba de liberar uma nova promoção do esquenta Azul Friday! Desta vez, oferece aos clientes do Inter Loop até 120% de bônus na transferência de pontos. Esta oferta vai até amanhã, dia 12 de novembro, e você confere os detalhes a seguir. Azul Fidelidade e Inter Loop Para esta campanha, a bonificação…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Bancos",
+   "Inter",
+   "Programas de Fidelidade",
+   "azul fidelidade",
+   "BANCO INTER"
+  ],
+  "data": "2026-11-11T12:05:04+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-12",
+  "repostagem": false,
+  "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-11T12:49:11.568245+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "codigo": "RT-0103"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581245",
+  "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-de-bonus-nas-transferencias-de-pontos-do-inter-loop-2/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos Inter Loop + até 30% de bônus adicional, dependendo do seu tempo de permanência no Clube Azul. A campanha é válida até amanhã (12).",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-11T12:39:23+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-12",
+  "repostagem": false,
+  "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-11T12:49:11.448266+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149221",
+  "titulo": "Qatar Airways fecha acordo com a canadense Porter Airlines",
+  "link": "https://pontospravoar.com/qatar-airways-fecha-acordo-com-a-canadense-porter-airlines/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Qatar Airways firmou um acordo de codeshare com a canadense Porter Airlines para oferecer conexões a mais cidades do Canadá. A parceria permitirá que passageiros encontrem voos para destinos além de Toronto e Montreal em uma única reserva com a companhia do Catar. Acordo inclui destinos em diferentes regiões do Canadá Com o novo…",
+  "categorias": [
+   "Empresas Aéreas",
+   "Notícias",
+   "Qatar Airways"
+  ],
+  "data": "2026-11-11T12:30:57+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T12:49:11.567489+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581110",
   "titulo": "Black Friday! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
   "link": "https://passageirodeprimeira.com/black-friday-ganhe-ate-30-de-bonus-ao-transferir-pontos-azul-para-all-accor/",

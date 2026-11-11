@@ -1,5 +1,5 @@
 {
- "ultimo": 102,
+ "ultimo": 103,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1577,6 +1577,23 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0103",
+   "enviado_em": "2026-11-11T12:49:12.406005+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Friday! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
+   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-inter-loop-azul-fidelidade-ate-120-porcento-bonus/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Inter Loop"
+    ],
     "trechos": []
    }
   }

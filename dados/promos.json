@@ -136,6 +136,23 @@
    "visto_em": "2026-11-11",
    "titulo": "Black Friday! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
    "link": "https://www.voeazul.com.br"
+  },
+  {
+   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Inter Loop"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-12",
+   "visto_em": "2026-11-11",
+   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
   }
  ],
  "vitrine": {
@@ -209,7 +226,8 @@
   "passagem|LATAM Pass|149": "2026-11-10T21:22:13.758601+00:00",
   "passagem||2.736": "2026-11-10T22:49:47.179627+00:00",
   "passagem||1,1.987,2": "2026-11-10T22:49:48.420841+00:00",
-  "passagem||4.009": "2026-11-10T22:49:50.018715+00:00"
+  "passagem||4.009": "2026-11-10T22:49:50.018715+00:00",
+  "transferencia|Inter Loop|Azul Fidelidade|120|": "2026-11-11T12:49:12.407758+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
