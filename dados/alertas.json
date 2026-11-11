@@ -1,5 +1,69 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149348",
+  "titulo": "11.11! Livelo oferece até 388.000 pontos na adesão ou upgrade do Clube Premium",
+  "link": "https://pontospravoar.com/11-11-livelo-oferece-ate-388000-pontos-adesao-upgrade-clube-premium/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Em comemoração ao 11.11, a Livelo lançou uma promoção em que oferece aos seus clientes até 388.000 pontos na adesão ou upgrade para o Clube Premium, válido no pagamento mensal ou anual. Abaixo, confira os principais detalhes desta oferta válida apenas hoje, dia 11 de novembro. Promoção de assinatura do Clube Premium Esta promoção de…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "CLUBE LIVELO",
+   "Clube Livelo Premium",
+   "livelo"
+  ],
+  "data": "2026-11-11T15:00:26+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-11",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T15:43:08.519706+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581313",
+  "titulo": "Só hoje: Azul Fidelidade oferece cupons de 11% de desconto em passagens",
+  "link": "https://passageirodeprimeira.com/so-hoje-azul-fidelidade-oferece-cupons-de-11-de-desconto-em-passagens/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo cupons de 11% de desconto na emissão de passagens nacionais e internacionais da companhia. A campanha é válida somente hoje (11).",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-11T15:17:27+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 11,
+  "milheiro_citado": null,
+  "prazo": "2026-11-11",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T15:43:08.434124+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/home",
+  "codigo": "RT-0111"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581276",
   "titulo": "Oferta relâmpago! Assine o Clube Azul 2.000 por R$ 27 no primeiro mês e 50% de desconto nos demais meses",
   "link": "https://passageirodeprimeira.com/oferta-relampago-assine-o-clube-azul-2-000-por-r-27-no-primeiro-mes-e-50-de-desconto-nos-demais-meses/",

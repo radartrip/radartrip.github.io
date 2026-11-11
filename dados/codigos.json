@@ -1,5 +1,5 @@
 {
- "ultimo": 110,
+ "ultimo": 111,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1703,6 +1703,22 @@
     "categoria": "acumulo",
     "programas": [
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0111",
+   "enviado_em": "2026-11-11T15:43:10.015535+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Só hoje: Azul Fidelidade oferece cupons de 11% de desconto em passagens",
+   "link": "https://passageirodeprimeira.com/so-hoje-azul-fidelidade-oferece-cupons-de-11-de-desconto-em-passagens/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
