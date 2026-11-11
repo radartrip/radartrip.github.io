@@ -1,5 +1,132 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149361",
+  "titulo": "11.11! Pague R$ 27 na 1ª mensalidade do Clube Azul 2.000 e 50% OFF nas demais parcelas",
+  "link": "https://pontospravoar.com/11-11-pague-27-reais-primeira-mensalidade-clube-azul-2000-50-porcento-off-demais-parcelas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade lançou uma promoção relampago em comemoração ao 11.11. Nesta oferta, os clientes podem pagar R$ 27 na primeira mensalidade do Clube 2.000, além de garantir 50% OFF nas demais parcelas. Os clientes que assinarem o clube com o cartão Azul Itaú recebem 10% de desconto extra. Confira os detalhes desta oferta válida…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Assinatura Clube Azul",
+   "azul fidelidade",
+   "Clube Azul"
+  ],
+  "data": "2026-11-11T17:00:12+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 50,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade|50|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "alta",
+  "motivos": [
+   "promoção relâmpago"
+  ],
+  "visto_em": "2026-11-11T17:38:14.250362+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149189",
+  "titulo": "Qatar Airways inclui voos de média distância em serviço de escolha de refeições",
+  "link": "https://pontospravoar.com/qatar-airways-inclui-voos-de-media-distancia-em-servico-de-escolha-de-refeicoes/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Qatar Airways ampliou o serviço de pré-seleção de refeições para passageiros da primeira classe e da classe executiva. A partir de agora, clientes em voos com duração de duas horas ou mais também podem escolher o prato principal antes da viagem. Serviço passa a atender mais voos da companhia A novidade aumenta o alcance…",
+  "categorias": [
+   "Empresas Aéreas",
+   "Notícias",
+   "Qatar Airways",
+   "empresas aéreas",
+   "Qatar"
+  ],
+  "data": "2026-11-11T16:30:52+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T17:38:14.251471+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581388",
+  "titulo": "Tempestade Charles provoca cancelamentos de voos em Portugal",
+  "link": "https://passageirodeprimeira.com/tempestade-charles-provoca-cancelamentos-de-voos-em-portugal/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Notícia] A passagem da tempestade Charles por Portugal provocou o cancelamento de 360 voos nesta quarta-feira (11), afetando os aeroportos de Lisboa, Porto, Faro e Madeira. O governo português declarou situação de alerta devido ao mau tempo, que inclui chuvas intensas e rajadas de vento. Passageiros que viajam entre o Brasil e a Europa devem ficar atentos às alterações nas operações aéreas.",
+  "categorias": [
+   "Notícias",
+   "Companhias Aéreas"
+  ],
+  "data": "2026-11-11T17:00:36+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T17:38:14.163812+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581278",
+  "titulo": "Azul Fidelidade oferece até 25 pontos por real gasto na Camicado",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-25-pontos-por-real-gasto-na-camicado/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Oportunidade para quem está pensando em realizar compras 🛍️ O Azul Fidelidade está oferecendo até 25 pontos por real gasto na Camicado. A oferta é válida até sexta-feira (13). Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-11T17:30:35+00:00",
+  "pontos_por_real": 25.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|25.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T17:38:14.162212+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149360",
   "titulo": "11.11 da Livelo! Ganhe até 16 pontos por real em mais de 100 lojas parceiras",
   "link": "https://pontospravoar.com/11-11-livelo-ganhe-ate-16-pontos-real-mais-100-lojas-parceiras/",
