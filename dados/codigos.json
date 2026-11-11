@@ -1,5 +1,5 @@
 {
- "ultimo": 115,
+ "ultimo": 116,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1787,6 +1787,20 @@
      "Azul Fidelidade",
      "Inter Loop"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0116",
+   "enviado_em": "2026-11-11T21:06:25.779948+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Voe para Pequim por R$ 3.146 ou 47 mil Avios Privilege Club + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-pequim-por-r-3-146-ou-47-mil-avios-privilege-club-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }

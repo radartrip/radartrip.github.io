@@ -286,7 +286,8 @@
   "passagem|LATAM Pass|64": "2026-11-11T16:38:51.430649+00:00",
   "passagem|Smiles|11.11,26.800": "2026-11-11T18:30:01.479146+00:00",
   "passagem|Smiles|7": "2026-11-11T18:30:02.846523+00:00",
-  "transferencia|Inter Loop|Azul Fidelidade|90|": "2026-11-11T19:32:24.312920+00:00"
+  "transferencia|Inter Loop|Azul Fidelidade|90|": "2026-11-11T19:32:24.312920+00:00",
+  "passagem||3.146,47": "2026-11-11T21:06:25.782078+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -317,6 +318,9 @@
   ],
   "Centauro>Livelo": [
    14.0
+  ],
+  "Magalu>Smiles": [
+   6.0
   ]
  }
 }
