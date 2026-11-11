@@ -1,5 +1,5 @@
 {
- "ultimo": 111,
+ "ultimo": 112,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1719,6 +1719,22 @@
     "categoria": "Passagem em dinheiro",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0112",
+   "enviado_em": "2026-11-11T16:38:51.429027+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Trecho para Frankfurt a partir de 64 mil milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/trecho-frankfurt-a-partir-64-mil-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }

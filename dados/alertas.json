@@ -1,5 +1,103 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149360",
+  "titulo": "11.11 da Livelo! Ganhe até 16 pontos por real em mais de 100 lojas parceiras",
+  "link": "https://pontospravoar.com/11-11-livelo-ganhe-ate-16-pontos-real-mais-100-lojas-parceiras/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O 11.11 da Livelo está recheado de oportunidades para quem quer aproveitar as compras e acumular muitos pontos! São ofertas em mais de 100 lojas parceiras, com até 16 pontos por real gasto em condições selecionadas. Nossa equipe reuniu os principais destaques para você conferir onde vale a pena comprar e turbinar seu saldo. Promoções…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "livelo",
+   "Pink Friday"
+  ],
+  "data": "2026-11-11T16:00:21+00:00",
+  "pontos_por_real": 16.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||16.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T16:38:49.853498+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581218",
+  "titulo": "Trecho para Frankfurt a partir de 64 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/trecho-frankfurt-a-partir-64-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Frankfurt (FRA). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 64.953 milhas LATAM Pass + taxas. Confira!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-11T16:00:43+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|64",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T16:38:49.777192+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0112"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581325",
+  "titulo": "Livelo oferece até 30% OFF em passagens para Flórida + 30% de pointsback",
+  "link": "https://passageirodeprimeira.com/livelo-oferece-ate-30-off-passagens-florida-30-pointsback/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta de oportunidade para quem está pensando em viajar para o exterior 🛫 Em uma nova oferta, a Livelo está oferecendo 30% de desconto na emissão de passagens aéreas para Flórida mediante o uso exclusivo de cupom. A campanha é válida somente hoje (11) e exclusiva para assinantes do Clube Livelo. Além disso, os clientes também aproveitam 30% de pointsback em voos vendidos pela CVC.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-11T16:30:11+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 30,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo||30|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T16:38:49.775605+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149348",
   "titulo": "11.11! Livelo oferece até 388.000 pontos na adesão ou upgrade do Clube Premium",
   "link": "https://pontospravoar.com/11-11-livelo-oferece-ate-388000-pontos-adesao-upgrade-clube-premium/",
