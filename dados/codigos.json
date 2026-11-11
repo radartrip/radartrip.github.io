@@ -1,5 +1,5 @@
 {
- "ultimo": 112,
+ "ultimo": 114,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1735,6 +1735,40 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0113",
+   "enviado_em": "2026-11-11T18:30:01.477835+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "11.11! Resgate passagens internacionais na Smiles a partir de 26.800 milhas + taxas",
+   "link": "https://pontospravoar.com/11-11-resgate-passagens-internacionais-smiles-26800-milhas-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "BSB-MIA"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0114",
+   "enviado_em": "2026-11-11T18:30:02.845016+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Smiles tem passagens nacionais a partir de 7 mil milhas",
+   "link": "https://passageirodeprimeira.com/smiles-tem-passagens-nacionais-a-partir-de-7-mil-milhas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }

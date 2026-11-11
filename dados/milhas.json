@@ -55,7 +55,9 @@
   "https://pontospravoar.com/?p=149227",
   "https://passageirodeprimeira.com/?p=581163",
   "https://pontospravoar.com/?p=149315",
-  "https://passageirodeprimeira.com/?p=581218"
+  "https://passageirodeprimeira.com/?p=581218",
+  "https://passageirodeprimeira.com/?p=581328",
+  "https://pontospravoar.com/?p=149401"
  ],
  "resgates": [
   {
@@ -268,6 +270,29 @@
    "post": "https://passageirodeprimeira.com/latam-oferece-trechos-para-diversos-destinos-a-partir-de-r-149-ou-3-mil-milhas-taxas/",
    "titulo": "LATAM oferece trechos para diversos destinos a partir de R$ 149 ou 3 mil milhas + taxas",
    "visto_em": "2026-11-10T21:22:12.168635+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "MIA",
+   "origem_nome": "Brasília",
+   "destino_nome": "Miami",
+   "milhas": 72000,
+   "milhas_clube": 67500,
+   "data": "2027-02-16",
+   "datas_texto": "16 de fevereiro",
+   "cia": "American Airlines",
+   "reserva": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1802746800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1803437999000&searchType=congenere&segments=1&tripType=1&originAirport=BSB&destinationAirport=MIA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Fevereiro/2027: 16"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/11-11-resgate-passagens-internacionais-smiles-26800-milhas-taxas/",
+   "titulo": "11.11! Resgate passagens internacionais na Smiles a partir de 26.800 milhas + taxas",
+   "visto_em": "2026-11-11T18:30:00.858060+00:00"
   }
  ]
 }

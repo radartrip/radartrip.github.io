@@ -1,5 +1,96 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149401",
+  "titulo": "11.11! Resgate passagens internacionais na Smiles a partir de 26.800 milhas + taxas",
+  "link": "https://pontospravoar.com/11-11-resgate-passagens-internacionais-smiles-26800-milhas-taxas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Na edição especial do alerta de passagens PPV em comemoração ao 11.11, nossa equipe reuniu diversos de trechos internacionais na Smiles, com emissões a partir de 26.800 milhas + taxas. Veja os detalhes a seguir! Passagens internacionais com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-11T18:00:16+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|11.11,26.800",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-11T18:29:59.414473+00:00",
+  "trechos_total": 14,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "MIA",
+    "origem_nome": "Brasília",
+    "destino_nome": "Miami",
+    "milhas": 72000,
+    "milhas_clube": 67500,
+    "data": "2027-02-16",
+    "datas_texto": "16 de fevereiro",
+    "cia": "American Airlines",
+    "reserva": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1802746800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1803437999000&searchType=congenere&segments=1&tripType=1&originAirport=BSB&destinationAirport=MIA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Fevereiro/2027: 16"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ],
+  "codigo": "RT-0113"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581328",
+  "titulo": "Smiles tem passagens nacionais a partir de 7 mil milhas",
+  "link": "https://passageirodeprimeira.com/smiles-tem-passagens-nacionais-a-partir-de-7-mil-milhas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles está oferecendo passagens nacionais a partir de 7.600 milhas por trecho, com taxas que variam entre R$ 34,55 e R$ 62,14. Exemplos incluem voos de Florianópolis a Porto Alegre e de São Paulo a Navegantes. Aproveite essa oportunidade para planejar sua próxima viagem!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-11T18:00:03+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|7",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T18:29:59.287414+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0114"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149361",
   "titulo": "11.11! Pague R$ 27 na 1ª mensalidade do Clube Azul 2.000 e 50% OFF nas demais parcelas",
   "link": "https://pontospravoar.com/11-11-pague-27-reais-primeira-mensalidade-clube-azul-2000-50-porcento-off-demais-parcelas/",
