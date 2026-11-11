@@ -1,5 +1,5 @@
 {
- "ultimo": 98,
+ "ultimo": 101,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1531,6 +1531,42 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0099",
+   "enviado_em": "2026-11-11T01:51:49.397509+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-FLN",
+   "preco": 1268,
+   "media": 1524,
+   "ida": "2027-07-06",
+   "volta": "2027-07-13",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FLN%20on%202027-07-06%20through%202027-07-13"
+  },
+  {
+   "codigo": "RT-0100",
+   "enviado_em": "2026-11-11T01:51:49.815150+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-NAT",
+   "preco": 1038,
+   "media": 1246,
+   "ida": "2027-01-28",
+   "volta": "2027-02-03",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202027-01-28%20through%202027-02-03"
+  },
+  {
+   "codigo": "RT-0101",
+   "enviado_em": "2026-11-11T01:51:50.241395+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-FLN",
+   "preco": 634,
+   "media": 863,
+   "ida": "2027-05-07",
+   "volta": "2027-05-14",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FLN%20on%202027-05-07%20through%202027-05-14"
   }
  ]
 }
