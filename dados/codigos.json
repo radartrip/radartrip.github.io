@@ -1,5 +1,5 @@
 {
- "ultimo": 108,
+ "ultimo": 110,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1670,6 +1670,39 @@
     "categoria": "Passagem com milhas",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0109",
+   "enviado_em": "2026-11-11T14:59:36.970733+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Oferta relâmpago! Assine o Clube Azul 2.000 por R$ 27 no primeiro mês e 50% de desconto nos demais meses",
+   "link": "https://passageirodeprimeira.com/oferta-relampago-assine-o-clube-azul-2-000-por-r-27-no-primeiro-mes-e-50-de-desconto-nos-demais-meses/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0110",
+   "enviado_em": "2026-11-11T14:59:37.875769+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "11×1 na Livelo! Até 14 pontos por real gasto em diversos parceiros",
+   "link": "https://passageirodeprimeira.com/11x1-na-livelo-ate-14-pontos-por-real-gasto-em-diversos-parceiros/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }

@@ -1,5 +1,101 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581276",
+  "titulo": "Oferta relâmpago! Assine o Clube Azul 2.000 por R$ 27 no primeiro mês e 50% de desconto nos demais meses",
+  "link": "https://passageirodeprimeira.com/oferta-relampago-assine-o-clube-azul-2-000-por-r-27-no-primeiro-mes-e-50-de-desconto-nos-demais-meses/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O Azul Fidelidade está com uma promoção imperdível: assine o Clube Azul 2.000 por apenas R$ 27 no primeiro mês e garanta 50% de desconto nos próximos 11 meses. Se pagar com o Cartão Azul Itaú, você ainda ganha 10% a menos na mensalidade.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-11T14:54:30+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 50,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade|50|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "alta",
+  "motivos": [
+   "promoção relâmpago"
+  ],
+  "visto_em": "2026-11-11T14:59:35.550867+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago",
+  "codigo": "RT-0109"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149212",
+  "titulo": "Aproveite! Gaste apenas R$ 150 e ganhe 3.000 pontos na Revolut",
+  "link": "https://pontospravoar.com/aproveite-gaste-apenas-r-150-e-ganhe-3-000-pontos-na-revolut/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A promoção voltou! Em parceria com o Pontos Pra Voar, a Revolut está oferecendo 3.000 RevPoints para quem gastar apenas R$ 150 no cartão. A oferta é válida por tempo limitado e exige cadastro pelo link promocional do PPV. Como garantir os 3.000 RevPoints Basta abrir sua conta na Revolut pelo link da parceria com…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "REVOLUT"
+  ],
+  "data": "2026-11-11T14:30:41+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:59:35.688178+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581242",
+  "titulo": "11×1 na Livelo! Até 14 pontos por real gasto em diversos parceiros",
+  "link": "https://passageirodeprimeira.com/11x1-na-livelo-ate-14-pontos-por-real-gasto-em-diversos-parceiros/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está com uma promoção imperdível, oferecendo até 14 pontos por real gasto em parceiros como Natura, C&A e Centauro. As ofertas são válidas apenas hoje (11) e podem garantir uma ótima acumulação de pontos para suas próximas viagens. Não perca a chance de maximizar seus ganhos!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-11T14:31:11+00:00",
+  "pontos_por_real": 14.0,
+  "parceiro": "Centauro",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-11",
+  "repostagem": true,
+  "assinatura": "acumulo|Livelo||14.0|Centauro",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:59:35.552086+00:00",
+  "link_oficial": "https://www.livelo.com.br/data-dupla",
+  "codigo": "RT-0110"
+ },
+ {
   "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646848",
   "titulo": "Nordeste no 11.11! Passagens para Fortaleza ou Recife a partir de R$ 406 ida e volta",
   "link": "https://www.melhoresdestinos.com.br/promocao/nordeste-no-11-11-passagens-para-fortaleza-recife-11nov26",

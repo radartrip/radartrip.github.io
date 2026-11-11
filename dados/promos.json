@@ -263,7 +263,9 @@
   "passagem||11.11,406": "2026-11-11T14:03:53.439751+00:00",
   "transferencia|Itaú|LATAM Pass|25|": "2026-11-11T14:03:54.243311+00:00",
   "passagem|LATAM Pass|8.801": "2026-11-11T14:03:56.243624+00:00",
-  "passagem||11.11,385": "2026-11-11T14:03:57.553232+00:00"
+  "passagem||11.11,385": "2026-11-11T14:03:57.553232+00:00",
+  "clube|Itaú|Azul Fidelidade|50|": "2026-11-11T14:59:36.972143+00:00",
+  "acumulo|Livelo||14.0|Centauro": "2026-11-11T14:59:37.877732+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -291,6 +293,9 @@
   ],
   "Natura>Livelo": [
    11.0
+  ],
+  "Centauro>Livelo": [
+   14.0
   ]
  }
 }
