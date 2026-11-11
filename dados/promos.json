@@ -78,21 +78,6 @@
    "link": "https://www.livelo.com.br/clube"
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-11",
-   "visto_em": "2026-11-10",
-   "titulo": "Azul Friday! Transfira pontos do BRB para o Azul Fidelidade com até 120% de bônus",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/brb?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
    "categoria": "transferencia",
    "origens": [
@@ -202,6 +187,21 @@
    "visto_em": "2026-11-11",
    "titulo": "Gere o milheiro Azul a partir de R$ 12,39 transferindo pontos Inter Loop + dinheiro",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-11",
+   "titulo": "Até 23h59: Azul Fidelidade oferece até 120% de bônus na transferência de pontos do BRB",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/brb"
   }
  ],
  "vitrine": {
@@ -287,7 +287,8 @@
   "passagem|Smiles|11.11,26.800": "2026-11-11T18:30:01.479146+00:00",
   "passagem|Smiles|7": "2026-11-11T18:30:02.846523+00:00",
   "transferencia|Inter Loop|Azul Fidelidade|90|": "2026-11-11T19:32:24.312920+00:00",
-  "passagem||3.146,47": "2026-11-11T21:06:25.782078+00:00"
+  "passagem||3.146,47": "2026-11-11T21:06:25.782078+00:00",
+  "passagem|LATAM Pass|11.11,3": "2026-11-11T22:59:10.036358+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

@@ -1,5 +1,5 @@
 {
- "ultimo": 116,
+ "ultimo": 118,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1800,6 +1800,38 @@
    "fonte": "Passageiro de Primeira",
    "etiquetas": {
     "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0117",
+   "enviado_em": "2026-11-11T22:59:10.034259+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta 11.11 PPV: Passagens nacionais LATAM Pass a partir de 3 mil milhas",
+   "link": "https://pontospravoar.com/alerta-11-11-ppv-passagens-nacionais-latam-pass-3-mil-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-UDI"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0118",
+   "enviado_em": "2026-11-11T22:59:10.698796+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Grupo de Emissões PPV: receba oportunidades de passagens e economize nas próximas viagens",
+   "link": "https://pontospravoar.com/grupo-emissoes-ppv-receba-oportunidades-passagens-economize-proximas-viagens/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
     "programas": [],
     "trechos": []
    }

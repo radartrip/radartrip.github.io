@@ -1,5 +1,188 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581502",
+  "titulo": "Até 23h59: Azul Fidelidade oferece até 120% de bônus na transferência de pontos do BRB",
+  "link": "https://passageirodeprimeira.com/ate-23h59-azul-fidelidade-oferece-ate-120-de-bonus-na-transferencia-de-pontos-do-brb/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 90% de bônus na transferência de pontos do BRB, além de até 30% extras para quem tem tempo de Clube Azul. A promoção é válida até 23h59 de hoje (11).",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-11T21:20:38+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-11T22:58:53.481064+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/brb",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149098",
+  "titulo": "Alerta 11.11 PPV: Passagens nacionais LATAM Pass a partir de 3 mil milhas",
+  "link": "https://pontospravoar.com/alerta-11-11-ppv-passagens-nacionais-latam-pass-3-mil-milhas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Viajar pelo Brasil usando milhas pode ser uma ótima maneira de economizar. Neste 11.11 recheado de boas ofertas e oportunidades, nossa equipe encontrou passagens nacionais a partir de 3 mil milhas LATAM Pass + taxas para diferentes destinos. Confira as opções e escolha o próximo lugar para conhecer. Passagens nacionais no LATAM Pass Para garantir…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-11T22:00:25+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|11.11,3",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-11T22:58:53.660986+00:00",
+  "trechos_total": 14,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "UDI",
+    "origem_nome": "Brasília",
+    "destino_nome": "Uberlândia",
+    "milhas": 5205,
+    "milhas_clube": null,
+    "data": "2027-03-01",
+    "datas_texto": "1° de março",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=UDI&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&outbound=2027-03-01T00%3A00%3A00.000Z&inbound=null&sort=PRICE%2Casc&exp_id=b0ba46b5-065a-4bfb-8b61-9377d3f4c82c&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_mega-promo_conv_lower&utm_content=aberta_articulo_20260529_geral",
+    "datas_mes": [],
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 329,
+    "preco_origem": "LATAM ao vivo",
+    "milheiro": 63.21,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0117"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149387",
+  "titulo": "Grupo de Emissões PPV: receba oportunidades de passagens e economize nas próximas viagens",
+  "link": "https://pontospravoar.com/grupo-emissoes-ppv-receba-oportunidades-passagens-economize-proximas-viagens/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "As melhores oportunidades de passagens com milhas podem aparecer a qualquer momento. Pensando nisso, o Grupo de Emissões do PPV reúne e envia alertas de voos diretamente para o celular dos participantes. São mais de 400 alertas por mês, incluindo emissões nacionais e internacionais, para quem quer economizar tempo e aproveitar boas tarifas com milhas.…",
+  "categorias": [
+   "Assuntos Variados",
+   "GRUPO DE EMISSÕES"
+  ],
+  "data": "2026-11-11T21:30:24+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T22:58:53.661963+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "",
+  "codigo": "RT-0118"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=463973",
+  "titulo": "Como economizar mais de 75% nos resgates em Classe Executiva para a Europa",
+  "link": "https://passageirodeprimeira.com/como-economizar-ate-80-nos-resgates-em-classe-executiva-para-a-europa/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Já imaginou como economizar mais de 75% nos resgates para a Europa ao usar seus Avios do Iberia Club? A tarifa award é uma excelente oportunidade para isso, pois permite emitir passagens com Avios em Classe Executiva por um custo significativamente mais baixo, comparado com a tarifa comercial. Nesta matéria, vamos explicar de forma clara e objetiva como você pode aproveitar essa estratégia para ec",
+  "categorias": [
+   "Universidade das Milhas",
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-11T21:40:16+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T22:58:53.480397+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149112",
+  "titulo": "Segue valendo! Assine o Clube Smiles e ganhe 10 mil milhas bônus",
+  "link": "https://pontospravoar.com/segue-valendo-assine-clube-smiles-ganhe-10-mil-milhas-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quem está pensando em assinar o Clube Smiles ainda pode aproveitar. Novos associados dos planos mensal e anual recebem até 11.000 milhas na hora. A oportunidade fica disponível até 30 de novembro de 2026. Saiba mais! Adesão ao Clube 1.000 Smiles Nesta promoção, as milhas bônus são creditadas de formas diferentes para assinatura anual e…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "Smiles",
+   "Assinatura Clube Smiles",
+   "Clube Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-11T22:30:14+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": true,
+  "assinatura": "clube||Smiles||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T22:58:53.657883+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=146032",
   "titulo": "Compartilhando Emissões: Rio de Janeiro para Roma voando em classe executiva",
   "link": "https://pontospravoar.com/compartilhando-emissoes-rio-de-janeiro-roma-voando-classe-executiva/",
