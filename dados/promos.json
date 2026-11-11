@@ -153,6 +153,38 @@
    "visto_em": "2026-11-11",
    "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
+  },
+  {
+   "assinatura": "transferencia|Itaú|LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [
+    "Itaú"
+   ],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-11",
+   "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
+   "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 24.17,
+   "prazo": "2026-11-11",
+   "visto_em": "2026-11-11",
+   "titulo": "Só hoje! Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
@@ -227,7 +259,11 @@
   "passagem||2.736": "2026-11-10T22:49:47.179627+00:00",
   "passagem||1,1.987,2": "2026-11-10T22:49:48.420841+00:00",
   "passagem||4.009": "2026-11-10T22:49:50.018715+00:00",
-  "transferencia|Inter Loop|Azul Fidelidade|120|": "2026-11-11T12:49:12.407758+00:00"
+  "transferencia|Inter Loop|Azul Fidelidade|120|": "2026-11-11T12:49:12.407758+00:00",
+  "passagem||11.11,406": "2026-11-11T14:03:53.439751+00:00",
+  "transferencia|Itaú|LATAM Pass|25|": "2026-11-11T14:03:54.243311+00:00",
+  "passagem|LATAM Pass|8.801": "2026-11-11T14:03:56.243624+00:00",
+  "passagem||11.11,385": "2026-11-11T14:03:57.553232+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

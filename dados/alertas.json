@@ -1,5 +1,256 @@
 [
  {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646848",
+  "titulo": "Nordeste no 11.11! Passagens para Fortaleza ou Recife a partir de R$ 406 ida e volta",
+  "link": "https://www.melhoresdestinos.com.br/promocao/nordeste-no-11-11-passagens-para-fortaleza-recife-11nov26",
+  "fonte": "Melhores Destinos",
+  "resumo": "Somente hoje você pode aproveitar os preços mais baixos da Promoção 11.11! Nesta nova oferta de data dupla, encontramos passagens aéreas para Fortaleza ou Recife a partir de R$ 406 ida e volta. Os menores preços são de voos ligando as principais cidades nordestinas. Mas há outras oportunidades como: Brasília a Recife a partir de…",
+  "categorias": [],
+  "data": "2026-11-11T08:49:13+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem||11.11,406",
+  "escopo": "gyn_bsb",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "alta",
+  "motivos": [
+   "sai de GYN/BSB"
+  ],
+  "visto_em": "2026-11-11T14:03:51.055065+00:00",
+  "link_oficial": "",
+  "codigo": "RT-0104"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149310",
+  "titulo": "LATAM Pass com 25% de bônus na transferência de pontos do Itaú e Credicard",
+  "link": "https://pontospravoar.com/latam-pass-25-porcento-bonus-transferencia-pontos-itau-credicard/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Perdeu a última oferta? O LATAM Pass trouxe de volta a promoção de transferência bonificada em parceria com o Itaú e Credicard, em que oferece aos seus clientes 25% de bônus. Além disso, novos clientes recebem 1.000 milhas extras na primeira transferência. Vamos aos detalhes! LATAM Pass e Itaú + Credicard Para esta campanha, a…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Bancos",
+   "Itaú",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "CREDICARD",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-11T13:03:06+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 25,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Itaú|LATAM Pass|25|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 25%"
+  ],
+  "visto_em": "2026-11-11T14:03:51.864484+00:00",
+  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras",
+  "codigo": "RT-0105"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581239",
+  "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
+  "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-nas-transferencias-de-pontos-itau-e-credicard-2/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O LATAM Pass está oferecendo 25% de bônus na transferência de pontos do Itaú e do Credicard. As ofertas são válidas até domingo (15).",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-11T13:12:19+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 25,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Itaú|LATAM Pass|25|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 25%"
+  ],
+  "visto_em": "2026-11-11T14:03:51.762753+00:00",
+  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646841",
+  "titulo": "Portugal de executiva! Passagens na Premium Business Latam para Lisboa a partir de R$ 8.801 ida e volta",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-executiva-latam-portugal-lisboa-10-11-26",
+  "fonte": "Melhores Destinos",
+  "resumo": "Quer ir pra Portugal com todo conforto da Premium Business da Latam? Pintou uma daquelas oportunidades que não dá pra perder: encontramos passagens aéreas para Liboa a partir de apenas R$ 8.801 ida e volta, saindo de São Paulo. São poucas datas e a tendência é que essa promoção dure pouquíssimo! Ah, e esse valor…",
+  "categorias": [],
+  "data": "2026-11-10T22:38:56+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|8.801",
+  "escopo": "internacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:03:51.056252+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0106"
+ },
+ {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646845",
+  "titulo": "Verão em Santa Catarina! Passagens para Florianópolis ou Navegantes a partir de R$ 385 neste 11.11",
+  "link": "https://www.melhoresdestinos.com.br/promocao/verao-em-santa-catarina-passagens-11nov26",
+  "fonte": "Melhores Destinos",
+  "resumo": "Hora de aproveitar os preços mais baixos da Promoção 11.11 para viajar para um dos destinos mais deslumbrantes do Brasil. Hora de curtir com a família o Beto Carrero World, as belezas de Floripa ou as atrações de Balneário Camboriú com as passagens mais baratas que encontramos hoje. Há passagens aéreas para Navegantes a partir de…",
+  "categorias": [],
+  "data": "2026-11-11T08:55:44+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem||11.11,385",
+  "escopo": "nacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:03:51.054108+00:00",
+  "link_oficial": "",
+  "codigo": "RT-0107"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581224",
+  "titulo": "Só hoje! Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+  "link": "https://passageirodeprimeira.com/so-hoje-receba-ate-388-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2417/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo até 108.000 pontos bônus em novas assinaturas do Clube Premium. Ao todo serão creditados 388.000 pontos no decorrer de 12 meses, gerando um milheiro a partir de R$ 25,82. A campanha é válida somente hoje (11) e contempla as modalidades mensal e anual.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-11T13:33:11+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 24.17,
+  "prazo": "2026-11-11",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:03:51.762182+00:00",
+  "link_oficial": "https://www.livelo.com.br/clube",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149315",
+  "titulo": "Só hoje! Azul Fidelidade oferece 11% de desconto em passagens com pontos – incluindo internacionais",
+  "link": "https://pontospravoar.com/so-hoje-azul-fidelidade-oferece-11-porcento-desconto-passagens-pontos-incluindo-internacionais/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Está de olho no seu próximo destino? Aproveite a oferta do Azul Fidelidade em comemoração ao 11.11, que disponibilizou cupons para passagens nacionais e internacionais com 11% de desconto no resgate em pontos. Confira os detalhes a seguir desta oferta válida apenas hoje, dia 11 de novembro. Azul Fidelidade com até 25% OFF em passagens…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "cupom de desconto",
+   "PASSAGENS COM DESCONTO"
+  ],
+  "data": "2026-11-11T13:49:02+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 25,
+  "milheiro_citado": null,
+  "prazo": "2026-11-11",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:03:51.863509+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "http://www.voeazul.com.br/br/pt/home.html",
+  "codigo": "RT-0108"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581229",
+  "titulo": "Gere o euro a partir de R$ 4,21 ao transferir pontos Azul para o ALL Accor",
+  "link": "https://passageirodeprimeira.com/gere-o-euro-a-partir-de-r-421-ao-transferir-pontos-azul-para-o-all-accor/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Até sexta-feira (13), o ALL Accor está oferecendo até 30% de pontos Reward bônus nas transferências de pontos do Azul Fidelidade, com a melhor paridade do ano. Assinantes do ALL Signature podem garantir o bônus sem precisar reservar hotéis. Com isso, é possível gerar vouchers de hospedagem a partir de R$ 4,21 por euro.",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-11T13:52:45+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T14:03:51.761333+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149307",
   "titulo": "Azul Friday! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
   "link": "https://pontospravoar.com/azul-friday-transfira-pontos-inter-loop-azul-fidelidade-ate-120-porcento-bonus/",
