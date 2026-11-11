@@ -1,5 +1,62 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581110",
+  "titulo": "Black Friday! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
+  "link": "https://passageirodeprimeira.com/black-friday-ganhe-ate-30-de-bonus-ao-transferir-pontos-azul-para-all-accor/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[A oferta] Começou a Black Friday do ALL Accor! Até sexta-feira (13), quem transferir pontos do Azul Fidelidade para o programa hoteleiro ganha até 30% de bônus em pontos Reward, sem precisar reservar um hotel. Não perca essa oportunidade de maximizar seus pontos!",
+  "categorias": [
+   "Promoções",
+   "Publicidade"
+  ],
+  "data": "2026-11-11T11:00:12+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T11:45:26.832902+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=310483",
+  "titulo": "É possível transitar entre os terminais do Aeroporto Internacional de Guarulhos?",
+  "link": "https://passageirodeprimeira.com/transitar-terminais-aeroporto-guarulhos/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "É possível transitar entre os terminais do Aeroporto Internacional de Guarulhos? Posso acessar uma sala VIP em um terminal diferente do que vou embarcar? Essas são dúvidas comuns de passageiros de primeira viagem no principal aeroporto do Brasil. Para sanar todas elas de uma vez só, produzimos essa matéria respondendo os principais questionamentos.",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-11T11:40:04+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-11T11:45:26.832125+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149292",
   "titulo": "Black Friday do ALL Accor! Transfira pontos do Azul Fidelidade com desconto e até 30% de bônus",
   "link": "https://pontospravoar.com/black-friday-all-accor-transfira-pontos-azul-fidelidade-desconto-ate-30-porcento-bonus/",
