@@ -1,5 +1,5 @@
 {
- "ultimo": 122,
+ "ultimo": 126,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1888,6 +1888,64 @@
     "trechos": [
      "BSB-UDI"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0123",
+   "enviado_em": "2026-11-12T15:00:31.519906+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Bom demais! Voos em classe executiva para Lisboa a partir de R$ 9.124 com datas no final do ano",
+   "link": "https://www.melhoresdestinos.com.br/promocao/portugal-passagens-em-classe-executiva-12nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0124",
+   "enviado_em": "2026-11-12T15:00:32.771232+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Argentina! Passagens para Buenos Aires a partir de R$ 1.405 com bons preços em janeiro",
+   "link": "https://www.melhoresdestinos.com.br/promocao/argentina-passagens-para-buenos-aires-12nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0125",
+   "enviado_em": "2026-11-12T15:00:34.160928+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Diversão na Flórida! Passagens para Orlando a partir de R$ 2.604 com boas opções em janeiro, Carnaval e julho",
+   "link": "https://www.melhoresdestinos.com.br/promocao/diversao-na-florida-passagens-para-orlando-12nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0126",
+   "enviado_em": "2026-11-12T15:00:35.319811+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Europa 2×1! Passagens aéreas para Portugal mais outro país europeu a partir de R$ 4.370",
+   "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-portugal-mais-outro-pais-europeu-12nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
    }
   }
  ]
