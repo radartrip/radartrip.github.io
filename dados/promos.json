@@ -1,21 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "clube||Smiles||",
-   "categoria": "clube",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 15.52,
-   "prazo": "",
-   "visto_em": "2026-11-08",
-   "titulo": "Ainda não faz parte? Assine o Clube Smiles e ganhe 11 mil milhas na hora",
-   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
-  },
-  {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -142,21 +127,6 @@
    "visto_em": "2026-11-11",
    "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
    "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
-  },
-  {
-   "assinatura": "clube|Livelo|||",
-   "categoria": "clube",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 24.17,
-   "prazo": "2026-11-11",
-   "visto_em": "2026-11-11",
-   "titulo": "Só hoje! Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
-   "link": "https://www.livelo.com.br/clube"
   },
   {
    "assinatura": "transferencia|Inter Loop|Azul Fidelidade|90|",
