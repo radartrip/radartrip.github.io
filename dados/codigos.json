@@ -1,5 +1,5 @@
 {
- "ultimo": 118,
+ "ultimo": 119,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1835,6 +1835,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0119",
+   "enviado_em": "2026-11-12T01:57:06.778504+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-SAO",
+   "preco": 578,
+   "media": 743,
+   "ida": "2027-03-19",
+   "volta": "2027-03-22",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SAO%20on%202027-03-19%20through%202027-03-22"
   }
  ]
 }
