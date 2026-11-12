@@ -129,19 +129,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/brb"
   },
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-11",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 11 de novembro de 2026",
-   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
-  },
-  {
    "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -189,6 +176,19 @@
    "visto_em": "2026-11-12",
    "titulo": "Cartão LATAM Pass Itaú Platinum: 16 mil milhas na adesão e até 35% de bônus nas transferências de pontos",
    "link": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/"
+  },
+  {
+   "assinatura": "compra||||",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-12",
+   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 12 de novembro de 2026",
+   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   }
  ],
  "vitrine": {
