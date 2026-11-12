@@ -1,5 +1,75 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149587",
+  "titulo": "Acaba hoje! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
+  "link": "https://pontospravoar.com/acaba-hoje-transfira-pontos-inter-loop-azul-fidelidade-ate-120-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Pensando em transferir seus pontos? Hoje é o último dia para participar da atual oferta do Azul Fidelidade, em que oferece até 120% de bônus na transferência de pontos do Inter Loop. Abaixo, veja os principais detalhes! Azul Fidelidade e Inter Loop Para esta campanha, a bonificação está estruturada da seguinte forma: 90% de bônus –…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Bancos",
+   "Inter",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "BANCO INTER"
+  ],
+  "data": "2026-11-12T12:00:52+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-12",
+  "repostagem": true,
+  "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-12T12:51:46.601279+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581527",
+  "titulo": "Gere o euro a partir de R$ 3,47 ao transferir pontos Azul para o ALL Accor",
+  "link": "https://passageirodeprimeira.com/gere-o-euro-a-partir-de-r-347-ao-transferir-pontos-azul-para-o-all-accor/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Até amanhã (13), o ALL Accor está oferecendo até 30% de bônus nas transferências de pontos do Azul Fidelidade, sendo que assinantes do ALL Signature ganham um bônus extra. Com essa promoção, é possível gerar vouchers de hospedagem com euro a partir de R$ 3,47, sem a necessidade de reservas em hotéis da rede. Não perca a chance de aproveitar essa paridade especial!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-12T12:24:14+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-13",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T12:51:46.485034+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581446",
   "titulo": "Azul Fidelidade oferece 70% de desconto na Tarifa Congelada",
   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-70-de-desconto-na-tarifa-congelada-2/",

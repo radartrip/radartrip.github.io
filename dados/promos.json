@@ -80,38 +80,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos-geral"
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|30|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 30,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-11",
-   "titulo": "Black Friday! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
-   "link": "https://www.voeazul.com.br"
-  },
-  {
-   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Inter Loop"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-12",
-   "visto_em": "2026-11-11",
-   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
-  },
-  {
    "assinatura": "transferencia|Itaú|LATAM Pass|25|",
    "categoria": "transferencia",
    "origens": [
@@ -172,6 +140,38 @@
    "visto_em": "2026-11-11",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 11 de novembro de 2026",
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
+  },
+  {
+   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Inter Loop"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-12",
+   "visto_em": "2026-11-12",
+   "titulo": "Acaba hoje! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|30|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 30,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-12",
+   "titulo": "Gere o euro a partir de R$ 3,47 ao transferir pontos Azul para o ALL Accor",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
   }
  ],
  "vitrine": {
