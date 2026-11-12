@@ -1,5 +1,5 @@
 {
- "ultimo": 120,
+ "ultimo": 121,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1859,6 +1859,18 @@
    "ida": "2027-01-18",
    "volta": "2027-01-23",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SSA%20on%202027-01-18%20through%202027-01-23"
+  },
+  {
+   "codigo": "RT-0121",
+   "enviado_em": "2026-11-12T10:50:51.086795+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
   }
  ]
 }
