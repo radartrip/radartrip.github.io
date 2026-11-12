@@ -1,5 +1,106 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149721",
+  "titulo": "Confira sete promoções com até 25 pontos por real gasto no Azul Fidelidade",
+  "link": "https://pontospravoar.com/confira-sete-promocoes-com-ate-25-pontos-por-real-gasto-no-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Precisando fazer umas comprinhas? O Azul Fidelidade está com sete promoções, em que é possível receber até 25 pontos por cada real gasto. A seguir, confira os principais detalhes de cada uma delas. Promoções no Azul Fidelidade Confira na tabela abaixo todas as promoções: Clique aqui para acessar a página das promoções do Azul Fidelidade.…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-12T19:00:22+00:00",
+  "pontos_por_real": 25.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|25.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T19:43:35.955391+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581528",
+  "titulo": "Nova York chamando: trecho a partir 71 mil milhas Smiles + taxas",
+  "link": "https://passageirodeprimeira.com/nova-york-chamando-trecho-a-partir-71-mil-milhas-smiles-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre Rio de Janeiro (GIG) e Nova York (JFK). Os voos são operados pela American Airlines e a emissão pode ser feita a partir de 71.500 milhas Smiles + taxas por trecho. Confira!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-12T19:10:38+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T19:43:35.810274+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149503",
+  "titulo": "Planejando sua próxima viagem? A Blackíssima da Esfera pode ser uma oportunidade para acumular pontos",
+  "link": "https://pontospravoar.com/planejando-sua-proxima-viagem-a-blackissima-da-esfera-pode-ser-uma-oportunidade-para-acumular-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Compras que já estavam nos planos podem ajudar a aumentar o saldo Esfera durante a Blackíssima e aproximar você da sua próxima viagem. Blackíssima da Esfera Novembro costuma concentrar algumas das promoções mais importantes do ano. Eletrônicos, itens para casa, roupas e outros produtos entram no radar de quem esperou a Black Friday para aproveitar…",
+  "categorias": [
+   "Esfera",
+   "Programas de Fidelidade",
+   "Sem categoria",
+   "Black Friday",
+   "Black Week"
+  ],
+  "data": "2026-11-12T19:30:23+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Esfera||0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T19:43:35.953810+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581711",
   "titulo": "Inter libera indicações entre contas PF, PJ e MEI e oferece até 2.000 pontos Loop por cadastro",
   "link": "https://passageirodeprimeira.com/inter-libera-indicacoes-entre-contas-pf-pj-e-mei-e-oferece-ate-2-000-pontos-loop-por-cadastro/",
