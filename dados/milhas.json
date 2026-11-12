@@ -61,7 +61,9 @@
   "https://pontospravoar.com/?p=146032",
   "https://pontospravoar.com/?p=149098",
   "https://pontospravoar.com/?p=149387",
-  "https://passageirodeprimeira.com/?p=581537"
+  "https://passageirodeprimeira.com/?p=581537",
+  "https://passageirodeprimeira.com/?p=581695",
+  "https://pontospravoar.com/?p=149672"
  ],
  "resgates": [
   {
@@ -340,6 +342,29 @@
    "post": "https://passageirodeprimeira.com/latam-tem-passagens-nacionais-a-partir-4-841-milhas-taxas-trecho/",
    "titulo": "LATAM tem passagens nacionais a partir de 4.841 milhas + taxas por trecho",
    "visto_em": "2026-11-12T14:06:47.319786+00:00"
+  },
+  {
+   "origem": "GIG",
+   "destino": "BSB",
+   "origem_nome": "Rio de Janeiro",
+   "destino_nome": "Brasília",
+   "milhas": 12500,
+   "milhas_clube": 11800,
+   "data": "2027-03-20",
+   "datas_texto": "20 de março",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1805511600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1806202799000&searchType=g3&segments=1&tripType=1&originAirport=GIG&destinationAirport=BSB&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Março/2027: 20"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 352,
+   "preco_origem": "mesmo mês",
+   "milheiro": 28.16,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-passagens-ppv-veja-trechos-6900-milhas-taxas-smiles/",
+   "titulo": "Alerta passagens PPV! Veja trechos a partir de 6.900 milhas + taxas na Smiles",
+   "visto_em": "2026-11-12T17:09:12.751376+00:00"
   }
  ]
 }
