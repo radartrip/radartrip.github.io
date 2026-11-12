@@ -1,5 +1,118 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581537",
+  "titulo": "LATAM tem passagens nacionais a partir de 4.841 milhas + taxas por trecho",
+  "link": "https://passageirodeprimeira.com/latam-tem-passagens-nacionais-a-partir-4-841-milhas-taxas-trecho/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta de disponibilidade ✈️ Nesta quinta-feira (12), a LATAM está oferecendo passagens aéreas nacionais a partir de 4.841 milhas + taxas por trecho. As ofertas são válidas por tempo limitado. Aproveite!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-12T13:09:53+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|4.841",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-12T14:06:46.105301+00:00",
+  "trechos_total": 5,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "UDI",
+    "origem_nome": "Brasília",
+    "destino_nome": "Urbelândia",
+    "milhas": 6778,
+    "milhas_clube": null,
+    "data": "",
+    "datas_texto": "",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+    "ambos_sentidos": true,
+    "formato": "texto",
+    "programa": "LATAM Pass",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   }
+  ],
+  "codigo": "RT-0122"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149491",
+  "titulo": "Emirates vai suspender função My Family do Skywards",
+  "link": "https://pontospravoar.com/emirates-vao-suspender-funcao-my-family-do-skywards/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Emirates vai suspender temporariamente a ferramenta My Family, que permite reunir milhas de diferentes integrantes de uma família em uma conta compartilhada. A interrupção começa em janeiro de 2027 e deve durar até o lançamento de uma nova versão do benefício, previsto para o fim do mesmo ano. Milhas acumuladas serão transferidas para o…",
+  "categorias": [
+   "Emirates",
+   "Emirates Skywards",
+   "Programas de Fidelidade",
+   "programas de fidelidade"
+  ],
+  "data": "2026-11-12T13:01:22+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T14:06:46.327284+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581581",
+  "titulo": "ALL Accor começa a creditar os pontos da campanha de transferência com a Azul",
+  "link": "https://passageirodeprimeira.com/all-accor-comeca-a-creditar-os-pontos-da-campanha-de-transferencia-com-a-azul/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O ALL creditou os pontos da campanha de transferência com a Azul que oferece até 30% de pontos Reward bônus!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-12T13:40:04+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T14:06:46.103954+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149587",
   "titulo": "Acaba hoje! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
   "link": "https://pontospravoar.com/acaba-hoje-transfira-pontos-inter-loop-azul-fidelidade-ate-120-porcento-bonus/",

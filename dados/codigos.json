@@ -1,5 +1,5 @@
 {
- "ultimo": 121,
+ "ultimo": 122,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1870,6 +1870,24 @@
     "categoria": "resumo_diario",
     "programas": [],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0122",
+   "enviado_em": "2026-11-12T14:06:47.848378+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM tem passagens nacionais a partir de 4.841 milhas + taxas por trecho",
+   "link": "https://passageirodeprimeira.com/latam-tem-passagens-nacionais-a-partir-4-841-milhas-taxas-trecho/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-UDI"
+    ]
    }
   }
  ]

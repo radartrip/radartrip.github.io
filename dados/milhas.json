@@ -60,7 +60,8 @@
   "https://pontospravoar.com/?p=149401",
   "https://pontospravoar.com/?p=146032",
   "https://pontospravoar.com/?p=149098",
-  "https://pontospravoar.com/?p=149387"
+  "https://pontospravoar.com/?p=149387",
+  "https://passageirodeprimeira.com/?p=581537"
  ],
  "resgates": [
   {
@@ -317,6 +318,28 @@
    "post": "https://pontospravoar.com/alerta-11-11-ppv-passagens-nacionais-latam-pass-3-mil-milhas/",
    "titulo": "Alerta 11.11 PPV: Passagens nacionais LATAM Pass a partir de 3 mil milhas",
    "visto_em": "2026-11-11T22:59:08.043731+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "UDI",
+   "origem_nome": "Brasília",
+   "destino_nome": "Urbelândia",
+   "milhas": 6778,
+   "milhas_clube": null,
+   "data": "",
+   "datas_texto": "",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+   "ambos_sentidos": true,
+   "formato": "texto",
+   "programa": "LATAM Pass",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://passageirodeprimeira.com/latam-tem-passagens-nacionais-a-partir-4-841-milhas-taxas-trecho/",
+   "titulo": "LATAM tem passagens nacionais a partir de 4.841 milhas + taxas por trecho",
+   "visto_em": "2026-11-12T14:06:47.319786+00:00"
   }
  ]
 }
