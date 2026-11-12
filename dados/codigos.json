@@ -1,5 +1,5 @@
 {
- "ultimo": 126,
+ "ultimo": 127,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1947,6 +1947,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0127",
+   "enviado_em": "2026-11-12T16:08:02.101509+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-JPA",
+   "preco": 1319,
+   "media": 1615,
+   "ida": "2027-09-16",
+   "volta": "2027-09-26",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20JPA%20on%202027-09-16%20through%202027-09-26"
   }
  ]
 }
