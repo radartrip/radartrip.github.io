@@ -1,5 +1,99 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581797",
+  "titulo": "Cartão LATAM Pass Itaú Platinum: 16 mil milhas na adesão e até 35% de bônus nas transferências de pontos",
+  "link": "https://passageirodeprimeira.com/cartao-latam-pass-itau-platinum-16-mil-milhas-na-adesao-e-ate-35-de-bonus-nas-transferencias-de-pontos/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Você sabia que solicitando o cartão LATAM Pass Itaú Platinum e assinando o Clube LATAM Pass você pode garantir até 35% de bônus nas transferências de pontos de qualquer parceiro sem precisar aguardar futuras campanhas?",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-12T20:50:38+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 35,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Itaú|LATAM Pass|35|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 35%"
+  ],
+  "visto_em": "2026-11-12T21:27:35.788055+00:00",
+  "link_oficial": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149287",
+  "titulo": "O que avaliar antes de entrar em um consórcio com a Liga Vitória e ganhar pontos Livelo",
+  "link": "https://pontospravoar.com/avaliar-antes-entrar-consorcio-liga-vitoria-pontos-livelo/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Saber o que avaliar antes de entrar em um consórcio é o passo inicial para garantir que a aquisição programada de um bem caiba no orçamento sem surpresas. A Liga Vitória orienta a comparação de alternativas para imóveis e veículos conforme o momento de compra de cada cliente, permitindo ainda acumular pontos por meio da parceria…",
+  "categorias": [
+   "Publicidade",
+   "Liga Vitória",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-12T21:00:21+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T21:27:35.988562+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581814",
+  "titulo": "Já votou? Saiba tudo sobre o Prêmio Passageiro de Primeira 2026 e participe",
+  "link": "https://passageirodeprimeira.com/ja-votou-saiba-tudo-sobre-o-premio-passageiro-de-primeira-2026-e-participe/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Seguem abertas as votações do Prêmio Passageiro de Primeira 2026! 🎉 Com 24 categorias para você eleger o seu queridinho do universo de fidelidade, cartões de crédito e aviação, a nossa quarta edição chega para ser o maior e melhor termômetro do mercado. Além disso, assim como nos anos anteriores, a premiação também possui como objetivo a causa social e, neste ano, o Passageiro de Primeira vai se c",
+  "categorias": [
+   "Notícias",
+   "Outros"
+  ],
+  "data": "2026-11-12T21:10:39+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-12T21:27:35.787588+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581777",
   "titulo": "Emirates Skywards vai suspender a conta família para reformulação",
   "link": "https://passageirodeprimeira.com/emirates-skywards-suspender-conta-familia-reformulacao/",
