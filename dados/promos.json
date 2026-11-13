@@ -52,19 +52,6 @@
    "link": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/"
   },
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-12",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 12 de novembro de 2026",
-   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
-  },
-  {
    "assinatura": "transferencia||Livelo|35|",
    "categoria": "transferencia",
    "origens": [],
@@ -138,6 +125,19 @@
    "visto_em": "2026-11-13",
    "titulo": "Últimas horas! Azul Fidelidade oferece até 120% de bônus na transferência de pontos Premmia",
    "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "compra||||",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-13",
+   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 13 de novembro de 2026",
+   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   }
  ],
  "vitrine": {
