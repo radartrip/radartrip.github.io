@@ -1,5 +1,105 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581611",
+  "titulo": "Último dia para ganhar 35% de bônus transferindo pontos da Livelo para a Qatar Airways",
+  "link": "https://passageirodeprimeira.com/ultimo-dia-para-ganhar-35-de-bonus-transferindo-pontos-da-livelo-para-a-qatar-airways/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo 35% de bônus na transferência de pontos para o Privilege Club da Qatar Airways, mas atenção: a promoção é válida apenas até hoje (13). A cada 30 mil pontos transferidos, você recebe 13.500 Avios, tornando a oportunidade ainda mais atrativa. Não perca essa chance de potencializar suas milhas!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-13T11:00:52+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Livelo"
+  ],
+  "bonus": 35,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-13",
+  "repostagem": true,
+  "assinatura": "transferencia||Livelo|35|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 35%"
+  ],
+  "visto_em": "2026-11-13T11:44:40.042764+00:00",
+  "link_oficial": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149591",
+  "titulo": "Congele tarifas nacionais e internacionais com 70% de desconto no Azul Fidelidade",
+  "link": "https://pontospravoar.com/congele-tarifas-nacionais-e-internacionais-com-70-de-desconto-no-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Perdeu o prazo da última oferta? Aproveite, pois o Azul Fidelidade voltou a oferecer aos seus clientes a possibilidade de congelar tarifas nacionais e internacionais com 70% de desconto. Desta vez, a promoção ficará disponível até o dia 15 de novembro. Congelamento de tarifa O congelamento de tarifa permite, mediante o pagamento de uma taxa, que…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "Congelamento de Tarifa",
+   "tarifa congelada"
+  ],
+  "data": "2026-11-13T11:00:57+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 70,
+  "milheiro_citado": null,
+  "prazo": "2026-11-15",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T11:44:40.171172+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=149782",
+  "titulo": "Acaba hoje! Transfira pontos do Azul Fidelidade para o ALL Accor com desconto e até 30% de bônus",
+  "link": "https://pontospravoar.com/acaba-hoje-transfira-pontos-azul-fidelidade-all-accor-desconto-ate-30-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Hoje é o último dia para participar da promoção de Black Friday do ALL Accor em parceria com o Azul Fidelidade, em que oferece aos associados até 30% de bônus na transferência de pontos. Além disso, clientes elegíveis do programa da Azul contam com paridade especial. Promoção ALL Accor e Azul Fidelidade Nesta campanha, os associados…",
+  "categorias": [
+   "Acumulando Milhas",
+   "ALL Accor",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "All Accor",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-13T11:06:30+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-13",
+  "repostagem": true,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T11:44:40.170334+00:00",
+  "link_oficial": "https://shopping.azulfidelidade.com.br/categoria/23077/all-accor?sta_nav=hm-parceiro-all-accor-1",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149613",
   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 12 de novembro de 2026",
   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-12-novembro-2026/",

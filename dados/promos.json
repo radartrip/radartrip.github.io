@@ -65,21 +65,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/brb"
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|30|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 30,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-12",
-   "titulo": "Gere o euro a partir de R$ 3,47 ao transferir pontos Azul para o ALL Accor",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
-  },
-  {
    "assinatura": "transferencia|Itaú|LATAM Pass|35|",
    "categoria": "transferencia",
    "origens": [
@@ -108,6 +93,36 @@
    "visto_em": "2026-11-12",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 12 de novembro de 2026",
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
+  },
+  {
+   "assinatura": "transferencia||Livelo|35|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 35,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-13",
+   "titulo": "Último dia para ganhar 35% de bônus transferindo pontos da Livelo para a Qatar Airways",
+   "link": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|30|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 30,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-13",
+   "titulo": "Acaba hoje! Transfira pontos do Azul Fidelidade para o ALL Accor com desconto e até 30% de bônus",
+   "link": "https://shopping.azulfidelidade.com.br/categoria/23077/all-accor?sta_nav=hm-parceiro-all-accor-1"
   }
  ],
  "vitrine": {
