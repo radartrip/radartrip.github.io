@@ -1,5 +1,5 @@
 {
- "ultimo": 130,
+ "ultimo": 131,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1997,6 +1997,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0131",
+   "enviado_em": "2026-11-13T12:43:06.439586+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Partiu Europa? Trecho para Roma a partir de 68 mil milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/partiu-europa-trecho-roma-a-partir-68-mil-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
     "trechos": []
    }
   }

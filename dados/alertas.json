@@ -1,5 +1,74 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149792",
+  "titulo": "Prorrogou! Ganhe até 15 pontos Azul Fidelidade por real gasto no Magalu",
+  "link": "https://pontospravoar.com/prorrogou-ganhe-ate-15-pontos-azul-fidelidade-real-gasto-magalu/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A promoção do Azul Fidelidade, em parceria com o Magalu, segue valendo por mais tempo! A campanha em que é possível acumular até 15 pontos por cada real gasto nas compras elegíveis agora vai até amanhã, dia 14 de novembro. Confira os detalhes da oferta a seguir. Azul Fidelidade e Magalu O acúmulo turbinado de…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "MAGALU"
+  ],
+  "data": "2026-11-13T12:00:20+00:00",
+  "pontos_por_real": 15.0,
+  "parceiro": "Magalu",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-14",
+  "repostagem": true,
+  "assinatura": "acumulo||Azul Fidelidade|15.0|Magalu",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T12:43:04.767455+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581852",
+  "titulo": "Partiu Europa? Trecho para Roma a partir de 68 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/partiu-europa-trecho-roma-a-partir-68-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 68.229 milhas LATAM Pass + taxas.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-13T12:28:07+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|68",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T12:43:04.583154+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0131"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=581611",
   "titulo": "Último dia para ganhar 35% de bônus transferindo pontos da Livelo para a Qatar Airways",
   "link": "https://passageirodeprimeira.com/ultimo-dia-para-ganhar-35-de-bonus-transferindo-pontos-da-livelo-para-a-qatar-airways/",
