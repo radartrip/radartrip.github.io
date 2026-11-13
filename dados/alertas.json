@@ -1,5 +1,65 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=581840",
+  "titulo": "Últimas horas para ganhar até 30% de bônus ao transferir pontos Azul para ALL Accor",
+  "link": "https://passageirodeprimeira.com/ultimas-horas-para-ganhar-ate-30-de-bonus-ao-transferir-pontos-azul-para-all-accor/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Últimas horas para aproveitar a Black Friday do ALL Accor! Até hoje (13), ao transferir pontos do Azul Fidelidade, você garante 20% de bônus em pontos Reward, com mais 10% extras para assinantes do ALL Signature. Não é necessário reservar hotéis para garantir o bônus, então não fique de fora!",
+  "categorias": [
+   "Promoções",
+   "Publicidade"
+  ],
+  "data": "2026-11-13T13:00:29+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-13",
+  "repostagem": true,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T13:54:14.833525+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581848",
+  "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+  "link": "https://passageirodeprimeira.com/receba-ate-388-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2417/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O Clube Livelo Premium está oferecendo até 108.000 pontos bônus para novas assinaturas com o cupom \"CLUBEPPBF\", totalizando até 388.000 pontos em 12 meses. A promoção é válida até domingo (15) e o milheiro sai a partir de R$ 24,17.",
+  "categorias": [
+   "Promoções",
+   "Publicidade"
+  ],
+  "data": "2026-11-13T13:31:09+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 24.17,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T13:54:14.833043+00:00",
+  "link_oficial": "https://www.livelo.com.br/clube",
+  "codigo": "RT-0132"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149792",
   "titulo": "Prorrogou! Ganhe até 15 pontos Azul Fidelidade por real gasto no Magalu",
   "link": "https://pontospravoar.com/prorrogou-ganhe-ate-15-pontos-azul-fidelidade-real-gasto-magalu/",

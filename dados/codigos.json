@@ -1,5 +1,5 @@
 {
- "ultimo": 131,
+ "ultimo": 132,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2012,6 +2012,22 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0132",
+   "enviado_em": "2026-11-13T13:54:16.603219+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+   "link": "https://passageirodeprimeira.com/receba-ate-388-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2417/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }

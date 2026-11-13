@@ -121,14 +121,29 @@
    "milheiro": null,
    "prazo": "2026-11-13",
    "visto_em": "2026-11-13",
-   "titulo": "Acaba hoje! Transfira pontos do Azul Fidelidade para o ALL Accor com desconto e até 30% de bônus",
-   "link": "https://shopping.azulfidelidade.com.br/categoria/23077/all-accor?sta_nav=hm-parceiro-all-accor-1"
+   "titulo": "Últimas horas para ganhar até 30% de bônus ao transferir pontos Azul para ALL Accor",
+   "link": "https://www.voeazul.com.br"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 24.17,
+   "prazo": "",
+   "visto_em": "2026-11-13",
+   "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
   "transferencia|Livelo|Azul Fidelidade|130|": "2026-11-03T17:09:31.008585+00:00",
   "transferencia||LATAM Pass|25|": "2026-11-03T17:09:31.573196+00:00",
-  "clube|Livelo|||": "2026-11-03T17:09:35.925370+00:00",
+  "clube|Livelo|||": "2026-11-13T13:54:16.605065+00:00",
   "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00",
   "compra|Livelo||56|": "2026-11-03T19:00:44.072118+00:00",
   "transferencia|Caixa|Azul Fidelidade|120|": "2026-11-04T14:48:52.060709+00:00",
