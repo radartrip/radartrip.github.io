@@ -1,5 +1,5 @@
 {
- "ultimo": 128,
+ "ultimo": 129,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -1975,6 +1975,18 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0129",
+   "enviado_em": "2026-11-13T03:17:36.416173+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-FLN",
+   "preco": 634,
+   "media": 766,
+   "ida": "2027-05-07",
+   "volta": "2027-05-14",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FLN%20on%202027-05-07%20through%202027-05-14"
   }
  ]
 }
