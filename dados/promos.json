@@ -1,21 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia||Smiles|70|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 70,
-   "desconto": 76,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-09",
-   "titulo": "Smiles oferece até 70% de bônus na transferência de pontos + cupom para compra de milhas",
-   "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026"
-  },
-  {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
    "categoria": "transferencia",
    "origens": [
@@ -48,21 +33,6 @@
    "visto_em": "2026-11-11",
    "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
    "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
-  },
-  {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-11",
-   "titulo": "Até 23h59: Azul Fidelidade oferece até 120% de bônus na transferência de pontos do BRB",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/brb"
   },
   {
    "assinatura": "transferencia|Itaú|LATAM Pass|35|",
@@ -138,6 +108,36 @@
    "visto_em": "2026-11-13",
    "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "transferencia||Smiles|70|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 70,
+   "desconto": 76,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-13",
+   "titulo": "Acaba hoje! Smiles oferece até 70% de bônus na transferência de pontos + cupom",
+   "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-13",
+   "visto_em": "2026-11-13",
+   "titulo": "Apenas hoje! Azul Fidelidade e Alloyal com até 120% de bônus na transferência de pontos",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/alloyal?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
