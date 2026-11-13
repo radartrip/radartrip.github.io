@@ -1,5 +1,5 @@
 {
- "ultimo": 135,
+ "ultimo": 136,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2068,6 +2068,22 @@
    "titulo": "Voe para Barcelona a partir de 94 mil pontos Azul + taxas",
    "link": "https://passageirodeprimeira.com/muito-bom-voe-barcelona-a-partir-94-mil-pontos-azul-taxas/",
    "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0136",
+   "enviado_em": "2026-11-13T19:59:11.249371+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens internacionais a partir de 13.950 pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-a-partir-de-13-950-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
    "etiquetas": {
     "categoria": "passagem",
     "programas": [
