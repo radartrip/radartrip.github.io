@@ -1,5 +1,5 @@
 {
- "ultimo": 136,
+ "ultimo": 140,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2091,6 +2091,64 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0137",
+   "enviado_em": "2026-11-13T20:48:21.207195+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Porto de Galinhas! Voos + hospedagem all inclusive no Enotel a partir de R$ 3.699 por pessoa em até 10x sem juros",
+   "link": "https://www.melhoresdestinos.com.br/promocao/porto-de-galinhas-voos-hospedagem-all-inclusive-no-enotel-13nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0138",
+   "enviado_em": "2026-11-13T20:48:22.828859+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Muito bom! Voos diretos da Delta/Latam para Nova York a partir de R$ 2.733 saindo do Rio de Janeiro",
+   "link": "https://www.melhoresdestinos.com.br/promocao/muito-bom-voos-diretos-nova-york-rio-13nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0139",
+   "enviado_em": "2026-11-13T20:48:24.476522+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Caribe! Passagens para Cancún ou Punta Cana a partir de R$ 2.624 saindo do Rio, BH e mais cidades",
+   "link": "https://www.melhoresdestinos.com.br/promocao/caribe-passagens-para-cancun-ou-punta-cana-13nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0140",
+   "enviado_em": "2026-11-13T20:48:43.893318+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-BUE",
+   "preco": 2804,
+   "media": 3395,
+   "ida": "2027-03-20",
+   "volta": "2027-03-27",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BUE%20on%202027-03-20%20through%202027-03-27"
   }
  ]
 }
