@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Itaú|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos Itaú",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/itau?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
    "assinatura": "transferencia||Smiles|70|",
    "categoria": "transferencia",
    "origens": [],
@@ -31,36 +14,6 @@
    "visto_em": "2026-11-09",
    "titulo": "Smiles oferece até 70% de bônus na transferência de pontos + cupom para compra de milhas",
    "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026"
-  },
-  {
-   "assinatura": "compra|Livelo||57|",
-   "categoria": "compra",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 57,
-   "milheiro": 29.5,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Livelo oferece até 57% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,50",
-   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
-  },
-  {
-   "assinatura": "transferencia||Livelo|35|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Livelo"
-   ],
-   "bonus": 35,
-   "desconto": 57,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-09",
-   "titulo": "Gere o milheiro Privilege Club da Qatar a partir de R$ 65,55 comprando pontos Livelo",
-   "link": "https://www.livelo.com.br/clube"
   },
   {
    "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
@@ -97,23 +50,6 @@
    "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
   },
   {
-   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|90|",
-   "categoria": "transferencia",
-   "origens": [
-    "Inter Loop"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 90,
-   "desconto": 0,
-   "milheiro": 12.39,
-   "prazo": "2026-11-12",
-   "visto_em": "2026-11-11",
-   "titulo": "Gere o milheiro Azul a partir de R$ 12,39 transferindo pontos Inter Loop + dinheiro",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
-  },
-  {
    "assinatura": "transferencia||Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [],
@@ -127,23 +63,6 @@
    "visto_em": "2026-11-11",
    "titulo": "Até 23h59: Azul Fidelidade oferece até 120% de bônus na transferência de pontos do BRB",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/brb"
-  },
-  {
-   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Inter Loop"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-12",
-   "visto_em": "2026-11-12",
-   "titulo": "Acaba hoje! Transfira pontos do Inter Loop para o Azul Fidelidade com até 120% de bônus",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   },
   {
    "assinatura": "transferencia||Azul Fidelidade|30|",
