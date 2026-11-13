@@ -1,5 +1,41 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149932",
+  "titulo": "Alerta PPV! Passagens internacionais na Smiles a partir de 28 mil milhas + taxas",
+  "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-smiles-28-mil-milhas-taxas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Na última edição do alerta de passagens PPV desta sexta-feira, você confere diversas opções de trechos internacionais na Smiles, com emissões a partir de 28.300 milhas + taxas. Abaixo, veja as disponibilidades e aproveite. Passagens internacionais com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver alteração…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-13T22:03:13+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|28",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-13T22:25:03.771111+00:00",
+  "trechos_total": 11,
+  "resgates": [],
+  "link_oficial": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1799982000000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1800673199000&searchType=congenere&segments=1&tripType=1&originAirport=MAO&destinationAirport=PTY&novo-resultado-voos=true",
+  "codigo": "RT-0141"
+ },
+ {
   "id": "https://pontospravoar.com/?p=149853",
   "titulo": "Últimas horas! Azul Fidelidade oferece até 120% de bônus na transferência de pontos Premmia",
   "link": "https://pontospravoar.com/ultimas-horas-azul-fidelidade-oferece-ate-120-porcento-bonus-transferencia-pontos-premmia/",

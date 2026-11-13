@@ -1,5 +1,5 @@
 {
- "ultimo": 140,
+ "ultimo": 141,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2149,6 +2149,22 @@
    "ida": "2027-03-20",
    "volta": "2027-03-27",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BUE%20on%202027-03-20%20through%202027-03-27"
+  },
+  {
+   "codigo": "RT-0141",
+   "enviado_em": "2026-11-13T22:25:04.776651+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens internacionais na Smiles a partir de 28 mil milhas + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-smiles-28-mil-milhas-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
