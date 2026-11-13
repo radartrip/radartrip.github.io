@@ -1,5 +1,5 @@
 {
- "ultimo": 134,
+ "ultimo": 135,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2059,6 +2059,22 @@
    "ida": "2027-03-05",
    "volta": "2027-03-08",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-03-05%20through%202027-03-08"
+  },
+  {
+   "codigo": "RT-0135",
+   "enviado_em": "2026-11-13T19:07:34.549216+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Barcelona a partir de 94 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/muito-bom-voe-barcelona-a-partir-94-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
