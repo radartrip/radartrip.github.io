@@ -1,5 +1,5 @@
 {
- "ultimo": 132,
+ "ultimo": 134,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2031,6 +2031,34 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0133",
+   "enviado_em": "2026-11-13T15:29:50.067123+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV: encontre passagens internacionais a partir de 21 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-encontre-passagens-internacionais-21-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0134",
+   "enviado_em": "2026-11-13T15:30:07.548381+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-RIO",
+   "preco": 823,
+   "media": 1070,
+   "ida": "2027-03-05",
+   "volta": "2027-03-08",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-03-05%20through%202027-03-08"
   }
  ]
 }
