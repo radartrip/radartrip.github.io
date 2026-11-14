@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
-   "categoria": "transferencia",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 320,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-10",
-   "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos-geral"
-  },
-  {
    "assinatura": "transferencia|Itaú|LATAM Pass|25|",
    "categoria": "transferencia",
    "origens": [
@@ -52,36 +35,6 @@
    "link": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/"
   },
   {
-   "assinatura": "transferencia||Livelo|35|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Livelo"
-   ],
-   "bonus": 35,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-13",
-   "titulo": "Último dia para ganhar 35% de bônus transferindo pontos da Livelo para a Qatar Airways",
-   "link": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer"
-  },
-  {
-   "assinatura": "transferencia||Azul Fidelidade|30|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 30,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-13",
-   "titulo": "Últimas horas para ganhar até 30% de bônus ao transferir pontos Azul para ALL Accor",
-   "link": "https://www.voeazul.com.br"
-  },
-  {
    "assinatura": "clube|Livelo|||",
    "categoria": "clube",
    "origens": [
@@ -95,36 +48,6 @@
    "visto_em": "2026-11-13",
    "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
    "link": "https://www.livelo.com.br/clube"
-  },
-  {
-   "assinatura": "transferencia||Smiles|70|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 70,
-   "desconto": 76,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-13",
-   "titulo": "Acaba hoje! Smiles oferece até 70% de bônus na transferência de pontos + cupom",
-   "link": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026"
-  },
-  {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-13",
-   "visto_em": "2026-11-13",
-   "titulo": "Últimas horas! Azul Fidelidade oferece até 120% de bônus na transferência de pontos Premmia",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   },
   {
    "assinatura": "compra||||",
