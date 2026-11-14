@@ -1,5 +1,5 @@
 {
- "ultimo": 145,
+ "ultimo": 146,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2215,6 +2215,20 @@
     "programas": [
      "Smiles"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0146",
+   "enviado_em": "2026-11-14T20:26:34.607552+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens pelo Brasil a partir de 3.500 pontos + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-pelo-brasil-a-partir-de-3-500-pontos-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
     "trechos": []
    }
   }
