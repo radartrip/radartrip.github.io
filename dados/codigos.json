@@ -1,5 +1,5 @@
 {
- "ultimo": 143,
+ "ultimo": 144,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2189,6 +2189,18 @@
    "ida": "2026-12-12",
    "volta": "2026-12-30",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FOR%20on%202026-12-12%20through%202026-12-30"
+  },
+  {
+   "codigo": "RT-0144",
+   "enviado_em": "2026-11-14T11:16:32.629254+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
   }
  ]
 }
