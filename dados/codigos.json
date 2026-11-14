@@ -1,5 +1,5 @@
 {
- "ultimo": 144,
+ "ultimo": 145,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2199,6 +2199,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0145",
+   "enviado_em": "2026-11-14T14:26:33.771629+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de voos a partir de 8.100 milhas Smiles",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-de-voos-a-partir-de-8-100-milhas-smiles/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
     "trechos": []
    }
   }
