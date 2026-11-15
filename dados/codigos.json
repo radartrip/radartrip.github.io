@@ -1,5 +1,5 @@
 {
- "ultimo": 146,
+ "ultimo": 147,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2228,6 +2228,18 @@
    "fonte": "Pontos pra Voar",
    "etiquetas": {
     "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0147",
+   "enviado_em": "2026-11-15T10:57:05.354953+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
     "programas": [],
     "trechos": []
    }
