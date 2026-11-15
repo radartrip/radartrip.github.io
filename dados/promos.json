@@ -18,21 +18,6 @@
    "link": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/"
   },
   {
-   "assinatura": "clube|Livelo|||",
-   "categoria": "clube",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 24.17,
-   "prazo": "",
-   "visto_em": "2026-11-13",
-   "titulo": "Receba até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
-   "link": "https://www.livelo.com.br/clube"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -61,6 +46,21 @@
    "visto_em": "2026-11-15",
    "titulo": "Acaba hoje! LATAM Pass com 25% de bônus na transferência de pontos do Itaú",
    "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 24.17,
+   "prazo": "2026-11-15",
+   "visto_em": "2026-11-15",
+   "titulo": "Últimas horas para receber até 388.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 24,17",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
