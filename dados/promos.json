@@ -1,23 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "transferencia|Itaú|LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-11",
-   "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
-   "link": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras"
-  },
-  {
    "assinatura": "transferencia|Itaú|LATAM Pass|35|",
    "categoria": "transferencia",
    "origens": [
