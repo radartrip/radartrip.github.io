@@ -1,5 +1,42 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150103",
+  "titulo": "Acaba hoje! LATAM Pass com 25% de bônus na transferência de pontos do Itaú",
+  "link": "https://pontospravoar.com/acaba-hoje-latam-pass-25-porcento-bonus-transferencia-pontos-itau/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Hoje termina a promoção de transferência bonificada do LATAM Pass em parceria com o Itaú e Credicard, em que oferece aos seus clientes 25% de bônus. Além disso, novos clientes recebem 1.000 milhas extras na primeira transferência. Abaixo, veja os principais detalhes! LATAM Pass e Itaú + Credicard Para esta campanha, a bonificação está estruturada…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Bancos",
+   "Itaú",
+   "LATAM Pass",
+   "Programas de Fidelidade"
+  ],
+  "data": "2026-11-15T13:00:16+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 25,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-15",
+  "repostagem": true,
+  "assinatura": "transferencia|Itaú|LATAM Pass|25|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 25%"
+  ],
+  "visto_em": "2026-11-15T13:24:35.793228+00:00",
+  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150092",
   "titulo": "Alerta PPV! Confira passagens internacionais a partir de 13.950 pontos + taxas",
   "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-internacionais-13950-pontos-taxas/",
