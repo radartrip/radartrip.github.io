@@ -1,5 +1,5 @@
 {
- "ultimo": 147,
+ "ultimo": 150,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2243,6 +2243,48 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0148",
+   "enviado_em": "2026-11-15T12:19:05.512350+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira passagens internacionais a partir de 13.950 pontos + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-internacionais-13950-pontos-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0149",
+   "enviado_em": "2026-11-15T12:19:06.285193+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de trechos com a Azul a partir de 3.120 pontos + taxas",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-de-trechos-com-a-azul-a-partir-de-3-120-pontos-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0150",
+   "enviado_em": "2026-11-15T12:19:18.192763+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-AJU",
+   "preco": 1126,
+   "media": 3749,
+   "ida": "2027-03-03",
+   "volta": "2027-03-10",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20AJU%20on%202027-03-03%20through%202027-03-10"
   }
  ]
 }
