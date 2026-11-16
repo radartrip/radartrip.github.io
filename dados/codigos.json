@@ -1,5 +1,5 @@
 {
- "ultimo": 166,
+ "ultimo": 167,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2528,6 +2528,22 @@
     "programas": [
      "Azul Fidelidade",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0167",
+   "enviado_em": "2026-11-16T19:39:13.434887+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM tem passagens internacionais na América do Sul a partir de R$ 380 ou 15 mil milhas + taxas",
+   "link": "https://passageirodeprimeira.com/latam-tem-passagens-internacionais-na-america-do-sul-a-partir-de-r-380-ou-15-mil-milhas-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }
