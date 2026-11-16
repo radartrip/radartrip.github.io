@@ -1,19 +1,6 @@
 {
  "ativas": [
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-13",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 13 de novembro de 2026",
-   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
-  },
-  {
    "assinatura": "compra|||100|",
    "categoria": "compra",
    "origens": [],
@@ -158,6 +145,19 @@
    "visto_em": "2026-11-16",
    "titulo": "Transfira pontos Nubank Croma para a Livelo com 10% de bônus",
    "link": "https://www.livelo.com.br"
+  },
+  {
+   "assinatura": "compra||||",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-16",
+   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 16 de novembro de 2026",
+   "link": "https://www.livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS"
   }
  ],
  "vitrine": {
