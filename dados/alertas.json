@@ -1,5 +1,135 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=582438",
+  "titulo": "Dia do Shopping Livelo! Ganhe até 10 pontos por real gasto em produtos na Natura, Decathlon e mais",
+  "link": "https://passageirodeprimeira.com/dia-do-shopping-livelo-ganhe-ate-10-pontos-por-real-gasto-em-produtos-na-natura-decathlon-e-mais/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] No Dia do Shopping Livelo, você pode ganhar até 10 pontos por real gasto em parceiros como Natura e Decathlon. As ofertas são válidas somente hoje (16), então não perca a chance de acumular mais pontos!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-16T19:40:23+00:00",
+  "pontos_por_real": 10.0,
+  "parceiro": "Natura",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||10.0|Natura",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T20:28:53.999846+00:00",
+  "link_oficial": "https://shopping.livelo.com.br/",
+  "codigo": "RT-0168"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582301",
+  "titulo": "Azul tem passagens nacionais a partir de R$ 50 ou 3.120 pontos + taxas",
+  "link": "https://passageirodeprimeira.com/azul-passagens-nacionais-a-partir-r-50-ou-3-120-pontos-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta de disponibilidade 🚨 Em nossas buscas, identificamos que a Azul está oferecendo passagens aéreas para vários destinos nacionais a partir de 3.120 pontos + taxas o trecho. Além disso, caso você não tenha pontos para realizar a emissão, é possível transferir pontos da Livelo para o programa de fidelidade com até 120% de bônus e emitir trechos a partir de R$ 50,84 + taxas com a modalidade pont",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-16T20:00:10+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|3.120,50",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T20:28:53.998130+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/bancos",
+  "codigo": "RT-0169"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150288",
+  "titulo": "Azul Friday! Passagens para a Europa com 10% de desconto no Azul Fidelidade",
+  "link": "https://pontospravoar.com/azul-friday-passagens-europa-10-porcento-desconto-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Europa está nos seus planos para a próxima viagem? Aproveite a oferta do Azul Fidelidade, que disponibilizou cupons para passagens entre o Brasil e destinos na Europa com 10% de desconto no resgate em pontos. Confira os detalhes a seguir desta oferta válida apenas hoje, dia 11 de novembro. Azul Fidelidade com 10% OFF em…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-16T20:00:20+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 10,
+  "milheiro_citado": null,
+  "prazo": "2026-11-16",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T20:28:54.079680+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582439",
+  "titulo": "Executiva da Aeromexico de São Paulo para Tóquio a partir de R$ 6.783 ou 285 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/executiva-da-aeromexico-de-sao-paulo-para-toquio-a-partir-de-r-6-783-ou-285-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta em Classe Executiva entre São Paulo (GRU) e Tóquio (NRT). Os voos são operados pela Aeromexico e a emissão pode ser feita por 285.000 milhas LATAM Pass + taxas. Se você não tem milhas suficientes, pode comprá-las com até 66% de desconto e realizar a emissão a partir de R$ 6.783 + taxas.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-16T20:20:42+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 66,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T20:28:53.995185+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582335",
   "titulo": "LATAM tem passagens internacionais na América do Sul a partir de R$ 380 ou 15 mil milhas + taxas",
   "link": "https://passageirodeprimeira.com/latam-tem-passagens-internacionais-na-america-do-sul-a-partir-de-r-380-ou-15-mil-milhas-taxas/",

@@ -1,5 +1,5 @@
 {
- "ultimo": 167,
+ "ultimo": 169,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2544,6 +2544,39 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0168",
+   "enviado_em": "2026-11-16T20:28:56.192095+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Dia do Shopping Livelo! Ganhe até 10 pontos por real gasto em produtos na Natura, Decathlon e mais",
+   "link": "https://passageirodeprimeira.com/dia-do-shopping-livelo-ganhe-ate-10-pontos-por-real-gasto-em-produtos-na-natura-decathlon-e-mais/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0169",
+   "enviado_em": "2026-11-16T20:28:57.659584+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul tem passagens nacionais a partir de R$ 50 ou 3.120 pontos + taxas",
+   "link": "https://passageirodeprimeira.com/azul-passagens-nacionais-a-partir-r-50-ou-3-120-pontos-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
     ],
     "trechos": []
    }
