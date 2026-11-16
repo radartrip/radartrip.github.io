@@ -1,5 +1,5 @@
 {
- "ultimo": 152,
+ "ultimo": 157,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2307,6 +2307,90 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0153",
+   "enviado_em": "2026-11-16T14:47:16.333051+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos dos cartões de crédito, inclusive Livelo",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-de-bonus-nas-transferencias-de-pontos-dos-cartoes-de-credito-inclusive-livelo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0154",
+   "enviado_em": "2026-11-16T14:47:17.644864+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul Fidelidade oferece até 120% de bônus na transferência de parceiros – incluindo Livelo!",
+   "link": "https://pontospravoar.com/azul-fidelidade-oferece-ate-120-porcento-bonus-transferencia-parceiros-incluindo-livelo/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade",
+     "Esfera",
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0155",
+   "enviado_em": "2026-11-16T14:47:18.744419+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "LATAM Pass e C6 Bank com 25% de bônus na transferência de pontos + milhas extras",
+   "link": "https://pontospravoar.com/latam-pass-c6-bank-25-porcento-bonus-transferencia-pontos-milhas-extras/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "C6 Átomos",
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0156",
+   "enviado_em": "2026-11-16T14:47:22.055196+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 10.1,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0157",
+   "enviado_em": "2026-11-16T14:47:22.716182+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Azul Fidelidade",
+   "milheiro_final": 10.1,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Azul Fidelidade"
+    ],
     "trechos": []
    }
   }
