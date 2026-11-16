@@ -124,6 +124,23 @@
    "visto_em": "2026-11-16",
    "titulo": "Só hoje: Até 102.000 pontos em 1 ano com o Clube Livelo Essencial ou Especial – Milheiro a partir de R$ 22,23",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|90|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 90,
+   "desconto": 0,
+   "milheiro": 12.71,
+   "prazo": "",
+   "visto_em": "2026-11-16",
+   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 12,71",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
   }
  ],
  "vitrine": {
@@ -231,7 +248,10 @@
   "passagem|Azul Fidelidade|3.120,5": "2026-11-15T12:19:06.288204+00:00",
   "transferencia|Livelo|Azul Fidelidade|120|": "2026-11-16T14:47:16.335012+00:00",
   "transferencia|Esfera,Livelo|Azul Fidelidade|120|": "2026-11-16T14:47:17.646757+00:00",
-  "transferencia|C6 Átomos|LATAM Pass|25|": "2026-11-16T14:47:18.746316+00:00"
+  "transferencia|C6 Átomos|LATAM Pass|25|": "2026-11-16T14:47:18.746316+00:00",
+  "transferencia|Livelo|Azul Fidelidade|90|": "2026-11-16T16:32:14.418844+00:00",
+  "passagem|LATAM Pass|3": "2026-11-16T16:32:15.099418+00:00",
+  "passagem|LATAM Pass|100,3.887": "2026-11-16T16:32:16.505846+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -239,7 +259,8 @@
   "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T19:00:44.586426+00:00",
   "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T19:00:45.109209+00:00",
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.057121+00:00",
-  "clube|Livelo|||>>transferencia|Esfera,Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.718096+00:00"
+  "clube|Livelo|||>>transferencia|Esfera,Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.718096+00:00",
+  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|90|>>Azul Fidelidade": "2026-11-16T16:32:17.025438+00:00"
  },
  "acumulo": {
   "Magalu>Azul Fidelidade": [
