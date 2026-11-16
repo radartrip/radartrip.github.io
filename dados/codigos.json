@@ -1,5 +1,5 @@
 {
- "ultimo": 170,
+ "ultimo": 172,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2593,6 +2593,38 @@
     "categoria": "passagem",
     "programas": [
      "AAdvantage"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0171",
+   "enviado_em": "2026-11-16T22:14:30.542086+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul Fidelidade disponibiliza cupom de 20% OFF em passagens nacionais",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-disponibiliza-cupom-ate-20-off-passagens-nacionais/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0172",
+   "enviado_em": "2026-11-16T22:14:31.218268+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Resgate passagens a partir de 3.000 pontos Azul Fidelidade + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-resgate-passagens-3000-pontos-azul-fidelidade-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
