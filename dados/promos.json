@@ -141,6 +141,23 @@
    "visto_em": "2026-11-16",
    "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 12,71",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
+  },
+  {
+   "assinatura": "transferencia|Nubank|Livelo|10|",
+   "categoria": "transferencia",
+   "origens": [
+    "Nubank"
+   ],
+   "destinos": [
+    "Livelo"
+   ],
+   "bonus": 10,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-16",
+   "titulo": "Nubank Croma oferece 10% de bônus em transferências para a Livelo",
+   "link": "https://www.livelo.com.br/parceiros-para-livelo/nubank"
   }
  ],
  "vitrine": {
@@ -251,7 +268,9 @@
   "transferencia|C6 Átomos|LATAM Pass|25|": "2026-11-16T14:47:18.746316+00:00",
   "transferencia|Livelo|Azul Fidelidade|90|": "2026-11-16T16:32:14.418844+00:00",
   "passagem|LATAM Pass|3": "2026-11-16T16:32:15.099418+00:00",
-  "passagem|LATAM Pass|100,3.887": "2026-11-16T16:32:16.505846+00:00"
+  "passagem|LATAM Pass|100,3.887": "2026-11-16T16:32:16.505846+00:00",
+  "acumulo|Livelo||15.0|Centauro": "2026-11-16T17:44:28.512530+00:00",
+  "passagem|Azul Fidelidade|13,177": "2026-11-16T17:44:30.212153+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -285,7 +304,8 @@
    11.0
   ],
   "Centauro>Livelo": [
-   14.0
+   14.0,
+   15.0
   ],
   "Magalu>Smiles": [
    6.0

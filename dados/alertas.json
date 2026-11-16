@@ -1,5 +1,144 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150249",
+  "titulo": "Campanha de incentivo da Azul premia agentes de viagens com bilhetes e pontos",
+  "link": "https://pontospravoar.com/campanha-de-incentivo-da-azul-premia-agentes/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A nova campanha de incentivo da Azul foi oficialmente apresentada pela companhia durante a realização do Festuris, em Gramado (RS), com o objetivo de reconhecer o desempenho de parceiros comerciais de todo o país. A iniciativa, integrada ao ecossistema HUB Azul, vai premiar até 15 profissionais da cadeia turística com passagens aéreas nacionais e internacionais…",
+  "categorias": [
+   "Azul",
+   "Empresas Aéreas",
+   "Notícias",
+   "azul",
+   "notícias"
+  ],
+  "data": "2026-11-16T16:35:58+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T17:44:25.925669+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0164"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150231",
+  "titulo": "Aproveite! Livelo oferece até 15 pontos por real em lojas parceiras",
+  "link": "https://pontospravoar.com/aproveite-livelo-oferece-ate-15-pontos-real-lojas-parceiras/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A semana começa com boas oportunidades para quem deseja acumular pontos e aproveitar ofertas! A Livelo reúne promoções de compra bonificada em lojas como Tia Sônia, Centauro e Coffee Mais, com condições que chegam a 15 pontos por real gasto. Confira os detalhes! Promoções Livelo Confira na tabela abaixo as campanhas da Livelo: Clique aqui…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "ACÚMULO DE PONTOS",
+   "livelo"
+  ],
+  "data": "2026-11-16T17:00:11+00:00",
+  "pontos_por_real": 15.0,
+  "parceiro": "Centauro",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||15.0|Centauro",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T17:44:25.925073+00:00",
+  "link_oficial": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB",
+  "codigo": "RT-0165"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582368",
+  "titulo": "Nubank Croma oferece 10% de bônus em transferências para a Livelo",
+  "link": "https://passageirodeprimeira.com/nubank-croma-oferece-10-de-bonus-em-transferencias-para-a-livelo/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Nubank está oferecendo 10% de bônus nas transferências de pontos para a Livelo. A campanha, que é válida até quarta-feira (18), é exclusiva para o segmento Croma.",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-16T17:00:33+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Nubank"
+  ],
+  "programas_destino": [
+   "Livelo"
+  ],
+  "bonus": 10,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Nubank|Livelo|10|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T17:44:25.890961+00:00",
+  "link_oficial": "https://www.livelo.com.br/parceiros-para-livelo/nubank",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582389",
+  "titulo": "Voe de Porto Alegre para Punta del Este a partir de R$ 177 ou 13 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-de-porto-alegre-para-punta-del-este-a-partir-de-r-177-ou-13-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Alerta] Alerta direto dos Grupos do PP no WhatsApp! Encontramos passagens de ida e volta entre Porto Alegre (POA) e Punta del Este (PDP) a partir de R$ 177,94 + taxas ou 13.350 pontos Azul + taxas por trecho. A oferta é válida para diversas datas e também conta com transferência de pontos Livelo para o programa de fidelidade com até 90% de bônus.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-16T17:26:47+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 90,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|13,177",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-16T17:44:25.890553+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0166"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582275",
   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 12,71",
   "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1271/",
