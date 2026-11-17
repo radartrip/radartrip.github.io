@@ -1,5 +1,5 @@
 {
- "ultimo": 172,
+ "ultimo": 173,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2628,6 +2628,18 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0173",
+   "enviado_em": "2026-11-17T00:25:13.379314+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-LIS",
+   "preco": 5236,
+   "media": 6439,
+   "ida": "2026-11-22",
+   "volta": "2026-12-01",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202026-11-22%20through%202026-12-01"
   }
  ]
 }
