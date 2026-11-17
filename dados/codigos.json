@@ -1,5 +1,5 @@
 {
- "ultimo": 180,
+ "ultimo": 182,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2742,6 +2742,38 @@
     "categoria": "clube",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0181",
+   "enviado_em": "2026-11-17T15:44:22.087404+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Ganhe até 600 mil pontos no ano ao fazer upgrade do Clube Azul – Milheiro a partir de R$ 12,81",
+   "link": "https://passageirodeprimeira.com/ganhe-ate-600-mil-pontos-no-ano-ao-fazer-upgrade-do-clube-azul-milheiro-a-partir-de-r-1281/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0182",
+   "enviado_em": "2026-11-17T15:44:23.179457+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe de São Paulo para Miami a partir de R$ 1.190 ou 49 mil milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/voe-de-sao-paulo-para-miami-a-partir-de-r-1-190-ou-49-mil-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }

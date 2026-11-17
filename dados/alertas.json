@@ -1,5 +1,102 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=582595",
+  "titulo": "Ganhe até 600 mil pontos no ano ao fazer upgrade do Clube Azul – Milheiro a partir de R$ 12,81",
+  "link": "https://passageirodeprimeira.com/ganhe-ate-600-mil-pontos-no-ano-ao-fazer-upgrade-do-clube-azul-milheiro-a-partir-de-r-1281/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 600 mil pontos no ano para quem fizer o upgrade do Clube Azul nos planos anuais. A campanha é válida até sexta-feira (20) e com ela é possível gerar o milheiro a partir de R$ 12,81.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-17T15:00:15+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 12.81,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube||Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T15:44:20.513625+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/upgrade-clube",
+  "codigo": "RT-0181"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150469",
+  "titulo": "Livelo oferece 100.000 pontos no upgrade do Clube Especial",
+  "link": "https://pontospravoar.com/livelo-oferece-100000-pontos-upgrade-clube-especial/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Livelo está com uma nova oferta para os clientes que desejam mudar de plano. Até o dia 19 de novembro, oferece 100.000 pontos no upgrade para o novo Clube Especial, válido para assinatura mensal e anual. Vamos aos detalhes! Promoção de upgrade para o Clube Especial Esta promoção de upgrade do Clube Livelo está…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Clube Livelo Especial",
+   "livelo",
+   "Upgrade Clube Livelo"
+  ],
+  "data": "2026-11-17T15:02:23+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-19",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T15:44:20.587877+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582592",
+  "titulo": "Voe de São Paulo para Miami a partir de R$ 1.190 ou 49 mil milhas LATAM Pass + taxas",
+  "link": "https://passageirodeprimeira.com/voe-de-sao-paulo-para-miami-a-partir-de-r-1-190-ou-49-mil-milhas-latam-pass-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Alerta] Alerta direto dos Grupos do PP no WhatsApp! Encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Miami (MIA) a partir de 49.263 milhas LATAM Pass + taxas. Não perca essa oportunidade de explorar essa metrópole fascinante!",
+  "categorias": [
+   "Promoções",
+   "Alertas do PP"
+  ],
+  "data": "2026-11-17T15:40:57+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|1.190,49",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T15:44:20.512776+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://latampass.com/facilidades/compra-milhas/lp?pt=pp%3Futm_source%3Dpassageiro-de-primeira",
+  "codigo": "RT-0182"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150428",
   "titulo": "Natura Friday! Ganhe até 24 pontos Azul Fidelidade por real gasto",
   "link": "https://pontospravoar.com/natura-friday-ganhe-ate-24-pontos-azul-fidelidade-real-gasto/",
@@ -12458,25 +12555,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:34:47.799836+00:00",
-  "trechos_total": 0,
-  "resgates": []
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579164",
-  "titulo": "Último dia! Ganhe 5.500 pontos Livelo convertendo US$ 100 no ARQ",
-  "link": "https://passageirodeprimeira.com/ultimo-dia-ganhe-5-500-pontos-livelo-convertendo-us-100-no-arq/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O ARQ, plataforma financeira global, agora é parceiro da Livelo! Até hoje (3), quem abrir uma conta na plataforma e converter reais em dólares digitais receberá 5.500 pontos Livelo para os primeiros US$ 100 convertidos. Aproveite a oportunidade para acumular pontos e contar com a menor taxa de conversão do mercado, de apenas 0,5%!",
-  "categorias": [
-   "Promoções",
-   "Outros"
-  ],
-  "data": "2026-11-03T13:00:17+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.719452+00:00",
   "trechos_total": 0,
   "resgates": []
  }

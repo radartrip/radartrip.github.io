@@ -158,6 +158,21 @@
    "visto_em": "2026-11-17",
    "titulo": "Assine o Clube Smiles 1.000 e ganhe 14 mil milhas na hora",
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
+  },
+  {
+   "assinatura": "clube||Azul Fidelidade||",
+   "categoria": "clube",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 12.81,
+   "prazo": "",
+   "visto_em": "2026-11-17",
+   "titulo": "Ganhe até 600 mil pontos no ano ao fazer upgrade do Clube Azul – Milheiro a partir de R$ 12,81",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/upgrade-clube"
   }
  ],
  "vitrine": {
@@ -278,7 +293,9 @@
   "passagem|Azul Fidelidade|3.000": "2026-11-16T22:14:31.221342+00:00",
   "passagem|Azul Fidelidade|63,801": "2026-11-17T12:35:04.345452+00:00",
   "passagem|Smiles|30.500": "2026-11-17T13:54:27.071524+00:00",
-  "acumulo||Azul Fidelidade|24.0|Natura": "2026-11-17T14:48:17.049564+00:00"
+  "acumulo||Azul Fidelidade|24.0|Natura": "2026-11-17T14:48:17.049564+00:00",
+  "clube||Azul Fidelidade||": "2026-11-17T15:44:22.090453+00:00",
+  "passagem|LATAM Pass|1.190,49": "2026-11-17T15:44:23.182827+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
