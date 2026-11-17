@@ -1,5 +1,97 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150510",
+  "titulo": "Meu Resgate Favorito tem pacote para o Ceará e produtos a partir de 6 mil pontos",
+  "link": "https://pontospravoar.com/meu-resgate-favorito-tem-pacote-para-o-ceara-e-produtos-a-partir-de-6-mil-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade preparou uma edição especial do Meu Resgate Favorito, com oportunidades para quem deseja viajar ou trocar pontos por produtos! Desta vez, a campanha reúne um pacote de viagem para Canoa Quebrada, no Ceará, por 70 mil pontos, além de uma seleção de produtos com resgates a partir de 6 mil pontos Azul…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "meu resgate favorito"
+  ],
+  "data": "2026-11-17T18:06:41+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T18:36:02.077628+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582764",
+  "titulo": "Meu Resgate Favorito! Mouse Vertical, Kindle Paperwhite, Pacote Canoa Quebrada e mais a partir de 6 mil pontos Azul",
+  "link": "https://passageirodeprimeira.com/meu-resgate-favorito-mouse-vertical-kindle-paperwhite-pacote-canoa-quebrada-e-mais-a-partir-de-6-mil-pontos-azul/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul lançou mais uma oferta do Meu Resgate Favorito com oportunidades únicas para resgatar produtos por um valor mais acessível em pontos Azul. Na campanha de hoje (17), válida para assinantes do Clube Azul e portadores dos cartões Azul Itaú.",
+  "categorias": [
+   "Promoções",
+   "Outros"
+  ],
+  "data": "2026-11-17T18:08:38+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T18:36:02.028933+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582566",
+  "titulo": "Voltou! Assine o Clube Livelo Mini por apenas R$ 24,90 por mês",
+  "link": "https://passageirodeprimeira.com/voltou-assine-o-clube-livelo-mini-por-apenas-r-2490-por-mes/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Voltou! O Clube Livelo Mini está disponível por apenas R$ 24,90 por mês até 26 de novembro. Ao assinar, você recebe 500 pontos mensais e um bônus de 500 pontos durante 6 meses, totalizando 9.000 pontos ao longo de um ano.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-17T18:30:11+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T18:36:02.028208+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150394",
   "titulo": "Azul Friday! Azul Fidelidade oferece até 600 mil pontos no upgrade do clube",
   "link": "https://pontospravoar.com/azul-friday-azul-fidelidade-oferece-ate-600-mil-pontos-upgrade-clube/",
@@ -12476,61 +12568,5 @@
    }
   ],
   "codigo": "RT-0001"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=578316",
-  "titulo": "Novo aeroporto de Sydney é inaugurado e recebe primeiros passageiros na Austrália",
-  "link": "https://passageirodeprimeira.com/novo-aeroporto-de-sydney-e-inaugurado-e-recebe-primeiros-passageiros-na-australia/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Aeroporto Internacional de Western Sydney foi inaugurado no último domingo (25) com seu primeiro voo comercial operado pela Jetstar, conectando a região à Gold Coast. O novo terminal funcionará 24 horas e terá operações de diversas companhias, incluindo Air New Zealand e Singapore Airlines. Essa inauguração representa um investimento de aproximadamente 18 bilhões de dólares australianos na infra",
-  "categorias": [
-   "Notícias",
-   "Outros"
-  ],
-  "data": "2026-11-02T17:20:30+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.720619+00:00"
- },
- {
-  "id": "https://pontospravoar.com/?p=147987",
-  "titulo": "Confira promoções na Livelo com até 14 pontos por real gasto",
-  "link": "https://pontospravoar.com/confira-promocoes-livelo-ate-14-pontos-real-gasto/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Quer aproveitar o feriado para aumentar seu saldo de pontos na Livelo? O programa de fidelidade está com mais de 20 promoções, em que é possível acumular até 14 pontos por cada real gasto. Veja os principais detalhes a seguir. Promoções Livelo Confira na tabela abaixo as campanhas da Livelo: Clique aqui para conferir as…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "livelo"
-  ],
-  "data": "2026-11-02T19:00:46+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.800537+00:00",
-  "trechos_total": 0,
-  "resgates": []
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=578275",
-  "titulo": "Lufthansa e Fraport inauguram portão de embarque do futuro no Aeroporto de Frankfurt",
-  "link": "https://passageirodeprimeira.com/lufthansa-e-fraport-inauguram-portao-de-embarque-do-futuro-no-aeroporto-de-frankfurt/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Lufthansa e a Fraport inauguraram o \"Gate of the Future\" no Aeroporto de Frankfurt, um espaço inovador que oferece painéis digitais com informações em tempo real e atendimento móvel por funcionários. O novo portão A16 também conta com áreas de trabalho e sofás, proporcionando mais conforto e praticidade para os passageiros. A iniciativa visa aprimorar a experiência no embarque e poderá ser expan",
-  "categorias": [
-   "Notícias",
-   "Companhias Aéreas"
-  ],
-  "data": "2026-11-02T20:00:31+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.720399+00:00"
  }
 ]
