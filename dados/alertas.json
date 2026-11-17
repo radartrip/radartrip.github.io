@@ -1,5 +1,36 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=582713",
+  "titulo": "Ganhe até 3.000 milhas bônus em compras com cartão LATAM Pass Itaú",
+  "link": "https://passageirodeprimeira.com/ganhe-ate-3-000-milhas-bonus-em-compras-com-cartao-latam-pass-itau/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Itaú está oferecendo até 3.000 milhas bônus em compras com o cartão LATAM Pass Itaú Mastercard.",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-17T20:00:44+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T20:31:45.690856+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150513",
   "titulo": "Orange Friday! Smiles oferece até 80% de bônus na transferência de pontos",
   "link": "https://pontospravoar.com/orange-friday-smiles-oferece-ate-80-porcento-bonus-transferencia-pontos/",
@@ -12566,22 +12597,5 @@
   "visto_em": "2026-11-03T13:34:47.801533+00:00",
   "trechos_total": 0,
   "resgates": []
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=578488",
-  "titulo": "TAP terá nova rota que facilita a viagem para quem sonha assistir à Aurora boreal",
-  "link": "https://passageirodeprimeira.com/tap-tera-nova-rota-que-facilita-a-viagem-para-quem-sonha-assistir-a-aurora-boreal/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta de novidade para passageiros brasileiros e que sonham em assistir de perto à Aurora boreal! Nesta última quarta-feira (28), a TAP Air Portugal confirmou uma nova rota, e que facilita muito a viagem de quem deseja ver de perto as luzes do norte. Em 2027, a companhia portuguesa terá voos para a capital da Islândia, Reykjavík (RKV).",
-  "categorias": [
-   "Notícias",
-   "Companhias Aéreas"
-  ],
-  "data": "2026-11-01T20:00:07+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.721618+00:00"
  }
 ]
