@@ -1,5 +1,5 @@
 {
- "ultimo": 174,
+ "ultimo": 177,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2652,6 +2652,51 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0175",
+   "enviado_em": "2026-11-17T12:35:02.895552+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul Friday! Azul Fidelidade oferece até 20% de desconto em passagens nacionais",
+   "link": "https://pontospravoar.com/azul-friday-azul-fidelidade-oferece-ate-20-porcento-desconto-passagens-nacionais/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0176",
+   "enviado_em": "2026-11-17T12:35:04.342901+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Madri a partir de R$ 801 ou 63 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-madri-a-partir-de-r-801-ou-63-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0177",
+   "enviado_em": "2026-11-17T12:35:23.511647+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-AJU",
+   "preco": 1126,
+   "media": 2546,
+   "ida": "2027-03-03",
+   "volta": "2027-03-10",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20AJU%20on%202027-03-03%20through%202027-03-10"
   }
  ]
 }

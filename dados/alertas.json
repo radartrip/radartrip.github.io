@@ -1,5 +1,104 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=582477",
+  "titulo": "Azul Fidelidade oferece 70% de desconto na Tarifa Congelada",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-70-desconto-tarifa-congelada/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo 70% de desconto na Tarifa Congelada – serviço que permite que você faça emissões de passagens aéreas no programa sem ter pontos na conta e quite o débito em até 30 dias antes do embarque. A promoção, que é válida até quinta-feira (19), aplica-se aos voos nacionais e internacionais operados pela Azul.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-17T12:00:35+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 70,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T12:35:00.419518+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150390",
+  "titulo": "Azul Friday! Azul Fidelidade oferece até 20% de desconto em passagens nacionais",
+  "link": "https://pontospravoar.com/azul-friday-azul-fidelidade-oferece-ate-20-porcento-desconto-passagens-nacionais/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "As ofertas antecipadas da Azul Friday continuam! Desta vez, o Azul Fidelidade está oferecendo até 20% de desconto no resgate de passagens nacionais com pontos, utilizando o cupom AZULMULTI20. A promoção é válida até 19 de novembro de 2026 e pode ser uma oportunidade para economizar pontos na próxima viagem pelo Brasil. Confira as condições…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "cupom de desconto"
+  ],
+  "data": "2026-11-17T12:00:48+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 20,
+  "milheiro_citado": null,
+  "prazo": "2026-11-19",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T12:35:00.513311+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "http://www.voeazul.com.br/",
+  "codigo": "RT-0175"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582565",
+  "titulo": "Voe para Madri a partir de R$ 801 ou 63 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-para-madri-a-partir-de-r-801-ou-63-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Encontramos disponibilidade de bilhetes ida e volta entre Recife (REC) e Madri (MAD) a partir de 63.050 pontos Azul Fidelidade + taxas por trecho com a Azul. Além disso, caso você não tenha pontos para realizar a emissão, é possível transferir pontos Livelo para o programa de fidelidade com até 120% de bônus, e emitir o trecho a partir de R$ 801,36 + taxas usando a ferramenta pontos + dinheiro.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-17T12:28:52+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|63,801",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T12:35:00.418896+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0176"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150184",
   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 16 de novembro de 2026",
   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-16-novembro-2026/",
