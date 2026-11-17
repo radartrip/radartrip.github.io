@@ -1,5 +1,5 @@
 {
- "ultimo": 183,
+ "ultimo": 184,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2789,6 +2789,23 @@
    "ida": "2027-03-05",
    "volta": "2027-03-08",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-03-05%20through%202027-03-08"
+  },
+  {
+   "codigo": "RT-0184",
+   "enviado_em": "2026-11-17T17:44:45.346739+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe de Recife para Noronha a partir de R$ 198 ou 15 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-de-recife-para-noronha-a-partir-de-r-198-ou-15-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
