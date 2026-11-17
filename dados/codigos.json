@@ -1,5 +1,5 @@
 {
- "ultimo": 187,
+ "ultimo": 188,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2854,6 +2854,25 @@
      "Azul Fidelidade"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0188",
+   "enviado_em": "2026-11-17T21:32:10.218896+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-BRU",
+     "BSB-AMS"
+    ]
    }
   }
  ]

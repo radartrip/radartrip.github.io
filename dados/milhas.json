@@ -92,7 +92,8 @@
   "https://passageirodeprimeira.com/?p=582592",
   "https://passageirodeprimeira.com/?p=582653",
   "https://passageirodeprimeira.com/?p=582546",
-  "https://pontospravoar.com/?p=150479"
+  "https://pontospravoar.com/?p=150479",
+  "https://pontospravoar.com/?p=150531"
  ],
  "resgates": [
   {
@@ -417,6 +418,52 @@
    "post": "https://pontospravoar.com/alerta-ppv-confira-passagens-smiles-6900-milhas-taxas/",
    "titulo": "Alerta PPV! Confira passagens na Smiles a partir de 6.900 milhas + taxas",
    "visto_em": "2026-11-16T18:34:36.637885+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "BRU",
+   "origem_nome": "Brasília",
+   "destino_nome": "Bruxelas",
+   "milhas": 70381,
+   "milhas_clube": null,
+   "data": "2027-02-15",
+   "datas_texto": "15 de fevereiro",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=BRU&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2027-02-15T00%3A00%3A00.000Z&inbound=2027-02-25T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=b0ba46b5-065a-4bfb-8b61-9377d3f4c82c&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+   "datas_mes": [
+    "Fevereiro/2027: 15"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 7327,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 104.1,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
+   "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
+   "visto_em": "2026-11-17T21:32:09.574492+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "AMS",
+   "origem_nome": "Brasília",
+   "destino_nome": "Amsterdã",
+   "milhas": 77825,
+   "milhas_clube": null,
+   "data": "2027-02-21",
+   "datas_texto": "21 de fevereiro",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=AMS&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2027-02-21T00%3A00%3A00.000Z&inbound=2027-03-03T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=b0ba46b5-065a-4bfb-8b61-9377d3f4c82c&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+   "datas_mes": [
+    "Fevereiro/2027: 21"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 6223,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 79.96,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
+   "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
+   "visto_em": "2026-11-17T21:32:09.574506+00:00"
   }
  ]
 }

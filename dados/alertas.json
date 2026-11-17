@@ -1,5 +1,178 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150531",
+  "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
+  "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal começar a planejar sua próxima viagem para a Europa utilizando milhas? No Alerta de Passagens PPV dessa terça-feira, nossa equipe selecionou oportunidades para conhecer diferentes destinos europeus com o LATAM Pass, com emissões a partir de 55 mil milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para organizar sua…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Europa",
+   "LATAM",
+   "PUBLICIDADE",
+   "TRECHOS INTERNACIONAIS"
+  ],
+  "data": "2026-11-17T21:03:13+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|55",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-17T21:31:43.342892+00:00",
+  "trechos_total": 11,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "BRU",
+    "origem_nome": "Brasília",
+    "destino_nome": "Bruxelas",
+    "milhas": 70381,
+    "milhas_clube": null,
+    "data": "2027-02-15",
+    "datas_texto": "15 de fevereiro",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=BRU&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2027-02-15T00%3A00%3A00.000Z&inbound=2027-02-25T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=b0ba46b5-065a-4bfb-8b61-9377d3f4c82c&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+    "datas_mes": [
+     "Fevereiro/2027: 15"
+    ],
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 7327,
+    "preco_origem": "LATAM ao vivo",
+    "milheiro": 104.1,
+    "veredito": "milhas"
+   },
+   {
+    "origem": "BSB",
+    "destino": "AMS",
+    "origem_nome": "Brasília",
+    "destino_nome": "Amsterdã",
+    "milhas": 77825,
+    "milhas_clube": null,
+    "data": "2027-02-21",
+    "datas_texto": "21 de fevereiro",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=AMS&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2027-02-21T00%3A00%3A00.000Z&inbound=2027-03-03T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=b0ba46b5-065a-4bfb-8b61-9377d3f4c82c&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+    "datas_mes": [
+     "Fevereiro/2027: 21"
+    ],
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 6223,
+    "preco_origem": "LATAM ao vivo",
+    "milheiro": 79.96,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0188"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582704",
+  "titulo": "Azul Fidelidade oferece até 24 pontos por real gasto na Natura",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-24-pontos-por-real-gasto-na-natura/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul Fidelidade está com uma super oferta para a Natura, oferecendo até 24 pontos por real gasto para assinantes do Clube Azul e 18 pontos para demais clientes. A promoção é válida até sexta-feira (20) e os pontos serão creditados em até 30 dias úteis após a entrega do pedido. Aproveite para acumular pontos e turbinar sua próxima viagem!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-17T20:31:15+00:00",
+  "pontos_por_real": 24.0,
+  "parceiro": "Natura",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|24.0|Natura",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T21:31:43.293140+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582628",
+  "titulo": "Conheça as flexibilidades do AAdvantage",
+  "link": "https://passageirodeprimeira.com/conheca-as-flexibilidades-do-aadvantage/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O AAdvantage oferece flexibilidade não só na emissão de passagens, mas também na alteração e cancelamento. O programa permite mudar datas sem taxa, bastando complementar a diferença de milhas se necessário, e ainda possibilita o cancelamento de passagens com a restituição das milhas, desde que respeitadas as regras. Essa liberdade é ideal para quem gosta de planejar, mas sabe que imprevistos podem",
+  "categorias": [
+   "Notícias",
+   "Programas de Fidelidade"
+  ],
+  "data": "2026-11-17T21:00:17+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "AAdvantage"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T21:31:43.290224+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582697",
+  "titulo": "Parceria entre Livelo e Avenue oferece até 10 mil pontos para novos clientes",
+  "link": "https://passageirodeprimeira.com/parceria-entre-livelo-avenue-oferece-ate-10-mil-pontos-novos-clientes/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo anunciou, na segunda-feira (16), uma campanha exclusiva com a Avenue, empresa do grupo Itaú e pioneira em investimentos nos EUA para brasileiros. Até domingo (22), os clientes que abrirem uma conta na Avenue e realizarem câmbio para a conta de investimentos a partir de US$ 1 mil poderão ganhar até 10 mil pontos Livelo, que podem ser trocados por viagens, produtos e até dinheiro na conta.",
+  "categorias": [
+   "Notícias",
+   "Outros"
+  ],
+  "data": "2026-11-17T21:30:21+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo",
+   "Itaú"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T21:31:43.289208+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582713",
   "titulo": "Ganhe até 3.000 milhas bônus em compras com cartão LATAM Pass Itaú",
   "link": "https://passageirodeprimeira.com/ganhe-ate-3-000-milhas-bonus-em-compras-com-cartao-latam-pass-itau/",
@@ -12512,90 +12685,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:34:47.801995+00:00"
- },
- {
-  "id": "https://pontospravoar.com/?p=147868",
-  "titulo": "Parceria entre ARQ e Livelo oferece 5.500 pontos para novos clientes da conta global",
-  "link": "https://pontospravoar.com/parceria-entre-arq-e-livelo-5500-pontos-novos-clientes/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A nova parceria entre ARQ e Livelo concede 5.500 pontos no programa para os novos clientes que abrirem uma conta internacional na plataforma financeira até o dia 3 de novembro. Para garantir a pontuação bonificada da campanha, o usuário precisa realizar o cadastro e converter o equivalente a US$ 100 a partir do saldo em…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Conta Digital",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "ARQ",
-   "livelo",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-01T18:00:53+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801844+00:00",
-  "trechos_total": 0,
-  "resgates": []
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579002",
-  "titulo": "Planejando a próxima viagem? Veja sugestões de resgate para Milão, Nova York e muito mais",
-  "link": "https://passageirodeprimeira.com/planejando-a-proxima-viagem-veja-sugestoes-de-resgate-para-milao-nova-york-e-muito-mais/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Final de semana chegou e com ele mais um planejamento de viagem entra em ação! Para facilitar esse processo, o PP conta com grupos focados em alertas de disponibilidade de passagens aéreas. Se você ainda não faz parte, confira 5 disponibilidades que os integrantes dos Grupos do PP no Whatsapp receberam nos últimos dias!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-01T18:40:36+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.721862+00:00"
- },
- {
-  "id": "https://pontospravoar.com/?p=147249",
-  "titulo": "Assinou o ALL Signature? Veja o que fazer nos primeiros meses",
-  "link": "https://pontospravoar.com/assinou-all-signature-veja-fazer-primeiros-meses/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Assinei o ALL Signature, e agora? Alguns cuidados simples ajudam a acompanhar os créditos, identificar os benefícios do plano e não deixar passar bônus e vantagens ao longo da assinatura. Assinei o ALL Signature. E agora? Se você acabou de pensar “assinei o ALL Signature. E agora?”, o primeiro passo é acompanhar os créditos, entender…",
-  "categorias": [
-   "ALL Accor",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "ALL",
-   "All Accor",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-01T19:00:36+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801674+00:00"
- },
- {
-  "id": "https://pontospravoar.com/?p=147895",
-  "titulo": "Azul Fidelidade com até 20% de desconto em passagens com pontos + dinheiro no Azul pelo Mundo",
-  "link": "https://pontospravoar.com/azul-fidelidade-com-ate-20-de-desconto-em-passagens-com-pontos-dinheiro-no-azul-pelo-mundo/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Precisando emitir uma passagem? O Azul Fidelidade está com uma promoção na emissão de passagens internacionais por meio do Azul pelo Mundo, em que oferece até 20% de desconto na opção pontos + dinheiro. Confira os detalhes a seguir e aproveite, pois a promoção acaba hoje! Como participar da promoção? Para ter acesso ao desconto,…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "azul pelo mundo"
-  ],
-  "data": "2026-11-01T20:00:01+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801533+00:00",
-  "trechos_total": 0,
-  "resgates": []
  }
 ]

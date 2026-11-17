@@ -331,7 +331,8 @@
   "passagem|Azul Fidelidade|15,198": "2026-11-17T17:44:45.349766+00:00",
   "transferencia|Esfera|Smiles|80|": "2026-11-17T19:44:10.007700+00:00",
   "passagem|LATAM Pass|104,4.403": "2026-11-17T19:44:11.208262+00:00",
-  "passagem|Azul Fidelidade|4.500": "2026-11-17T19:44:11.926949+00:00"
+  "passagem|Azul Fidelidade|4.500": "2026-11-17T19:44:11.926949+00:00",
+  "passagem|LATAM Pass|55": "2026-11-17T21:32:10.222330+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -373,6 +374,7 @@
    6.0
   ],
   "Natura>Azul Fidelidade": [
+   24.0,
    24.0
   ]
  }
