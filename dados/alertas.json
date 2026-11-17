@@ -1,5 +1,71 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150403",
+  "titulo": "Alerta PPV! Viaje para destinos internacionais a partir de 30.500 milhas Smiles",
+  "link": "https://pontospravoar.com/alerta-ppv-viaje-destinos-internacionais-30500-milhas-smiles/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Terça-feira é dia de planejar sua próxima viagem internacional! No alerta de passagens PPV de hoje, nossa equipe selecionou diversas oportunidades para conhecer destinos ao redor do mundo utilizando milhas Smiles, com emissões a partir de 30.500 milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para organizar sua próxima viagem! Passagens…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "ALERTAS DE EMISSÕES",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-17T13:02:00+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|30.500",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T13:54:22.797342+00:00",
+  "trechos_total": 10,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1797260400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=FLN&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=EZE&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true",
+  "codigo": "RT-0178"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=417324",
+  "titulo": "Como emitir passagens através da tabela fixa do LATAM Pass?",
+  "link": "https://passageirodeprimeira.com/como-emitir-voos-tabela-fixa-latam/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Nesta matéria, vamos te ensinar como utilizar a tabela fixa da LATAM para emitir voos com companhias parceiras.",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-17T13:02:37+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T13:54:22.634651+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582477",
   "titulo": "Azul Fidelidade oferece 70% de desconto na Tarifa Congelada",
   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-70-desconto-tarifa-congelada/",

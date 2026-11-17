@@ -1,5 +1,5 @@
 {
- "ultimo": 177,
+ "ultimo": 178,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2697,6 +2697,22 @@
    "ida": "2027-03-03",
    "volta": "2027-03-10",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20AJU%20on%202027-03-03%20through%202027-03-10"
+  },
+  {
+   "codigo": "RT-0178",
+   "enviado_em": "2026-11-17T13:54:27.069217+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Viaje para destinos internacionais a partir de 30.500 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-viaje-destinos-internacionais-30500-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
