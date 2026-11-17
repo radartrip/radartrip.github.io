@@ -1,5 +1,35 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=149284",
+  "titulo": "Comprar milhas LATAM Pass – Quanto custa e quando vale a pena",
+  "link": "https://pontospravoar.com/comprar-milhas-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O LATAM Pass permite comprar milhas diretamente pelo programa, seja para completar o saldo de uma emissão, aproveitar uma oportunidade específica ou reforçar a conta durante promoções. Entenda quanto custa, quais são as regras e em quais situações a compra pode fazer sentido. Compra de milhas LATAM Pass Comprar milhas pode ser uma solução rápida…",
+  "categorias": [
+   "LATAM Pass",
+   "Programas de Fidelidade"
+  ],
+  "data": "2026-11-17T16:00:53+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "compra||LATAM Pass||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T16:44:58.021216+00:00",
+  "link_oficial": "https://latampass.com/facilidades/compra-milhas/lp",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582595",
   "titulo": "Ganhe até 600 mil pontos no ano ao fazer upgrade do Clube Azul – Milheiro a partir de R$ 12,81",
   "link": "https://passageirodeprimeira.com/ganhe-ate-600-mil-pontos-no-ano-ao-fazer-upgrade-do-clube-azul-milheiro-a-partir-de-r-1281/",
@@ -12535,27 +12565,5 @@
    }
   ],
   "codigo": "RT-0002"
- },
- {
-  "id": "https://pontospravoar.com/?p=148012",
-  "titulo": "Azul Friday! Congele tarifas nacionais e internacionais com 70% de desconto",
-  "link": "https://pontospravoar.com/azul-friday-congele-tarifas-nacionais-internacionais-70-porcento-desconto/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Seguindo com as ofertas antecipadas da Azul Friday, o programa está oferecendo aos seus clientes a possibilidade de congelar tarifas nacionais e internacionais com 70% de desconto. A promoção é uma ótima oportunidade para quem encontrou uma boa emissão, mas ainda precisa juntar pontos ou se organizar antes de concluir a reserva. Congelamento de tarifa…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "tarifa congelada"
-  ],
-  "data": "2026-11-03T12:58:34+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.799836+00:00",
-  "trechos_total": 0,
-  "resgates": []
  }
 ]
