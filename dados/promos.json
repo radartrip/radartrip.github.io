@@ -188,6 +188,23 @@
    "visto_em": "2026-11-17",
    "titulo": "Comprar milhas LATAM Pass – Quanto custa e quando vale a pena",
    "link": "https://latampass.com/facilidades/compra-milhas/lp"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-18",
+   "visto_em": "2026-11-17",
+   "titulo": "Orange Friday! Smiles oferece até 80% de bônus na transferência de pontos",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
   }
  ],
  "vitrine": {
@@ -311,7 +328,10 @@
   "acumulo||Azul Fidelidade|24.0|Natura": "2026-11-17T14:48:17.049564+00:00",
   "clube||Azul Fidelidade||": "2026-11-17T15:44:22.090453+00:00",
   "passagem|LATAM Pass|1.190,49": "2026-11-17T15:44:23.182827+00:00",
-  "passagem|Azul Fidelidade|15,198": "2026-11-17T17:44:45.349766+00:00"
+  "passagem|Azul Fidelidade|15,198": "2026-11-17T17:44:45.349766+00:00",
+  "transferencia|Esfera|Smiles|80|": "2026-11-17T19:44:10.007700+00:00",
+  "passagem|LATAM Pass|104,4.403": "2026-11-17T19:44:11.208262+00:00",
+  "passagem|Azul Fidelidade|4.500": "2026-11-17T19:44:11.926949+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
