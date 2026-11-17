@@ -1,5 +1,36 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150509",
+  "titulo": "Viaje protegido e economize até 60% no seguro viagem da Assist Card",
+  "link": "https://pontospravoar.com/viaje-protegido-economize-ate-60-porcento-seguro-viagem-assist-card/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Além de pesquisar passagens e hospedagens, contratar um seguro viagem é um cuidado importante antes de embarcar. Por meio da parceria entre a Assist Card e o Pontos Pra Voar, você garante até 60% de desconto na contratação de diferentes planos, além de ganhar pontos Livelo e acesso à sala VIP, a depender do plano…",
+  "categorias": [
+   "Publicidade",
+   "ASSIST CARD",
+   "PUBLICIDADE",
+   "SEGURO VIAGEM"
+  ],
+  "data": "2026-11-17T22:00:54+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 60,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-17T22:33:56.058604+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150531",
   "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
   "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
@@ -12668,22 +12699,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:34:47.722134+00:00"
- },
- {
-  "id": "https://pontospravoar.com/?p=147853",
-  "titulo": "Novas rotas! Semana do Milheiro – 26 de outubro a 01 de novembro",
-  "link": "https://pontospravoar.com/novas-rotas-semana-milheiro-26-outubro-a-01-novembro/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Chegou mais um domingo e com ele uma nova edição da Semana do Milheiro. Dessa vez a sua coluna favorita veio recheada com novas rotas. Tem anúncio que já tinha rolado spoiler, retomada durante a alta temporada, dinheiro e até fugas. Semana do milheiro Caso ainda não conheça, na Semana do Milheiro, escolhemos sempre os…",
-  "categorias": [
-   "Semana do Milheiro",
-   "semana do milheiro"
-  ],
-  "data": "2026-11-01T17:21:57+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.801995+00:00"
  }
 ]
