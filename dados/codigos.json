@@ -1,5 +1,5 @@
 {
- "ultimo": 178,
+ "ultimo": 180,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2708,6 +2708,38 @@
    "fonte": "Pontos pra Voar",
    "etiquetas": {
     "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0179",
+   "enviado_em": "2026-11-17T14:48:17.047464+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Natura Friday! Ganhe até 24 pontos Azul Fidelidade por real gasto",
+   "link": "https://pontospravoar.com/natura-friday-ganhe-ate-24-pontos-azul-fidelidade-real-gasto/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0180",
+   "enviado_em": "2026-11-17T14:48:17.851456+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Assine o Clube Smiles 1.000 e ganhe 14 mil milhas na hora",
+   "link": "https://passageirodeprimeira.com/assine-o-clube-smiles-1-000-e-ganhe-14-mil-milhas-na-hora/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
     "programas": [
      "Smiles"
     ],
