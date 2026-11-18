@@ -1,5 +1,5 @@
 {
- "ultimo": 193,
+ "ultimo": 195,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2940,6 +2940,39 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0194",
+   "enviado_em": "2026-11-18T12:53:51.607279+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Fidelidade oferece até 12 pontos por real em compras na Renner",
+   "link": "https://pontospravoar.com/azul-fidelidade-oferece-ate-12-pontos-real-compras-renner/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0195",
+   "enviado_em": "2026-11-18T12:53:52.646161+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Muito barato! Voe de Campinas para Lisboa a partir de R$ 991 ou 77 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-campinas-para-lisboa-a-partir-r-991-ou-77-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
     "trechos": []
    }
   }

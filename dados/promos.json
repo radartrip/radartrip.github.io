@@ -160,23 +160,6 @@
    "link": "https://latampass.com/facilidades/compra-milhas/lp"
   },
   {
-   "assinatura": "transferencia|Esfera|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-18",
-   "visto_em": "2026-11-17",
-   "titulo": "Orange Friday! Smiles oferece até 80% de bônus na transferência de pontos",
-   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -188,6 +171,23 @@
    "visto_em": "2026-11-17",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 17 de novembro de 2026",
    "link": "https://www.livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-18",
+   "titulo": "Prorrogado! Smiles oferece até 80% de bônus nas transferências de pontos dos cartões de crédito",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
   }
  ],
  "vitrine": {
@@ -319,7 +319,9 @@
   "passagem||1,2,4.802": "2026-11-18T09:50:30.532502+00:00",
   "passagem||3.797,42": "2026-11-18T09:50:31.635015+00:00",
   "passagem||2.297": "2026-11-18T09:50:33.278696+00:00",
-  "passagem||1,2,4.184,": "2026-11-18T09:50:34.261918+00:00"
+  "passagem||1,2,4.184,": "2026-11-18T09:50:34.261918+00:00",
+  "acumulo||Azul Fidelidade|12.0|Renner": "2026-11-18T12:53:51.609600+00:00",
+  "passagem|Azul Fidelidade|77,991": "2026-11-18T12:53:52.648399+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -363,6 +365,9 @@
   "Natura>Azul Fidelidade": [
    24.0,
    24.0
+  ],
+  "Renner>Azul Fidelidade": [
+   12.0
   ]
  }
 }

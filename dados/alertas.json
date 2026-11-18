@@ -1,5 +1,111 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583004",
+  "titulo": "Prorrogado! Smiles oferece até 80% de bônus nas transferências de pontos dos cartões de crédito",
+  "link": "https://passageirodeprimeira.com/prorrogado-smiles-oferece-ate-80-de-bonus-nas-transferencias-de-pontos-dos-cartoes-de-credito-4/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles prorrogou a campanha que oferece até 80% de bônus nas transferências de pontos dos programas de fidelidade, exceto Esfera. A promoção agora é válida até 23h59 de hoje (18). O maior bônus é para assinantes do Clube Smiles, aproveite a oferta de até 13 mil milhas bônus na hora utilizando o cupom \"VEMPROCLUBE\" [sem aspas].",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-18T12:51:51+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Esfera|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-18T12:53:48.885916+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150601",
+  "titulo": "Azul Fidelidade oferece até 12 pontos por real em compras na Renner",
+  "link": "https://pontospravoar.com/azul-fidelidade-oferece-ate-12-pontos-real-compras-renner/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade, em parceria com a Renner, está com uma promoção que oferece até 12 pontos por real gasto em compras realizadas pelo site da varejista. Uma oportunidade para renovar o guarda-roupa e ainda acumular pontos para sua próxima viagem! Confira a seguir as condições da campanha e saiba como aproveitar. Azul Fidelidade e…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "RENNER"
+  ],
+  "data": "2026-11-18T12:00:32+00:00",
+  "pontos_por_real": 12.0,
+  "parceiro": "Renner",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|12.0|Renner",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T12:53:49.018141+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0194"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582975",
+  "titulo": "Muito barato! Voe de Campinas para Lisboa a partir de R$ 991 ou 77 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-campinas-para-lisboa-a-partir-r-991-ou-77-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre Campinas (VCP) e Lisboa (LIS) a partir de 77.600 pontos Azul Fidelidade + taxas por trecho com a Azul. Além disso, caso você não tenha pontos para realizar a emissão, é possível transferir pontos Livelo para o programa de fidelidade com até 120% de bônus e emitir o trecho a partir de R$ 991,38 +",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-18T12:20:00+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|77,991",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T12:53:48.887988+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0195"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150456",
   "titulo": "Livelo oferece 9 mil pontos na assinatura anual do Clube Mini",
   "link": "https://pontospravoar.com/livelo-oferece-9-mil-pontos-assinatura-anual-clube-mini/",
@@ -12760,50 +12866,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:34:47.058066+00:00"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=578939",
-  "titulo": "Peça o Cartão LATAM Pass Itaú e ganhe até 40 mil milhas na adesão",
-  "link": "https://passageirodeprimeira.com/peca-o-cartao-latam-pass-itau-e-ganhe-ate-40-mil-milhas-na-adesao-2/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "[Oferta] Muito bom! Ao solicitar os cartões LATAM Pass Itaú Black ou Platinum, você pode ganhar até 40.000 milhas bônus ao atingir a meta de gastos nas três primeiras faturas. A oferta é imperdível para quem quer acelerar o acúmulo de milhas!",
-  "categorias": [
-   "Promoções",
-   "Publicidade"
-  ],
-  "data": "2026-10-30T22:20:30+00:00",
-  "tipo": "Passagem com milhas",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.723755+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645265",
-  "titulo": "Natal Luz de Gramado! Passagens aéreas para Porto Alegre a partir de R$ 335 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/natal-luz-de-gramado-passagens-aereas-31out26",
-  "fonte": "Melhores Destinos",
-  "resumo": "O Natal Luz 2026 já começou! Para quem quer ir para lá curtir a magia do Natal, temos uma ótima notícia: os preços dos voos caíram e é hora de aproveitar. Encontramos passagens aéreas para Porto Alegre a partir de R$ 335 saindo de Curitiba ida e volta. Tem saída de Belo Horizonte por R$…",
-  "categorias": [],
-  "data": "2026-10-31T06:08:35+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.057929+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645267",
-  "titulo": "Praias do Nordeste! Passagens para Maceió, Recife, Salvador e mais cidades a partir de R$ 504",
-  "link": "https://www.melhoresdestinos.com.br/promocao/praias-do-nordeste-passagens-para-salvador-recife-31out26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Quer ir curtir uns dias no Nordeste? Fizemos uma ampla pesquisa e trazemos as melhores opções de passagens aéreas. Há voos a partir de R$ 504 ida e volta. Os menores valores envolvem rotas entre as capitais nordestinas ou o norte do país, com as melhores tarifas entre Recife e Maceió ou Salvador, mas há…",
-  "categorias": [],
-  "data": "2026-10-31T06:16:12+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.057774+00:00"
  }
 ]
