@@ -1,5 +1,68 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150456",
+  "titulo": "Livelo oferece 9 mil pontos na assinatura anual do Clube Mini",
+  "link": "https://pontospravoar.com/livelo-oferece-9-mil-pontos-assinatura-anual-clube-mini/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Livelo trouxe de volta a promoção de assinatura anual do Clube Livelo Mini! Com a oferta, os clientes que aderirem ao plano poderão acumular 9.000 pontos ao longo de 12 meses. A campanha é válida até 26 de novembro de 2026. Confira a seguir as condições e saiba como aproveitar! Clube Livelo Mini em…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "CLUBE LIVELO",
+   "clube mini",
+   "livelo"
+  ],
+  "data": "2026-11-18T11:00:19+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T11:49:59.574976+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582548",
+  "titulo": "Prêmio Passageiro de Primeira 2026: ajude a transformar milhas em solidariedade",
+  "link": "https://passageirodeprimeira.com/premio-passageiro-de-primeira-2026-ajude-a-transformar-milhas-em-solidariedade/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A quarta edição do Prêmio Passageiro de Primeira 2026 já está no ar! Você pode votar em seus favoritos do universo de viagens e, ao mesmo tempo, ajudar a transformar milhas em solidariedade, com uma doação mínima de 5.000 milhas para instituições do terceiro setor. As votações vão até a próxima sexta-feira (20), e o PP se compromete a doar, no mínimo, 3 milhões de milhas.",
+  "categorias": [
+   "Notícias",
+   "Outros"
+  ],
+  "data": "2026-11-18T11:40:06+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T11:49:59.424861+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=648117",
   "titulo": "Marrocos mais Europa! Passagens 2 em 1 para Casablanca mais Lisboa, Porto ou Madri a partir de R$ 4.802",
   "link": "https://www.melhoresdestinos.com.br/promocao/marrocos-mais-europa-passagens-17nov26",
@@ -12742,33 +12805,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:34:47.057774+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645272",
-  "titulo": "Santa Catarina bem barato! Passagens para Florianópolis ou Navegantes a partir de R$ 278 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/santa-catarina-bem-barato-passagens-para-navegantes-florianopolis-31out26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Partiu Santa Catarina! Hora de curtir com a família o Beto Carrero World, as belezas de Floripa ou as atrações de Balneário Camboriú com os preços mais baixos deste fim de semana. As tarifas caíram e encontramos passagens aéreas para Florianópolis a partir de R$ 278 e Navegantes a R$ 327 saindo de Porto Alegre,…",
-  "categorias": [],
-  "data": "2026-10-31T06:42:47+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.057637+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645276",
-  "titulo": "Sudeste! Passagens para São Paulo, Minas, Rio e Espírito Santo a partir de R$ 271 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/sudeste-passagens-para-sao-paulo-rio-minas-31out26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Hora de aproveitar os preços mais baixos deste fim de semana para marcar a sua próxima viagem ao Sudeste do país. Encontramos voos para a região a partir de R$ 271 ida e volta. O menor valor é de passagens aéreas para Belo Horizonte e São Paulo. Tem ainda voos para o Rio de Janeiro…",
-  "categorias": [],
-  "data": "2026-10-31T06:58:45+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.057492+00:00"
  }
 ]
