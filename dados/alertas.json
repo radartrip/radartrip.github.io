@@ -1,5 +1,178 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583025",
+  "titulo": "Gere o milheiro Smiles a partir de R$ 15,80 transferindo pontos Livelo + dinheiro",
+  "link": "https://passageirodeprimeira.com/gere-o-milheiro-smiles-a-partir-de-r-1580-transferindo-pontos-livelo-dinheiro/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles está oferecendo até 80% de bônus nas transferências de pontos da Livelo. Em recente pesquisa, identificamos que o programa bancário está oferecendo um CPM [custo para cada mil pontos] mais atrativo na modalidade pontos + dinheiro. Utilizando a ferramenta, é possível gerar 1.000 milhas no programa aéreo a partir de R$ 15,80 no melhor dos cenários da campanha.",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-18T13:56:13+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": 15.8,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Livelo|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-18T14:08:13.953641+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "codigo": "RT-0196"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150623",
+  "titulo": "Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles",
+  "link": "https://pontospravoar.com/alerta-ppv-viaje-estados-unidos-passagens-65-mil-milhas-smiles/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal conhecer os Estados Unidos na sua próxima viagem utilizando milhas? No Alerta de Passagens PPV de hoje, nossa equipe selecionou oportunidades para explorar diferentes destinos norte-americanos, com emissões pela Smiles a partir de 65 mil milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para planejar sua próxima viagem! Passagens…",
+  "categorias": [
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "Smiles",
+   "Estados Unidos",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-18T14:00:43+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|65",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-18T14:08:14.092596+00:00",
+  "trechos_total": 10,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "MIA",
+    "origem_nome": "Brasília",
+    "destino_nome": "Miami",
+    "milhas": 69000,
+    "milhas_clube": 65000,
+    "data": "2026-12-04",
+    "datas_texto": "4 de dezembro",
+    "cia": "GOL",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796396400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MIA&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Dezembro/2026: 4"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": null,
+    "preco_origem": "",
+    "milheiro": null,
+    "veredito": ""
+   },
+   {
+    "origem": "BSB",
+    "destino": "MCO",
+    "origem_nome": "Brasília",
+    "destino_nome": "Orlando",
+    "milhas": 97000,
+    "milhas_clube": 92200,
+    "data": "2026-12-07",
+    "datas_texto": "7 de dezembro",
+    "cia": "American Airlines",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796655600000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MCO&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Dezembro/2026: 7"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": 2623,
+    "preco_origem": "mesmo mês",
+    "milheiro": 27.04,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0197"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582647",
+  "titulo": "LATAM Pass oferece 35% de desconto no resgate de vale-combustível do Premmia",
+  "link": "https://passageirodeprimeira.com/latam-pass-oferece-35-de-desconto-no-resgate-de-vale-combustivel-do-premmia/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A LATAM Pass está oferecendo 35% de desconto no resgate de vales-combustível do Premmia, com vouchers de R$ 40 disponíveis até 20 de novembro de 2026. Assinantes do Clube LATAM Pass e portadores do cartão co-branded têm acesso aos melhores preços, mas todos os clientes do programa podem aproveitar a promoção. Não perca a chance de usar seus pontos de forma vantajosa!",
+  "categorias": [
+   "Promoções",
+   "Outros"
+  ],
+  "data": "2026-11-18T13:24:53+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 35,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": false,
+  "assinatura": "clube||LATAM Pass|35|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T14:08:13.954317+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150689",
+  "titulo": "Segue valendo! Revolut oferece 3.000 RevPoints gastando a partir de R$ 150",
+  "link": "https://pontospravoar.com/segue-valendo-revolut-oferece-3000-revpoints-gastando-a-partir-150-reais/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Ainda não tem uma conta na Revolut? Aproveite! Em parceria com o Pontos pra Voar, a fintech global está oferecendo 3.000 RevPoints para quem gastar a partir de R$ 150 no cartão. Ficou interessado? Confira os detalhes a seguir e não deixe para a última hora. Como garantir os 3.000 RevPoints Basta abrir sua conta…",
+  "categorias": [
+   "Conta Digital",
+   "Publicidade",
+   "conta digital",
+   "PUBLICIDADE",
+   "REVOLUT"
+  ],
+  "data": "2026-11-18T13:34:23+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T14:08:14.093169+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583004",
   "titulo": "Prorrogado! Smiles oferece até 80% de bônus nas transferências de pontos dos cartões de crédito",
   "link": "https://passageirodeprimeira.com/prorrogado-smiles-oferece-ate-80-de-bonus-nas-transferencias-de-pontos-dos-cartoes-de-credito-4/",
@@ -12790,81 +12963,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:59:14.713477+00:00"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579213",
-  "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Porto Bank",
-  "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-porto-bank/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O LATAM Pass está oferecendo 25% de pontos bônus nas transferências do Porto Bank.",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-03T13:43:22+00:00",
-  "tipo": "Transferência bonificada",
-  "bonus": 25,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:59:15.175852+00:00",
-  "codigo": "RT-0004"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579157",
-  "titulo": "Azul Fidelidade oferece até 130% de bônus nas transferências da Livelo",
-  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-130-de-bonus-nas-transferencias-da-livelo/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Livelo e Azul Fidelidade oferecem até 100% de bônus na transferência de pontos + até 30% por tempo de Clube Azul.",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-03T12:25:36+00:00",
-  "tipo": "Transferência bonificada",
-  "bonus": 130,
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 130%"
-  ],
-  "visto_em": "2026-11-03T13:34:47.719656+00:00",
-  "codigo": "RT-0003"
- },
- {
-  "id": "https://pontospravoar.com/?p=148007",
-  "titulo": "Azul Friday! Transfira pontos da Livelo e ganhe até 130% de bônus",
-  "link": "https://pontospravoar.com/azul-friday-transfira-pontos-livelo-ganhe-ate-130-porcento-bonus/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Aproveite as ofertas antecipadas da Azul Friday! Nesta terça-feira, o Azul Fidelidade lançou uma nova promoção em parceria com a Livelo, em que oferece até 130% de bônus na transferência de pontos. Abaixo, veja os detalhes e participe até o dia 6 de novembro. Promoção Azul Fidelidade e Livelo Para esta campanha, a bonificação está…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "livelo"
-  ],
-  "data": "2026-11-03T12:32:04+00:00",
-  "tipo": "Transferência bonificada",
-  "bonus": 130,
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 130%"
-  ],
-  "visto_em": "2026-11-03T13:34:47.800002+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645185",
-  "titulo": "Mais de 300 mil voos! Passagens nacionais a partir de R$ 267 ida e volta com Azul, Gol e Latam",
-  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-30-10-26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Fim de semana começando com uma super seleção com mais de 300 mil voos para destinos nacionais! Tem passagens aéreas da Gol, Azul e Latam saindo de mais de 90 cidades brasileiras a partir de R$ 267 ida e volta, taxas inclusas! Confira as passagens baratas na tabela abaixo ou diretamente no site da Latam…",
-  "categorias": [],
-  "data": "2026-10-30T20:39:00+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:34:47.058066+00:00"
  }
 ]

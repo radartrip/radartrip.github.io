@@ -95,7 +95,8 @@
   "https://pontospravoar.com/?p=150479",
   "https://pontospravoar.com/?p=150531",
   "https://passageirodeprimeira.com/?p=582548",
-  "https://passageirodeprimeira.com/?p=582975"
+  "https://passageirodeprimeira.com/?p=582975",
+  "https://pontospravoar.com/?p=150623"
  ],
  "resgates": [
   {
@@ -466,6 +467,52 @@
    "post": "https://pontospravoar.com/alerta-ppv-viaje-europa-55-mil-milhas-latam-pass/",
    "titulo": "Alerta PPV! Viaje para a Europa a partir de 55 mil milhas LATAM Pass",
    "visto_em": "2026-11-17T21:32:09.574506+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "MIA",
+   "origem_nome": "Brasília",
+   "destino_nome": "Miami",
+   "milhas": 69000,
+   "milhas_clube": 65000,
+   "data": "2026-12-04",
+   "datas_texto": "4 de dezembro",
+   "cia": "GOL",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796396400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MIA&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Dezembro/2026: 4"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-viaje-estados-unidos-passagens-65-mil-milhas-smiles/",
+   "titulo": "Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles",
+   "visto_em": "2026-11-18T14:08:15.290240+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "MCO",
+   "origem_nome": "Brasília",
+   "destino_nome": "Orlando",
+   "milhas": 97000,
+   "milhas_clube": 92200,
+   "data": "2026-12-07",
+   "datas_texto": "7 de dezembro",
+   "cia": "American Airlines",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796655600000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MCO&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Dezembro/2026: 7"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 2623,
+   "preco_origem": "mesmo mês",
+   "milheiro": 27.04,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-viaje-estados-unidos-passagens-65-mil-milhas-smiles/",
+   "titulo": "Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles",
+   "visto_em": "2026-11-18T14:08:15.290254+00:00"
   }
  ]
 }

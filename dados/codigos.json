@@ -1,5 +1,5 @@
 {
- "ultimo": 195,
+ "ultimo": 197,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2974,6 +2974,42 @@
      "Livelo"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0196",
+   "enviado_em": "2026-11-18T14:08:16.434230+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Gere o milheiro Smiles a partir de R$ 15,80 transferindo pontos Livelo + dinheiro",
+   "link": "https://passageirodeprimeira.com/gere-o-milheiro-smiles-a-partir-de-r-1580-transferindo-pontos-livelo-dinheiro/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Livelo",
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0197",
+   "enviado_em": "2026-11-18T14:08:16.987532+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-viaje-estados-unidos-passagens-65-mil-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "BSB-MIA",
+     "BSB-MCO"
+    ]
    }
   }
  ]
