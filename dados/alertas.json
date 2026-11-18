@@ -1,5 +1,38 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583008",
+  "titulo": "Voos com destino ao Nordeste a partir de R$ 95 ou 3 mil milhas LATAM + taxas",
+  "link": "https://passageirodeprimeira.com/voos-com-destino-ao-nordeste-a-partir-de-r-95-ou-3-mil-milhas-latam-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Alerta] Alerta de disponibilidade! A LATAM está com passagens para o Nordeste a partir de 3.332 milhas + taxas por trecho, ou a partir de R$ 95,20 + taxas com até 66% de desconto na compra de milhas. A promoção é válida até sexta-feira (20).",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-18T17:32:18+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 66,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|3,95",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T18:03:52.114122+00:00",
+  "trechos_total": 5,
+  "resgates": [],
+  "link_oficial": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight",
+  "codigo": "RT-0202"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150724",
   "titulo": "Airbus A321XLR da LATAM terá suítes privadas na Business e telas 4K em todos os assentos",
   "link": "https://pontospravoar.com/airbus-a321xlr-da-latam-suites-business-telas-4k/",
@@ -13043,38 +13076,5 @@
   ],
   "visto_em": "2026-11-03T17:09:28.289825+00:00",
   "codigo": "RT-0007"
- },
- {
-  "id": "https://pontospravoar.com/?p=148038",
-  "titulo": "Só hoje! Assine o Clube Livelo Premium anual e garanta 385.000 pontos",
-  "link": "https://pontospravoar.com/so-hoje-assine-o-clube-livelo-premium-anual-e-garanta-385-000-pontos/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Quer dar um impulso no seu saldo de pontos Livelo? A Livelo está com uma nova oferta para quem deseja aderir ao Clube Livelo Premium, permitindo acumular 385 mil pontos na modalidade anual. Confira os valores, as condições da promoção e veja se vale a pena assinar! Promoção de assinatura do Clube Premium Esta promoção de…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Assinatura de Clube",
-   "Clube Livelo Premium"
-  ],
-  "data": "2026-11-03T17:00:10+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-03",
-  "repostagem": true,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T17:09:28.469358+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]

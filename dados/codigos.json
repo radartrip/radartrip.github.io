@@ -1,5 +1,5 @@
 {
- "ultimo": 201,
+ "ultimo": 202,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3073,6 +3073,22 @@
    "ida": "2027-02-19",
    "volta": "2027-02-21",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SAO%20on%202027-02-19%20through%202027-02-21"
+  },
+  {
+   "codigo": "RT-0202",
+   "enviado_em": "2026-11-18T18:03:54.999550+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voos com destino ao Nordeste a partir de R$ 95 ou 3 mil milhas LATAM + taxas",
+   "link": "https://passageirodeprimeira.com/voos-com-destino-ao-nordeste-a-partir-de-r-95-ou-3-mil-milhas-latam-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
