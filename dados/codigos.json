@@ -1,5 +1,5 @@
 {
- "ultimo": 202,
+ "ultimo": 203,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3086,6 +3086,23 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0203",
+   "enviado_em": "2026-11-18T19:01:55.906484+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de voos em Classe Executiva a partir de 44 mil milhas Smiles",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-de-voos-em-classe-executiva-a-partir-de-44-mil-milhas-smiles/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Esfera",
+     "Smiles"
     ],
     "trechos": []
    }

@@ -1,5 +1,40 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583086",
+  "titulo": "5 sugestões de voos em Classe Executiva a partir de 44 mil milhas Smiles",
+  "link": "https://passageirodeprimeira.com/5-sugestoes-de-voos-em-classe-executiva-a-partir-de-44-mil-milhas-smiles/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Nesta matéria, sugerimos 5 opções de resgates internacionais a partir de 44.700 milhas Smiles em Classe Executiva. Vale lembrar que a Smiles está oferecendo até 80% de bônus na transferência de pontos de todos os parceiros bancários, exceto Esfera.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-18T18:54:23+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|44,5",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T19:01:54.048889+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "codigo": "RT-0203"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583008",
   "titulo": "Voos com destino ao Nordeste a partir de R$ 95 ou 3 mil milhas LATAM + taxas",
   "link": "https://passageirodeprimeira.com/voos-com-destino-ao-nordeste-a-partir-de-r-95-ou-3-mil-milhas-latam-taxas/",
@@ -13043,38 +13078,5 @@
   "resgates": [],
   "fora_vitrine": "sem critério de vitrine",
   "codigo": "RT-0015"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579280",
-  "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 11,78",
-  "link": "https://passageirodeprimeira.com/transfira-pontos-livelo-dinheiro-para-a-azul-milheiro-a-partir-de-r-1178/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Livelo está com uma oferta imperdível para transferências para o Azul Fidelidade, permitindo gerar 1.000 milhas a partir de R$ 11,78 na modalidade pontos + dinheiro. Até sexta-feira (6), assinantes do Clube Azul podem garantir até 100% de bônus, além de até 30% extra dependendo do tempo de adesão ao clube. Não perca a chance de acumular milhas com um CPM super atrativo!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-03T16:59:39+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 100,
-  "desconto": 0,
-  "milheiro_citado": 11.78,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Livelo|Azul Fidelidade|100|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 100%"
-  ],
-  "visto_em": "2026-11-03T17:09:28.289825+00:00",
-  "codigo": "RT-0007"
  }
 ]
