@@ -1,5 +1,5 @@
 {
- "ultimo": 188,
+ "ultimo": 192,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -2873,6 +2873,62 @@
      "BSB-BRU",
      "BSB-AMS"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0189",
+   "enviado_em": "2026-11-18T09:50:30.530626+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Marrocos mais Europa! Passagens 2 em 1 para Casablanca mais Lisboa, Porto ou Madri a partir de R$ 4.802",
+   "link": "https://www.melhoresdestinos.com.br/promocao/marrocos-mais-europa-passagens-17nov26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0190",
+   "enviado_em": "2026-11-18T09:50:31.632937+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Portugal 🇵🇹 Voos para Lisboa ou Porto a partir de R$ 3.797 ida e volta, saindo de 42 cidades brasileiras!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-portugal-porto-lisboa-17-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0191",
+   "enviado_em": "2026-11-18T09:50:33.276622+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Peru 🇵🇪 Passagens aéreas para Lima ou Cusco a partir de R$ 2.297 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-peru-lima-cusco-17-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0192",
+   "enviado_em": "2026-11-18T09:50:34.259830+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "EUA 2×1 🇺🇸 Voos para Miami mais Orlando, Los Angeles e outras cidades a partir de R$ 4.184, com bagagem despachada",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-estados-unidos-17-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": []
    }
   }
  ]
