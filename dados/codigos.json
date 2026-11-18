@@ -1,5 +1,5 @@
 {
- "ultimo": 198,
+ "ultimo": 200,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3025,6 +3025,39 @@
     "programas": [
      "Inter Loop",
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0199",
+   "enviado_em": "2026-11-18T16:08:22.874889+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Trecho de Belo Horizonte para Maceió a partir de 16 mil pontos Azul ou R$ 205 + taxas",
+   "link": "https://passageirodeprimeira.com/trecho-belo-horizonte-para-maceio-a-partir-16-mil-pontos-azul-ou-205-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0200",
+   "enviado_em": "2026-11-18T16:08:23.542566+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens para o Uruguai a partir de 13 mil pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-uruguai-13-mil-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
