@@ -1,5 +1,5 @@
 {
- "ultimo": 203,
+ "ultimo": 204,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3103,6 +3103,22 @@
     "programas": [
      "Esfera",
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0204",
+   "enviado_em": "2026-11-18T20:05:42.479036+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Alerta PPV! Passagens LATAM pelo Brasil a partir de R$ 172",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-latam-brasil-172-reais/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }
