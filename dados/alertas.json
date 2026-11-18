@@ -1,5 +1,73 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150696",
+  "titulo": "Transfira seus pontos Inter Loop e ganhe 25% de milhas bônus no LATAM Pass",
+  "link": "https://pontospravoar.com/transfira-seus-pontos-inter-loop-e-ganhe-25-de-milhas-bonus-no-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O LATAM Pass, em parceria com o Inter Loop, está com uma promoção para quem deseja aumentar seu saldo de milhas! Até 20 de novembro, os clientes poderão receber 25% de bônus na transferência de pontos do Inter Loop para o LATAM Pass. Além disso, quem realizar sua primeira transferência poderá ganhar 1.000 milhas extras.…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Inter",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Promoções",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS",
+   "Inter Loop"
+  ],
+  "data": "2026-11-18T15:00:22+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 25,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": false,
+  "assinatura": "transferencia|Inter Loop|LATAM Pass|25|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 25%"
+  ],
+  "visto_em": "2026-11-18T15:04:15.727333+00:00",
+  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/inter-milhas-extras",
+  "codigo": "RT-0198"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581125",
+  "titulo": "Como transformar as compras da Pink Friday da Livelo em viagens e experiências inesquecíveis?",
+  "link": "https://passageirodeprimeira.com/pink-friday-como-acumular-pontos-livelo/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Suas compras na Pink Friday podem render muito mais do que produtos novos. Descubra como acumular pontos Livelo e transformá-los em viagens e experiências especiais.",
+  "categorias": [
+   "Notícias",
+   "Publicidade"
+  ],
+  "data": "2026-11-18T15:00:22+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T15:04:15.650265+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583025",
   "titulo": "Gere o milheiro Smiles a partir de R$ 15,80 transferindo pontos Livelo + dinheiro",
   "link": "https://passageirodeprimeira.com/gere-o-milheiro-smiles-a-partir-de-r-1580-transferindo-pontos-livelo-dinheiro/",
@@ -12935,33 +13003,5 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-03T13:59:14.714881+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645350",
-  "titulo": "Países nórdicos! Passagens para Copenhague, Estocolmo e mais destinos a partir de R$ 4.013 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/paises-nordicos-passagens-para-copenhague-estocolmo-03nov26",
-  "fonte": "Melhores Destinos",
-  "resumo": "História, paisagens naturais deslumbrantes, qualidade de vida, infraestrutura de primeira e o espetáculo da aurora boreal. Os países nórdicos têm atrações de sobra para encantar os viajantes! Viajar para Suécia, Dinamarca, Noruega, Finlândia e Islândia costuma pesar no bolso, especialmente pelas passagens aéreas. Mas encontramos uma leve queda nos preços e reunimos as melhores oportunidades…",
-  "categorias": [],
-  "data": "2026-11-03T12:29:57+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:59:14.714028+00:00"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=645384",
-  "titulo": "Ganhe até R$ 300 OFF na primeira compra de qualquer passagem, hotel ou pacote pela Decolar!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/cupom-decolar-primeira-compra-2026",
-  "fonte": "Melhores Destinos",
-  "resumo": "A Decolar acabou de soltar um cupom que oferece 8% de desconto, até um limite de R$ 300, para quem fizer a primeira compra pela plataforma. O cupom é aplicável a qualquer produto, incluindo passagens aéreas, hotéis, pacotes, ingressos etc, realizados pelo app ou site da Decolar. DESCONTO CUPOM LINK 8% OFF (até R$ 300) na…",
-  "categorias": [],
-  "data": "2026-11-03T13:17:00+00:00",
-  "tipo": "Passagem em dinheiro",
-  "bonus": 0,
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T13:59:14.713477+00:00"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "ultimo": 197,
+ "ultimo": 198,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3010,6 +3010,23 @@
      "BSB-MIA",
      "BSB-MCO"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0198",
+   "enviado_em": "2026-11-18T15:04:17.004460+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Transfira seus pontos Inter Loop e ganhe 25% de milhas bônus no LATAM Pass",
+   "link": "https://pontospravoar.com/transfira-seus-pontos-inter-loop-e-ganhe-25-de-milhas-bonus-no-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Inter Loop",
+     "LATAM Pass"
+    ],
+    "trechos": []
    }
   }
  ]

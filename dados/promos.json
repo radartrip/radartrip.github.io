@@ -205,6 +205,23 @@
    "visto_em": "2026-11-18",
    "titulo": "Gere o milheiro Smiles a partir de R$ 15,80 transferindo pontos Livelo + dinheiro",
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
+  },
+  {
+   "assinatura": "transferencia|Inter Loop|LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [
+    "Inter Loop"
+   ],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-20",
+   "visto_em": "2026-11-18",
+   "titulo": "Transfira seus pontos Inter Loop e ganhe 25% de milhas bônus no LATAM Pass",
+   "link": "https://latampass.latam.com/br/pt/promocoes/inter-milhas-extras"
   }
  ],
  "vitrine": {
@@ -340,7 +357,8 @@
   "acumulo||Azul Fidelidade|12.0|Renner": "2026-11-18T12:53:51.609600+00:00",
   "passagem|Azul Fidelidade|77,991": "2026-11-18T12:53:52.648399+00:00",
   "transferencia|Livelo|Smiles|80|": "2026-11-18T14:08:16.513423+00:00",
-  "passagem|Smiles|65": "2026-11-18T14:08:16.990242+00:00"
+  "passagem|Smiles|65": "2026-11-18T14:08:16.990242+00:00",
+  "transferencia|Inter Loop|LATAM Pass|25|": "2026-11-18T15:04:17.006780+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
