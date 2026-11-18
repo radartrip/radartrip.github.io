@@ -1,5 +1,103 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150675",
+  "titulo": "Receba + 400 oportunidades de passagens no Grupo Alerta de Emissões PPV",
+  "link": "https://pontospravoar.com/receba-mais-400-oportunidades-passagens-grupo-alerta-emissoes-ppv/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quem viaja com milhas sabe que encontrar uma boa passagem no momento certo pode fazer toda a diferença. Para facilitar essa busca, o Grupo Alerta de Emissões PPV reúne oportunidades encontradas pela nossa equipe e envia mais de 400 alertas por mês diretamente no celular. Confira como funciona e saiba mais! Monitores disponíveis para dúvidas…",
+  "categorias": [
+   "Grupos de WhatsApp",
+   "GRUPOS DE EMISSÕES"
+  ],
+  "data": "2026-11-18T22:00:22+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T22:42:35.047456+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150165",
+  "titulo": "Segue valendo: Ganhe até 60 mil pontos bônus na assinatura ou upgrade do Clube Esfera",
+  "link": "https://pontospravoar.com/segue-valendo-ganhe-ate-60-mil-pontos-bonus-assinatura-upgrade-clube-esfera/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Ainda dá tempo de aproveitar a promoção do Clube Esfera! Quem realizar uma nova assinatura ou upgrade de plano pode acumular até 60 mil pontos bônus ao longo de 12 meses. Confira os detalhes da campanha e saiba quem pode participar. Clube Esfera em promoção Esta promoção de assinatura ou upgrade do Clube Esfera está…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Esfera",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Adesão Clube Esfera",
+   "Black Friday",
+   "Clube Esfera"
+  ],
+  "data": "2026-11-18T22:33:08+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "clube|Esfera|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T22:42:35.046867+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=583198",
+  "titulo": "Barato! Voe para Buenos Aires a partir de R$ 235 ou 18 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/barato-voe-para-buenos-aires-a-partir-de-r-235-ou-18-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Buenos Aires (EZE) a partir de 18.500 pontos Azul Fidelidade + taxas por trecho com a Azul. Além disso, caso você não tenha pontos para realizar a emissão, é possível transferir pontos Livelo para o programa de fidelidade com até 120% de bônus, e emitir o trecho a partir de R$ 235,13 + taxas usando a ferramenta pontos + di",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-18T22:40:42+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|18,235",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T22:42:34.977739+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0206"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150620",
   "titulo": "Últimas horas! Smiles oferece até 80% de bônus na transferência de pontos com parceiros",
   "link": "https://pontospravoar.com/ultimas-horas-smiles-oferece-ate-80-porcento-bonus-transferencia-pontos-parceiros/",
@@ -12990,97 +13088,5 @@
   "motivos": [],
   "visto_em": "2026-11-03T21:24:24.064506+00:00",
   "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579300",
-  "titulo": "Ganhe 60 mil pontos bônus na assinatura ou atualização do Clube Esfera",
-  "link": "https://passageirodeprimeira.com/ganhe-60-mil-pontos-bonus-assinatura-atualizacao-clube-esfera/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Esfera está oferecendo até 60.000 pontos bônus para quem realizar a assinatura ou upgrade de plano do Clube Esfera. Os bônus serão creditados em 12 parcelas mensais ao longo de 1 ano de assinatura. A campanha é válida até a sexta-feira (20).",
-  "categorias": [
-   "Promoções",
-   "Clube de pontos"
-  ],
-  "data": "2026-11-03T20:00:29+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Esfera"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Esfera|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T20:39:20.027889+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579253",
-  "titulo": "Azul Fidelidade oferece até 14 pontos por real gasto no Magalu",
-  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-14-pontos-por-real-gasto-no-magalu-8/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Azul Fidelidade está oferecendo até 14 pontos por real gasto no Magalu até sábado (7). Assinantes do Clube Azul acumulam 14 pontos por real, enquanto demais clientes ganham 8 pontos. Lembre-se de que a promoção é válida apenas para produtos selecionados e compras realizadas pelo site oficial.",
-  "categorias": [
-   "Promoções",
-   "Compre e pontue"
-  ],
-  "data": "2026-11-03T20:35:19+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube||Azul Fidelidade||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T20:39:20.026802+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579323",
-  "titulo": "Azul tem passagens nacionais a partir de R$ 47 ou de 3.250 pontos + taxas",
-  "link": "https://passageirodeprimeira.com/azul-tem-passagens-nacionais-a-partir-de-r-47-ou-de-3-250-pontos-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta de disponibilidade! A Azul está com passagens nacionais a partir de 3.250 pontos + taxas ou R$ 47,12 + taxas na modalidade pontos + dinheiro. Além disso, você pode transferir pontos da Livelo para o programa de fidelidade com até 130% de bônus até sexta-feira (6).",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-03T19:32:06+00:00",
-  "nacional": true,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 130,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 130%"
-  ],
-  "visto_em": "2026-11-03T19:57:33.593831+00:00",
-  "fora_vitrine": "repetição de promoção já enviada",
-  "codigo": "RT-0018"
  }
 ]

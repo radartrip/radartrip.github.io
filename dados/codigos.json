@@ -1,5 +1,5 @@
 {
- "ultimo": 205,
+ "ultimo": 206,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3135,6 +3135,23 @@
     "categoria": "acumulo",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0206",
+   "enviado_em": "2026-11-18T22:42:38.115055+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Barato! Voe para Buenos Aires a partir de R$ 235 ou 18 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/barato-voe-para-buenos-aires-a-partir-de-r-235-ou-18-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
     ],
     "trechos": []
    }
