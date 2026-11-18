@@ -1,5 +1,5 @@
 {
- "ultimo": 204,
+ "ultimo": 205,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3119,6 +3119,22 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0205",
+   "enviado_em": "2026-11-18T21:00:10.312886+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Fidelidade oferece até 24 pontos por real na Assist Card e Renner",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-24-pontos-por-real-na-assist-card-e-renner/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
