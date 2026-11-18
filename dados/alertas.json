@@ -1,5 +1,74 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150620",
+  "titulo": "Últimas horas! Smiles oferece até 80% de bônus na transferência de pontos com parceiros",
+  "link": "https://pontospravoar.com/ultimas-horas-smiles-oferece-ate-80-porcento-bonus-transferencia-pontos-parceiros/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Último dia para aproveitar! Como parte das ofertas da Orange Friday, a Smiles está oferecendo até 80% de bônus na transferência de pontos de todos os parceiros, exceto Esfera. A promoção termina hoje, 18 de novembro, e pode ser uma oportunidade para aumentar seu saldo de milhas. Confira os percentuais oferecidos, as condições da campanha…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS"
+  ],
+  "data": "2026-11-18T21:00:28+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-18",
+  "repostagem": true,
+  "assinatura": "transferencia|Esfera|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-18T21:51:08.598588+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582945",
+  "titulo": "Black Friday! Ganhe até 80.000 pontos bônus ao pedir o seu cartão Azul Itaú",
+  "link": "https://passageirodeprimeira.com/black-friday-ganhe-ate-80-000-pontos-bonus-ao-pedir-o-seu-cartao-azul-itau/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Começou a Black Friday do cartão Azul Itaú! Ao solicitar um dos cartões, você pode ganhar até 80.000 pontos bônus ao cumprir as metas de gastos até 29 de novembro. A promoção é válida para os cartões Azul Itaú Visa Infinite, Mastercard Skyline e Platinum, com bônus adicionais ao assinar o Clube Azul.",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-18T21:20:45+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-29",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-18T21:51:08.498233+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=146037",
   "titulo": "Compartilhando Emissões: Paris para Tóquio voando na primeira classe da Etihad",
   "link": "https://pontospravoar.com/compartilhando-emissoes-paris-toquio-voando-primeira-classe-etihad/",
@@ -13013,72 +13082,5 @@
   "visto_em": "2026-11-03T19:57:33.593831+00:00",
   "fora_vitrine": "repetição de promoção já enviada",
   "codigo": "RT-0018"
- },
- {
-  "id": "https://pontospravoar.com/?p=148011",
-  "titulo": "Magalu oferece até 14 pontos por real no Azul Fidelidade",
-  "link": "https://pontospravoar.com/magalu-oferece-ate-14-pontos-real-azul-fidelidade/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Pensando em fazer algumas compras? Então vale a pena conferir a nova promoção do Azul Fidelidade em parceria com o Magalu! Nesta campanha, os clientes podem acumular até 14 pontos por real gasto em compras online. A oferta é válida até 7 de novembro. Confira os detalhes e saiba como aproveitar! Azul Fidelidade e Magalu…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "BÔNUS NA TRANSFERÊNCIA DE PONTOS",
-   "livelo"
-  ],
-  "data": "2026-11-03T19:00:36+00:00",
-  "pontos_por_real": 14.0,
-  "parceiro": "Magalu",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-07",
-  "repostagem": false,
-  "assinatura": "acumulo||Azul Fidelidade|14.0|Magalu",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T19:57:33.802051+00:00",
-  "fora_vitrine": "acúmulo Magalu: ainda aprendendo o normal (0 registro(s))",
-  "codigo": "RT-0017"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579237",
-  "titulo": "Livelo oferece até 56% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,87",
-  "link": "https://passageirodeprimeira.com/livelo-oferece-ate-56-desconto-compra-pontos-para-assinantes-clube-milheiro-a-partir-r-2987/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Até sexta-feira (6), o programa está oferecendo até 56% de desconto na compra de pontos para assinantes do Clube. A campanha conta com o parcelamento em até 12x sem juros para compras acima de R$ 240,00 e também oferta 3% de desconto no pagamento feito via Pix. Confira!",
-  "categorias": [
-   "Promoções",
-   "Compra de pontos"
-  ],
-  "data": "2026-11-03T18:17:59+00:00",
-  "nacional": false,
-  "categoria": "compra",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 56,
-  "milheiro_citado": 29.87,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "compra|Livelo||56|",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-03T19:00:42.548147+00:00",
-  "codigo": "RT-0010"
  }
 ]

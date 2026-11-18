@@ -173,23 +173,6 @@
    "link": "https://www.livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS"
   },
   {
-   "assinatura": "transferencia|Esfera|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-18",
-   "titulo": "Prorrogado! Smiles oferece até 80% de bônus nas transferências de pontos dos cartões de crédito",
-   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
-  },
-  {
    "assinatura": "transferencia|Livelo|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -222,6 +205,23 @@
    "visto_em": "2026-11-18",
    "titulo": "Transfira seus pontos Inter Loop e ganhe 25% de milhas bônus no LATAM Pass",
    "link": "https://latampass.latam.com/br/pt/promocoes/inter-milhas-extras"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-18",
+   "visto_em": "2026-11-18",
+   "titulo": "Últimas horas! Smiles oferece até 80% de bônus na transferência de pontos com parceiros",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
   }
  ],
  "vitrine": {
