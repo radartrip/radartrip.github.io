@@ -1,5 +1,5 @@
 {
- "ultimo": 211,
+ "ultimo": 212,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3225,6 +3225,23 @@
     "categoria": "transferencia",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0212",
+   "enviado_em": "2026-11-19T16:10:04.414145+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Trecho para Nova York a partir de R$ 1.436 ou 112 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/trecho-para-nova-york-a-partir-de-r-1-436-ou-112-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
     ],
     "trechos": []
    }
