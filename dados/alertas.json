@@ -1,5 +1,99 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150748",
+  "titulo": "SOMENTE HOJE! Transfira pontos do Azul Fidelidade com desconto e até 30% de bônus para o ALL Accor",
+  "link": "https://pontospravoar.com/so-hoje-transfira-pontos-azul-fidelidade-desconto-ate-30-porcento-bonus-all-accor/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Perdeu o prazo da última oferta? Aproveite, pois o ALL Accor trouxe de volta sua promoção de Black Friday em parceria com o Azul Fidelidade, em que oferece aos associados até 30% de bônus na transferência de pontos. Além disso, clientes elegíveis do programa da companhia aérea contam com paridade especial durante o período promocional.…",
+  "categorias": [
+   "Acumulando Milhas",
+   "ALL Accor",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "All Accor",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-19T11:00:29+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T11:48:27.797203+00:00",
+  "link_oficial": "https://shopping.azulfidelidade.com.br/categoria/23077/all-accor?sta_nav=hm-parceiro-all-accor-1",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=583336",
+  "titulo": "Só hoje! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
+  "link": "https://passageirodeprimeira.com/so-hoje-ganhe-ate-30-de-bonus-ao-transferir-pontos-azul-para-all-accor/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Apenas hoje (19), quem transferir pontos do Azul Fidelidade para o ALL Accor ganha até 30% de bônus em pontos Reward. Todos os associados recebem 20% de bônus, enquanto assinantes do ALL Signature garantem mais 10%. Não é necessário se hospedar para aproveitar essa oferta imperdível!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-19T11:00:31+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 30,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-19",
+  "repostagem": true,
+  "assinatura": "transferencia||Azul Fidelidade|30|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T11:48:27.636354+00:00",
+  "link_oficial": "https://www.voeazul.com.br",
+  "fora_vitrine": "bônus abaixo do corte do programa"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=263499",
+  "titulo": "Conheça as Categorias Elite do LATAM Pass e seus benefícios",
+  "link": "https://passageirodeprimeira.com/categorias-elite-latam-pass/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O programa de fidelidade da LATAM, o LATAM Pass, é estruturado em diferentes níveis de relacionamento com o cliente, conhecidos como Categorias Elite. Esses status reconhecem a frequência de voos e o engajamento dos participantes, oferecendo benefícios progressivos conforme o nível alcançado. Nesta matéria, você confere quais são as categorias do LATAM Pass, como conquistá-las e quais vantagens ca",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-19T11:30:02+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T11:48:27.635776+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://www.melhoresdestinos.com.br/?p=647755",
   "titulo": "Vale a pena comprar passagem na Black Friday 2026? Confira nossas dicas para fazer uma boa escolha!",
   "link": "https://www.melhoresdestinos.com.br/black-friday-passagem-aerea-vale-a-pena.html",
@@ -12972,101 +13066,5 @@
   "trechos_total": 0,
   "resgates": [],
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579451",
-  "titulo": "Muito barato! Azul oferece trecho para Lisboa a partir de 77 mil pontos ou R$ 918 + taxas",
-  "link": "https://passageirodeprimeira.com/azul-oferece-trecho-para-lisboa-a-partir-77-mil-pontos-ou-r-918-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre Campinas (VCP) e Lisboa (LIS) a partir de 77.600 pontos Azul Fidelidade ou R$ 918,84 + taxas por trecho com a Azul.",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-04T12:09:45+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T12:43:48.488671+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "fora_vitrine": "sem critério de vitrine",
-  "codigo": "RT-0020"
- },
- {
-  "id": "https://pontospravoar.com/?p=148114",
-  "titulo": "Ainda dá tempo! Ganhe até 5.000 pontos bônus na Revolut",
-  "link": "https://pontospravoar.com/ainda-da-tempo-ganhe-ate-5-000-pontos-bonus-na-revolut/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Ainda dá tempo de aproveitar a campanha da Revolut em parceria com o Pontos pra Voar e ganhar até 5.000 RevPoints ao abrir uma conta global. Para receber a bonificação máxima, basta realizar duas operações: um pagamento de pelo menos R$ 150 e uma conversão de US$ 500 ou valor equivalente em outra moeda. Cada…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Programas de Fidelidade",
-   "Publicidade"
-  ],
-  "data": "2026-11-04T12:30:23+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": true,
-  "assinatura": "",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T12:43:48.669538+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148090",
-  "titulo": "Ganhe até 60 mil pontos bônus na assinatura ou upgrade do Clube Esfera",
-  "link": "https://pontospravoar.com/ganhe-ate-60-mil-pontos-bonus-na-assinatura-ou-upgrade-do-clube-esfera/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Quer turbinar seu saldo de pontos ao longo do ano? A Esfera está de volta com uma promoção especial para quem deseja realizar uma nova assinatura ou upgrade de plano do Clube Esfera! Nesta campanha, os participantes podem acumular até 60 mil pontos bônus em 12 meses. Confira os detalhes, saiba quem pode participar e…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Esfera",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Adesão Clube Esfera",
-   "Black Friday",
-   "Clube Esfera"
-  ],
-  "data": "2026-11-04T11:00:06+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Esfera"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Esfera|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T11:49:55.292173+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]
