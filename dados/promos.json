@@ -14,23 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-16",
-   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos dos cartões de crédito, inclusive Livelo",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
-  },
-  {
    "assinatura": "transferencia|Esfera,Livelo|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -203,6 +186,38 @@
    "visto_em": "2026-11-19",
    "titulo": "Só hoje! Ganhe até 30% de bônus ao transferir pontos Azul para ALL Accor",
    "link": "https://www.voeazul.com.br"
+  },
+  {
+   "assinatura": "transferencia||Smiles|130|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 130,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-19",
+   "titulo": "Smiles oferece até 130% de bônus na troca de pontos do Premmia",
+   "link": "https://www.smiles.com.br/portal/campanha/orangefriday-premmia-18112026"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-19",
+   "visto_em": "2026-11-19",
+   "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus nas transferências de pontos dos cartões de crédito, inclusive Livelo",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
   }
  ],
  "vitrine": {
@@ -349,7 +364,8 @@
   "passagem|Azul Fidelidade|18,235": "2026-11-18T22:42:38.117499+00:00",
   "passagem||3.541": "2026-11-19T02:45:04.422742+00:00",
   "passagem||6.059": "2026-11-19T02:45:06.115693+00:00",
-  "passagem|Azul Fidelidade,LATAM Pass|276": "2026-11-19T02:45:07.676933+00:00"
+  "passagem|Azul Fidelidade,LATAM Pass|276": "2026-11-19T02:45:07.676933+00:00",
+  "transferencia||Smiles|130|": "2026-11-19T12:55:37.828284+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
