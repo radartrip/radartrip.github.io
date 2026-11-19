@@ -1,5 +1,5 @@
 {
- "ultimo": 219,
+ "ultimo": 220,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3349,6 +3349,23 @@
     "categoria": "passagem",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0220",
+   "enviado_em": "2026-11-19T22:41:20.642817+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Smiles tem voos a partir de 5 mil milhas ou R$ 92 + taxas",
+   "link": "https://passageirodeprimeira.com/smiles-tem-voos-a-partir-de-5-mil-milhas-ou-r-92-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Livelo",
+     "Smiles"
     ],
     "trechos": []
    }

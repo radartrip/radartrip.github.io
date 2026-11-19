@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583674",
+  "titulo": "Smiles tem voos a partir de 5 mil milhas ou R$ 92 + taxas",
+  "link": "https://passageirodeprimeira.com/smiles-tem-voos-a-partir-de-5-mil-milhas-ou-r-92-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Em nossas buscas, encontramos voos da Smiles a partir de 5.800 milhas. Além disso, o programa está oferecendo até 80% de bônus nas transferências de pontos dos parceiros bancários, incluindo Livelo. Assim, transferindo pontos Livelo + dinheiro, você pode gerar o milheiro Smiles a partir de R$ 15,91 e emitir as passagens a partir de R$ 92,27. Lembre-se que o melhor cenário é para assinantes do Club",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-19T22:00:07+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": 15.91,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|5,92",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T22:41:18.333326+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0220"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150868",
+  "titulo": "Grupo de Promoções PPV: mais praticidade para encontrar boas ofertas",
+  "link": "https://pontospravoar.com/grupo-promocoes-ppv-mais-praticidade-encontrar-boas-ofertas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Imagine ter uma equipe selecionando promoções para você e recebê-las diretamente no celular. Essa é a proposta do Grupo de Promoções PPV, que reúne cupons, ofertas de produtos e oportunidades de acúmulo de milhas em um só lugar. A assinatura anual equivale a R$ 19,62 por mês. Veja como participar! Grupo de promoções Nos grupos…",
+  "categorias": [
+   "Grupos de WhatsApp",
+   "GRUPO DE PROMOÇÕES"
+  ],
+  "data": "2026-11-19T22:00:14+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T22:41:18.429506+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150925",
   "titulo": "Alerta PPV: encontre passagens internacionais a partir de 16 mil milhas LATAM Pass",
   "link": "https://pontospravoar.com/alerta-ppv-encontre-passagens-internacionais-16-mil-milhas-latam-pass/",
@@ -13031,72 +13093,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-04T23:36:27.609600+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148348",
-  "titulo": "Alerta PPV! Confira destinos no Sul do Brasil a partir de 5 mil milhas LATAM Pass",
-  "link": "https://pontospravoar.com/alerta-ppv-confira-destinos-no-sul-do-brasil-a-partir-de-5-mil-milhas-latam-pass/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "No Alerta de Passagens PPV de hoje, nossa equipe selecionou opções de voos para destinos no Sul do Brasil, com emissões pelo LATAM Pass a partir de 5 mil milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para planejar sua próxima viagem para a região! Passagens nacionais no LATAM Pass Para…",
-  "categorias": [
-   "Emissões com Pontos",
-   "LATAM",
-   "LATAM Pass",
-   "Programas de Fidelidade",
-   "destinos nacionais",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-04T21:30:11+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|5",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T22:13:01.385558+00:00",
-  "trechos_total": 15,
-  "resgates": [],
-  "codigo": "RT-0030"
- },
- {
-  "id": "https://pontospravoar.com/?p=148329",
-  "titulo": "JetBlue aumenta novamente o preço da bagagem despachada",
-  "link": "https://pontospravoar.com/jetblue-aumenta-novamente-o-preco-da-bagagem-despachada/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A JetBlue aumentou mais uma vez o preço da bagagem despachada em voos domésticos nos Estados Unidos. A nova tabela entrou em vigor em 3 de novembro de 2026 e estabelece cobranças de até US$ 70 pela primeira mala, dependendo da época da viagem e do momento em que o passageiro realiza o pagamento. Primeira…",
-  "categorias": [
-   "Empresas Aéreas",
-   "JetBlue",
-   "Notícias",
-   "empresas aéreas",
-   "jetblue"
-  ],
-  "data": "2026-11-04T20:30:14+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T21:19:56.999763+00:00",
   "fora_vitrine": "sem critério de vitrine"
  }
 ]
