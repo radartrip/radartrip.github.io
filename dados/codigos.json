@@ -1,5 +1,5 @@
 {
- "ultimo": 218,
+ "ultimo": 219,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3334,6 +3334,22 @@
    "etiquetas": {
     "categoria": "passagem",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0219",
+   "enviado_em": "2026-11-19T21:57:13.608822+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV: encontre passagens internacionais a partir de 16 mil milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-ppv-encontre-passagens-internacionais-16-mil-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
     "trechos": []
    }
   }
