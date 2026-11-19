@@ -32,21 +32,6 @@
    "link": "http://www.voeazul.com.br/br/pt/ofertas/bancos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   },
   {
-   "assinatura": "compra||LATAM Pass|66|",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 66,
-   "milheiro": null,
-   "prazo": "2026-11-20",
-   "visto_em": "2026-11-16",
-   "titulo": "Esquenta LATAM Friday! Compre milhas LATAM Pass com até 66% de desconto",
-   "link": "https://latampass.com/facilidades/compra-milhas/lp"
-  },
-  {
    "assinatura": "compra|Itaú|LATAM Pass|66|",
    "categoria": "compra",
    "origens": [
@@ -218,6 +203,38 @@
    "visto_em": "2026-11-19",
    "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus nas transferências de pontos dos cartões de crédito, inclusive Livelo",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-19",
+   "titulo": "Smiles prorroga oferta de até 80% de bônus na transferência de pontos",
+   "link": "https://www.esfera.com.vc"
+  },
+  {
+   "assinatura": "compra||LATAM Pass|66|",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 0,
+   "desconto": 66,
+   "milheiro": null,
+   "prazo": "2026-11-20",
+   "visto_em": "2026-11-19",
+   "titulo": "Segue valendo! Compre milhas LATAM Pass com até 66% de desconto",
+   "link": "https://latampass.latam.com"
   }
  ],
  "vitrine": {

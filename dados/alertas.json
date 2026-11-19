@@ -1,5 +1,112 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583402",
+  "titulo": "Outra chance! Smiles oferece até 80% de bônus nas transferências de pontos dos bancos",
+  "link": "https://passageirodeprimeira.com/outra-chance-smiles-oferece-ate-80-de-bonus-nas-transferencias-de-pontos-dos-bancos/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles está dando mais uma chance para quem deseja receber até 80% de bônus nas transferências de pontos de todos os bancos parceiros, exceto Esfera. A promoção agora é válida até 23h59 de hoje (19). O maior bônus é para assinantes do Clube Smiles, aproveite a oferta de até 13 mil milhas bônus na hora utilizando o cupom \"VEMPROCLUBE\" [sem aspas].",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-19T13:00:59+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Esfera|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-19T14:13:19.904412+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150815",
+  "titulo": "Smiles prorroga oferta de até 80% de bônus na transferência de pontos",
+  "link": "https://pontospravoar.com/smiles-prorroga-oferta-ate-80-porcento-bonus-transferencia-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Segue valendo! A Smiles prorrogou sua promoção de transferência bonificada como parte das ofertas da Orange Friday! Com a campanha, os clientes podem receber até 80% de bônus na transferência de pontos de todos os parceiros, exceto Esfera. A oferta termina até o final do dia de hoje (19) e você confere todas as condições…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "bancos parceiros",
+   "TRANSFERÊNCIA DE PONTOS"
+  ],
+  "data": "2026-11-19T14:00:49+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "transferencia|Esfera|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-19T14:13:19.945440+00:00",
+  "link_oficial": "https://www.esfera.com.vc",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150635",
+  "titulo": "Segue valendo! Compre milhas LATAM Pass com até 66% de desconto",
+  "link": "https://pontospravoar.com/segue-valendo-compre-milhas-latam-pass-ate-66-porcento-desconto/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Não perca o prazo! Como parte das ofertas do Esquenta LATAM Friday, o LATAM Pass está oferecendo até 66% de desconto na compra de milhas, com possibilidade de parcelamento em até 10 vezes sem juros. A promoção é válida até amanhã, 20 de novembro de 2026 e pode ser uma oportunidade para aumentar seu saldo…",
+  "categorias": [
+   "Acumulando Milhas",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "COMPRA DE MILHAS",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-19T13:00:53+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 66,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": true,
+  "assinatura": "compra||LATAM Pass|66|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-19T14:13:19.945926+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150604",
   "titulo": "Smiles oferece até 130% de bônus na troca de pontos do Premmia",
   "link": "https://pontospravoar.com/smiles-oferece-ate-130-porcento-bonus-troca-pontos-premmia/",
@@ -12965,106 +13072,5 @@
   "motivos": [],
   "visto_em": "2026-11-04T15:44:48.370141+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148172",
-  "titulo": "Azul Fidelidade e Uau CAIXA com até 120% de bônus na transferência de pontos",
-  "link": "https://pontospravoar.com/azul-fidelidade-uau-caixa-ate-120-porcento-bonus-transferencia-pontos/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O Azul Fidelidade está com uma nova promoção em parceria com a Uau CAIXA, oferecendo até 120% de bônus na transferência de pontos. Uma oportunidade para quem deseja aumentar seu saldo e planejar futuras viagens utilizando pontos! Confira as condições da campanha e saiba como aproveitar. Promoção Azul Fidelidade e Uau Caixa Para esta campanha,…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Caixa",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "BÔNUS NA TRANSFERÊNCIA DE PONTOS",
-   "Clube Uau CAIXA"
-  ],
-  "data": "2026-11-04T14:00:59+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Caixa"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Caixa|Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%"
-  ],
-  "visto_em": "2026-11-04T14:48:51.620219+00:00",
-  "codigo": "RT-0014"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579486",
-  "titulo": "Azul oferece até 120% de bônus nas transferências de pontos do UAU Caixa",
-  "link": "https://passageirodeprimeira.com/azul-oferece-ate-120-bonus-transferencias-pontos-uau-caixa/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos do UAU Caixa. Além disso, o programa está ofertando mais até 30% de bônus extra para assinantes do Clube Azul. A oferta é válida até amanhã (5). Confira!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-04T14:30:45+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Caixa"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-05",
-  "repostagem": false,
-  "assinatura": "transferencia|Caixa|Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%"
-  ],
-  "visto_em": "2026-11-04T14:48:51.538180+00:00",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579470",
-  "titulo": "Clube Livelo Days! Acumule até 15 pontos por real gasto na Mondaine, Insider e mais parceiros",
-  "link": "https://passageirodeprimeira.com/clube-livelo-days-acumule-ate-15-pontos-real-gasto-mondaine-insider-mais-parceiros/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Livelo está oferecendo até 15 pontos por real gasto na Mondaine, Insider e mais parceiros. As ofertas contam com pontuações diferentes. Confira!",
-  "categorias": [
-   "Promoções",
-   "Compre e pontue"
-  ],
-  "data": "2026-11-04T14:05:03+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T14:48:51.539190+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]
