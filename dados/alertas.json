@@ -1,5 +1,78 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150824",
+  "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus em transferências de pontos",
+  "link": "https://pontospravoar.com/ultimo-dia-azul-fidelidade-oferece-ate-120-porcento-bonus-transferencias-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Último dia para aproveitar! Como parte das ofertas antecipadas da Azul Friday, o Azul Fidelidade está oferecendo até 120% de bônus na transferência de pontos de todos os parceiros, exceto Esfera. Além disso, quem realizar sua primeira transferência para o programa poderá receber 1.000 pontos extras. A promoção termina hoje, 19 de novembro. Confira as…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "bancos parceiros",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS"
+  ],
+  "data": "2026-11-19T20:00:08+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-19",
+  "repostagem": true,
+  "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-19T20:11:20.483995+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/bancos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "codigo": "RT-0215"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=583638",
+  "titulo": "Confira a oportunidade de gerar o milheiro Smiles a partir de R$ 15,91",
+  "link": "https://passageirodeprimeira.com/confira-a-oportunidade-de-gerar-o-milheiro-smiles-a-partir-de-r-1591/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles prorrogou novamente a oferta de até 80% de bônus nas transferências de pontos dos bancos, inclusive Livelo. Como publicamos ontem (18), o programa está oferecendo um CPM [custo para cada mil pontos] mais atrativo na modalidade pontos + dinheiro. Embora tenha aumentado um pouco o valor, se você ainda não aproveitou, é possível gerar 1.000 milhas no programa aéreo a partir de R$ 15,91 no me",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-19T20:00:47+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": 15.91,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia|Livelo|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-19T20:11:20.298017+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583600",
   "titulo": "Azul oferece até 15% de desconto em passagens no Azul Pelo Mundo",
   "link": "https://passageirodeprimeira.com/azul-oferece-ate-15-de-desconto-em-passagens-no-azul-pelo-mundo/",
@@ -13042,64 +13115,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-04T19:39:48.603172+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?p=645695",
-  "titulo": "Com preços fixos de passagens, Azul inicia novos voos de Florianópolis para o interior de Santa Catarina",
-  "link": "https://www.melhoresdestinos.com.br/voos-azul-conecta-santa-catarina.html",
-  "fonte": "Melhores Destinos",
-  "resumo": "A Azul Conecta, o braço de aviação regional da companhia aérea Azul, iniciou ontem voos diretos entre Florianópolis e Joaçaba, no interior de Santa Catarina. A nova rota é a primeira de uma série de estreias dentro do VOA + SC, programa do governo catarinense para aumentar as operações aéreas no estado. O que é…",
-  "categorias": [
-   "Aviação",
-   "Azul Linhas Aéreas",
-   "Notícias",
-   "Passagens aéreas"
-  ],
-  "data": "2026-11-04T18:14:51+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T19:39:48.601372+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579331",
-  "titulo": "Finnair Plus oferece até 50% de desconto na compra de Avios",
-  "link": "https://passageirodeprimeira.com/finnair-plus-oferece-50-de-desconto-na-compra-de-avios/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Finnair Plus, programa de pontos da Finnair, está oferecendo até 50% de desconto na compra de Avios. A promoção é válida até dia 16 de novembro.",
-  "categorias": [
-   "Promoções",
-   "Compra de pontos"
-  ],
-  "data": "2026-11-04T19:10:10+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 50,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-04T19:39:49.063965+00:00",
   "fora_vitrine": "sem critério de vitrine"
  }
 ]

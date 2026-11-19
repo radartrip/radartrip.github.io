@@ -111,23 +111,6 @@
    "link": "https://latampass.com/facilidades/compra-milhas/lp"
   },
   {
-   "assinatura": "transferencia|Livelo|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": 15.8,
-   "prazo": "",
-   "visto_em": "2026-11-18",
-   "titulo": "Gere o milheiro Smiles a partir de R$ 15,80 transferindo pontos Livelo + dinheiro",
-   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -235,6 +218,40 @@
    "visto_em": "2026-11-19",
    "titulo": "Últimas horas para ganhar até 30% de bônus ao transferir pontos Azul para ALL Accor",
    "link": "https://www.voeazul.com.br"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-19",
+   "visto_em": "2026-11-19",
+   "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus em transferências de pontos",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/bancos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": 15.91,
+   "prazo": "",
+   "visto_em": "2026-11-19",
+   "titulo": "Confira a oportunidade de gerar o milheiro Smiles a partir de R$ 15,91",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
   }
  ],
  "vitrine": {
@@ -385,7 +402,8 @@
   "transferencia||Smiles|130|": "2026-11-19T12:55:37.828284+00:00",
   "passagem|Azul Fidelidade|1.436,112": "2026-11-19T16:10:04.418718+00:00",
   "passagem|Smiles|7.500": "2026-11-19T17:14:09.988253+00:00",
-  "passagem|Azul Fidelidade|36": "2026-11-19T19:06:19.644621+00:00"
+  "passagem|Azul Fidelidade|36": "2026-11-19T19:06:19.644621+00:00",
+  "transferencia|Esfera|Azul Fidelidade|120|": "2026-11-19T20:11:21.708135+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
