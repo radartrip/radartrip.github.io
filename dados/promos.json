@@ -331,7 +331,10 @@
   "passagem|Smiles|44,5": "2026-11-18T19:01:55.908725+00:00",
   "passagem|LATAM Pass|172": "2026-11-18T20:05:42.482466+00:00",
   "acumulo||Azul Fidelidade|24.0|Renner": "2026-11-18T21:00:10.315175+00:00",
-  "passagem|Azul Fidelidade|18,235": "2026-11-18T22:42:38.117499+00:00"
+  "passagem|Azul Fidelidade|18,235": "2026-11-18T22:42:38.117499+00:00",
+  "passagem||3.541": "2026-11-19T02:45:04.422742+00:00",
+  "passagem||6.059": "2026-11-19T02:45:06.115693+00:00",
+  "passagem|Azul Fidelidade,LATAM Pass|276": "2026-11-19T02:45:07.676933+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
