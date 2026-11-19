@@ -1,5 +1,5 @@
 {
- "ultimo": 213,
+ "ultimo": 214,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3258,6 +3258,22 @@
     "categoria": "passagem",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0214",
+   "enviado_em": "2026-11-19T19:06:19.641843+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Azul pelo Mundo oferece voos internacionais a partir de 36 mil pontos",
+   "link": "https://pontospravoar.com/alerta-ppv-azul-pelo-mundo-oferece-voos-internacionais-a-partir-de-36-mil-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
