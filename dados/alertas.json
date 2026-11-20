@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583359",
+  "titulo": "Último dia para votar no Prêmio Passageiro de Primeira 2026!",
+  "link": "https://passageirodeprimeira.com/ultimo-dia-para-votar-no-premio-passageiro-de-primeira-2026/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Hoje (20) é o último dia para você votar no Prêmio Passageiro de Primeira 2026! São 24 categorias para reconhecer os melhores do universo de fidelidade, cartões de crédito e aviação, e a votação leva menos de 5 minutos. Além disso, o PP vai doar pelo menos 3 milhões de milhas a instituições do terceiro setor, então participe e faça a diferença!",
+  "categorias": [
+   "Notícias",
+   "Outros"
+  ],
+  "data": "2026-11-20T12:00:22+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T12:39:21.178254+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=150869",
+  "titulo": "Clube Livelo Especial oferece 100 mil pontos para novos assinantes",
+  "link": "https://pontospravoar.com/clube-livelo-especial-oferece-100-mil-pontos-novos-assinantes/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Livelo está com uma nova promoção para quem deseja assinar o Clube Livelo Especial! Até 22 de novembro, novos assinantes poderão acumular 100 mil pontos ao longo de 12 meses, tanto na modalidade mensal quanto na anual. Confira a seguir as condições da campanha, os valores dos planos e saiba como aproveitar! Promoção Clube…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Assinatura de Clube",
+   "Clube Livelo Especial"
+  ],
+  "data": "2026-11-20T12:00:42+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-22",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T12:39:21.239125+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150407",
   "titulo": "Resgate passagens da Singapore Airlines com 30% de desconto",
   "link": "https://pontospravoar.com/resgate-passagens-singapore-airlines-30-porcento-desconto/",
@@ -13011,68 +13073,5 @@
    }
   ],
   "codigo": "RT-0033"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579825",
-  "titulo": "Voe de São Paulo para Frankfurt a partir de 63 mil milhas LATAM Pass + taxas",
-  "link": "https://passageirodeprimeira.com/voe-sao-paulo-para-frankfurt-a-partir-63-mil-milhas-latam-pass-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Frankfurt (FRA). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.908 milhas LATAM Pass + taxas. Confira!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-05T13:00:48+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|63",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T14:08:45.385428+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "codigo": "RT-0034"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579882",
-  "titulo": "Smiles e Livelo lançam ferramenta que simplifica a transferência de pontos",
-  "link": "https://passageirodeprimeira.com/smiles-e-livelo-lancam-ferramenta-que-simplifica-a-transferencia-de-pontos/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Smiles e a Livelo lançaram a funcionalidade 'Transferência Direta com Livelo'. A novidade permite converter pontos Livelo em milhas Smiles diretamente pelo site da Smiles, respeitando o saldo mínimo disponível na conta.",
-  "categorias": [
-   "Notícias",
-   "Programas de Fidelidade"
-  ],
-  "data": "2026-11-05T13:40:19+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T14:08:45.383422+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]
