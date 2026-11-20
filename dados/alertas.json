@@ -1,5 +1,69 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=333369",
+  "titulo": "Como emitir uma passagem no Azul pelo Mundo",
+  "link": "https://passageirodeprimeira.com/como-emitir-passagem-azul-pelo-mundo/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Nesta matéria vamos te mostrar o passo a passo para buscar e emitir passagens no Azul pelo Mundo. Para quem não está familiarizado, o Azul pelo Mundo é uma plataforma online para emissão de passagens de companhias aéreas parceiras da Azul com pontos.",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-20T18:00:43+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T18:48:09.908709+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151008",
+  "titulo": "Azul Fidelidade oferece 5.000 pontos de boas-vindas em novos cadastros",
+  "link": "https://pontospravoar.com/azul-fidelidade-oferece-5000-pontos-boas-vindas-novos-cadastros/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Aproveite o último dia da promoção do Azul Fidelidade, oferecendo 5.000 pontos de boas-vindas aos clientes que se cadastrarem no programa. Abaixo, confira os principais detalhes e não deixe para a última hora. Ganhe 5.000 pontos Azul Fidelidade de boas-vindas em novos cadastros Como participar? Para abrir e participar desta campanha, siga os seguintes passos: Clique…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "Azul Friday"
+  ],
+  "data": "2026-11-20T18:00:55+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T18:48:09.980625+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150673",
   "titulo": "Clube Smiles com até 50.000 milhas na hora para novos assinantes",
   "link": "https://pontospravoar.com/clube-smiles-ate-50000-milhas-hora-novos-assinantes/",
@@ -12975,75 +13039,5 @@
   "resgates": [],
   "link_oficial": "https://www.voeazul.com.br",
   "codigo": "RT-0036"
- },
- {
-  "id": "https://pontospravoar.com/?p=148480",
-  "titulo": "Alerta PPV! Azul Fidelidade oferece voos para Curitiba a partir de 4.200 pontos",
-  "link": "https://pontospravoar.com/alerta-ppv-azul-fidelidade-oferece-voos-curitiba-4200-pontos/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Curitiba nos planos da próxima viagem? No alerta de passagens PPV de hoje, nossa equipe encontrou boas oportunidades para conhecer a capital paranaense usando o Azul Fidelidade, com passagens a partir de apenas 4.200 pontos + taxas, saindo de diferentes cidades do Brasil. Confira os trechos e as datas disponíveis e aproveite para planejar sua…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Emissões com Pontos",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "azul fidelidade",
-   "Curitiba"
-  ],
-  "data": "2026-11-05T18:00:11+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Azul Fidelidade|4.200",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T18:05:40.432490+00:00",
-  "trechos_total": 10,
-  "resgates": [],
-  "link_oficial": "https://www.voeazul.com.br/br/pt/home/selecao-voo?c%5B0%5D.ds=MGF&c%5B0%5D.as=CWB&c%5B0%5D.std=12%2F02%2F2026&p%5B0%5D.t=ADT&p%5B0%5D.c=1&p%5B0%5D.cp=false&cc=PTS&f.dl=3&f.dr=3&s_kwcid=buscapaga_brv_azf_ppv_conteudo_uf_aon-marca_insti_afiliado_cpc_rspnsv_lp_pontospravoar_responsivo",
-  "codigo": "RT-0037"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579948",
-  "titulo": "Smiles tem voos nacionais a partir de 6 mil milhas",
-  "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-6-mil-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Em nossas pesquisas identificamos que a Smiles está oferecendo voos nacionais a partir de 6.400 milhas por trecho + taxas.",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-05T16:20:38+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|6",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T17:20:02.960435+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "link_oficial": "https://www.smiles.com.br/home",
-  "codigo": "RT-0035"
  }
 ]

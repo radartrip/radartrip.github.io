@@ -1,5 +1,5 @@
 {
- "ultimo": 221,
+ "ultimo": 222,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3381,6 +3381,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0222",
+   "enviado_em": "2026-11-20T18:48:22.143560+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-REC",
+   "preco": 743,
+   "media": 925,
+   "ida": "2027-02-20",
+   "volta": "2027-02-26",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-02-20%20through%202027-02-26"
   }
  ]
 }
