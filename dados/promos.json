@@ -14,58 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "transferencia|Esfera,Livelo|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo",
-    "Esfera"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-16",
-   "titulo": "Azul Fidelidade oferece até 120% de bônus na transferência de parceiros – incluindo Livelo!",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/bancos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
-   "assinatura": "compra|Itaú|LATAM Pass|66|",
-   "categoria": "compra",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 66,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-16",
-   "titulo": "LATAM Pass oferece até 66% de desconto na compra de milhas",
-   "link": "https://latampass.com/facilidades/compra-milhas/lp?pt=pp%3Futm_source%3Dpassageiro-de-primeira"
-  },
-  {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|90|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 90,
-   "desconto": 0,
-   "milheiro": 12.71,
-   "prazo": "",
-   "visto_em": "2026-11-16",
-   "titulo": "Transfira pontos Livelo + dinheiro para a Azul – milheiro a partir de R$ 12,71",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
-  },
-  {
    "assinatura": "clube||Smiles||",
    "categoria": "clube",
    "origens": [],
@@ -126,23 +74,6 @@
    "link": "https://www.smiles.com.br/portal/campanha/orangefriday-premmia-18112026"
   },
   {
-   "assinatura": "transferencia|Livelo|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-19",
-   "visto_em": "2026-11-19",
-   "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus nas transferências de pontos dos cartões de crédito, inclusive Livelo",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/bancos"
-  },
-  {
    "assinatura": "transferencia|Esfera|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -190,38 +121,6 @@
    "visto_em": "2026-11-19",
    "titulo": "Nova parceria: LATAM Pass oferece 25% de bônus nas transferências de pontos Inter Loop",
    "link": "https://latampass.latam.com/br/pt/promocoes/inter-milhas-extras"
-  },
-  {
-   "assinatura": "transferencia||Azul Fidelidade|30|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 30,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-19",
-   "visto_em": "2026-11-19",
-   "titulo": "Últimas horas para ganhar até 30% de bônus ao transferir pontos Azul para ALL Accor",
-   "link": "https://www.voeazul.com.br"
-  },
-  {
-   "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-19",
-   "visto_em": "2026-11-19",
-   "titulo": "Último dia! Azul Fidelidade oferece até 120% de bônus em transferências de pontos",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/bancos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   },
   {
    "assinatura": "transferencia|Livelo|Smiles|80|",
