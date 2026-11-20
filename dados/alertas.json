@@ -1,5 +1,102 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150877",
+  "titulo": "Confira 5 promoções de pontos e milhas que encerram hoje!",
+  "link": "https://pontospravoar.com/confira-5-promocoes-pontos-milhas-encerram-hoje/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Reunimos neste artigo cinco promoções que estão chegando ao fim, incluindo oportunidades de acúmulo de pontos, transferências bonificadas e ofertas de assinatura de clubes de fidelidade. Confira a seguir os principais benefícios, os prazos de cada campanha e aproveite antes que acabem! LATAM Pass e Inter Loop A bonificação está estruturada da seguinte forma: 25%…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Esfera",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "ACÚMULO DE PONTOS",
+   "promoções"
+  ],
+  "data": "2026-11-20T13:00:16+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Inter Loop|LATAM Pass||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T15:46:26.520219+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=583051",
+  "titulo": "Livelo oferece até 25% OFF em voos para o Nordeste e América do Sul",
+  "link": "https://passageirodeprimeira.com/livelo-oferece-ate-25-off-voos-nordeste-america-do-sul/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Em novas ofertas, a Livelo está oferecendo até 25% de desconto na emissão de passagens aéreas para o Nordeste e também para destinos da América do Sul, mediante o uso de cupons destinados aos assinantes do Clube Livelo e demais clientes. As duas campanhas são válidas até às 10h da segunda (23). Saiba mais!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-20T13:00:57+00:00",
+  "nacional": true,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 25,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo||25|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T15:46:26.395983+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=582687",
+  "titulo": "Último dia! LATAM Pass oferece até 66% de desconto na compra de milhas",
+  "link": "https://passageirodeprimeira.com/ultimo-dia-latam-pass-oferece-ate-66-de-desconto-na-compra-de-milhas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Último dia! O LATAM Pass está oferecendo até 66% de desconto na compra de milhas, com custo de R$ 23,80 por mil para portadores do cartão LATAM Pass Itaú e R$ 25,90 para clientes do programa. A promoção é válida até hoje (20) e permite a compra de até 350.000 milhas.",
+  "categorias": [
+   "Promoções",
+   "Compra de pontos"
+  ],
+  "data": "2026-11-20T15:00:02+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 66,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": true,
+  "assinatura": "compra|Itaú|LATAM Pass|66|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T15:46:26.394164+00:00",
+  "link_oficial": "https://latampass.com/facilidades/compra-milhas/lp?pt=pp%3Futm_source%3Dpassageiro-de-primeira",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583359",
   "titulo": "Último dia para votar no Prêmio Passageiro de Primeira 2026!",
   "link": "https://passageirodeprimeira.com/ultimo-dia-para-votar-no-premio-passageiro-de-primeira-2026/",
@@ -12948,130 +13045,5 @@
   "motivos": [],
   "visto_em": "2026-11-05T17:20:03.041620+00:00",
   "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579858",
-  "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos da Nubank",
-  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-de-bonus-nas-transferencias-de-pontos-da-nubank/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Azul Fidelidade está oferecendo até 120% de bônus nas transferências de pontos da Nubank até sexta-feira (6). Assinantes do Clube Azul com conta ativa recebem 90% de bônus, enquanto demais clientes ganham 60%. Além disso, há bônus adicionais de até 30% dependendo do tempo de adesão ao clube.",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-05T15:40:08+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Nubank"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Nubank|Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%"
-  ],
-  "visto_em": "2026-11-05T16:08:11.891834+00:00",
-  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/nubank",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=148414",
-  "titulo": "Azul Friday! Azul Viagens oferece 30% de desconto em pacotes para o Cana Brava Resort",
-  "link": "https://pontospravoar.com/azul-friday-azul-viagens-oferece-30-porcento-desconto-pacotes-cana-brava-resort/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Azul Viagens liberou um cupom, em que oferece aos seus clientes 30% de desconto em pacotes para o Cana Brava Resort, com possibilidade de pagamento em dinheiro ou pontos Azul Fidelidade. Abaixo, veja as condições da promoção e aproveite antes que acabe! Desconto em pacotes na Azul Viagens O desconto está estruturado da seguinte…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "AZUL VIAGENS",
-   "cupom azul viagens"
-  ],
-  "data": "2026-11-05T16:00:37+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 30,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T16:08:12.041185+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148429",
-  "titulo": "Alerta PPV! Viaje para a Europa a partir de 57 mil milhas LATAM Pass",
-  "link": "https://pontospravoar.com/alerta-ppv-viaje-europa-57-mil-milhas-latam-pass/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Que tal começar a planejar sua próxima viagem para a Europa utilizando milhas? No Alerta de Passagens PPV de hoje, nossa equipe selecionou oportunidades para conhecer diferentes destinos europeus com o LATAM Pass, com emissões a partir de 57 mil milhas + taxas. Confira os trechos e as datas disponíveis e aproveite para organizar sua…",
-  "categorias": [
-   "Emissões com Pontos",
-   "LATAM Pass",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "Europa",
-   "LATAM",
-   "PUBLICIDADE",
-   "TRECHOS INTERNACIONAIS"
-  ],
-  "data": "2026-11-05T13:00:22+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|57",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "alta",
-  "motivos": [
-   "resgate de GYN/BSB"
-  ],
-  "visto_em": "2026-11-05T14:08:47.057745+00:00",
-  "trechos_total": 8,
-  "resgates": [
-   {
-    "origem": "BSB",
-    "destino": "AMS",
-    "origem_nome": "Brasília",
-    "destino_nome": "Amsterdã",
-    "milhas": 74368,
-    "milhas_clube": null,
-    "data": "2026-11-08",
-    "datas_texto": "8 de novembro",
-    "cia": "",
-    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=AMS&adt=1&chd=0&inf=0&trip=RT&cabin=Economy&redemption=true&outbound=2026-11-08T00%3A00%3A00.000Z&inbound=2026-11-18T00%3A00%3A00.000Z&sort=PRICE%2Casc&exp_id=22ac1524-a8ff-4a53-a12a-7cc69fe46450&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
-    "programa": "LATAM Pass",
-    "preco_dinheiro": null,
-    "preco_origem": "",
-    "milheiro": null,
-    "veredito": ""
-   }
-  ],
-  "codigo": "RT-0033"
  }
 ]
