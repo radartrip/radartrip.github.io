@@ -1,5 +1,40 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151019",
+  "titulo": "Últimas horas! Compre milhas LATAM Pass com até 66% de desconto",
+  "link": "https://pontospravoar.com/ultimas-horas-compre-milhas-latam-pass-ate-66-porcento-desconto/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A oferta do LATAM Pass entrou nas últimas horas! Até o fim do dia, você pode comprar milhas com até 66% de desconto, com possibilidade de parcelamento em até 10 vezes sem juros. Veja os detalhes a seguir e aproveite. LATAM Pass oferece até 66% de desconto na compra de milhas A campanha estruturou os…",
+  "categorias": [
+   "Acumulando Milhas",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "COMPRA DE MILHAS",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-20T21:00:02+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 66,
+  "milheiro_citado": null,
+  "prazo": "2026-11-20",
+  "repostagem": true,
+  "assinatura": "compra||LATAM Pass|66|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T21:28:47.496050+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=582685",
   "titulo": "Lufthansa anuncia nova Classe Executiva para rotas de curta e média distância",
   "link": "https://passageirodeprimeira.com/lufthansa-anuncia-nova-classe-executiva-para-rotas-de-curta-e-media-distancia/",
@@ -13004,37 +13039,5 @@
   "resgates": [],
   "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/bancos",
   "codigo": "RT-0038"
- },
- {
-  "id": "https://pontospravoar.com/?p=148498",
-  "titulo": "British Airways anuncia codeshare com a aérea mexicana Viva",
-  "link": "https://pontospravoar.com/british-airways-anuncia-codeshare-com-a-aerea-mexicana-viva/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A British Airways anunciou um acordo de codeshare com a companhia aérea mexicana Viva, que permitirá aos passageiros ampliar as conexões dentro do México após chegarem a Cancún ou à Cidade do México. Com a parceria, será possível comprar os trechos operados pela empresa mexicana no mesmo bilhete da viagem internacional, além de acumular Avios…",
-  "categorias": [
-   "British Airways",
-   "Empresas Aéreas",
-   "Notícias",
-   "empresas aéreas"
-  ],
-  "data": "2026-11-05T18:30:29+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T18:59:50.469522+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
  }
 ]

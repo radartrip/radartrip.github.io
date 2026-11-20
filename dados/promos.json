@@ -91,21 +91,6 @@
    "link": "https://www.esfera.com.vc"
   },
   {
-   "assinatura": "compra||LATAM Pass|66|",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 66,
-   "milheiro": null,
-   "prazo": "2026-11-20",
-   "visto_em": "2026-11-19",
-   "titulo": "Segue valendo! Compre milhas LATAM Pass com até 66% de desconto",
-   "link": "https://latampass.latam.com"
-  },
-  {
    "assinatura": "transferencia|Inter Loop|LATAM Pass|25|",
    "categoria": "transferencia",
    "origens": [
@@ -168,6 +153,21 @@
    "visto_em": "2026-11-20",
    "titulo": "Último dia! LATAM Pass oferece até 66% de desconto na compra de milhas",
    "link": "https://latampass.com/facilidades/compra-milhas/lp?pt=pp%3Futm_source%3Dpassageiro-de-primeira"
+  },
+  {
+   "assinatura": "compra||LATAM Pass|66|",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 0,
+   "desconto": 66,
+   "milheiro": null,
+   "prazo": "2026-11-20",
+   "visto_em": "2026-11-20",
+   "titulo": "Últimas horas! Compre milhas LATAM Pass com até 66% de desconto",
+   "link": "https://latampass.latam.com"
   }
  ],
  "vitrine": {
