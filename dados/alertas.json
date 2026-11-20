@@ -1,5 +1,39 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150673",
+  "titulo": "Clube Smiles com até 50.000 milhas na hora para novos assinantes",
+  "link": "https://pontospravoar.com/clube-smiles-ate-50000-milhas-hora-novos-assinantes/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Está pensando em assinar o clube? A Smiles está com uma promoção, em que oferece aos novos clientes até 50.000 milhas na hora, dependendo do plano. A seguir, confira os principais detalhes desta oferta válida até o dia 30 de novembro. Clube Smiles em promoção Nesta oferta, o bônus varia conforme o clube assinado. Confira:…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "Smiles",
+   "Assinatura Clube Smiles",
+   "Clube Smiles",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-20T16:05:48+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "clube||Smiles||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-20T16:50:06.726856+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150877",
   "titulo": "Confira 5 promoções de pontos e milhas que encerram hoje!",
   "link": "https://pontospravoar.com/confira-5-promocoes-pontos-milhas-encerram-hoje/",
@@ -13011,39 +13045,5 @@
   "resgates": [],
   "link_oficial": "https://www.smiles.com.br/home",
   "codigo": "RT-0035"
- },
- {
-  "id": "https://pontospravoar.com/?p=148426",
-  "titulo": "Livelo oferece até 105 mil pontos para upgrade ao Clube Especial",
-  "link": "https://pontospravoar.com/livelo-oferece-ate-105-mil-pontos-upgrade-clube-especial/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Livelo está com uma nova promoção para clientes que desejam realizar upgrade para o Clube Especial. Nesta campanha, é possível acumular 105 mil pontos na modalidade anual ou 102 mil pontos na modalidade mensal. Confira as condições e veja se vale a pena aproveitar! Promoção de upgrade para o Clube Especial Esta promoção de…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Clube Livelo Especial",
-   "livelo",
-   "Upgrade Clube Livelo"
-  ],
-  "data": "2026-11-05T17:00:54+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T17:20:03.041620+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]
