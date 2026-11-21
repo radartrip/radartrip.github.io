@@ -1,5 +1,33 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150107",
+  "titulo": "United Airlines proíbe agentes de IA de comprar passagens",
+  "link": "https://pontospravoar.com/united-proibe-agentes-ia-comprar-passagens/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A United Airlines recentemente alterou seu contrato de transporte a fim de proibir que agentes de inteligência artificial (IA) comprem, alterem ou atendam bilhetes. Essa mudança vem de encontro com a tendência do desenvolvimento tecnológico e da IA, cada vez mais presentes nos processos de planejamento e preparação de viagens. Além da United, a Citi…",
+  "categorias": [
+   "Notícias",
+   "notícias",
+   "UNITED AIRLINES"
+  ],
+  "data": "2026-11-21T21:00:44+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-21T21:28:31.244457+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151104",
   "titulo": "Alerta PPV! Passagens nacionais a partir de 3.469 milhas + taxas",
   "link": "https://pontospravoar.com/alerta-ppv-passagens-nacionais-3469-milhas-taxas/",
@@ -13002,36 +13030,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-06T11:33:15.719412+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148572",
-  "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 5 de novembro de 2026",
-  "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-5-novembro-2026/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Que tal aproveitar as oportunidades desta quinta-feira para aumentar seu saldo de pontos e milhas? Nossa equipe preparou mais uma edição do Radar PPV, reunindo as principais promoções do dia, com destaque para as novas ofertas de acúmulo da Esfera e para a Pink Friday da Livelo. Confira! Promoções de acúmulo de pontos ¹ pontos…",
-  "categorias": [
-   "Radar PPV",
-   "RADAR PPV"
-  ],
-  "data": "2026-11-05T23:00:53+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [
-   "Livelo",
-   "Esfera"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T23:36:40.303039+00:00",
   "fora_vitrine": "sem critério de vitrine"
  }
 ]
