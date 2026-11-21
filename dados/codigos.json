@@ -1,5 +1,5 @@
 {
- "ultimo": 222,
+ "ultimo": 223,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3393,6 +3393,18 @@
    "ida": "2027-02-20",
    "volta": "2027-02-26",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-02-20%20through%202027-02-26"
+  },
+  {
+   "codigo": "RT-0223",
+   "enviado_em": "2026-11-21T00:52:08.884569+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-POA",
+   "preco": 867,
+   "media": 2005,
+   "ida": "2027-01-24",
+   "volta": "2027-01-30",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20POA%20on%202027-01-24%20through%202027-01-30"
   }
  ]
 }

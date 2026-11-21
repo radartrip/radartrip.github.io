@@ -29,36 +29,6 @@
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   },
   {
-   "assinatura": "clube||Azul Fidelidade||",
-   "categoria": "clube",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 12.81,
-   "prazo": "",
-   "visto_em": "2026-11-17",
-   "titulo": "Ganhe até 600 mil pontos no ano ao fazer upgrade do Clube Azul – Milheiro a partir de R$ 12,81",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/upgrade-clube"
-  },
-  {
-   "assinatura": "compra||LATAM Pass||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-17",
-   "titulo": "Comprar milhas LATAM Pass – Quanto custa e quando vale a pena",
-   "link": "https://latampass.com/facilidades/compra-milhas/lp"
-  },
-  {
    "assinatura": "transferencia||Smiles|130|",
    "categoria": "transferencia",
    "origens": [],
@@ -91,23 +61,6 @@
    "link": "https://www.esfera.com.vc"
   },
   {
-   "assinatura": "transferencia|Inter Loop|LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [
-    "Inter Loop"
-   ],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-20",
-   "visto_em": "2026-11-19",
-   "titulo": "Nova parceria: LATAM Pass oferece 25% de bônus nas transferências de pontos Inter Loop",
-   "link": "https://latampass.latam.com/br/pt/promocoes/inter-milhas-extras"
-  },
-  {
    "assinatura": "transferencia|Livelo|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -136,38 +89,6 @@
    "visto_em": "2026-11-19",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 19 de novembro de 2026",
    "link": "https://www.livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS"
-  },
-  {
-   "assinatura": "compra|Itaú|LATAM Pass|66|",
-   "categoria": "compra",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 66,
-   "milheiro": null,
-   "prazo": "2026-11-20",
-   "visto_em": "2026-11-20",
-   "titulo": "Último dia! LATAM Pass oferece até 66% de desconto na compra de milhas",
-   "link": "https://latampass.com/facilidades/compra-milhas/lp?pt=pp%3Futm_source%3Dpassageiro-de-primeira"
-  },
-  {
-   "assinatura": "compra||LATAM Pass|66|",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 0,
-   "desconto": 66,
-   "milheiro": null,
-   "prazo": "2026-11-20",
-   "visto_em": "2026-11-20",
-   "titulo": "Últimas horas! Compre milhas LATAM Pass com até 66% de desconto",
-   "link": "https://latampass.latam.com"
   }
  ],
  "vitrine": {
