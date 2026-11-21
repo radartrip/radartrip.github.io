@@ -1,5 +1,38 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151049",
+  "titulo": "Smiles com bônus de até 375% na compra de milhas",
+  "link": "https://pontospravoar.com/smiles-bonus-ate-375-porcento-compra-milhas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Smiles lançou uma nova oferta para compra de milhas. Até o dia 26 de novembro, o programa oferece aos seus clientes até 375% de bônus na compra direta de milhas. Abaixo, veja todos os detalhes e como aproveitar. Bônus na compra de milhas Smiles O bônus na compra de milhas Smiles está estruturado da…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "COMPRA DE MILHAS"
+  ],
+  "data": "2026-11-21T15:00:34+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 375,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": false,
+  "assinatura": "compra||Smiles|375|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-21T15:17:06.446754+00:00",
+  "link_oficial": "http://www.smiles.com.br/portal/campanhas/comprademilhas-375-20261119",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151035",
   "titulo": "Reforma tributária pode encarecer passagens aéreas e preocupa Fraport",
   "link": "https://pontospravoar.com/reforma-tributaria-pode-encarecer-passagens-aereas/",
@@ -12974,38 +13007,5 @@
   "motivos": [],
   "visto_em": "2026-11-05T21:25:06.008403+00:00",
   "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=148206",
-  "titulo": "Consórcio Liga Vitória: como planejar uma compra e acumular pontos Livelo",
-  "link": "https://pontospravoar.com/consorcio-liga-vitoria-livelo/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Comprar um imóvel, trocar de veículo ou ampliar o patrimônio exige organização financeira. O consórcio da Liga Vitória pode ser uma alternativa para quem planeja uma aquisição ao longo do tempo, sem garantia de contemplação imediata. A proposta permite comparar opções de crédito, prazos e parcelas conforme cada objetivo. Em cotas elegíveis, também é possível…",
-  "categorias": [
-   "Publicidade",
-   "Liga Vitória",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-05T21:00:25+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Livelo||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T21:25:06.162465+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
  }
 ]

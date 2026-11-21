@@ -1,5 +1,5 @@
 {
- "ultimo": 224,
+ "ultimo": 225,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3417,6 +3417,18 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0225",
+   "enviado_em": "2026-11-21T15:17:25.436727+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-BPS",
+   "preco": 1540,
+   "media": 2983,
+   "ida": "2027-03-31",
+   "volta": "2027-04-07",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20BPS%20on%202027-03-31%20through%202027-04-07"
   }
  ]
 }
