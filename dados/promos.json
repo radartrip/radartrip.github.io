@@ -104,6 +104,19 @@
    "visto_em": "2026-11-21",
    "titulo": "Smiles com bônus de até 375% na compra de milhas",
    "link": "http://www.smiles.com.br/portal/campanhas/comprademilhas-375-20261119"
+  },
+  {
+   "assinatura": "compra|||120|",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-21",
+   "visto_em": "2026-11-21",
+   "titulo": "Último dia! Hilton Honors oferece 120% de bônus na compra de pontos",
+   "link": ""
   }
  ],
  "vitrine": {
@@ -260,7 +273,8 @@
   "passagem||1.141": "2026-11-19T21:00:41.777834+00:00",
   "passagem||4.099": "2026-11-19T21:00:44.235729+00:00",
   "passagem|LATAM Pass|16": "2026-11-19T21:57:13.611297+00:00",
-  "passagem|Smiles|5,92": "2026-11-19T22:41:20.646392+00:00"
+  "passagem|Smiles|5,92": "2026-11-19T22:41:20.646392+00:00",
+  "passagem||3.469": "2026-11-21T17:35:02.419880+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

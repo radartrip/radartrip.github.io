@@ -114,7 +114,8 @@
   "https://pontospravoar.com/?p=150407",
   "https://passageirodeprimeira.com/?p=583359",
   "https://passageirodeprimeira.com/?p=333369",
-  "https://passageirodeprimeira.com/?p=583468"
+  "https://passageirodeprimeira.com/?p=583468",
+  "https://pontospravoar.com/?p=151104"
  ],
  "resgates": [
   {
@@ -531,6 +532,29 @@
    "post": "https://pontospravoar.com/alerta-ppv-viaje-estados-unidos-passagens-65-mil-milhas-smiles/",
    "titulo": "Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles",
    "visto_em": "2026-11-18T14:08:15.290254+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "VIX",
+   "origem_nome": "Brasília",
+   "destino_nome": "Vitória",
+   "milhas": 4337,
+   "milhas_clube": null,
+   "data": "2027-02-20",
+   "datas_texto": "20 de fevereiro",
+   "cia": "",
+   "reserva": "http://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=VIX&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&outbound=2027-02-20T00%3A00%3A00.000Z&inbound=null&sort=PRICE%2Casc&exp_id=b085bd7c-e846-4351-8f3b-653cd4cfd5fd&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_display_20260407",
+   "datas_mes": [
+    "Fevereiro/2027: 20"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 232,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 53.49,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-passagens-nacionais-3469-milhas-taxas/",
+   "titulo": "Alerta PPV! Passagens nacionais a partir de 3.469 milhas + taxas",
+   "visto_em": "2026-11-21T17:35:01.891925+00:00"
   }
  ]
 }
