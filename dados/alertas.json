@@ -1,5 +1,32 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583138",
+  "titulo": "Planejando a próxima viagem? Veja sugestões de resgate para Tóquio, Buenos Aires e muito mais",
+  "link": "https://passageirodeprimeira.com/planejando-a-proxima-viagem-veja-sugestoes-de-resgate-para-toquio-buenos-aires-e-muito-mais/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Quer viajar para Tóquio, Buenos Aires e outros destinos incríveis? Nesta matéria, sugerimos opções de resgates que os membros dos Grupos de Alerta do PP no WhatsApp receberam recentemente, facilitando o planejamento da sua próxima aventura. Fique por dentro das melhores disponibilidades e aproveite suas milhas ao máximo!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-21T16:00:46+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-21T16:12:00.132454+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151049",
   "titulo": "Smiles com bônus de até 375% na compra de milhas",
   "link": "https://pontospravoar.com/smiles-bonus-ate-375-porcento-compra-milhas/",
@@ -12975,37 +13002,5 @@
   "motivos": [],
   "visto_em": "2026-11-05T22:12:25.866366+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580011",
-  "titulo": "Ganhe até 293 mil pontos Azul comprando o iPhone 18 Pro no Magalu",
-  "link": "https://passageirodeprimeira.com/ganhe-ate-293-mil-pontos-azul-comprando-o-iphone-18-pro-no-magalu/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Azul Fidelidade está oferecendo até 14 pontos por real gasto no Magalu até sábado (7). Com isso, ao comprar o iPhone 18 Pro 2 TB, é possível acumular até 293 mil pontos Azul.",
-  "categorias": [
-   "Promoções",
-   "Compre e pontue"
-  ],
-  "data": "2026-11-05T21:00:18+00:00",
-  "pontos_por_real": 14.0,
-  "parceiro": "Magalu",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo||Azul Fidelidade|14.0|Magalu",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T21:25:06.008403+00:00",
-  "fora_vitrine": "repetição de promoção já enviada"
  }
 ]
