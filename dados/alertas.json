@@ -1,5 +1,68 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583299",
+  "titulo": "Segue valendo! Ganhe até 80.000 pontos bônus ao pedir o seu cartão Azul Itaú",
+  "link": "https://passageirodeprimeira.com/segue-valendo-ganhe-ate-80-000-pontos-bonus-ao-pedir-o-seu-cartao-azul-itau/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Muito bom! O cartão Azul Itaú continua com uma oferta imperdível: até 80.000 pontos bônus ao cumprir as metas de gastos. A promoção é válida até 29 de novembro e inclui até 50.000 pontos para novos clientes e até 30.000 pontos extras ao assinar o Clube Azul.",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-21T13:00:05+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-29",
+  "repostagem": true,
+  "assinatura": "clube|Itaú|Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-21T13:41:04.692927+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151039",
+  "titulo": "Prorrogou! Ganhe até 60 mil pontos bônus na assinatura ou upgrade do Clube Esfera",
+  "link": "https://pontospravoar.com/prorrogou-ganhe-ate-60-mil-pontos-bonus-assinatura-upgrade-clube-esfera/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Perdeu o prazo? A Esfera decidiu prorrogar sua promoção, em que oferece aos seus clientes até 60 mil pontos bônus na assinatura ou upgrade do clube ao longo de 12 meses. Vamos aos detalhes! Clube Esfera em promoção Esta promoção de assinatura ou upgrade do Clube Esfera está estruturada da seguinte maneira: Clube Pro: 3.000…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Esfera",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Clube Esfera"
+  ],
+  "data": "2026-11-21T13:04:15+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Esfera|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-21T13:41:04.720702+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583697",
   "titulo": "Gere o milheiro Smiles a partir de R$ 13,07 assinando o Clube Smiles 1.000",
   "link": "https://passageirodeprimeira.com/gere-o-milheiro-smiles-a-partir-de-r-1307-assinando-o-clube-smiles-1-000/",
@@ -12973,66 +13036,5 @@
   "motivos": [],
   "visto_em": "2026-11-05T20:37:21.063186+00:00",
   "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579913",
-  "titulo": "Qatar Airways oferece 25% de desconto em passagens com Avios",
-  "link": "https://passageirodeprimeira.com/qatar-airways-oferece-25-de-desconto-em-passagens-com-avios-2/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Qatar Airways está com uma super promoção! O Privilege Club oferece até 25% de desconto em passagens com Avios para destinos selecionados, válidas até 14 de novembro para viagens até 30 de dezembro de 2026. Aproveite para conhecer lugares incríveis em Classe Econômica, Executiva e Primeira Classe!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-05T19:00:59+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 25,
-  "milheiro_citado": null,
-  "prazo": "2026-11-14",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T19:50:25.001190+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148525",
-  "titulo": "Em parceria com Guia Michelin, American Airlines e terá experiências gastronômicas resgatáveis com milhas",
-  "link": "https://pontospravoar.com/em-parceria-com-guia-michelin-american-airlines-e-tera-experiencias-gastronomicas-resgataveis-com-milhas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Quem acumula milhas no AAdvantage, programa de fidelidade da American Airlines, poderá utilizá-las para participar de experiências gastronômicas especiais, em parceria com o Guia Michelin. A ação dará acesso a jantares com chefs renomados, eventos do setor e até viagens organizadas em torno da gastronomia. Jantares com chefs estrelados em Los Angeles, Miami e Chicago…",
-  "categorias": [
-   "American Airlines",
-   "Empresas Aéreas",
-   "Notícias",
-   "empresas aéreas"
-  ],
-  "data": "2026-11-05T19:30:00+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "AAdvantage"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo||AAdvantage|0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-05T19:50:25.180752+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
  }
 ]
