@@ -1,5 +1,5 @@
 {
- "ultimo": 228,
+ "ultimo": 229,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3472,6 +3472,22 @@
      "Azul Fidelidade"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0229",
+   "enviado_em": "2026-11-22T16:54:06.299634+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Resgate passagens internacionais a partir de 13.350 pontos + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-resgate-passagens-internacionais-13350-pontos-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [],
+    "trechos": [
+     "BSB-MIA"
+    ]
    }
   }
  ]

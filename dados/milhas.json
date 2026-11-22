@@ -116,7 +116,8 @@
   "https://passageirodeprimeira.com/?p=333369",
   "https://passageirodeprimeira.com/?p=583468",
   "https://pontospravoar.com/?p=151104",
-  "https://passageirodeprimeira.com/?p=583576"
+  "https://passageirodeprimeira.com/?p=583576",
+  "https://pontospravoar.com/?p=151189"
  ],
  "resgates": [
   {
@@ -556,6 +557,29 @@
    "post": "https://pontospravoar.com/alerta-ppv-passagens-nacionais-3469-milhas-taxas/",
    "titulo": "Alerta PPV! Passagens nacionais a partir de 3.469 milhas + taxas",
    "visto_em": "2026-11-21T17:35:01.891925+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "MIA",
+   "origem_nome": "Brasília",
+   "destino_nome": "Miami",
+   "milhas": 69000,
+   "milhas_clube": 65000,
+   "data": "2026-12-04",
+   "datas_texto": "4 de dezembro",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796396400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=MIA&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Dezembro/2026: 4"
+   ],
+   "programa": "Azul Fidelidade",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-resgate-passagens-internacionais-13350-pontos-taxas/",
+   "titulo": "Alerta PPV! Resgate passagens internacionais a partir de 13.350 pontos + taxas",
+   "visto_em": "2026-11-22T16:54:05.746171+00:00"
   }
  ]
 }
