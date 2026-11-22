@@ -1,5 +1,5 @@
 {
- "ultimo": 229,
+ "ultimo": 231,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3489,6 +3489,30 @@
      "BSB-MIA"
     ]
    }
+  },
+  {
+   "codigo": "RT-0230",
+   "enviado_em": "2026-11-22T19:21:10.259358+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-REC",
+   "preco": 743,
+   "media": 907,
+   "ida": "2027-02-20",
+   "volta": "2027-02-26",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-02-20%20through%202027-02-26"
+  },
+  {
+   "codigo": "RT-0231",
+   "enviado_em": "2026-11-22T19:21:10.898289+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-IOS",
+   "preco": 825,
+   "media": 2044,
+   "ida": "2027-08-01",
+   "volta": "2027-08-06",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20IOS%20on%202027-08-01%20through%202027-08-06"
   }
  ]
 }
