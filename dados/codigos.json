@@ -1,5 +1,5 @@
 {
- "ultimo": 231,
+ "ultimo": 232,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3513,6 +3513,18 @@
    "ida": "2027-08-01",
    "volta": "2027-08-06",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20IOS%20on%202027-08-01%20through%202027-08-06"
+  },
+  {
+   "codigo": "RT-0232",
+   "enviado_em": "2026-11-22T23:50:15.436464+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-FOR",
+   "preco": 1351,
+   "media": 2043,
+   "ida": "2027-09-18",
+   "volta": "2027-09-28",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FOR%20on%202027-09-18%20through%202027-09-28"
   }
  ]
 }
