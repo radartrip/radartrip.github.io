@@ -1,5 +1,32 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583370",
+  "titulo": "Emirates inaugura lounge temporário da Primeira Classe em Dubai",
+  "link": "https://passageirodeprimeira.com/emirates-inaugura-lounge-temporario-primeira-classe-dubai/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Emirates inaugurou o novo lounge temporário da Primeira Classe no Aeroporto Internacional de Dubai (DXB), localizado no Concourse B, Terminal 3. Aberto para os clientes desde 18 de novembro, o espaço receberá passageiros da Primeira Classe por um ano, antes de ser transformado em lounge da Classe Executiva em 2027. A mudança é o primeiro vislumbre da transformação de 400 milhões de dirhams que a",
+  "categorias": [
+   "Notícias",
+   "Salas VIP"
+  ],
+  "data": "2026-11-22T20:00:27+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-22T20:12:03.570372+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151132",
   "titulo": "Emirates começa reforma de seus lounges em Dubai",
   "link": "https://pontospravoar.com/emirates-comeca-reforma-de-seus-lounges-em-dubai/",
@@ -12979,38 +13006,5 @@
   "motivos": [],
   "visto_em": "2026-11-06T17:16:35.504519+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579752",
-  "titulo": "Precisando renovar sua casa? Aproveite as ofertas da Blackíssima e acumule pontos com a Esfera",
-  "link": "https://passageirodeprimeira.com/precisando-renovar-sua-casa-aproveite-ofertas-blackissima-acumule-pontos-esfera/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Com a chegada de novembro, a Esfera preparou novidades para quem deseja renovar sua casa! Durante a Blackíssima, você acumula pontos com lojas parceiras e encontra ofertas imperdíveis no Santander Shopping. De eletrodomésticos a itens para facilitar a rotina, a campanha, válida até domingo (8), é uma ótima oportunidade para encontrar produtos para renovar os ambientes da casa. Saiba mais!",
-  "categorias": [
-   "Promoções",
-   "Publicidade"
-  ],
-  "data": "2026-11-06T15:40:51+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Esfera",
-   "Santander"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Esfera,Santander||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-06T16:19:19.234954+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
  }
 ]
