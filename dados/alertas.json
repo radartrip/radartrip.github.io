@@ -1,5 +1,34 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=265639",
+  "titulo": "Black Signature – saiba como conquistar a categoria mais alta do LATAM Pass",
+  "link": "https://passageirodeprimeira.com/black-signature-latam-pass/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Salas VIP exclusivas ao redor do mundo, atendimento prioritário no check-in e embarque, assistência preferencial (Special Service), upgrade de cabine, atendimento exclusivo por telefone e WhatsApp - esses são alguns dos diversos benefícios que os clientes Black Signature, categoria top tier do LATAM Pass, possuem.",
+  "categorias": [
+   "Quadros",
+   "Dicas e Tutoriais"
+  ],
+  "data": "2026-11-22T18:00:20+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-22T18:20:33.412330+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151170",
   "titulo": "Semaninha fraca! Semana do Milheiro 16 a 22 de novembro",
   "link": "https://pontospravoar.com/semaninha-fraca-semana-do-milheiro-16-a-22-novembro/",
@@ -12997,40 +13026,5 @@
   "resgates": [],
   "link_oficial": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1814022000000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=congenere&segments=1&tripType=2&originAirport=GRU&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=CPT&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true",
   "codigo": "RT-0045"
- },
- {
-  "id": "https://pontospravoar.com/?p=148508",
-  "titulo": "Peça um cartão co-branded GOL Smiles com isenção de anuidade e até 55 mil milhas bônus",
-  "link": "https://pontospravoar.com/peca-cartao-co-branded-gol-smiles-isencao-anuidade-ate-55-mil-milhas-bonus/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O Banco do Brasil está oferecendo 12 meses de anuidade grátis para clientes aprovados na solicitação do cartão GOL Smiles Visa Infinite entre 1º e 30 de novembro de 2026. Para conseguir o benefício, é necessário atingir R$ 5.500 em gastos até 30 de novembro. A oferta se soma à campanha da Smiles, que oferece…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Promoções",
-   "Publicidade",
-   "Smiles",
-   "crtões de crédito",
-   "programas de fidelidade"
-  ],
-  "data": "2026-11-06T12:30:51+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [
-   "Banco do Brasil"
-  ],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-30",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-06T13:50:41.319663+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]
