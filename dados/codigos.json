@@ -1,5 +1,5 @@
 {
- "ultimo": 227,
+ "ultimo": 228,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3455,6 +3455,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0228",
+   "enviado_em": "2026-11-22T12:39:01.920634+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de trechos para destinos de praia a partir de 4.200 pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-de-trechos-para-destinos-de-praia-a-partir-de-4-200-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
     "trechos": []
    }
   }

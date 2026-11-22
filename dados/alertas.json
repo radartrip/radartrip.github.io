@@ -1,5 +1,38 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=583576",
+  "titulo": "5 sugestões de trechos para destinos de praia a partir de 4.200 pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/5-sugestoes-de-trechos-para-destinos-de-praia-a-partir-de-4-200-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Quer viajar para a praia? Separamos 5 sugestões de resgates com a Azul a partir de 4.200 pontos + taxas, incluindo trechos como Salvador a Porto Seguro e Curitiba ao Rio de Janeiro. É hora de planejar sua próxima viagem!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-22T12:00:07+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|4.200,5",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-22T12:39:00.277405+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br/br/pt/home",
+  "codigo": "RT-0228"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150107",
   "titulo": "United Airlines proíbe agentes de IA de comprar passagens",
   "link": "https://pontospravoar.com/united-proibe-agentes-ia-comprar-passagens/",
@@ -12998,38 +13031,5 @@
   "resgates": [],
   "link_oficial": "https://latampass.latam.com",
   "codigo": "RT-0042"
- },
- {
-  "id": "https://pontospravoar.com/?p=148540",
-  "titulo": "Acaba hoje! Ganhe bônus e 20% de points back na transferência da Esfera para o ALL Accor",
-  "link": "https://pontospravoar.com/acaba-hoje-ganhe-bonus-20-porcento-points-back-transferencia-esfera-all-accor/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A oferta da Black Friday do ALL Accor está chegando ao fim! Nesta sexta-feira, é o último dia da promoção em que os associados podem aproveitar bônus na transferência de pontos da Esfera e ganhar 20% de points back. É uma oportunidade para acumular pontos no ALL Accor e ainda manter parte do saldo na…",
-  "categorias": [
-   "Acumulando Milhas",
-   "ALL Accor",
-   "Esfera",
-   "Programas de Fidelidade",
-   "Promoções",
-   "All Accor"
-  ],
-  "data": "2026-11-06T11:00:27+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [
-   "Esfera"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-06",
-  "repostagem": true,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-06T11:33:15.719412+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]
