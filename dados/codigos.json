@@ -1,5 +1,5 @@
 {
- "ultimo": 244,
+ "ultimo": 246,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3710,6 +3710,38 @@
     "categoria": "transferencia",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0245",
+   "enviado_em": "2026-11-23T20:41:45.907988+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM disponibiliza trecho para Lisboa a partir de 61 mil milhas ou R$ 1.460 + taxas",
+   "link": "https://passageirodeprimeira.com/latam-disponibiliza-trecho-para-lisboa-a-partir-61-mil-milhas-ou-r-1-460-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0246",
+   "enviado_em": "2026-11-23T20:41:46.518877+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Confira voos internacionais a partir de 22 mil milhas Smiles + taxas",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-voos-internacionais-a-partir-de-22-mil-milhas-smiles-taxas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }
