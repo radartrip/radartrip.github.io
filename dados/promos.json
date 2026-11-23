@@ -14,68 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "transferencia||Smiles|130|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 130,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-19",
-   "titulo": "Smiles oferece até 130% de bônus na troca de pontos do Premmia",
-   "link": "https://www.smiles.com.br/portal/campanha/orangefriday-premmia-18112026"
-  },
-  {
-   "assinatura": "transferencia|Esfera|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-19",
-   "titulo": "Smiles prorroga oferta de até 80% de bônus na transferência de pontos",
-   "link": "https://www.esfera.com.vc"
-  },
-  {
-   "assinatura": "transferencia|Livelo|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": 15.91,
-   "prazo": "",
-   "visto_em": "2026-11-19",
-   "titulo": "Confira a oportunidade de gerar o milheiro Smiles a partir de R$ 15,91",
-   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-17-11-2026"
-  },
-  {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-19",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 19 de novembro de 2026",
-   "link": "https://www.livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS"
-  },
-  {
    "assinatura": "clube||Smiles||",
    "categoria": "clube",
    "origens": [],
