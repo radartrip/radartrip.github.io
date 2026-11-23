@@ -1,5 +1,5 @@
 {
- "ultimo": 243,
+ "ultimo": 244,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3694,6 +3694,22 @@
     "categoria": "passagem",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0244",
+   "enviado_em": "2026-11-23T19:54:11.681932+00:00",
+   "canal": true,
+   "tipo": "Transferência bonificada",
+   "titulo": "Azul oferece até 120% de bônus nas transferências da Premmia – CPM a partir de R$ 15,32",
+   "link": "https://passageirodeprimeira.com/azul-oferece-ate-120-de-bonus-nas-transferencias-da-premmia-cpm-a-partir-de-r-1532/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "transferencia",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
