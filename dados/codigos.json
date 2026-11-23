@@ -1,5 +1,5 @@
 {
- "ultimo": 240,
+ "ultimo": 241,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3647,6 +3647,23 @@
     "trechos": [
      "BSB-POA"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0241",
+   "enviado_em": "2026-11-23T17:50:44.452391+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Classe Executiva da TAP para Roma por R$ 3.401 + taxas o trecho pela Livelo",
+   "link": "https://passageirodeprimeira.com/classe-executiva-da-tap-para-roma-por-r-3-401-taxas-o-trecho-pela-livelo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Bradesco",
+     "Livelo"
+    ],
+    "trechos": []
    }
   }
  ]
