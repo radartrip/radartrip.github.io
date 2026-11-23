@@ -1,5 +1,5 @@
 {
- "ultimo": 241,
+ "ultimo": 243,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3662,6 +3662,38 @@
     "programas": [
      "Bradesco",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0242",
+   "enviado_em": "2026-11-23T18:47:05.497489+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Passagens para a Europa a partir de 62.300 pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-ppv-passagens-europa-62300-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0243",
+   "enviado_em": "2026-11-23T18:47:06.437733+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Ótimo preço! Voe para Nova York a partir de 66 mil milhas Smiles + taxas",
+   "link": "https://passageirodeprimeira.com/otimo-preco-voe-para-nova-york-a-partir-66-mil-milhas-smiles-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }
