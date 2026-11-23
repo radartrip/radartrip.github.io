@@ -93,6 +93,23 @@
    "visto_em": "2026-11-23",
    "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-24",
+   "visto_em": "2026-11-23",
+   "titulo": "Voltou! Smiles oferece até 80% de bônus nas transferências de pontos com parceiros",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-23-11-2026"
   }
  ],
  "vitrine": {
@@ -254,7 +271,8 @@
   "passagem|Azul Fidelidade|4.200,5": "2026-11-22T12:39:01.922873+00:00",
   "passagem||13.350": "2026-11-22T16:54:06.302507+00:00",
   "transferencia|Livelo|LATAM Pass|27|": "2026-11-23T13:52:42.024484+00:00",
-  "clube|Itaú|Azul Fidelidade|76|": "2026-11-23T14:52:19.077951+00:00"
+  "clube|Itaú|Azul Fidelidade|76|": "2026-11-23T14:52:19.077951+00:00",
+  "passagem|LATAM Pass|117,4": "2026-11-23T16:50:38.913030+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

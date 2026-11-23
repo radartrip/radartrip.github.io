@@ -1,5 +1,128 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151364",
+  "titulo": "Voltou! Smiles oferece até 80% de bônus nas transferências de pontos com parceiros",
+  "link": "https://pontospravoar.com/voltou-smiles-oferece-ate-80-de-bonus-nas-transferencias-de-pontos-com-parceiros/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A oferta voltou! Como parte das promoções da Orange Friday, a Smiles liberou novamente sua campanha de transferência bonificada, oferecendo até 80% de bônus na transferência de pontos de todos os parceiros, exceto Esfera. A promoção é válida somente até amanhã, 24 de novembro, e pode ser uma oportunidade para aumentar seu saldo de milhas.…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Bancos",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "Parceiros bancários"
+  ],
+  "data": "2026-11-23T16:00:34+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 80,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-24",
+  "repostagem": true,
+  "assinatura": "transferencia|Esfera|Smiles|80|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 80%"
+  ],
+  "visto_em": "2026-11-23T16:50:36.373948+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-23-11-2026",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584218",
+  "titulo": "Voe para Gramado na Páscoa a partir de R$ 117 ou 4 mil milhas LATAM + taxas",
+  "link": "https://passageirodeprimeira.com/voe-para-gramado-na-pascoa-a-partir-de-r-117-ou-4-mil-milhas-latam-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A LATAM está com passagens para Gramado a partir de 4.159 milhas + taxas por trecho ou R$ 117,75 + taxas. Além disso, até amanhã (24), você pode transferir pontos Livelo para o LATAM Pass com 27% de bônus e ainda ganhar 2.000 milhas extras na sua primeira transferência. Não perca essa oportunidade de viajar na Páscoa!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-23T16:41:59+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 27,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-24",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|117,4",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-23T16:50:36.271437+00:00",
+  "trechos_total": 5,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "POA",
+    "origem_nome": "Brasília",
+    "destino_nome": "Porto Alegre",
+    "milhas": 8409,
+    "milhas_clube": null,
+    "data": "",
+    "datas_texto": "",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+    "ambos_sentidos": true,
+    "formato": "texto",
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 2113,
+    "preco_origem": "estimativa: metade do ida e volta",
+    "milheiro": 251.28,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0240"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151217",
+  "titulo": "Conheça o calendário de feriados 2027 para planejar e curtir com milhas e pontos",
+  "link": "https://pontospravoar.com/conheca-o-calendario-de-feriados-2027-para-planejar-e-curtir-com-milhas-e-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O calendário de feriados 2027 traz boas oportunidades para quem deseja viajar e aproveitar melhor suas milhas e pontos. Dos dez feriados nacionais, sete caem em dias úteis, incluindo três que garantem finais de semana prolongados sem precisar de folga. Além disso, outras datas permitem emendar alguns dias de descanso e organizar viagens mais longas.…",
+  "categorias": [
+   "Notícias",
+   "calendário",
+   "feriados"
+  ],
+  "data": "2026-11-23T16:30:00+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-23T16:50:36.373411+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584159",
   "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-320-de-bonus-na-compra-de-pontos-2/",
@@ -12927,100 +13050,5 @@
   "visto_em": "2026-11-06T23:27:25.911012+00:00",
   "link_oficial": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos?skuId=LIVSKUCompraDePontos",
   "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580333",
-  "titulo": "Último dia! Transfira pontos Livelo para o Azul Fidelidade e receba até 130% de bônus",
-  "link": "https://passageirodeprimeira.com/ultimo-dia-transfira-pontos-livelo-para-o-azul-fidelidade-e-receba-ate-130-de-bonus/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "[Oferta] Último dia! Transfira seus pontos Livelo para o Azul Fidelidade e ganhe até 130% de bônus, sendo 100% para assinantes do Clube Azul e Clube Livelo. A promoção é válida até hoje (6), então não perca essa chance de turbinar suas milhas!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-06T21:40:48+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 130,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-06",
-  "repostagem": true,
-  "assinatura": "transferencia|Livelo|Azul Fidelidade|130|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 130%"
-  ],
-  "visto_em": "2026-11-06T22:04:34.703853+00:00",
-  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/livelo",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646288",
-  "titulo": "🇪🇺 Europa 2×1! Passagens aéreas para 2 destinos na Europa a partir de R$ 4.566 saindo de São Paulo e mais cidades!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-06-11-26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Quando se trata de Europa é difícil escolher um só destino, com tantas cidades incríveis como Roma, Paris, Lisboa e tantas outras! Por isso não escolha só uma, e aproveite as passagens aéreas 2 em 1, onde com uma passagem você conhece dois destinos europeus na mesma viagem! Encontramos voos 2 em 1 a partir…",
-  "categorias": [],
-  "data": "2026-11-06T19:20:38+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem||1,2,4.566",
-  "escopo": "internacional",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-06T22:04:34.109675+00:00",
-  "link_oficial": "",
-  "codigo": "RT-0054"
- },
- {
-  "id": "https://pontospravoar.com/?p=148170",
-  "titulo": "Prorrogado! Assine o Clube Smiles e ganhe 10 mil milhas bônus",
-  "link": "https://pontospravoar.com/prorrogado-assine-clube-smiles-ganhe-10-mil-milhas-bonus/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Boa notícia para quem deseja entrar para o Clube Smiles! O programa prorrogou sua promoção, que oferece até 11.000 milhas na hora para novos assinantes dos planos mensal e anual. Com a extensão do prazo, os interessados agora têm até 30 de novembro de 2026 para aproveitar a campanha. Confira os detalhes e saiba como…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Publicidade",
-   "Smiles",
-   "Assinatura Clube Smiles",
-   "Clube Smiles",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-06T22:00:54+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-30",
-  "repostagem": false,
-  "assinatura": "clube||Smiles||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-06T22:04:34.769901+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]
