@@ -76,6 +76,23 @@
    "visto_em": "2026-11-23",
    "titulo": "Oferta relâmpago! Clube Azul 5.000 anual a partir de R$ 45 por mês com milheiro a partir de R$ 9",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago"
+  },
+  {
+   "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
+   "categoria": "transferencia",
+   "origens": [
+    "Itaú"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 320,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-24",
+   "visto_em": "2026-11-23",
+   "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos"
   }
  ],
  "vitrine": {
@@ -138,7 +155,7 @@
   "passagem|LATAM Pass|3.887": "2026-11-09T21:17:55.907332+00:00",
   "passagem|Azul Fidelidade|5": "2026-11-09T22:12:05.817105+00:00",
   "passagem|Smiles|68": "2026-11-10T12:32:50.134586+00:00",
-  "transferencia|Itaú|Azul Fidelidade|320|": "2026-11-10T13:49:38.432316+00:00",
+  "transferencia|Itaú|Azul Fidelidade|320|": "2026-11-23T15:54:54.819435+00:00",
   "passagem|AAdvantage|1,8": "2026-11-10T13:49:39.046650+00:00",
   "acumulo|Itaú|Azul Fidelidade|15.0|Magalu": "2026-11-10T16:20:42.567379+00:00",
   "acumulo|Livelo||11.0|Natura": "2026-11-10T16:20:43.954390+00:00",
