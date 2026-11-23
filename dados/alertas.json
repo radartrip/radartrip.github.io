@@ -1,5 +1,33 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151245",
+  "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 23 de novembro de 2026",
+  "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-23-novembro-2026/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A segunda-feira termina com oportunidades no universo de pontos e milhas! Nossa equipe reuniu, no Radar PPV de hoje, as principais promoções disponíveis para quem quer aproveitar boas oportunidades e economizar nas próximas viagens. Confira os detalhes! Promoções de acúmulo de pontos ¹ pontos por dólar. Promoções de transferência de pontos Compra de pontos com…",
+  "categorias": [
+   "Radar PPV",
+   "RADAR PPV"
+  ],
+  "data": "2026-11-23T23:00:10+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "compra||||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-23T23:31:04.031961+00:00",
+  "link_oficial": "http://www.livelo.com.br/juntar-pontos/parceiros/liga-vitoria/LVC",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://pontospravoar.com/?p=150500",
   "titulo": "Alerta PPV: passagens no LATAM Pass a partir de 3 mil milhas",
   "link": "https://pontospravoar.com/alerta-ppv-passagens-latam-pass-3-mil-milhas/",
@@ -13018,42 +13046,5 @@
   "resgates": [],
   "link_oficial": "https://www.smiles.com.br/home",
   "codigo": "RT-0065"
- },
- {
-  "id": "https://pontospravoar.com/?p=148787",
-  "titulo": "Alerta PPV! Passagens internacionais a partir de 17.800 pontos + taxas",
-  "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-17800-pontos-taxas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Planejando sua próxima viagem para o exterior? Na edição do alerta de passagens PPV deste domingo, reunimos opções de passagens internacionais para viajar nos próximos meses a partir de apenas 17.800 pontos + taxas. Confira as disponibilidades abaixo. Passagens internacionais Nessa tabela, mesclamos algumas emissões dos três programas de companhias aéreas nacionais para você aproveitar e…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Emissões com Pontos",
-   "LATAM Pass",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "Smiles",
-   "azul fidelidade",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-08T14:00:13+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem||17.800",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-08T14:23:31.641633+00:00",
-  "trechos_total": 13,
-  "resgates": [],
-  "link_oficial": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1808967600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1809658799000&searchType=congenere&segments=1&tripType=1&originAirport=MAO&destinationAirport=PTY&novo-resultado-voos=true",
-  "codigo": "RT-0063"
  }
 ]
