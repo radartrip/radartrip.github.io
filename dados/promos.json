@@ -59,6 +59,23 @@
    "visto_em": "2026-11-23",
    "titulo": "LATAM Pass oferece 27% de bônus na transferência de pontos Livelo",
    "link": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras"
+  },
+  {
+   "assinatura": "clube|Itaú|Azul Fidelidade||",
+   "categoria": "clube",
+   "origens": [
+    "Itaú"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 9.0,
+   "prazo": "",
+   "visto_em": "2026-11-23",
+   "titulo": "Oferta relâmpago! Clube Azul 5.000 anual a partir de R$ 45 por mês com milheiro a partir de R$ 9",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago"
   }
  ],
  "vitrine": {
@@ -96,7 +113,7 @@
   "acumulo|XP||0|": "2026-11-06T13:50:43.168828+00:00",
   "passagem|Smiles|70.300": "2026-11-06T15:29:04.803755+00:00",
   "passagem|Azul Fidelidade|4.200,59": "2026-11-06T17:16:37.033494+00:00",
-  "clube|Itaú|Azul Fidelidade||": "2026-11-06T18:10:30.004889+00:00",
+  "clube|Itaú|Azul Fidelidade||": "2026-11-23T14:52:20.352780+00:00",
   "passagem|LATAM Pass|3.632": "2026-11-06T19:46:20.654093+00:00",
   "passagem||1,1.799,2": "2026-11-06T19:46:21.771403+00:00",
   "passagem||10,2.609": "2026-11-06T19:46:23.282748+00:00",
@@ -219,7 +236,8 @@
   "passagem||3.469": "2026-11-21T17:35:02.419880+00:00",
   "passagem|Azul Fidelidade|4.200,5": "2026-11-22T12:39:01.922873+00:00",
   "passagem||13.350": "2026-11-22T16:54:06.302507+00:00",
-  "transferencia|Livelo|LATAM Pass|27|": "2026-11-23T13:52:42.024484+00:00"
+  "transferencia|Livelo|LATAM Pass|27|": "2026-11-23T13:52:42.024484+00:00",
+  "clube|Itaú|Azul Fidelidade|76|": "2026-11-23T14:52:19.077951+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",

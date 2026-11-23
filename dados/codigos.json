@@ -1,5 +1,5 @@
 {
- "ultimo": 235,
+ "ultimo": 237,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3563,6 +3563,40 @@
     "programas": [
      "LATAM Pass",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0236",
+   "enviado_em": "2026-11-23T14:52:19.073565+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Oferta relâmpago! Assine o Clube Azul 5.000 com até 76% de desconto – CPM a partir de R$ 9",
+   "link": "https://passageirodeprimeira.com/oferta-relampago-assine-o-clube-azul-5-000-com-ate-76-de-desconto-cpm-a-partir-de-r-9/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0237",
+   "enviado_em": "2026-11-23T14:52:20.345508+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Oferta relâmpago! Clube Azul 5.000 anual a partir de R$ 45 por mês com milheiro a partir de R$ 9",
+   "link": "https://pontospravoar.com/oferta-relampago-clube-azul-5-000-anual-a-partir-de-r-45-por-mes-milheiro-a-partir-de-r-9/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Azul Fidelidade",
+     "Itaú"
     ],
     "trechos": []
    }
