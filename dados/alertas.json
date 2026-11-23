@@ -1,5 +1,38 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=150500",
+  "titulo": "Alerta PPV: passagens no LATAM Pass a partir de 3 mil milhas",
+  "link": "https://pontospravoar.com/alerta-ppv-passagens-latam-pass-3-mil-milhas/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal aproveitar suas milhas para conhecer um novo destino pelo Brasil? Nossa equipe encontrou passagens aéreas nacionais a partir de 3 mil milhas LATAM Pass + taxas. Reunimos diferentes oportunidades para você planejar sua próxima viagem, gastando menos. Confira! Passagens nacionais no LATAM Pass Para garantir as suas passagens nacionais no LATAM Pass, siga estes…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "PUBLICIDADE"
+  ],
+  "data": "2026-11-23T22:00:49+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|3",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-23T22:31:45.340849+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584031",
   "titulo": "Missão LATAM Pass: ganhe 1.500 milhas extras ao realizar transferências bancárias",
   "link": "https://passageirodeprimeira.com/missao-latam-pass-ganhe-1-500-milhas-extras-realizar-transferencias-bancarias/",
@@ -13022,35 +13055,5 @@
   "resgates": [],
   "link_oficial": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1808967600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1809658799000&searchType=congenere&segments=1&tripType=1&originAirport=MAO&destinationAirport=PTY&novo-resultado-voos=true",
   "codigo": "RT-0063"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579988",
-  "titulo": "Ainda não faz parte? Assine o Clube Smiles e ganhe 11 mil milhas na hora",
-  "link": "https://passageirodeprimeira.com/ainda-nao-faz-parte-assine-o-clube-smiles-e-ganhe-11-mil-milhas-na-hora/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Smiles está oferecendo até 10 mil milhas bônus para quem realizar a contratação do Clube no Plano 1.000. Na modalidade anual, você recebe 11 mil milhas na hora! Com a oferta, que é válida até 21h do dia 30 de novembro, é possível gerar o milheiro a partir de R$ 15,52.",
-  "categorias": [
-   "Promoções",
-   "Clube de pontos"
-  ],
-  "data": "2026-11-08T12:20:36+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": 15.52,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube||Smiles||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-08T12:56:51.896087+00:00",
-  "link_oficial": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102",
-  "fora_vitrine": "repetição de promoção já enviada"
  }
 ]
