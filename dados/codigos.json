@@ -1,5 +1,5 @@
 {
- "ultimo": 251,
+ "ultimo": 252,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3820,6 +3820,22 @@
     "programas": [
      "Bradesco",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0252",
+   "enviado_em": "2026-11-24T16:58:09.130656+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Azul Fidelidade tem passagens nacionais a partir de 2.800 pontos",
+   "link": "https://pontospravoar.com/alerta-ppv-azul-fidelidade-passagens-nacionais-2800-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
