@@ -1,5 +1,101 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=584658",
+  "titulo": "LATAM tem passagens para destinos de Carnaval a partir de R$ 117 ou 4 mil milhas + taxas",
+  "link": "https://passageirodeprimeira.com/latam-tem-passagens-para-destinos-de-carnaval-a-partir-de-r-117-ou-4-mil-milhas-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A LATAM está com passagens para destinos de Carnaval a partir de R$ 117,75 ou 4.647 milhas + taxas por trecho. Além disso, até hoje (24), você pode transferir pontos Livelo para o LATAM Pass com 27% de bônus, facilitando ainda mais sua viagem. Não perca essa oportunidade de curtir a folia!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T22:10:21+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 27,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|117,4",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-24T22:38:40.684045+00:00",
+  "trechos_total": 3,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "REC",
+    "origem_nome": "Brasília",
+    "destino_nome": "Recife",
+    "milhas": 14377,
+    "milhas_clube": null,
+    "data": "",
+    "datas_texto": "",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+    "ambos_sentidos": true,
+    "formato": "texto",
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 371,
+    "preco_origem": "estimativa: metade do ida e volta",
+    "milheiro": 25.81,
+    "veredito": "milhas"
+   }
+  ],
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151659",
+  "titulo": "Vai acabar! Transfira pontos da Livelo para o LATAM Pass com 27% de bônus",
+  "link": "https://pontospravoar.com/vai-acabar-transfira-pontos-livelo-latam-pass-27-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A promoção da LATAM Friday entrou nas últimas horas! Apenas até as 23h59, você pode transferir seus pontos da Livelo para o LATAM Pass com 27% de bônus. Além disso, clientes que realizarem a primeira transferência garantem 2.000 milhas extras. Abaixo, veja como aproveitar antes que acabe! LATAM Pass e Livelo Para esta campanha, a…",
+  "categorias": [
+   "Acumulando Milhas",
+   "LATAM Pass",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "livelo",
+   "TRANSFERÊNCIA BONIFICADA DE PONTOS"
+  ],
+  "data": "2026-11-24T22:36:38+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 27,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-24",
+  "repostagem": true,
+  "assinatura": "transferencia|Livelo|LATAM Pass|27|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 27%"
+  ],
+  "visto_em": "2026-11-24T22:38:40.775406+00:00",
+  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151559",
   "titulo": "Alerta PPV! Passagens para Argentina a partir de 16 mil milhas LATAM Pass",
   "link": "https://pontospravoar.com/alerta-ppv-passagens-argentina-16-mil-milhas-latam-pass/",
@@ -13048,74 +13144,5 @@
   "motivos": [],
   "visto_em": "2026-11-09T23:29:07.031911+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580874",
-  "titulo": "Novidade: Smiles lança multiplicador de milhas",
-  "link": "https://passageirodeprimeira.com/novidade-smiles-lanca-multiplicador-de-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Smiles lançou hoje (9) o recurso \"Multiplique Milhas\", novidade disponível no aplicativo que permite multiplicar em até 12 vezes as milhas acumuladas nos últimos 12 meses. A ferramenta chega para impulsionar o saldo dos clientes e acelerar o resgate de passagens e experiências.",
-  "categorias": [
-   "Notícias",
-   "Programas de Fidelidade"
-  ],
-  "data": "2026-11-09T21:30:14+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo||Smiles|0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T22:12:03.423675+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://pontospravoar.com/?p=149054",
-  "titulo": "Alerta PPV! Passagens pelo Brasil a partir de 5 mil pontos Azul Fidelidade + taxas",
-  "link": "https://pontospravoar.com/alerta-ppv-passagens-brasil-5-mil-pontos-azul-fidelidade-taxas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Na última edição do alerta de passagens PPV desta segunda-feira, nossa equipe reuniu sugestões de passagens pelo Brasil para voar nos próximos meses, gastando a partir de 5.000 pontos + taxas. Confira as disponibilidades a seguir. Passagens nacionais com pontos Azul Fidelidade Confira na tabela a seguir trechos nacionais. Para pesquisar outros destinos, acesse esta…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Emissões com Pontos",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "azul fidelidade",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-09T22:00:49+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Azul Fidelidade|5",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T22:12:03.649301+00:00",
-  "trechos_total": 10,
-  "resgates": [],
-  "link_oficial": "https://www.voeazul.com.br/br/pt/home/selecao-voo?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo&c%5B0%5D.ds=POA&c%5B0%5D.as=CWB&c%5B0%5D.std=03%2F01%2F2027&p%5B0%5D.t=ADT&p%5B0%5D.c=1&p%5B0%5D.cp=false&cc=PTS&f.dl=3&f.dr=3&s_kwcid=buscapaga_brv_azf_ppv_conteudo_uf_aon-marca_insti_afiliado_cpc_rspnsv_lp_pontospravoar_responsivo",
-  "codigo": "RT-0082"
  }
 ]

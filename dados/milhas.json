@@ -133,7 +133,8 @@
   "https://pontospravoar.com/?p=151527",
   "https://passageirodeprimeira.com/?p=584817",
   "https://passageirodeprimeira.com/?p=584844",
-  "https://pontospravoar.com/?p=151559"
+  "https://pontospravoar.com/?p=151559",
+  "https://passageirodeprimeira.com/?p=584658"
  ],
  "resgates": [
   {
@@ -687,6 +688,28 @@
    "post": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
    "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
    "visto_em": "2026-11-24T19:53:37.968562+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "REC",
+   "origem_nome": "Brasília",
+   "destino_nome": "Recife",
+   "milhas": 14377,
+   "milhas_clube": null,
+   "data": "",
+   "datas_texto": "",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
+   "ambos_sentidos": true,
+   "formato": "texto",
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 371,
+   "preco_origem": "estimativa: metade do ida e volta",
+   "milheiro": 25.81,
+   "veredito": "milhas",
+   "post": "https://passageirodeprimeira.com/latam-tem-passagens-para-destinos-de-carnaval-a-partir-de-r-117-ou-4-mil-milhas-taxas/",
+   "titulo": "LATAM tem passagens para destinos de Carnaval a partir de R$ 117 ou 4 mil milhas + taxas",
+   "visto_em": "2026-11-24T22:38:41.574049+00:00"
   }
  ]
 }
