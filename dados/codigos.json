@@ -1,5 +1,5 @@
 {
- "ultimo": 252,
+ "ultimo": 253,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3836,6 +3836,22 @@
     "categoria": "passagem",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0253",
+   "enviado_em": "2026-11-24T17:48:42.436304+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "LATAM Friday! Shopping LATAM Pass oferece até 12 milhas por real no Magalu",
+   "link": "https://pontospravoar.com/latam-friday-shopping-latam-pass-oferece-ate-12-milhas-real-magalu/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }
