@@ -1,5 +1,5 @@
 {
- "ultimo": 255,
+ "ultimo": 258,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3887,6 +3887,50 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0256",
+   "enviado_em": "2026-11-24T19:53:38.482343+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
+   "link": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "GYN-SSA",
+     "BSB-GIG",
+     "BSB-SSA"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0257",
+   "enviado_em": "2026-11-24T19:53:48.191542+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-RIO",
+   "preco": 842,
+   "media": 991,
+   "ida": "2027-05-21",
+   "volta": "2027-05-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-05-21%20through%202027-05-24"
+  },
+  {
+   "codigo": "RT-0258",
+   "enviado_em": "2026-11-24T19:53:48.617940+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-IOS",
+   "preco": 825,
+   "media": 1112,
+   "ida": "2027-08-01",
+   "volta": "2027-08-06",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20IOS%20on%202027-08-01%20through%202027-08-06"
   }
  ]
 }

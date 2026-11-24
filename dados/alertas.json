@@ -1,5 +1,207 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151527",
+  "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
+  "link": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Se você está planejando sua próxima viagem pelo Brasil, vale conferir as oportunidades que selecionamos! No Alerta de Passagens PPV desta terça-feira, nossa equipe reuniu diversas opções de voos nacionais com milhas Smiles, com emissões a partir de apenas 5.900 milhas + taxas. Confira os destinos, trechos e datas disponíveis e aproveite para organizar sua…",
+  "categorias": [
+   "Emissões com Pontos",
+   "GOL",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Publicidade",
+   "Smiles",
+   "PUBLICIDADE",
+   "Trechos nacionais"
+  ],
+  "data": "2026-11-24T19:00:56+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|15,5.900",
+  "escopo": "nacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-24T19:53:29.458624+00:00",
+  "trechos_total": 15,
+  "resgates": [
+   {
+    "origem": "GYN",
+    "destino": "SSA",
+    "origem_nome": "Goiânia",
+    "destino_nome": "Salvador",
+    "milhas": 22400,
+    "milhas_clube": 21300,
+    "data": "2027-05-18",
+    "datas_texto": "18 de maio",
+    "cia": "",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1810609200000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1811300399000&searchType=g3&segments=1&tripType=1&originAirport=GYN&destinationAirport=SSA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Maio/2027: 18"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": 781,
+    "preco_origem": "estimativa: metade do ida e volta",
+    "milheiro": 34.87,
+    "veredito": "milhas"
+   },
+   {
+    "origem": "BSB",
+    "destino": "GIG",
+    "origem_nome": "Brasília",
+    "destino_nome": "Rio de Janeiro",
+    "milhas": 14900,
+    "milhas_clube": 14200,
+    "data": "2027-04-07",
+    "datas_texto": "7 de abril",
+    "cia": "",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1807066800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1807757999000&searchType=g3&segments=1&tripType=1&originAirport=BSB&destinationAirport=GIG&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Abril/2027: 7"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": 320,
+    "preco_origem": "mesmo mês",
+    "milheiro": 21.48,
+    "veredito": "milhas"
+   },
+   {
+    "origem": "BSB",
+    "destino": "SSA",
+    "origem_nome": "Brasília",
+    "destino_nome": "Salvador",
+    "milhas": 19000,
+    "milhas_clube": 18400,
+    "data": "2027-03-03",
+    "datas_texto": "3 de março",
+    "cia": "",
+    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1804042800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1804733999000&searchType=g3&segments=1&tripType=1&originAirport=BSB&destinationAirport=SSA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+    "datas_mes": [
+     "Março/2027: 3"
+    ],
+    "programa": "Smiles",
+    "preco_dinheiro": 323,
+    "preco_origem": "estimativa: metade do ida e volta",
+    "milheiro": 17.0,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0256"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151499",
+  "titulo": "Transfira pontos do Premmia para o Azul Fidelidade com até 120% de bônus",
+  "link": "https://pontospravoar.com/transfira-pontos-premmia-azul-fidelidade-ate-120-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade, em parceria com o Premmia, programa de fidelidade da Petrobras, liberou novamente a promoção que oferece até 120% de bônus na transferência de pontos entre os programas. Além disso, os clientes podem aproveitar descontos em passagens aéreas, trocar pontos por Vale-Premmia e muito mais! A campanha é válida somente até o final…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Premmia",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade"
+  ],
+  "data": "2026-11-24T19:30:26+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-24T19:53:29.455706+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584707",
+  "titulo": "Último dia! Livelo oferece até 30% off em passagens para Itália + 30% de pointsback",
+  "link": "https://passageirodeprimeira.com/ultimo-dia-livelo-oferece-ate-30-off-em-passagens-para-italia-30-de-pointsback/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Último dia! A Livelo está oferecendo 30% de desconto na emissão de passagens para a Itália, além de 30% de pointsback para correntistas Bradesco. A promoção é válida até hoje (24) e pode resultar em uma economia de até 51% no custo final em pontos.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T19:32:30+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo",
+   "Bradesco"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 30,
+  "milheiro_citado": null,
+  "prazo": "2026-11-24",
+  "repostagem": true,
+  "assinatura": "",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T19:53:29.355153+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584840",
+  "titulo": "Bradesco lança nova versão do Amex The Platinum Card em metal com até 4 pontos por dólar",
+  "link": "https://passageirodeprimeira.com/bradesco-lanca-nova-versao-do-amex-the-platinum-card-em-metal-com-ate-4-pontos-por-dolar/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Bradesco lançará em 1º de dezembro de 2026 uma nova versão do The Platinum Card® American Express em metal, com até 4 pontos Livelo por dólar. O cartão oferece benefícios como acesso a salas VIP e seguro viagem completo, sendo exclusivo para clientes dos segmentos Bradesco Prime, Principal e Private Bank. Além disso, os pontos acumulados não expiram, garantindo mais vantagens para os usuários.",
+  "categorias": [
+   "Notícias",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-24T19:47:02+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo",
+   "Bradesco"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Bradesco,Livelo||0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T19:53:29.353862+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584754",
   "titulo": "Voo de São Paulo para Buenos Aires por apenas 15 mil pontos Azul + taxas",
   "link": "https://passageirodeprimeira.com/voo-de-sao-paulo-para-buenos-aires-por-apenas-15-mil-pontos-azul-taxas/",
@@ -12904,130 +13106,5 @@
   "visto_em": "2026-11-09T19:28:34.159006+00:00",
   "link_oficial": "https://www.voeazul.com.br",
   "codigo": "RT-0079"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580757",
-  "titulo": "Último dia para ganhar até 5.000 pontos ao abrir a Conta Global Revolut",
-  "link": "https://passageirodeprimeira.com/ultimo-dia-para-ganhar-ate-5-000-pontos-ao-abrir-a-conta-global-revolut/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Último dia para abrir sua conta na Revolut e ganhar até 5.000 pontos! Para isso, basta realizar a abertura através do nosso link e cumprir a meta de gastos com o cartão.",
-  "categorias": [
-   "Promoções",
-   "Bancos e Cartões"
-  ],
-  "data": "2026-11-09T18:21:26+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-09",
-  "repostagem": true,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T19:28:34.060190+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580795",
-  "titulo": "Livelo oferece até 57% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,50",
-  "link": "https://passageirodeprimeira.com/livelo-oferece-ate-57-desconto-compra-pontos-assinantes-clube-milheiro-a-partir-2950/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Livelo está oferecendo até 57% de desconto na compra de pontos para assinantes do Clube. A campanha conta com o parcelamento em até 12x sem juros para compras acima de R$ 240,00 e também oferta 2% de desconto no pagamento feito via Pix. Confira!",
-  "categorias": [
-   "Promoções",
-   "Compra de pontos"
-  ],
-  "data": "2026-11-09T18:45:55+00:00",
-  "nacional": false,
-  "categoria": "compra",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 57,
-  "milheiro_citado": 29.5,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "compra|Livelo||57|",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T19:28:34.059684+00:00",
-  "link_oficial": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos",
-  "codigo": "RT-0080"
- },
- {
-  "id": "https://pontospravoar.com/?p=148980",
-  "titulo": "Sisprime lança cartão World Legend Mastercard com até 8 pontos por dólar",
-  "link": "https://pontospravoar.com/sisprime-lanca-cartao-world-legend-mastercard-com-ate-8-pontos-por-dolar/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Sisprime do Brasil lançou o Sisprime World Legend Mastercard, nova categoria premium da bandeira no mercado brasileiro. A cooperativa é a primeira instituição do país a emitir o cartão, que oferece pontuação de até 8 pontos por dólar, acesso ilimitado a salas VIP e spread cambial zero em compras internacionais. Pontuação e acesso a…",
-  "categorias": [
-   "Cartões de Crédito",
-   "Cartões Mastercard",
-   "cartões de crédito",
-   "Mastercard",
-   "SISPRIME"
-  ],
-  "data": "2026-11-09T19:00:53+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T19:28:34.157055+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580590",
-  "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Itaú e C6 Bank",
-  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-de-bonus-nas-transferencias-de-pontos-do-itau-e-c6-bank/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos do Itaú e do C6 Bank, além de até 30% extra para assinantes do Clube Azul. A promoção é válida até amanhã (10) e os pontos bônus serão creditados em até 15 dias úteis após o término da campanha. Não fique de fora dessa oportunidade de aumentar suas milhas!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-09T16:45:36+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "C6 Átomos",
-   "Itaú"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-10",
-  "repostagem": false,
-  "assinatura": "transferencia|C6 Átomos,Itaú|Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%"
-  ],
-  "visto_em": "2026-11-09T17:39:31.556590+00:00",
-  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/itau",
-  "codigo": "RT-0077"
  }
 ]

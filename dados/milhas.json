@@ -128,7 +128,9 @@
   "https://pontospravoar.com/?p=151560",
   "https://passageirodeprimeira.com/?p=584721",
   "https://passageirodeprimeira.com/?p=584695",
-  "https://passageirodeprimeira.com/?p=584754"
+  "https://passageirodeprimeira.com/?p=584754",
+  "https://passageirodeprimeira.com/?p=584707",
+  "https://pontospravoar.com/?p=151527"
  ],
  "resgates": [
   {
@@ -613,6 +615,75 @@
    "post": "https://passageirodeprimeira.com/voe-para-gramado-na-pascoa-a-partir-de-r-117-ou-4-mil-milhas-latam-taxas/",
    "titulo": "Voe para Gramado na Páscoa a partir de R$ 117 ou 4 mil milhas LATAM + taxas",
    "visto_em": "2026-11-23T16:50:37.555323+00:00"
+  },
+  {
+   "origem": "GYN",
+   "destino": "SSA",
+   "origem_nome": "Goiânia",
+   "destino_nome": "Salvador",
+   "milhas": 22400,
+   "milhas_clube": 21300,
+   "data": "2027-05-18",
+   "datas_texto": "18 de maio",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1810609200000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1811300399000&searchType=g3&segments=1&tripType=1&originAirport=GYN&destinationAirport=SSA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Maio/2027: 18"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 781,
+   "preco_origem": "estimativa: metade do ida e volta",
+   "milheiro": 34.87,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
+   "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
+   "visto_em": "2026-11-24T19:53:37.968529+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "GIG",
+   "origem_nome": "Brasília",
+   "destino_nome": "Rio de Janeiro",
+   "milhas": 14900,
+   "milhas_clube": 14200,
+   "data": "2027-04-07",
+   "datas_texto": "7 de abril",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1807066800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1807757999000&searchType=g3&segments=1&tripType=1&originAirport=BSB&destinationAirport=GIG&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Abril/2027: 7"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 320,
+   "preco_origem": "mesmo mês",
+   "milheiro": 21.48,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
+   "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
+   "visto_em": "2026-11-24T19:53:37.968556+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "SSA",
+   "origem_nome": "Brasília",
+   "destino_nome": "Salvador",
+   "milhas": 19000,
+   "milhas_clube": 18400,
+   "data": "2027-03-03",
+   "datas_texto": "3 de março",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1804042800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1804733999000&searchType=g3&segments=1&tripType=1&originAirport=BSB&destinationAirport=SSA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Março/2027: 3"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 323,
+   "preco_origem": "estimativa: metade do ida e volta",
+   "milheiro": 17.0,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-ppv-15-oportunidades-para-viajar-pelo-brasil-a-partir-de-5-900-milhas-smiles/",
+   "titulo": "Alerta PPV! 15 oportunidades para viajar pelo Brasil a partir de 5.900 milhas Smiles",
+   "visto_em": "2026-11-24T19:53:37.968562+00:00"
   }
  ]
 }

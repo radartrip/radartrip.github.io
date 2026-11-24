@@ -95,21 +95,6 @@
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-23-11-2026"
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-24",
-   "visto_em": "2026-11-23",
-   "titulo": "Azul oferece até 120% de bônus nas transferências da Premmia – CPM a partir de R$ 15,32",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/premmia"
-  },
-  {
    "assinatura": "compra||Azul Fidelidade|320|",
    "categoria": "compra",
    "origens": [],
@@ -185,6 +170,21 @@
    "visto_em": "2026-11-24",
    "titulo": "Últimas horas para ganhar 27% de bônus nas transferências de pontos Livelo",
    "link": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras"
+  },
+  {
+   "assinatura": "transferencia||Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-24",
+   "titulo": "Transfira pontos do Premmia para o Azul Fidelidade com até 120% de bônus",
+   "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
@@ -359,7 +359,8 @@
   "passagem|Azul Fidelidade|2.800": "2026-11-24T16:58:09.133714+00:00",
   "acumulo||LATAM Pass|12.0|Magalu": "2026-11-24T17:48:42.439033+00:00",
   "passagem|Azul Fidelidade|15": "2026-11-24T18:46:10.989498+00:00",
-  "passagem|Smiles|22,5": "2026-11-24T18:46:12.095317+00:00"
+  "passagem|Smiles|22,5": "2026-11-24T18:46:12.095317+00:00",
+  "passagem|Smiles|15,5.900": "2026-11-24T19:53:38.487287+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
