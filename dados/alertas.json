@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=584042",
+  "titulo": "GOL vai sortear viagens nacionais, internacionais e 300 mil milhas Smiles",
+  "link": "https://passageirodeprimeira.com/gol-vai-sortear-viagens-nacionais-internacionais-e-300-mil-milhas-smiles/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A GOL vai sortear passagens aéreas nacionais e internacionais com acompanhante e hospedagem, além de 300 mil milhas Smiles. Para participar, é necessário se cadastrar no site da promoção e comprar passagens entre 19 e 30 de novembro de 2026. Os sorteios acontecem em 20 de dezembro, e os ganhadores serão divulgados até 30 de dezembro.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T11:00:19+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-12-30",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T11:35:27.413950+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151491",
+  "titulo": "LATAM Friday! Solicite o cartão LATAM Pass Itaú Mastercard e ganhe até 100 mil milhas bônus",
+  "link": "https://pontospravoar.com/latam-friday-solicite-cartao-latam-pass-itau-mastercard-ganhe-ate-100-mil-milhas-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O LATAM Pass, em comemoração à LATAM Friday, liberou uma promoção para os seus clientes que solicitarem o cartão de crédito LATAM Pass Itaú Mastercard nas variantes Black ou Platinum, em que é possível receber até 100 mil milhas extras ao atingir a meta de gastos. Milhas extras nos cartões LATAM Pass Itaú Mastercard Para…",
+  "categorias": [
+   "Cartões de Crédito",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "cartão de crédito"
+  ],
+  "data": "2026-11-24T11:00:45+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T11:35:27.491872+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151245",
   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 23 de novembro de 2026",
   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-dia-23-novembro-2026/",
@@ -12983,68 +13045,5 @@
   "motivos": [],
   "visto_em": "2026-11-08T19:14:15.343836+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=147910",
-  "titulo": "Brasileiro acumula mais milhas, mas escolhe a companhia pelo preço",
-  "link": "https://pontospravoar.com/programas-de-fidelidade-no-brasil-milha/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Você já abriu o aplicativo, viu um voo mais em conta em outra companhia e emitiu sem olhar o saldo de suas milhas no seu programa? Esse gesto resume o paradoxo dos programas de fidelidade no Brasil em 2026: o brasileiro acumula mais milhas, mas é menos fiel aos programas. A tendência mostra que cada…",
-  "categorias": [
-   "Programas de Fidelidade",
-   "programas de fidelidade"
-  ],
-  "data": "2026-11-08T17:00:02+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-08T17:42:14.910883+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580384",
-  "titulo": "Smiles tem voos nacionais a partir de 8 mil milhas",
-  "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-8-mil-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Smiles está oferecendo voos nacionais a partir de 8.000 milhas por trecho + taxas. Exemplos incluem São José do Rio Preto (SJP) a São Paulo (CGH) por 8.000 milhas e taxas de R$ 37,13. Aproveite essa oportunidade para viajar com milhas!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-08T15:30:49+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|8",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-08T15:43:40.267265+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "link_oficial": "https://www.smiles.com.br/home",
-  "codigo": "RT-0065"
  }
 ]
