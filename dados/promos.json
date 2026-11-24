@@ -78,19 +78,6 @@
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-23-11-2026"
   },
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-23",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 23 de novembro de 2026",
-   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/liga-vitoria/LVC"
-  },
-  {
    "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [
@@ -185,6 +172,19 @@
    "visto_em": "2026-11-24",
    "titulo": "Vai acabar! Transfira pontos da Livelo para o LATAM Pass com 27% de bônus",
    "link": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras"
+  },
+  {
+   "assinatura": "compra||||",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-24",
+   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 24 de novembro de 2026",
+   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   }
  ],
  "vitrine": {
