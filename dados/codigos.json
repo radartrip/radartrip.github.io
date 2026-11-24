@@ -1,5 +1,5 @@
 {
- "ultimo": 258,
+ "ultimo": 259,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3931,6 +3931,22 @@
    "ida": "2027-08-01",
    "volta": "2027-08-06",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20IOS%20on%202027-08-01%20through%202027-08-06"
+  },
+  {
+   "codigo": "RT-0259",
+   "enviado_em": "2026-11-24T20:43:46.956757+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para São Francisco a partir de R$ 1.372 ou 91 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-sao-francisco-a-partir-de-r-1-372-ou-91-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
   }
  ]
 }

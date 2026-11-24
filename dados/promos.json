@@ -61,23 +61,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago"
   },
   {
-   "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
-   "categoria": "transferencia",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 320,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-24",
-   "visto_em": "2026-11-23",
-   "titulo": "Azul Fidelidade oferece até 320% de bônus na compra de pontos",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos"
-  },
-  {
    "assinatura": "transferencia|Esfera|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -185,6 +168,23 @@
    "visto_em": "2026-11-24",
    "titulo": "Transfira pontos do Premmia para o Azul Fidelidade com até 120% de bônus",
    "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+  },
+  {
+   "assinatura": "transferencia|Itaú|Azul Fidelidade|320|",
+   "categoria": "transferencia",
+   "origens": [
+    "Itaú"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 320,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-24",
+   "visto_em": "2026-11-24",
+   "titulo": "Últimas horas para receber até 320% de bônus na compra de pontos do Azul Fidelidade",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos"
   }
  ],
  "vitrine": {
@@ -360,7 +360,8 @@
   "acumulo||LATAM Pass|12.0|Magalu": "2026-11-24T17:48:42.439033+00:00",
   "passagem|Azul Fidelidade|15": "2026-11-24T18:46:10.989498+00:00",
   "passagem|Smiles|22,5": "2026-11-24T18:46:12.095317+00:00",
-  "passagem|Smiles|15,5.900": "2026-11-24T19:53:38.487287+00:00"
+  "passagem|Smiles|15,5.900": "2026-11-24T19:53:38.487287+00:00",
+  "passagem|Azul Fidelidade|1.372,91": "2026-11-24T20:43:46.959545+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -399,6 +400,7 @@
    15.0
   ],
   "Magalu>Smiles": [
+   6.0,
    6.0
   ],
   "Natura>Azul Fidelidade": [
