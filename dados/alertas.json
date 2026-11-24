@@ -1,5 +1,71 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=584754",
+  "titulo": "Voo de São Paulo para Buenos Aires por apenas 15 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voo-de-sao-paulo-para-buenos-aires-por-apenas-15-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Buenos Aires (EZE) a partir de 15.000 pontos Azul Fidelidade + taxas por trecho com a Azul.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T17:50:26+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|15",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T18:46:08.489153+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0254"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584695",
+  "titulo": "5 sugestões de voos internacionais a partir de 22 mil milhas Smiles + taxas",
+  "link": "https://passageirodeprimeira.com/5-sugestoes-voos-internacionais-a-partir-22-mil-milhas-smiles-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Pensando em viajar para o exterior, mas ainda não tem certeza do seu destino? 🛫 Nesta matéria, sugerimos 5 opções de resgates de voos internacionais a partir de 22.500 milhas Smiles por trecho, partindo de diferentes aeroportos brasileiros e para diferentes destinos. Aproveite!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T18:27:14+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|22,5",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T18:46:08.488549+00:00",
+  "trechos_total": 0,
+  "resgates": [],
+  "link_oficial": "https://www.smiles.com.br/home",
+  "codigo": "RT-0255"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584529",
   "titulo": "Últimas horas para ganhar 27% de bônus nas transferências de pontos Livelo",
   "link": "https://passageirodeprimeira.com/ultimas-horas-para-ganhar-27-de-bonus-nas-transferencias-de-pontos-livelo/",
@@ -12963,71 +13029,5 @@
   "visto_em": "2026-11-09T17:39:31.556590+00:00",
   "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/itau",
   "codigo": "RT-0077"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580679",
-  "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos do Sem Parar",
-  "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-sem-parar/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O LATAM Pass está oferecendo 25% de milhas bônus nas transferências do Sem Parar até amanhã (10). Além disso, na primeira transferência, você ganha 1.000 milhas adicionais. Não perca essa oportunidade de aumentar suas milhas!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-09T17:15:22+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 25,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-10",
-  "repostagem": false,
-  "assinatura": "transferencia||LATAM Pass|25|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 25%"
-  ],
-  "visto_em": "2026-11-09T17:39:31.555817+00:00",
-  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=148961",
-  "titulo": "Só hoje! Livelo oferece 104 mil pontos na assinatura do Clube Especial",
-  "link": "https://pontospravoar.com/so-hoje-livelo-oferece-104-mil-pontos-assinatura-clube-especial/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Apenas hoje, dia 9 de novembro, a Livelo está com uma nova campanha de adesão ao Clube Especial, permitindo que novos assinantes acumulem 104 mil pontos, tanto na modalidade mensal quanto anual. Abaixo, confira os detalhes. Promoção Clube Livelo Especial Esta promoção de assinatura engloba os planos mensal e anual do Clube Livelo Especial, que…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "CLUBE LIVELO",
-   "Clube Livelo Especial",
-   "livelo"
-  ],
-  "data": "2026-11-09T17:00:38+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-09",
-  "repostagem": true,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T17:39:31.743098+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]

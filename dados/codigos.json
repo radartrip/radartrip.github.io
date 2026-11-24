@@ -1,5 +1,5 @@
 {
- "ultimo": 253,
+ "ultimo": 255,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3852,6 +3852,38 @@
     "categoria": "acumulo",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0254",
+   "enviado_em": "2026-11-24T18:46:10.986767+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voo de São Paulo para Buenos Aires por apenas 15 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voo-de-sao-paulo-para-buenos-aires-por-apenas-15-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0255",
+   "enviado_em": "2026-11-24T18:46:12.092528+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "5 sugestões de voos internacionais a partir de 22 mil milhas Smiles + taxas",
+   "link": "https://passageirodeprimeira.com/5-sugestoes-voos-internacionais-a-partir-22-mil-milhas-smiles-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }
