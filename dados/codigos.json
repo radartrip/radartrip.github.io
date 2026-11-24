@@ -1,5 +1,5 @@
 {
- "ultimo": 249,
+ "ultimo": 251,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3786,6 +3786,39 @@
    "etiquetas": {
     "categoria": "acumulo",
     "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0250",
+   "enviado_em": "2026-11-24T15:57:45.573411+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Black do PP! Esfera oferece até 55% de desconto na compra de pontos",
+   "link": "https://passageirodeprimeira.com/black-do-pp-esfera-oferece-ate-55-de-desconto-na-compra-de-pontos/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "compra",
+    "programas": [
+     "Esfera"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0251",
+   "enviado_em": "2026-11-24T15:57:47.379526+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Especial Bradesco! Executiva da TAP para Milão por R$ 3.468 + taxas o trecho pela Livelo – confira o passo a passo",
+   "link": "https://passageirodeprimeira.com/especial-bradesco-executiva-da-tap-para-milao-por-r-3-468-taxas-o-trecho-pela-livelo-confira-o-passo-a-passo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Bradesco",
      "Livelo"
     ],
     "trechos": []
