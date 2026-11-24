@@ -44,23 +44,6 @@
    "link": "http://www.smiles.com.br/portal/campanhas/comprademilhas-375-20261119"
   },
   {
-   "assinatura": "transferencia|Livelo|LATAM Pass|27|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 27,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-24",
-   "visto_em": "2026-11-23",
-   "titulo": "LATAM Pass oferece 27% de bônus na transferência de pontos Livelo",
-   "link": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras"
-  },
-  {
    "assinatura": "clube|Itaú|Azul Fidelidade||",
    "categoria": "clube",
    "origens": [
@@ -153,6 +136,40 @@
    "visto_em": "2026-11-23",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 23 de novembro de 2026",
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/liga-vitoria/LVC"
+  },
+  {
+   "assinatura": "transferencia|Livelo|LATAM Pass|27|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 27,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-24",
+   "visto_em": "2026-11-24",
+   "titulo": "Último dia! LATAM Pass oferece 27% de bônus na transferência de pontos Livelo",
+   "link": "https://latampass.latam.com/br/pt/promocoes/livelo-milhas-extras"
+  },
+  {
+   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Inter Loop"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-25",
+   "visto_em": "2026-11-24",
+   "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos do Inter Loop para o Azul Fidelidade",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
   }
  ],
  "vitrine": {
@@ -227,7 +244,7 @@
   "passagem||2.736": "2026-11-10T22:49:47.179627+00:00",
   "passagem||1,1.987,2": "2026-11-10T22:49:48.420841+00:00",
   "passagem||4.009": "2026-11-10T22:49:50.018715+00:00",
-  "transferencia|Inter Loop|Azul Fidelidade|120|": "2026-11-11T12:49:12.407758+00:00",
+  "transferencia|Inter Loop|Azul Fidelidade|120|": "2026-11-24T12:43:48.044401+00:00",
   "passagem||11.11,406": "2026-11-11T14:03:53.439751+00:00",
   "transferencia|Itaú|LATAM Pass|25|": "2026-11-11T14:03:54.243311+00:00",
   "passagem|LATAM Pass|8.801": "2026-11-11T14:03:56.243624+00:00",
