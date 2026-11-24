@@ -1,5 +1,140 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151559",
+  "titulo": "Alerta PPV! Passagens para Argentina a partir de 16 mil milhas LATAM Pass",
+  "link": "https://pontospravoar.com/alerta-ppv-passagens-argentina-16-mil-milhas-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal aproveitar esta terça-feira para planejar sua próxima viagem para a Argentina usando milhas? O alerta de passagens PPV traz novas oportunidades pelo LATAM Pass, com passagens para diferentes destinos no país a partir de 16 mil milhas + taxas. Confira as opções selecionadas e aproveite para pesquisar sua próxima viagem! Passagens internacionais no…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Publicidade",
+   "PUBLICIDADE",
+   "TRECHOS INTERNACIONAIS"
+  ],
+  "data": "2026-11-24T21:00:21+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|16",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T21:39:39.419682+00:00",
+  "trechos_total": 10,
+  "resgates": [],
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584844",
+  "titulo": "Voe de São Paulo para Dubai a partir de R$ 2.295 ou 153 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-de-sao-paulo-para-dubai-a-partir-de-r-2-295-ou-153-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Dubai (DXB) a partir de 153.000 pontos Azul Fidelidade + taxas por trecho com a Azul. Além disso, caso você não tenha pontos para realizar a emissão, é possível comprar pontos Azul com até 320% de bônus e emitir o trecho a partir de R$ 2.295 + taxas.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-24T21:10:50+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 320,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|153,2.295",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T21:39:39.341750+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos",
+  "codigo": "RT-0260"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151634",
+  "titulo": "Últimas horas: Compre pontos Azul Fidelidade com até 320% de bônus",
+  "link": "https://pontospravoar.com/ultimas-horas-compre-pontos-azul-fidelidade-ate-320-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Últimas horas para aproveitar! O Azul Fidelidade está com uma promoção para quem deseja turbinar o saldo de pontos. Hoje é o último dia para comprar pontos com até 320% de bônus. Confira os detalhes e aproveite a oportunidade! Azul Fidelidade oferece até 320% de bônus na compra de pontos 320% de bônus – assinantes…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "COMPRA DE PONTOS COM DESCONTO"
+  ],
+  "data": "2026-11-24T21:30:18+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 320,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-24",
+  "repostagem": true,
+  "assinatura": "compra||Azul Fidelidade|320|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T21:39:39.418911+00:00",
+  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/compra-de-pontos?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584854",
+  "titulo": "Shopping LATAM Pass oferece até 12 milhas por real gasto na Magalu",
+  "link": "https://passageirodeprimeira.com/shopping-latam-pass-oferece-ate-12-milhas-real-gasto-magalu/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Shopping LATAM Pass está oferecendo até 12 milhas por real gasto para compras em toda a loja da Magalu. A oferta é válida até amanhã (25). Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-24T21:30:59+00:00",
+  "pontos_por_real": 12.0,
+  "parceiro": "Magalu",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-25",
+  "repostagem": false,
+  "assinatura": "acumulo||LATAM Pass|12.0|Magalu",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T21:39:39.339896+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584786",
   "titulo": "Últimas horas para receber até 320% de bônus na compra de pontos do Azul Fidelidade",
   "link": "https://passageirodeprimeira.com/ultimas-horas-receber-ate-320-bonus-compra-pontos-azul-fidelidade/",
@@ -12982,133 +13117,5 @@
   "resgates": [],
   "link_oficial": "https://www.voeazul.com.br/br/pt/home/selecao-voo?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo&c%5B0%5D.ds=POA&c%5B0%5D.as=CWB&c%5B0%5D.std=03%2F01%2F2027&p%5B0%5D.t=ADT&p%5B0%5D.c=1&p%5B0%5D.cp=false&cc=PTS&f.dl=3&f.dr=3&s_kwcid=buscapaga_brv_azf_ppv_conteudo_uf_aon-marca_insti_afiliado_cpc_rspnsv_lp_pontospravoar_responsivo",
   "codigo": "RT-0082"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=574804",
-  "titulo": "Estão abertas as votações do Prêmio Passageiro de Primeira 2026!",
-  "link": "https://passageirodeprimeira.com/premio-passageiro-de-primeira-2026/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Estão abertas as votações do Prêmio Passageiro de Primeira 2026! É a hora de eleger os seus preferidos do universo da aviação, viagens e programas de fidelidade!",
-  "categorias": [
-   "Notícias",
-   "Outros"
-  ],
-  "data": "2026-11-09T20:44:49+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T21:17:54.376019+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=148976",
-  "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 3.887 milhas LATAM Pass",
-  "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-3887-milhas-latam-pass/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A segunda-feira traz novas oportunidades para quem deseja viajar pelo Brasil usando milhas! Nossa equipe encontrou passagens nacionais a partir de 3.887 milhas LATAM Pass + taxas, com opções para diferentes destinos. Confira a seleção e comece a planejar sua próxima viagem. Passagens nacionais no LATAM Pass Para garantir as suas passagens nacionais no LATAM Pass,…",
-  "categorias": [
-   "Emissões com Pontos",
-   "LATAM",
-   "LATAM Pass",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-09T21:00:53+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|3.887",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T21:17:54.548084+00:00",
-  "trechos_total": 20,
-  "resgates": [],
-  "link_oficial": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&city=all",
-  "codigo": "RT-0081"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=579968",
-  "titulo": "Saiba por que vale a pena antecipar as compras de Natal na Black Friday",
-  "link": "https://passageirodeprimeira.com/compras-de-natal-na-black-friday-livelo/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Já pensou em garantir os presentes de Natal com desconto e ainda acumular muitos pontos? Veja como aproveitar a Pink Friday da Livelo e as ofertas especiais de novembro.",
-  "categorias": [
-   "Notícias",
-   "Publicidade"
-  ],
-  "data": "2026-11-09T21:15:59+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Livelo||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T21:17:54.375175+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580797",
-  "titulo": "Gere o milheiro Privilege Club da Qatar a partir de R$ 65,55 comprando pontos Livelo",
-  "link": "https://passageirodeprimeira.com/gere-o-milheiro-privilege-club-da-qatar-a-partir-de-r-6555-comprando-pontos-livelo/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Conforme publicamos mais cedo, o Privilege Club, programa de fidelidade da Qatar Airways, está oferecendo 35% de bônus nas transferências de pontos Livelo. Além disso, a Livelo está oferecendo até 57% de desconto na compra de pontos. Unindo as duas oportunidades, é possível gerar o milheiro de Avios Privilege Club a partir de R$ 65,55.",
-  "categorias": [
-   "Promoções",
-   "Compra de pontos"
-  ],
-  "data": "2026-11-09T20:17:51+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "Livelo"
-  ],
-  "bonus": 35,
-  "desconto": 57,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia||Livelo|35|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 35%"
-  ],
-  "visto_em": "2026-11-09T20:22:48.049693+00:00",
-  "link_oficial": "https://www.livelo.com.br/clube",
-  "fora_vitrine": "repetição de promoção já enviada"
  }
 ]

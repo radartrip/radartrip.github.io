@@ -1,5 +1,5 @@
 {
- "ultimo": 259,
+ "ultimo": 260,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -3939,6 +3939,22 @@
    "tipo": "Passagem com milhas",
    "titulo": "Voe para São Francisco a partir de R$ 1.372 ou 91 mil pontos Azul + taxas",
    "link": "https://passageirodeprimeira.com/voe-para-sao-francisco-a-partir-de-r-1-372-ou-91-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0260",
+   "enviado_em": "2026-11-24T21:39:51.886615+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe de São Paulo para Dubai a partir de R$ 2.295 ou 153 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-de-sao-paulo-para-dubai-a-partir-de-r-2-295-ou-153-mil-pontos-azul-taxas/",
    "fonte": "Passageiro de Primeira",
    "etiquetas": {
     "categoria": "passagem",
