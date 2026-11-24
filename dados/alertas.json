@@ -1,5 +1,76 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=584571",
+  "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-120-bonus-transferencias-pontos-inter-loop/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos Inter Loop + até 30% de bônus adicional, dependendo do seu tempo de permanência no Clube Azul. A campanha é válida somente até amanhã (25). Confira!",
+  "categorias": [
+   "Promoções",
+   "Transferência de pontos"
+  ],
+  "data": "2026-11-24T14:23:29+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [
+   "Inter Loop"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 120,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-25",
+  "repostagem": false,
+  "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 120%"
+  ],
+  "visto_em": "2026-11-24T14:56:50.559490+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151523",
+  "titulo": "Pink Friday! Livelo oferece até 15 pontos por real em lojas parceiras",
+  "link": "https://pontospravoar.com/pink-friday-livelo-oferece-ate-15-pontos-real-lojas-parceiras/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A terça-feira chegou com boas oportunidades para quem deseja acumular pontos e aproveitar ofertas! A Livelo reúne promoções de compra bonificada em lojas como Karsten, Under Armour e C&A, com condições que chegam a 15 pontos por real gasto. Confira os detalhes! Promoções Livelo Confira na tabela abaixo as campanhas da Livelo: Clique aqui para…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "ACÚMULO DE PONTOS",
+   "livelo"
+  ],
+  "data": "2026-11-24T14:00:17+00:00",
+  "pontos_por_real": 15.0,
+  "parceiro": "C&A",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||15.0|C&A",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-24T14:56:50.623814+00:00",
+  "link_oficial": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB",
+  "codigo": "RT-0249"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584212",
   "titulo": "É Black! 50% OFF: o maior desconto da história dos Alertas do PP",
   "link": "https://passageirodeprimeira.com/e-black-50-off-o-maior-desconto-da-historia-dos-alertas-do-pp/",
@@ -12975,96 +13046,5 @@
   "resgates": [],
   "link_oficial": "https://www.smiles.com.br/home",
   "codigo": "RT-0073"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580509",
-  "titulo": "Turbina saldo! Esfera oferece até 14 pontos por real gasto na Insider, Polishop e mais",
-  "link": "https://passageirodeprimeira.com/turbina-saldo-esfera-oferece-ate-14-pontos-por-real-gasto-na-insider-polishop-e-mais/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Turbina Saldo Esfera está oferecendo até 14 pontos por real gasto na Insider, Polishop e mais parceiros. As ofertas contam com prazo de validade e pontuações diferentes. Confira!",
-  "categorias": [
-   "Promoções",
-   "Compre e pontue"
-  ],
-  "data": "2026-11-09T13:31:08+00:00",
-  "pontos_por_real": 14.0,
-  "parceiro": "Polishop",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Esfera"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Esfera||14.0|Polishop",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-09T13:42:15.202040+00:00",
-  "link_oficial": "https://www.esfera.com.vc/campanha-turbina-saldo",
-  "codigo": "RT-0074"
- },
- {
-  "id": "https://pontospravoar.com/?p=148869",
-  "titulo": "Alerta de passagens PPV! Trechos internacionais na Smiles a partir de 16.800 milhas + taxas",
-  "link": "https://pontospravoar.com/alerta-passagens-ppv-trechos-internacionais-smiles-16800-milhas-taxas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "No alerta de passagens PPV desta segunda-feira, nossa equipe reuniu opções de trechos internacionais utilizando milhas Smiles, com emissões a partir de 16.800 milhas + taxas. Abaixo, confira as disponibilidades e aproveite! Passagens internacionais com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver alteração no valor…",
-  "categorias": [
-   "Emissões com Pontos",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "Smiles",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-09T12:00:41+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|16.800",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "alta",
-  "motivos": [
-   "resgate de GYN/BSB"
-  ],
-  "visto_em": "2026-11-09T12:21:46.166690+00:00",
-  "trechos_total": 9,
-  "resgates": [
-   {
-    "origem": "GYN",
-    "destino": "AEP",
-    "origem_nome": "Goiânia",
-    "destino_nome": "Buenos Aires",
-    "milhas": 37000,
-    "milhas_clube": 34500,
-    "data": "2027-01-08",
-    "datas_texto": "8 de janeiro",
-    "cia": "GOL",
-    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1799420400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=GYN&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=AEP&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
-    "datas_mes": [
-     "Janeiro/2027: 8"
-    ],
-    "programa": "Smiles",
-    "preco_dinheiro": null,
-    "preco_origem": "",
-    "milheiro": null,
-    "veredito": ""
-   }
-  ],
-  "codigo": "RT-0070"
  }
 ]

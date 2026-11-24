@@ -168,8 +168,8 @@
    "milheiro": null,
    "prazo": "2026-11-25",
    "visto_em": "2026-11-24",
-   "titulo": "Azul Friday! Ganhe até 120% de bônus na transferência de pontos do Inter Loop para o Azul Fidelidade",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
+   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
   }
  ],
  "vitrine": {
@@ -337,7 +337,8 @@
   "passagem|Azul Fidelidade|62.300": "2026-11-23T18:47:05.499617+00:00",
   "passagem|Smiles|66": "2026-11-23T18:47:06.440068+00:00",
   "passagem|LATAM Pass|1.460,61": "2026-11-23T20:41:45.911886+00:00",
-  "passagem|Smiles|22": "2026-11-23T20:41:46.522947+00:00"
+  "passagem|Smiles|22": "2026-11-23T20:41:46.522947+00:00",
+  "acumulo|Livelo||15.0|C&A": "2026-11-24T14:56:53.248157+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -386,6 +387,9 @@
    12.0,
    24.0,
    12.0
+  ],
+  "C&A>Livelo": [
+   15.0
   ]
  }
 }
