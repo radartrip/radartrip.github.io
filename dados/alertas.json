@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585132",
+  "titulo": "Meu Resgate Favorito! Mala de bordo, Vale Outback, Soundbar e mais a partir de 11 mil pontos Azul",
+  "link": "https://passageirodeprimeira.com/meu-resgate-favorito-mala-de-bordo-vale-outback-soundbar-e-mais-a-partir-de-11-mil-pontos-azul/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul lançou uma nova edição do Meu Resgate Favorito com produtos incríveis a partir de 11 mil pontos. Entre as ofertas, estão a mala de viagem de bordo por 11 mil pontos e o vale presente do Outback por 13 mil pontos. A promoção é válida apenas para assinantes do Clube Azul e portadores dos cartões Azul Itaú, então fique atento!",
+  "categorias": [
+   "Promoções",
+   "Outros"
+  ],
+  "data": "2026-11-25T18:01:42+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Itaú"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Itaú|Azul Fidelidade||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T18:12:02.619935+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151843",
+  "titulo": "Meu Resgate Favorito! Resgate mala, TV Samsung e outros produtos com pontos Azul Fidelidade",
+  "link": "https://pontospravoar.com/meu-resgate-favorito-resgate-mala-tv-samsung-e-outros-produtos-com-pontos-azul-fidelidade/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O Azul Fidelidade preparou uma edição especial do Meu Resgate Favorito, trazendo novas oportunidades para quem deseja trocar seus pontos por produtos! Desta vez, a campanha conta com resgates a partir de 11 mil pontos Azul Fidelidade. Entre os destaques estão uma mala Travelux, soundbar Samsung, robô aspirador, gift card do Outback e TV Samsung…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Programas de Fidelidade",
+   "Promoções",
+   "meu resgate favorito"
+  ],
+  "data": "2026-11-25T18:01:48+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T18:12:02.707474+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584981",
   "titulo": "Ótimo preço! Viaje para Curaçao a partir 61 mil pontos Azul + taxas",
   "link": "https://passageirodeprimeira.com/otimo-preco-viaje-para-curacao-a-partir-61-mil-pontos-azul-taxas/",
@@ -13043,93 +13105,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-10T18:59:12.767250+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=149202",
-  "titulo": "Alerta PPV! Confira passagens pelo Brasil a partir de 6.900 milhas Smiles + taxas",
-  "link": "https://pontospravoar.com/alerta-ppv-confira-passagens-brasil-6900-milhas-smiles-taxas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Planejando sua próxima viagem? No alerta de passagens PPV de hoje, encontramos oportunidades para conhecer diferentes destinos pelo Brasil a partir de 8.000 milhas Smiles + taxas. A seguir, veja as disponibilidades disponíveis e arrume suas malas! Passagens com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver…",
-  "categorias": [
-   "Emissões com Pontos",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "Smiles",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-10T18:00:37+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|6.900",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "alta",
-  "motivos": [
-   "resgate de GYN/BSB"
-  ],
-  "visto_em": "2026-11-10T18:07:50.190253+00:00",
-  "trechos_total": 11,
-  "resgates": [
-   {
-    "origem": "GIG",
-    "destino": "BSB",
-    "origem_nome": "Rio de Janeiro",
-    "destino_nome": "Brasília",
-    "milhas": 12500,
-    "milhas_clube": 11800,
-    "data": "2027-03-20",
-    "datas_texto": "20 de março",
-    "cia": "",
-    "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1805511600000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1806202799000&searchType=g3&segments=1&tripType=1&originAirport=GIG&destinationAirport=BSB&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
-    "datas_mes": [
-     "Março/2027: 20"
-    ],
-    "programa": "Smiles",
-    "preco_dinheiro": null,
-    "preco_origem": "",
-    "milheiro": null,
-    "veredito": ""
-   }
-  ],
-  "codigo": "RT-0090"
- },
- {
-  "id": "https://pontospravoar.com/?p=149164",
-  "titulo": "Sem Parar e LATAM Pass fecham parceria para converter pontos em milhas aéreas",
-  "link": "https://pontospravoar.com/sem-parar-e-latam-pass-fecham-parceria-para-converter-pontos-em-milhas-aereas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A parceria entre o Sem Parar e o LATAM Pass permite transformar pontos acumulados com serviços de mobilidade em milhas aéreas. A novidade está disponível desde 9 de novembro e contempla clientes do programa Sem Parar Mais. Conversão será de um ponto por uma milha Os clientes poderão transferir os pontos acumulados no Sem Parar…",
-  "categorias": [
-   "LATAM Pass",
-   "Programas de Fidelidade"
-  ],
-  "data": "2026-11-10T17:30:36+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T18:07:50.190920+00:00",
   "fora_vitrine": "sem critério de vitrine"
  }
 ]
