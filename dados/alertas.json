@@ -1,5 +1,130 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=584981",
+  "titulo": "Ótimo preço! Viaje para Curaçao a partir 61 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/otimo-preco-viaje-para-curacao-a-partir-61-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Curaçao (CUR) a partir de 61.000 mil pontos Azul Fidelidade + taxas por trecho com a Copa Airlines!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-25T16:40:35+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T17:28:42.348905+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151803",
+  "titulo": "Alerta PPV! Passagens internacionais a partir de 42.500 pontos no Azul pelo Mundo",
+  "link": "https://pontospravoar.com/alerta-ppv-passagens-internacionais-42500-pontos-azul-pelo-mundo/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "No alerta de passagens PPV de hoje, nossa equipe reuniu diversas oportunidades de voos internacionais disponíveis no Azul pelo Mundo, com emissões a partir de 42.500 pontos Azul Fidelidade + taxas. Confira os destinos, trechos e datas disponíveis e aproveite para organizar sua próxima viagem ao exterior! Passagens internacionais com pontos Azul Fidelidade Confira na…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Emissões com Pontos",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul pelo mundo",
+   "TRECHOS INTERNACIONAIS"
+  ],
+  "data": "2026-11-25T17:00:05+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|42.500",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T17:28:42.379448+00:00",
+  "link_oficial": "https://azulpelomundo.voeazul.com.br/",
+  "codigo": "RT-0270"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585055",
+  "titulo": "Até 23h59! Multiplique seus pontos em até 25x com o Turbo Livelo – milheiro a partir de R$ 29",
+  "link": "https://passageirodeprimeira.com/ate-23h59-multipliquepontos-ate-25x-turbo-livelo-milheiro-a-partir-r-29/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo a possibilidade de acumular pontos de forma mais rápida com o Turbo Livelo. Na campanha, você turbina em até 25 vezes os pontos adquiridos nos últimos 12 meses e o CPM [Custo para cada mil pontos] pode ser obtido a partir de R$ 29 para pagamento no Pix ou R$ 29,90 para pagamento no cartão de crédito, com parcelamento em até 12x sem juros. A campanha é válida apenas hoje (2",
+  "categorias": [
+   "Promoções",
+   "Compra de pontos"
+  ],
+  "data": "2026-11-25T17:00:13+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": 29.0,
+  "prazo": "2026-11-25",
+  "repostagem": true,
+  "assinatura": "acumulo|Livelo||0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T17:28:42.347279+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584874",
+  "titulo": "Ganhe até 10.000 pontos Livelo adquirindo dólares digitais no ARQ",
+  "link": "https://passageirodeprimeira.com/ganhe-ate-10-000-pontos-livelo-adquirindo-dolares-digitais-no-arq/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O ARQ, plataforma financeira global, está oferecendo até 10 mil pontos Livelo para novos clientes que abrirem uma conta até amanhã (26) e converterem pelo menos 100 dólares digitais em até 30 dias.",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-25T17:20:31+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T17:28:42.344518+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=585164",
   "titulo": "LATAM Pass oferece 60% de bônus na transferência de pontos do Premmia – CPM a partir de R$ 24,06",
   "link": "https://passageirodeprimeira.com/latam-pass-oferece-60-de-bonus-na-transferencia-de-pontos-do-premmia-cpm-a-partir-de-r-2406/",
@@ -13006,133 +13131,5 @@
   "motivos": [],
   "visto_em": "2026-11-10T18:07:50.190920+00:00",
   "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581003",
-  "titulo": "Só hoje: Receba 12.000 pontos na hora ao assinar o Clube Livelo Essencial",
-  "link": "https://passageirodeprimeira.com/so-hoje-receba-12-000-pontos-na-hora-ao-assinar-o-clube-livelo-essencial/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Clube Livelo está oferecendo 12.000 pontos na hora para novas assinaturas do Clube Essencial anual, totalizando 23.000 pontos ao longo de 12 meses. A promoção é válida apenas hoje (10) e o custo por milheiro pode ser a partir de R$ 23,43.",
-  "categorias": [
-   "Promoções",
-   "Clube de pontos"
-  ],
-  "data": "2026-11-10T17:42:38+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": 23.43,
-  "prazo": "2026-11-10",
-  "repostagem": true,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T18:07:50.051530+00:00",
-  "link_oficial": "https://www.livelo.com.br/clube",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149168",
-  "titulo": "Smiles lança ferramenta para multiplicar milhas acumuladas em até 12 vezes",
-  "link": "https://pontospravoar.com/smiles-lanca-ferramenta-para-multiplicar-milhas-acumuladas-em-ate-12-vezes/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Smiles lançou uma nova funcionalidade que permite multiplicar as milhas acumuladas pelos clientes nos últimos 12 meses: batizada de Multiplique Milhas, a ferramenta oferece quatro opções de contratação e já está disponível no aplicativo do programa. Como funciona o Multiplique Milhas? O Multiplique Milhas considera o total de milhas acumuladas pelo cliente no ecossistema…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Programas de Fidelidade",
-   "Sem categoria",
-   "Smiles",
-   "milhas",
-   "programas de fidelidade"
-  ],
-  "data": "2026-11-10T16:30:03+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo||Smiles|0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T17:16:54.005558+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580986",
-  "titulo": "Greve geral na Espanha pode provocar atrasos e cancelamentos de voos",
-  "link": "https://passageirodeprimeira.com/greve-geral-na-espanha-pode-provocar-atrasos-e-cancelamentos-de-voos/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "[Notícia] A Espanha terá uma greve geral de 24 horas nesta quarta-feira (11), o que pode causar atrasos e cancelamentos de voos. O governo espanhol estabeleceu serviços mínimos para garantir parte das operações, enquanto companhias aéreas, como Iberia e American Airlines, oferecem alternativas para passageiros afetados. Fique atento às orientações das empresas e considere remarcar sua viagem.",
-  "categorias": [
-   "Notícias",
-   "Outros"
-  ],
-  "data": "2026-11-10T16:50:23+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T17:16:53.877254+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=149131",
-  "titulo": "Pink Friday! Livelo oferece 23.000 pontos no Clube Essencial anual",
-  "link": "https://pontospravoar.com/pink-friday-livelo-oferece-23000-pontos-clube-essencial-anual/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Livelo liberou uma nova promoção na Pink Friday para quem deseja assinar o Clube Essencial, oferecendo aos novos assinantes 23 mil pontos na assinatura anual. A oferta fica disponível somente hoje, dia 10 de novembro, e você confere todos os detalhes a seguir. Clube Livelo Essencial Esta promoção de assinatura do Clube Livelo Essencial…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Livelo",
-   "Programas de Fidelidade",
-   "Promoções",
-   "CLUBE LIVELO",
-   "Clube Livelo Essencial",
-   "livelo",
-   "Pink Friday"
-  ],
-  "data": "2026-11-10T17:00:08+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Livelo|||",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T17:16:54.000905+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
  }
 ]
