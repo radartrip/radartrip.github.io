@@ -1,5 +1,5 @@
 {
- "ultimo": 270,
+ "ultimo": 273,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4103,6 +4103,50 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0271",
+   "enviado_em": "2026-11-25T20:03:38.850286+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta PPV! Smiles oferece passagens nacionais promocionais a partir de 7 mil milhas",
+   "link": "https://pontospravoar.com/alerta-ppv-smiles-oferece-passagens-nacionais-promocionais-7-mil-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0272",
+   "enviado_em": "2026-11-25T20:03:40.326784+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Smiles tem voos nacionais a partir de 6 mil milhas",
+   "link": "https://passageirodeprimeira.com/smiles-tem-voos-nacionais-a-partir-de-6-mil-milhas-2/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0273",
+   "enviado_em": "2026-11-25T20:03:58.577700+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-REC",
+   "preco": 1587,
+   "media": 2445,
+   "ida": "2027-01-13",
+   "volta": "2027-01-20",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20REC%20on%202027-01-13%20through%202027-01-20"
   }
  ]
 }
