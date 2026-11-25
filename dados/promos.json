@@ -121,21 +121,6 @@
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   },
   {
-   "assinatura": "transferencia||LATAM Pass|25|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 25,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-30",
-   "visto_em": "2026-11-25",
-   "titulo": "Black Friday ALL Accor! Transfira pontos do LATAM Pass com desconto e ganhe até 25% de bônus",
-   "link": "https://latampass.latam.com"
-  },
-  {
    "assinatura": "transferencia||Smiles|70|",
    "categoria": "transferencia",
    "origens": [],
@@ -149,6 +134,38 @@
    "visto_em": "2026-11-25",
    "titulo": "BB Empresas e Smiles: transfira pontos com até 70% de bônus",
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-bbpj-11-2026"
+  },
+  {
+   "assinatura": "transferencia|Livelo|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-25",
+   "visto_em": "2026-11-25",
+   "titulo": "Apenas hoje! Smiles oferece até 80% de bônus na transferência de pontos Livelo",
+   "link": "https://www.livelo.com.br"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|25|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 25,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-25",
+   "titulo": "LATAM Pass oferece 25% de bônus na transferência de parceiros selecionados",
+   "link": "https://latampass.latam.com"
   }
  ],
  "vitrine": {
