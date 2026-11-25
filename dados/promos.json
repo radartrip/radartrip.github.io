@@ -166,6 +166,21 @@
    "visto_em": "2026-11-25",
    "titulo": "LATAM Pass oferece 25% de bônus na transferência de parceiros selecionados",
    "link": "https://latampass.latam.com"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|60|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 60,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-25",
+   "titulo": "LATAM Pass oferece 60% de bônus na transferência de pontos do Premmia – CPM a partir de R$ 24,06",
+   "link": "https://latampass.latam.com/pt_br/junte-milhas/premmia"
   }
  ],
  "vitrine": {
@@ -344,7 +359,8 @@
   "passagem|Smiles|15,5.900": "2026-11-24T19:53:38.487287+00:00",
   "passagem|Azul Fidelidade|1.372,91": "2026-11-24T20:43:46.959545+00:00",
   "passagem|Azul Fidelidade|153,2.295": "2026-11-24T21:39:51.889471+00:00",
-  "acumulo||Azul Fidelidade|25.0|Netshoes": "2026-11-25T15:30:00.359159+00:00"
+  "acumulo||Azul Fidelidade|25.0|Netshoes": "2026-11-25T15:30:00.359159+00:00",
+  "transferencia||LATAM Pass|60|": "2026-11-25T16:38:54.536045+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
