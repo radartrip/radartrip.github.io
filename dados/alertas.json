@@ -1,5 +1,42 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151722",
+  "titulo": "BB Empresas e Smiles: transfira pontos com até 70% de bônus",
+  "link": "https://pontospravoar.com/bb-empresas-smiles-transfira-pontos-ate-70-porcento-bonus/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Quer turbinar seu saldo de milhas? A Smiles, em parceria com o BB Empresas, está oferecendo até 70% de bônus na transferência de pontos para o programa. A campanha é uma oportunidade para quem deseja acumular mais milhas e planejar suas próximas viagens. Confira as condições da promoção e saiba como aproveitar! Smiles e BB…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Banco do Brasil",
+   "Programas de Fidelidade",
+   "Promoções",
+   "Smiles",
+   "BB Empresas",
+   "BÔNUS NA TRANSFERÊNCIA DE PONTOS"
+  ],
+  "data": "2026-11-25T12:00:26+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 70,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||Smiles|70|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 70%"
+  ],
+  "visto_em": "2026-11-25T12:59:42.888958+00:00",
+  "link_oficial": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-bbpj-11-2026",
+  "codigo": "RT-0266"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584914",
   "titulo": "Black Friday! ALL Accor oferece até 25% de bônus nas transferências de milhas do LATAM Pass",
   "link": "https://passageirodeprimeira.com/black-friday-all-accor-oferece-ate-25-de-bonus-nas-transferencias-de-milhas-do-latam-pass/",
@@ -13118,34 +13155,5 @@
   "motivos": [],
   "visto_em": "2026-11-10T13:49:36.085566+00:00",
   "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580682",
-  "titulo": "Missão LATAM Pass: responda à pergunta e ganhe 25 milhas",
-  "link": "https://passageirodeprimeira.com/missao-latam-pass-responda-pergunta-ganhe-25-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O LATAM Pass, em parceria com a Shopee, está oferecendo 25 milhas para os clientes que responderem a uma pergunta sobre seus hábitos de compra. Essa missão está válida no aplicativo do programa de fidelidade até a quarta-feira (11). Saiba mais!",
-  "categorias": [
-   "Promoções",
-   "Outros"
-  ],
-  "data": "2026-11-10T11:40:09+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T12:32:48.177545+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]
