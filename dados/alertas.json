@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585035",
+  "titulo": "Receba até 390.000 pontos ao assinar o Clube Livelo Premium – CPM a partir de R$ 24,04",
+  "link": "https://passageirodeprimeira.com/receba-ate-390-000-pontos-ao-assinar-o-clube-livelo-premium-cpm-a-partir-de-r-2404/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O Clube Livelo Premium está oferecendo até 390.000 pontos ao longo de 12 meses, com CPM a partir de R$ 24,04. A promoção é válida até amanhã (26) e contempla assinaturas mensais e anuais.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-25T15:05:20+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T15:29:59.264497+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=584958",
+  "titulo": "Azul Fidelidade oferece até 25 pontos por real na Insider e Netshoes",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-25-pontos-real-insider-netshoes/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está oferecendo até 25 pontos por real gasto em compras realizadas na Insider e Netshoes. As ofertas contam com pontuações e validades diferentes. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-25T15:18:03+00:00",
+  "pontos_por_real": 25.0,
+  "parceiro": "Netshoes",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|25.0|Netshoes",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T15:29:59.263647+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/pontos",
+  "codigo": "RT-0267"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151773",
   "titulo": "Apenas hoje! Smiles oferece até 80% de bônus na transferência de pontos Livelo",
   "link": "https://pontospravoar.com/apenas-hoje-smiles-oferece-ate-80-porcento-bonus-transferencia-pontos-livelo/",
@@ -13088,79 +13150,6 @@
   ],
   "visto_em": "2026-11-10T14:42:28.819839+00:00",
   "link_oficial": "http://latampass.latam.com/br/pt/promocoes/semparar-milhas-extras",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149148",
-  "titulo": "Visa Infinite Private: conheça o novo cartão do BB com até 9 pontos por dólar",
-  "link": "https://pontospravoar.com/visa-infinite-private-conheca-o-novo-cartao-do-bb-com-ate-9-pontos-por-dolar/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O novo cartão do Banco do Brasil chega a um segmento bastante restrito do mercado de alta renda: o Visa Infinite Private combina pontuação de até 9 pontos por dólar, IOF zero nas compras internacionais e acesso ilimitado a salas VIP, mas cobra anuidade de R$ 15 mil, sem possibilidade de isenção. Pontuação elevada e…",
-  "categorias": [
-   "Banco do Brasil",
-   "Cartões de Crédito",
-   "Cartões Visa",
-   "cartões de crédito",
-   "CARTÕES VISA"
-  ],
-  "data": "2026-11-10T14:30:12+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Banco do Brasil"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Banco do Brasil||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T14:42:28.819209+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://pontospravoar.com/?p=149106",
-  "titulo": "Azul Friday! Transfira pontos do BRB para o Azul Fidelidade com até 120% de bônus",
-  "link": "https://pontospravoar.com/azul-friday-transfira-pontos-brb-azul-fidelidade-ate-120-porcento-bonus/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O aquecimento da Azul Friday segue com tudo! Nesta terça-feira, o Azul Fidelidade lançou uma oferta em parceria com o BRB, em que oferece aos seus clientes até 120% de bônus na transferência de pontos até amanhã, dia 11 de novembro. Vamos aos detalhes! Azul Fidelidade e BRB Para esta campanha, a bonificação está estruturada…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Bancos",
-   "BRB",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "Curtaí"
-  ],
-  "data": "2026-11-10T13:00:39+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-11",
-  "repostagem": false,
-  "assinatura": "transferencia||Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%"
-  ],
-  "visto_em": "2026-11-10T13:49:36.226975+00:00",
-  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/brb?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
   "fora_vitrine": "repetição de promoção já enviada"
  }
 ]
