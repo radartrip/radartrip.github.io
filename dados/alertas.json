@@ -1,5 +1,71 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585248",
+  "titulo": "Especial Bradesco! Voe para Japão por R$ 3.468 + taxas o trecho pela Livelo – confira o passo a passo",
+  "link": "https://passageirodeprimeira.com/especial-bradesco-voe-para-japao-por-r-3-468-taxas-o-trecho-pela-livelo-confira-o-passo-a-passo/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está com uma oferta imperdível para clientes Bradesco, com 30% de desconto na emissão de passagens para o Japão usando o cupom \"JAPAOBRA30\". É possível voar de São Paulo (GRU) para Tóquio (NRT) por apenas R$ 2.552 + taxas por trecho, economizando mais de 41% em relação ao preço normal. Aproveite também 30% de pointsback na sua conta após a compra.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-25T21:20:25+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [
+   "Livelo",
+   "Bradesco"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 30,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem||3.468",
+  "escopo": "internacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T22:03:23.743909+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=151903",
+  "titulo": "Alerta PPV! Confira ofertas de voos nacionais da LATAM a partir de R$ 149",
+  "link": "https://pontospravoar.com/alerta-ppv-confira-ofertas-de-voos-nacionais-da-latam-a-partir-de-r-149/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal aproveitar esta quarta-feira para planejar sua próxima viagem pelo Brasil? No Alerta de Passagens PPV de hoje, nossa equipe selecionou diversas oportunidades de voos nacionais da LATAM, com passagens a partir de R$ 149. Confira os destinos, trechos e datas disponíveis e veja como economizar na sua próxima viagem! Como emitir passagens nacionais…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM",
+   "Promoções",
+   "Publicidade",
+   "PUBLICIDADE",
+   "Trechos nacionais"
+  ],
+  "data": "2026-11-25T22:00:11+00:00",
+  "nacional": true,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|149",
+  "escopo": "nacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-25T22:03:23.875000+00:00",
+  "link_oficial": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&city=all",
+  "codigo": "RT-0274"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=583254",
   "titulo": "Como aproveitar os pontos Esfera durante a Blackíssima",
   "link": "https://passageirodeprimeira.com/como-aproveitar-pontos-esfera-durante-blackissima/",
@@ -13035,91 +13101,5 @@
   "visto_em": "2026-11-10T22:06:45.564216+00:00",
   "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/c6?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
   "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149118",
-  "titulo": "Assist Card: seguro viagem com até 60% de desconto, pontos Livelo e acesso à sala VIP",
-  "link": "https://pontospravoar.com/assist-card-seguro-viagem-ate-60-porcento-desconto-pontos-livelo-acesso-sala-vip/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Viajar com tranquilidade também significa contar com uma boa proteção durante o percurso. Com a oferta exclusiva da Assist Card para leitores do Pontos pra Voar, você pode contratar seu seguro viagem com até 60% de desconto, ganhar pontos Livelo e ainda ter acesso à sala VIP, conforme o plano escolhido. Pontos Livelo Os participantes…",
-  "categorias": [
-   "Publicidade",
-   "ASSIST CARD",
-   "PUBLICIDADE",
-   "SEGURO VIAGEM"
-  ],
-  "data": "2026-11-10T22:00:06+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 60,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-10T22:06:45.563615+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581163",
-  "titulo": "LATAM oferece trechos para diversos destinos a partir de R$ 149 ou 3 mil milhas + taxas",
-  "link": "https://passageirodeprimeira.com/latam-oferece-trechos-para-diversos-destinos-a-partir-de-r-149-ou-3-mil-milhas-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "[Oferta] A LATAM está com passagens aéreas a partir de R$ 149,53 ou 3.503 milhas + taxas por trecho, com até 40% de desconto. As ofertas são válidas por tempo limitado e incluem destinos nacionais e internacionais. Não perca essa oportunidade de viajar pagando menos!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-10T21:20:35+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 40,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|149,3",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "alta",
-  "motivos": [
-   "LATAM Pass de GYN/BSB",
-   "resgate de GYN/BSB"
-  ],
-  "visto_em": "2026-11-10T21:22:11.342627+00:00",
-  "trechos_total": 4,
-  "resgates": [
-   {
-    "origem": "BSB",
-    "destino": "UDI",
-    "origem_nome": "Brasília",
-    "destino_nome": "Uberlândia",
-    "milhas": 5205,
-    "milhas_clube": null,
-    "data": "",
-    "datas_texto": "",
-    "cia": "",
-    "reserva": "https://www.latamairlines.com/br/pt/ofertas/promocoes-latam?origin=all&destination=all&activetab=flight&utm_source=passageiro-de-primeira&utm_medium=affiliate&utm_campaign=br_ltm_passageiro-de-primeira_affiliate_tkt_aon_conv_lower&utm_content=aberta_text-link",
-    "ambos_sentidos": true,
-    "formato": "texto",
-    "programa": "LATAM Pass",
-    "preco_dinheiro": null,
-    "preco_origem": "",
-    "milheiro": null,
-    "veredito": ""
-   }
-  ],
-  "codigo": "RT-0093"
  }
 ]

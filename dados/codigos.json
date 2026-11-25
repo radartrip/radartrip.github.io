@@ -1,5 +1,5 @@
 {
- "ultimo": 273,
+ "ultimo": 274,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4147,6 +4147,22 @@
    "ida": "2027-01-13",
    "volta": "2027-01-20",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20REC%20on%202027-01-13%20through%202027-01-20"
+  },
+  {
+   "codigo": "RT-0274",
+   "enviado_em": "2026-11-25T22:03:32.271000+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Alerta PPV! Confira ofertas de voos nacionais da LATAM a partir de R$ 149",
+   "link": "https://pontospravoar.com/alerta-ppv-confira-ofertas-de-voos-nacionais-da-latam-a-partir-de-r-149/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
