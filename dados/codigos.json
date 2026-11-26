@@ -1,5 +1,5 @@
 {
- "ultimo": 276,
+ "ultimo": 277,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4185,6 +4185,22 @@
    "etiquetas": {
     "categoria": "resumo_diario",
     "programas": [],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0277",
+   "enviado_em": "2026-11-26T12:59:09.730786+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Friday! Azul Fidelidade oferece até 18 pontos por real na Netshoes",
+   "link": "https://pontospravoar.com/azul-friday-azul-fidelidade-oferece-ate-18-pontos-real-netshoes/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
     "trechos": []
    }
   }
