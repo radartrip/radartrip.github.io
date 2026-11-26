@@ -1,5 +1,5 @@
 {
- "ultimo": 279,
+ "ultimo": 280,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4233,6 +4233,22 @@
     "categoria": "acumulo",
     "programas": [
      "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0280",
+   "enviado_em": "2026-11-26T17:34:01.236924+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Azul Friday! Garanta até 35% de desconto em voos nacionais e internacionais com pontos",
+   "link": "https://pontospravoar.com/azul-friday-garanta-ate-35-porcento-desconto-voos-nacionais-internacionais-pontos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "Passagem com milhas",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
