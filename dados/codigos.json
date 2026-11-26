@@ -1,5 +1,5 @@
 {
- "ultimo": 274,
+ "ultimo": 275,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4163,6 +4163,18 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0275",
+   "enviado_em": "2026-11-26T02:12:39.520040+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-MCZ",
+   "preco": 1023,
+   "media": 2697,
+   "ida": "2027-04-15",
+   "volta": "2027-04-22",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20MCZ%20on%202027-04-15%20through%202027-04-22"
   }
  ]
 }
