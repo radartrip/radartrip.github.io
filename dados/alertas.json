@@ -1,5 +1,98 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585441",
+  "titulo": "Cupom de até 50% de desconto em pacotes de viagem na Azul Viagens",
+  "link": "https://passageirodeprimeira.com/cupom-ate-50-desconto-pacotes-viagem-azul-viagens/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul está oferecendo um cupom de 50% de desconto em pacotes (aéreo + hotéis) em destinos selecionados, válido para compras em reais e pontos. A oferta é válida até amanhã (27) mediante o uso do cupom 'FRIDAY50' [sem aspas]. Confira!",
+  "categorias": [
+   "Promoções",
+   "Hotéis"
+  ],
+  "data": "2026-11-26T17:35:06+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 50,
+  "milheiro_citado": null,
+  "prazo": "2026-11-27",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T18:30:18.333287+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=152000",
+  "titulo": "Prorrogou! Ganhe 10 pontos Livelo por real gasto em combo promocional do McDonald’s",
+  "link": "https://pontospravoar.com/prorrogou-ganhe-10-pontos-livelo-real-gasto-combo-promocional-mcdonalds/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "A Méqui Friday continua para quem deseja acumular pontos Livelo! Em parceria com o McDonald’s, o programa prorrogou a promoção, oferecendo 10 pontos por real gasto na compra de uma McOferta Clássica + Sundae, exclusivamente pelo aplicativo do Méqui. Campanha válida até o dia 30 de novembro. McDonald’s oferece 10 pontos Livelo por real gasto Durante…",
+  "categorias": [
+   "Livelo",
+   "Promoções",
+   "livelo",
+   "mc donalds"
+  ],
+  "data": "2026-11-26T18:00:55+00:00",
+  "pontos_por_real": 10.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||10.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T18:30:18.413087+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585507",
+  "titulo": "Azul Fidelidade oferece até 35% de desconto no resgate de passagens nacionais e internacionais",
+  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-35-de-desconto-no-resgate-de-passagens-nacionais-e-internacionais/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul está oferecendo até 35% de desconto na emissão de passagens nacionais com o cupom \"AZULFRIDAY35\" e passagens internacionais com o cupom \"AZULFRIDAY15\". A promoção é válida até 23h59 de domingo (29) para voos entre 01/12/2026 e 30/06/2027, com algumas datas de blackout. Não perca essa oportunidade de viajar com mais economia!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-26T18:10:24+00:00",
+  "nacional": true,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 35,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T18:30:18.332002+00:00",
+  "link_oficial": "https://www.voeazul.com.br/br/pt/home",
+  "codigo": "RT-0281"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=584411",
   "titulo": "Black Friday Marriott! Diárias a partir de R$ 399 no maior desconto do ano",
   "link": "https://passageirodeprimeira.com/black-friday-marriott-diarias-a-partir-de-r-399-no-maior-desconto-do-ano/",
@@ -13042,107 +13135,5 @@
   "visto_em": "2026-11-11T14:03:51.055065+00:00",
   "link_oficial": "",
   "codigo": "RT-0104"
- },
- {
-  "id": "https://pontospravoar.com/?p=149310",
-  "titulo": "LATAM Pass com 25% de bônus na transferência de pontos do Itaú e Credicard",
-  "link": "https://pontospravoar.com/latam-pass-25-porcento-bonus-transferencia-pontos-itau-credicard/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Perdeu a última oferta? O LATAM Pass trouxe de volta a promoção de transferência bonificada em parceria com o Itaú e Credicard, em que oferece aos seus clientes 25% de bônus. Além disso, novos clientes recebem 1.000 milhas extras na primeira transferência. Vamos aos detalhes! LATAM Pass e Itaú + Credicard Para esta campanha, a…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Bancos",
-   "Itaú",
-   "LATAM Pass",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "CREDICARD",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-11T13:03:06+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Itaú"
-  ],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 25,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Itaú|LATAM Pass|25|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 25%"
-  ],
-  "visto_em": "2026-11-11T14:03:51.864484+00:00",
-  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras",
-  "codigo": "RT-0105"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581239",
-  "titulo": "LATAM Pass oferece 25% de bônus nas transferências de pontos Itaú e Credicard",
-  "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-nas-transferencias-de-pontos-itau-e-credicard-2/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O LATAM Pass está oferecendo 25% de bônus na transferência de pontos do Itaú e do Credicard. As ofertas são válidas até domingo (15).",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-11T13:12:19+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Itaú"
-  ],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 25,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Itaú|LATAM Pass|25|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 25%"
-  ],
-  "visto_em": "2026-11-11T14:03:51.762753+00:00",
-  "link_oficial": "https://latampass.latam.com/br/pt/promocoes/itau-milhas-extras",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=646841",
-  "titulo": "Portugal de executiva! Passagens na Premium Business Latam para Lisboa a partir de R$ 8.801 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-executiva-latam-portugal-lisboa-10-11-26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Quer ir pra Portugal com todo conforto da Premium Business da Latam? Pintou uma daquelas oportunidades que não dá pra perder: encontramos passagens aéreas para Liboa a partir de apenas R$ 8.801 ida e volta, saindo de São Paulo. São poucas datas e a tendência é que essa promoção dure pouquíssimo! Ah, e esse valor…",
-  "categorias": [],
-  "data": "2026-11-10T22:38:56+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|8.801",
-  "escopo": "internacional",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T14:03:51.056252+00:00",
-  "link_oficial": "https://latampass.latam.com",
-  "codigo": "RT-0106"
  }
 ]
