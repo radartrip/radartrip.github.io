@@ -1,5 +1,5 @@
 {
- "ultimo": 275,
+ "ultimo": 276,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4175,6 +4175,18 @@
    "ida": "2027-04-15",
    "volta": "2027-04-22",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20MCZ%20on%202027-04-15%20through%202027-04-22"
+  },
+  {
+   "codigo": "RT-0276",
+   "enviado_em": "2026-11-26T10:53:54.093516+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
+    "trechos": []
+   }
   }
  ]
 }
