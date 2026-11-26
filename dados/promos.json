@@ -61,23 +61,6 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago"
   },
   {
-   "assinatura": "transferencia|Inter Loop|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Inter Loop"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-25",
-   "visto_em": "2026-11-24",
-   "titulo": "Azul Fidelidade oferece até 120% de bônus nas transferências de pontos do Inter Loop",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/inter"
-  },
-  {
    "assinatura": "compra|Esfera||55|",
    "categoria": "compra",
    "origens": [
@@ -121,23 +104,6 @@
    "visto_em": "2026-11-25",
    "titulo": "BB Empresas e Smiles: transfira pontos com até 70% de bônus",
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-bbpj-11-2026"
-  },
-  {
-   "assinatura": "transferencia|Livelo|Smiles|80|",
-   "categoria": "transferencia",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-25",
-   "visto_em": "2026-11-25",
-   "titulo": "Apenas hoje! Smiles oferece até 80% de bônus na transferência de pontos Livelo",
-   "link": "https://www.livelo.com.br"
   },
   {
    "assinatura": "transferencia||LATAM Pass|25|",
