@@ -140,7 +140,8 @@
   "https://passageirodeprimeira.com/?p=585221",
   "https://pontospravoar.com/?p=151848",
   "https://pontospravoar.com/?p=146180",
-  "https://pontospravoar.com/?p=152022"
+  "https://pontospravoar.com/?p=152022",
+  "https://pontospravoar.com/?p=152034"
  ],
  "resgates": [
   {
@@ -716,6 +717,29 @@
    "post": "https://passageirodeprimeira.com/latam-tem-passagens-para-destinos-de-carnaval-a-partir-de-r-117-ou-4-mil-milhas-taxas/",
    "titulo": "LATAM tem passagens para destinos de Carnaval a partir de R$ 117 ou 4 mil milhas + taxas",
    "visto_em": "2026-11-24T22:38:41.574049+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "UDI",
+   "origem_nome": "Brasília",
+   "destino_nome": "Uberlândia",
+   "milhas": 3539,
+   "milhas_clube": null,
+   "data": "2027-04-06",
+   "datas_texto": "6 de abril",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=UDI&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=false&outbound=2027-04-06T00%3A00%3A00.000Z&inbound=null&sort=PRICE%2Casc&exp_id=22ac1524-a8ff-4a53-a12a-7cc69fe46450&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_articulo_20261126_latam-friday",
+   "datas_mes": [
+    "Abril/2027: 6"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 164,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 46.34,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/latam-friday-voos-nacionais-119-reais-2535-milhas/",
+   "titulo": "LATAM Friday! Voos nacionais a partir de R$ 119 ou 2.535 milhas",
+   "visto_em": "2026-11-26T19:45:28.121241+00:00"
   }
  ]
 }

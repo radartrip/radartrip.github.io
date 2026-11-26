@@ -1,5 +1,5 @@
 {
- "ultimo": 281,
+ "ultimo": 288,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4263,6 +4263,120 @@
    "fonte": "Passageiro de Primeira",
    "etiquetas": {
     "categoria": "Passagem em dinheiro",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0282",
+   "enviado_em": "2026-11-26T19:45:28.527823+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM Friday! Voos nacionais a partir de R$ 119 ou 2.535 milhas",
+   "link": "https://pontospravoar.com/latam-friday-voos-nacionais-119-reais-2535-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-UDI"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0283",
+   "enviado_em": "2026-11-26T19:45:29.609650+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "LATAM Friday oferece passagens promocionais a partir de R$ 119",
+   "link": "https://passageirodeprimeira.com/latam-friday-oferece-passagens-promocionais-partir-r-119/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0284",
+   "enviado_em": "2026-11-26T19:45:30.474800+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Black Friday Latam EUA! Voos para Nova York, Orlando e Miami a partir de R$ 2.828 ida e volta, em 10x sem juros",
+   "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-latam-eua-passagens-nova-york-orlando-miami-2868",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0285",
+   "enviado_em": "2026-11-26T19:45:31.361388+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Mega Promo Latam tem passagens aéreas com até 40% OFF nesta Black Friday",
+   "link": "https://www.melhoresdestinos.com.br/promocao/mega-mega-promo-latam-black-friday-2026",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "Passagem em dinheiro",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0286",
+   "enviado_em": "2026-11-26T19:45:32.162999+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Black Friday Latam Europa! Voos para Lisboa, Roma, Amsterdã e mais destinos a partir de R$ 3.895 ida e volta, em 10x sem juros",
+   "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-latam-europa-voos-lisboa-roma-3895",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0287",
+   "enviado_em": "2026-11-26T19:45:36.087907+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Black Friday Latam no ar! Passagens aéreas nacionais a partir de R$ 267 ida e volta – opções para 55 destinos",
+   "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-latam-passagens-nacionais-267",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0288",
+   "enviado_em": "2026-11-26T19:45:36.885618+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Azul Fidelidade oferece até 14 pontos por real gasto no Magalu",
+   "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-14-pontos-por-real-gasto-no-magalu-9/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
     "programas": [
      "Azul Fidelidade"
     ],
