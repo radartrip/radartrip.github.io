@@ -121,19 +121,6 @@
    "link": "https://latampass.latam.com"
   },
   {
-   "assinatura": "compra||||",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-25",
-   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 25 de novembro de 2026",
-   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
-  },
-  {
    "assinatura": "transferencia|Livelo|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -164,6 +151,19 @@
    "visto_em": "2026-11-26",
    "titulo": "LATAM Pass e Premmia oferecem até 60% de bônus na transferência de pontos",
    "link": "https://latampass.latam.com"
+  },
+  {
+   "assinatura": "compra||||",
+   "categoria": "compra",
+   "origens": [],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-26",
+   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 26 de novembro de 2026",
+   "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   }
  ],
  "vitrine": {

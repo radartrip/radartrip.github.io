@@ -1,5 +1,5 @@
 {
- "ultimo": 293,
+ "ultimo": 294,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4450,6 +4450,18 @@
    "ida": "2026-12-05",
    "volta": "2026-12-18",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202026-12-05%20through%202026-12-18"
+  },
+  {
+   "codigo": "RT-0294",
+   "enviado_em": "2026-11-26T23:36:05.474824+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-NAT",
+   "preco": 1427,
+   "media": 2280,
+   "ida": "2027-06-01",
+   "volta": "2027-06-03",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20NAT%20on%202027-06-01%20through%202027-06-03"
   }
  ]
 }
