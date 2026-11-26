@@ -1,5 +1,5 @@
 {
- "ultimo": 291,
+ "ultimo": 293,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4426,6 +4426,30 @@
    "ida": "2027-05-21",
    "volta": "2027-05-24",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-05-21%20through%202027-05-24"
+  },
+  {
+   "codigo": "RT-0292",
+   "enviado_em": "2026-11-26T22:37:27.873550+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-JPA",
+   "preco": 1241,
+   "media": 1524,
+   "ida": "2027-02-17",
+   "volta": "2027-02-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20JPA%20on%202027-02-17%20through%202027-02-24"
+  },
+  {
+   "codigo": "RT-0293",
+   "enviado_em": "2026-11-26T22:37:28.277541+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-NAT",
+   "preco": 1072,
+   "media": 1285,
+   "ida": "2026-12-05",
+   "volta": "2026-12-18",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202026-12-05%20through%202026-12-18"
   }
  ]
 }

@@ -1,5 +1,39 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=152085",
+  "titulo": "Aproveite! Seguro viagem com 60% de desconto em todos os planos na Assist Card",
+  "link": "https://pontospravoar.com/aproveite-seguro-viagem-60-porcento-desconto-todos-planos-assist-card/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Viajar com mais tranquilidade também pode significar economizar na contratação do seguro viagem. Em parceria com o Pontos Pra Voar, a Assist Card oferece 60% de desconto em todos os planos, além da possibilidade de acumular pontos Livelo e garantir acesso à sala VIP, conforme o plano contratado. Confira os detalhes da parceria e veja como…",
+  "categorias": [
+   "Publicidade",
+   "ASSIST CARD",
+   "PUBLICIDADE",
+   "SEGURO VIAGEM"
+  ],
+  "data": "2026-11-26T22:00:02+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 60,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||60|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T22:37:17.985596+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=585516",
   "titulo": "Segue valendo a oferta da Livelo de até 10 pontos por real gasto na compra de um combo McDonald’s",
   "link": "https://passageirodeprimeira.com/segue-valendo-oferta-livelo-ate-10-pontos-real-gasto-compra-combo-mcdonalds/",
@@ -13070,39 +13104,5 @@
   "motivos": [],
   "visto_em": "2026-11-11T21:06:24.307505+00:00",
   "fora_vitrine": "acúmulo Magalu: ainda aprendendo o normal (0 registro(s))"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581357",
-  "titulo": "Gere o milheiro Azul a partir de R$ 12,39 transferindo pontos Inter Loop + dinheiro",
-  "link": "https://passageirodeprimeira.com/gere-o-milheiro-azul-a-partir-de-r-1222-transferindo-pontos-inter-loop-dinheiro/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Até amanhã (12), o Azul Fidelidade está oferecendo até 90% de bônus nas transferências de pontos dos cartões de crédito + até 30% de bônus extra para assinantes do Clube Azul. Para quem pensa em aproveitar, identificamos que o Loop está oferecendo um CPM [custo para cada mil pontos] mais atrativo na modalidade pontos + dinheiro. Utilizando a ferramenta, é possível gerar 1.000 milhas no programa aé",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-11T18:30:35+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Inter Loop"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 90,
-  "desconto": 0,
-  "milheiro_citado": 12.39,
-  "prazo": "2026-11-12",
-  "repostagem": false,
-  "assinatura": "transferencia|Inter Loop|Azul Fidelidade|90|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 90%"
-  ],
-  "visto_em": "2026-11-11T19:32:22.612136+00:00",
-  "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter",
-  "codigo": "RT-0115"
  }
 ]
