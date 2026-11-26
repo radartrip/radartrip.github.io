@@ -1,5 +1,5 @@
 {
- "ultimo": 289,
+ "ultimo": 291,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4398,6 +4398,34 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0290",
+   "enviado_em": "2026-11-26T21:32:12.284871+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Barbados no Caribe a partir de 76 mil pontos Azul + taxas",
+   "link": "https://passageirodeprimeira.com/voe-para-barbados-no-caribe-a-partir-de-76-mil-pontos-azul-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0291",
+   "enviado_em": "2026-11-26T21:32:29.454402+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-RIO",
+   "preco": 843,
+   "media": 997,
+   "ida": "2027-05-21",
+   "volta": "2027-05-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-05-21%20through%202027-05-24"
   }
  ]
 }

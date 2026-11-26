@@ -1,5 +1,99 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585516",
+  "titulo": "Segue valendo a oferta da Livelo de até 10 pontos por real gasto na compra de um combo McDonald’s",
+  "link": "https://passageirodeprimeira.com/segue-valendo-oferta-livelo-ate-10-pontos-real-gasto-compra-combo-mcdonalds/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo e o McDonald's prorrogaram a promoção que oferece até 10 pontos por real gasto na compra de uma McOferta Clássica + Sundae pelo app do Méqui (McDelivery ou Peça & Retire), utilizando o cupom “LIVELO” [sem aspas]. A oferta agora é válida até segunda-feira (30). Saiba mais!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-26T20:50:20+00:00",
+  "pontos_por_real": 10.0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "acumulo|Livelo||10.0|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T21:32:10.361335+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585668",
+  "titulo": "Voe para Barbados no Caribe a partir de 76 mil pontos Azul + taxas",
+  "link": "https://passageirodeprimeira.com/voe-para-barbados-no-caribe-a-partir-de-76-mil-pontos-azul-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Alerta] Alerta direto dos Grupos do PP no WhatsApp! Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Barbados (BGI) a partir de 76.000 pontos Azul Fidelidade + taxas por trecho, operados pela Copa Airlines em várias datas nos próximos meses.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-26T21:10:00+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Azul Fidelidade|76",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T21:32:10.358800+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "link_oficial": "https://www.voeazul.com.br",
+  "codigo": "RT-0290"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585539",
+  "titulo": "Últimas horas para assinar assinar o Clube Livelo Premium e receber até 390.000 pontos- CPM a partir de R$ 24,04",
+  "link": "https://passageirodeprimeira.com/ultimas-horas-para-assinar-assinar-o-clube-livelo-premium-e-receber-ate-390-000-pontos-cpm-a-partir-de-r-2404/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Últimas horas! O Clube Livelo está oferecendo até 390.000 pontos em novas assinaturas do Clube Premium, com CPM a partir de R$ 24,04. A promoção é válida até hoje (26) e contempla planos mensais e anuais.",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-26T21:30:12+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-26",
+  "repostagem": true,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T21:32:10.356854+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
   "id": "https://pontospravoar.com/?p=151975",
   "titulo": "LATAM Pass e Premmia oferecem até 60% de bônus na transferência de pontos",
   "link": "https://pontospravoar.com/latam-pass-e-premmia-oferecem-ate-60-de-bonus-na-transferencia-de-pontos/",
@@ -13010,93 +13104,5 @@
   "visto_em": "2026-11-11T19:32:22.612136+00:00",
   "link_oficial": "https://www.voeazul.com.br/br/pt/ofertas/inter",
   "codigo": "RT-0115"
- },
- {
-  "id": "https://pontospravoar.com/?p=149424",
-  "titulo": "GOL entra no Atmos Rewards e terá emissão com pontos Alaska e Hawaiian a partir de 2027",
-  "link": "https://pontospravoar.com/gol-entra-no-atmos-rewards-e-tera-emissao-com-pontos-alaska-e-hawaiian-a-partir-de-2027/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Nova parceria permite acumular pontos Atmos Rewards em voos selecionados da GOL já a partir de agora; resgates com pontos estão previstos para o início de 2027. GOL entra no Atmos Rewards A Alaska Airlines anunciou a entrada da GOL Linhas Aéreas no Atmos Rewards, programa de fidelidade compartilhado por Alaska Airlines e Hawaiian Airlines.…",
-  "categorias": [
-   "Notícias",
-   "Alaska Airlines",
-   "Atmos Rewards",
-   "GOL"
-  ],
-  "data": "2026-11-11T18:30:44+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T19:32:22.845289+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581247",
-  "titulo": "Cupom de 20% de desconto para assinar o Seats.Aero e buscar disponibilidade de assentos award com milhas",
-  "link": "https://passageirodeprimeira.com/cupom-de-20-de-desconto-para-assinar-o-seats-aero-e-buscar-disponibilidade-de-assentos-award-com-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Oferta da Black Friday! O Seats.aero está oferecendo um cupom de 20% de desconto.",
-  "categorias": [
-   "Promoções",
-   "Outros"
-  ],
-  "data": "2026-11-11T19:00:11+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 20,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T19:32:22.611451+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581429",
-  "titulo": "Cadastre-se no Azul Fidelidade e ganhe 5.000 pontos por cada nova conta",
-  "link": "https://passageirodeprimeira.com/cadastre-se-azul-fidelidade-ganhe-5-000-pontos-por-cada-nova-conta/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "O Azul Fidelidade está oferecendo 5.000 pontos grátis para novos cadastros no programa. A oferta é válida até domingo (15), mediante o uso do cupom \"AZF5000\" [sem aspas] na hora do cadastro. Confira!",
-  "categorias": [
-   "Promoções",
-   "Outros"
-  ],
-  "data": "2026-11-11T19:30:21+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T19:32:22.610936+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]
