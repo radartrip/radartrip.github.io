@@ -345,7 +345,8 @@
   "acumulo||Azul Fidelidade|25.0|Netshoes": "2026-11-25T15:30:00.359159+00:00",
   "transferencia||LATAM Pass|60|": "2026-11-25T16:38:54.536045+00:00",
   "passagem|Azul Fidelidade|42.500": "2026-11-25T17:29:11.514769+00:00",
-  "acumulo||Azul Fidelidade|18.0|Netshoes": "2026-11-26T12:59:09.733770+00:00"
+  "acumulo||Azul Fidelidade|18.0|Netshoes": "2026-11-26T12:59:09.733770+00:00",
+  "acumulo||LATAM Pass|10.0|Casas Bahia": "2026-11-26T16:35:09.655450+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -404,6 +405,9 @@
   "Magalu>LATAM Pass": [
    12.0,
    12.0
+  ],
+  "Casas Bahia>LATAM Pass": [
+   10.0
   ]
  }
 }
