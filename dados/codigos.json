@@ -1,5 +1,5 @@
 {
- "ultimo": 288,
+ "ultimo": 289,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4379,6 +4379,22 @@
     "categoria": "acumulo",
     "programas": [
      "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0289",
+   "enviado_em": "2026-11-26T20:35:54.843992+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Black Friday Chile! Passagens Latam para Santiago desde R$ 1.597 ida e volta, em 10x sem juros – incluindo inverno 2027",
+   "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-chile-latam-voos-santiao-1597",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
     ],
     "trechos": []
    }

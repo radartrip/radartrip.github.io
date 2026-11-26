@@ -1,5 +1,154 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=151975",
+  "titulo": "LATAM Pass e Premmia oferecem até 60% de bônus na transferência de pontos",
+  "link": "https://pontospravoar.com/latam-pass-e-premmia-oferecem-ate-60-de-bonus-na-transferencia-de-pontos/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "O LATAM Pass, em parceria com o Premmia, programa de fidelidade da Petrobras, está oferecendo até 60% de bônus na transferência de pontos entre os programas. Além disso, os participantes podem aproveitar descontos em passagens aéreas, trocar pontos por Vale-Premmia e muito mais. A campanha é válida até esta sexta-feira, 27 de novembro. Confira os…",
+  "categorias": [
+   "Acumulando Milhas",
+   "LATAM Pass",
+   "Premmia",
+   "Programas de Fidelidade",
+   "Promoções",
+   "TRANSFERÊNCIA"
+  ],
+  "data": "2026-11-26T20:00:46+00:00",
+  "nacional": false,
+  "categoria": "transferencia",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 60,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "transferencia||LATAM Pass|60|",
+  "tipo": "Transferência bonificada",
+  "prioridade": "alta",
+  "motivos": [
+   "bônus de 60%"
+  ],
+  "visto_em": "2026-11-26T20:35:52.233373+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=649565",
+  "titulo": "Hoje às 19 horas! 20 cupons exclusivos com R$ 500 OFF na Decolar para qualquer produto",
+  "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-decolar-2026",
+  "fonte": "Melhores Destinos",
+  "resumo": "É hoje! A Decolar vai dar um presentão de Black Friday para quem acompanha o Melhores Destinos. Entre 19h e 19h30 do dia 26 de novembro, vão ser liberados 20 cupons com R$ 500 de desconto cada um, para compras a partir de R$ 1.000! Ou seja, você pode garantir a sua viagem pela metade…",
+  "categorias": [],
+  "data": "2026-11-26T19:40:10+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T20:35:51.559760+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585656",
+  "titulo": "Voe para Nova York a partir de 66 mil milhas Smiles + taxas",
+  "link": "https://passageirodeprimeira.com/voe-para-nova-york-a-partir-de-66-mil-milhas-smiles-taxas/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Alerta] Alerta direto dos Grupos do PP no WhatsApp! Encontramos disponibilidade de passagens ida e volta entre São Paulo (GRU) e Nova York (JFK) a partir de 66.800 milhas Smiles + taxas por trecho, operadas pela American Airlines. Não perca essa oportunidade de explorar a Big Apple!",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-26T19:50:26+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|Smiles|66",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T20:35:52.153412+00:00",
+  "trechos_total": 1,
+  "resgates": [],
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=650151",
+  "titulo": "Black Friday Chile! Passagens Latam para Santiago desde R$ 1.597 ida e volta, em 10x sem juros – incluindo inverno 2027",
+  "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-chile-latam-voos-santiao-1597",
+  "fonte": "Melhores Destinos",
+  "resumo": "A Mega Promo de Black Friday da Latam está no ar e tem bons preços para quem pretende viajar para o Chile! Encontramos passagens aéreas para Santiago a partir de R$ 1.597 ida e volta em 10x sem juros, com saídas de várias cidades brasileiras e datas entre dezembro de 2026 e setembro de 2027,…",
+  "categorias": [],
+  "data": "2026-11-26T19:50:57+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|1.597,10,2027",
+  "escopo": "internacional",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T20:35:51.558865+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0289"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585631",
+  "titulo": "Últimos dias para ganhar até 55 mil milhas bônus solicitando o cartão GOL Smiles",
+  "link": "https://passageirodeprimeira.com/ultimos-dias-para-ganhar-ate-55-mil-milhas-bonus-solicitando-o-cartao-gol-smiles/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Smiles segue oferecendo até 55 mil milhas bônus para quem solicitar o cartão GOL Smiles e atingir a meta de gastos da campanha. A promoção é válida até o dia 30 de novembro.",
+  "categorias": [
+   "Promoções",
+   "Bancos e Cartões"
+  ],
+  "data": "2026-11-26T20:30:04+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Smiles"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-26T20:35:52.152412+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=152034",
   "titulo": "LATAM Friday! Voos nacionais a partir de R$ 119 ou 2.535 milhas",
   "link": "https://pontospravoar.com/latam-friday-voos-nacionais-119-reais-2535-milhas/",
@@ -12948,192 +13097,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-11T19:32:22.610936+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://pontospravoar.com/?p=149401",
-  "titulo": "11.11! Resgate passagens internacionais na Smiles a partir de 26.800 milhas + taxas",
-  "link": "https://pontospravoar.com/11-11-resgate-passagens-internacionais-smiles-26800-milhas-taxas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Na edição especial do alerta de passagens PPV em comemoração ao 11.11, nossa equipe reuniu diversos de trechos internacionais na Smiles, com emissões a partir de 26.800 milhas + taxas. Veja os detalhes a seguir! Passagens internacionais com milhas Smiles Atenção: A busca dessas emissões foi realizada no momento da produção do artigo, podendo haver…",
-  "categorias": [
-   "Emissões com Pontos",
-   "Programas de Fidelidade",
-   "Publicidade",
-   "Smiles",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-11T18:00:16+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|11.11,26.800",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "alta",
-  "motivos": [
-   "resgate de GYN/BSB"
-  ],
-  "visto_em": "2026-11-11T18:29:59.414473+00:00",
-  "trechos_total": 14,
-  "resgates": [
-   {
-    "origem": "BSB",
-    "destino": "MIA",
-    "origem_nome": "Brasília",
-    "destino_nome": "Miami",
-    "milhas": 72000,
-    "milhas_clube": 67500,
-    "data": "2027-02-16",
-    "datas_texto": "16 de fevereiro",
-    "cia": "American Airlines",
-    "reserva": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1802746800000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1803437999000&searchType=congenere&segments=1&tripType=1&originAirport=BSB&destinationAirport=MIA&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
-    "datas_mes": [
-     "Fevereiro/2027: 16"
-    ],
-    "programa": "Smiles",
-    "preco_dinheiro": null,
-    "preco_origem": "",
-    "milheiro": null,
-    "veredito": ""
-   }
-  ],
-  "codigo": "RT-0113"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581328",
-  "titulo": "Smiles tem passagens nacionais a partir de 7 mil milhas",
-  "link": "https://passageirodeprimeira.com/smiles-tem-passagens-nacionais-a-partir-de-7-mil-milhas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Smiles está oferecendo passagens nacionais a partir de 7.600 milhas por trecho, com taxas que variam entre R$ 34,55 e R$ 62,14. Exemplos incluem voos de Florianópolis a Porto Alegre e de São Paulo a Navegantes. Aproveite essa oportunidade para planejar sua próxima viagem!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-11T18:00:03+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Smiles|7",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T18:29:59.287414+00:00",
-  "trechos_total": 0,
-  "resgates": [],
-  "link_oficial": "https://www.smiles.com.br/home",
-  "codigo": "RT-0114"
- },
- {
-  "id": "https://pontospravoar.com/?p=149361",
-  "titulo": "11.11! Pague R$ 27 na 1ª mensalidade do Clube Azul 2.000 e 50% OFF nas demais parcelas",
-  "link": "https://pontospravoar.com/11-11-pague-27-reais-primeira-mensalidade-clube-azul-2000-50-porcento-off-demais-parcelas/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O Azul Fidelidade lançou uma promoção relampago em comemoração ao 11.11. Nesta oferta, os clientes podem pagar R$ 27 na primeira mensalidade do Clube 2.000, além de garantir 50% OFF nas demais parcelas. Os clientes que assinarem o clube com o cartão Azul Itaú recebem 10% de desconto extra. Confira os detalhes desta oferta válida…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Assinatura Clube Azul",
-   "azul fidelidade",
-   "Clube Azul"
-  ],
-  "data": "2026-11-11T17:00:12+00:00",
-  "nacional": false,
-  "categoria": "clube",
-  "programas_origem": [
-   "Itaú"
-  ],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 50,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube|Itaú|Azul Fidelidade|50|",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "alta",
-  "motivos": [
-   "promoção relâmpago"
-  ],
-  "visto_em": "2026-11-11T17:38:14.250362+00:00",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149189",
-  "titulo": "Qatar Airways inclui voos de média distância em serviço de escolha de refeições",
-  "link": "https://pontospravoar.com/qatar-airways-inclui-voos-de-media-distancia-em-servico-de-escolha-de-refeicoes/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A Qatar Airways ampliou o serviço de pré-seleção de refeições para passageiros da primeira classe e da classe executiva. A partir de agora, clientes em voos com duração de duas horas ou mais também podem escolher o prato principal antes da viagem. Serviço passa a atender mais voos da companhia A novidade aumenta o alcance…",
-  "categorias": [
-   "Empresas Aéreas",
-   "Notícias",
-   "Qatar Airways",
-   "empresas aéreas",
-   "Qatar"
-  ],
-  "data": "2026-11-11T16:30:52+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T17:38:14.251471+00:00",
-  "fora_vitrine": "sem critério de vitrine"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581388",
-  "titulo": "Tempestade Charles provoca cancelamentos de voos em Portugal",
-  "link": "https://passageirodeprimeira.com/tempestade-charles-provoca-cancelamentos-de-voos-em-portugal/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "[Notícia] A passagem da tempestade Charles por Portugal provocou o cancelamento de 360 voos nesta quarta-feira (11), afetando os aeroportos de Lisboa, Porto, Faro e Madeira. O governo português declarou situação de alerta devido ao mau tempo, que inclui chuvas intensas e rajadas de vento. Passageiros que viajam entre o Brasil e a Europa devem ficar atentos às alterações nas operações aéreas.",
-  "categorias": [
-   "Notícias",
-   "Companhias Aéreas"
-  ],
-  "data": "2026-11-11T17:00:36+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-11T17:38:14.163812+00:00",
   "fora_vitrine": "sem critério de vitrine"
  }
 ]

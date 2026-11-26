@@ -121,21 +121,6 @@
    "link": "https://latampass.latam.com"
   },
   {
-   "assinatura": "transferencia||LATAM Pass|60|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "LATAM Pass"
-   ],
-   "bonus": 60,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-25",
-   "titulo": "LATAM Pass oferece 60% de bônus na transferência de pontos do Premmia – CPM a partir de R$ 24,06",
-   "link": "https://latampass.latam.com/pt_br/junte-milhas/premmia"
-  },
-  {
    "assinatura": "compra||||",
    "categoria": "compra",
    "origens": [],
@@ -164,6 +149,21 @@
    "visto_em": "2026-11-26",
    "titulo": "Prorrogou! Smiles oferece até 80% de bônus na transferência de pontos Livelo",
    "link": "http://www.smiles.com.br/portal/campanhas/orangefriday-bancos-livelo-11-2026"
+  },
+  {
+   "assinatura": "transferencia||LATAM Pass|60|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "LATAM Pass"
+   ],
+   "bonus": 60,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-26",
+   "titulo": "LATAM Pass e Premmia oferecem até 60% de bônus na transferência de pontos",
+   "link": "https://latampass.latam.com"
   }
  ],
  "vitrine": {
@@ -351,7 +351,8 @@
   "passagem|LATAM Pass|119": "2026-11-26T19:45:29.612642+00:00",
   "passagem|LATAM Pass|10,2.828": "2026-11-26T19:45:30.477733+00:00",
   "passagem|LATAM Pass|10,3.895": "2026-11-26T19:45:32.165940+00:00",
-  "passagem|LATAM Pass|267,55": "2026-11-26T19:45:36.090955+00:00"
+  "passagem|LATAM Pass|267,55": "2026-11-26T19:45:36.090955+00:00",
+  "passagem|LATAM Pass|1.597,10,2027": "2026-11-26T20:35:54.848470+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
