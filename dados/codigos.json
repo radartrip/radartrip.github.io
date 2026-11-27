@@ -1,5 +1,5 @@
 {
- "ultimo": 309,
+ "ultimo": 311,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4692,6 +4692,34 @@
     "programas": [
      "Livelo"
     ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0310",
+   "enviado_em": "2026-11-27T11:46:33.363348+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Voe para Lima a partir de 29 mil milhas LATAM Pass + taxas o trecho",
+   "link": "https://passageirodeprimeira.com/voe-lima-a-partir-29-mil-milhas-latam-pass-taxas-trecho/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0311",
+   "enviado_em": "2026-11-27T11:46:50.568318+00:00",
+   "canal": true,
+   "tipo": "Resumo diário",
+   "titulo": "Radar do dia",
+   "etiquetas": {
+    "categoria": "resumo_diario",
+    "programas": [],
     "trechos": []
    }
   }
