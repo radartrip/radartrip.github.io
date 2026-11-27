@@ -1,5 +1,5 @@
 {
- "ultimo": 323,
+ "ultimo": 328,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4916,6 +4916,78 @@
    "ida": "2027-01-01",
    "volta": "2027-01-24",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SCL%20on%202027-01-01%20through%202027-01-24"
+  },
+  {
+   "codigo": "RT-0324",
+   "enviado_em": "2026-11-27T20:25:10.506937+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta de disponibilidade! Trecho para Orlando a partir de 42 mil milhas LATAM + taxas",
+   "link": "https://passageirodeprimeira.com/alerta-de-disponibilidade-trecho-para-orlando-a-partir-de-42-mil-milhas-latam-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0325",
+   "enviado_em": "2026-11-27T20:25:11.568670+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Ida e volta entre São Paulo e Buenos Aires em Executiva por R$ 3.595 + taxas com a Livelo",
+   "link": "https://passageirodeprimeira.com/ida-e-volta-entre-sao-paulo-e-buenos-aires-em-executiva-por-r-3-595-taxas-com-a-livelo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0326",
+   "enviado_em": "2026-11-27T20:25:25.738957+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Só hoje! Ganhe até 14 pontos Azul Fidelidade por real gasto na Renner",
+   "link": "https://pontospravoar.com/so-hoje-ganhe-ate-14-pontos-azul-fidelidade-por-real-gasto-na-renner/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0327",
+   "enviado_em": "2026-11-27T20:25:46.972819+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "GYN-REC",
+   "preco": 1588,
+   "media": 2115,
+   "ida": "2027-01-13",
+   "volta": "2027-01-20",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20REC%20on%202027-01-13%20through%202027-01-20"
+  },
+  {
+   "codigo": "RT-0328",
+   "enviado_em": "2026-11-27T20:25:47.600756+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-SSA",
+   "preco": 533,
+   "media": 638,
+   "ida": "2027-02-10",
+   "volta": "2027-02-17",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SSA%20on%202027-02-10%20through%202027-02-17"
   }
  ]
 }
