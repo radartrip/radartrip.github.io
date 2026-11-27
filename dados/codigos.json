@@ -1,5 +1,5 @@
 {
- "ultimo": 315,
+ "ultimo": 316,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4784,6 +4784,22 @@
     "categoria": "passagem",
     "programas": [
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0316",
+   "enviado_em": "2026-11-27T15:13:19.623016+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Orange Friday! Clube Smiles 1.000 oferece 14 mil milhas na adesão com milheiro a partir de R$ 13,07",
+   "link": "https://pontospravoar.com/orange-friday-clube-smiles-1000-oferece-14-mil-milhas-adesao-milheiro-13-reais-07-centavos/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Smiles"
     ],
     "trechos": []
    }

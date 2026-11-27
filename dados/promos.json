@@ -14,21 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "clube||Smiles||",
-   "categoria": "clube",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 13.07,
-   "prazo": "2026-11-30",
-   "visto_em": "2026-11-21",
-   "titulo": "Gere o milheiro Smiles a partir de R$ 13,07 assinando o Clube Smiles 1.000",
-   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
-  },
-  {
    "assinatura": "compra|Esfera||55|",
    "categoria": "compra",
    "origens": [
@@ -211,6 +196,21 @@
    "visto_em": "2026-11-27",
    "titulo": "Livelo oferece até 56,6% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,47",
    "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
+  },
+  {
+   "assinatura": "clube||Smiles||",
+   "categoria": "clube",
+   "origens": [],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 13.07,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Orange Friday! Clube Smiles 1.000 oferece 14 mil milhas na adesão com milheiro a partir de R$ 13,07",
+   "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja"
   }
  ],
  "vitrine": {
@@ -227,7 +227,7 @@
   "passagem|Azul Fidelidade|3.520": "2026-11-04T16:04:10.852921+00:00",
   "passagem|Azul Fidelidade|77,918": "2026-11-04T16:04:11.473177+00:00",
   "passagem|Azul Fidelidade|17.800": "2026-11-04T17:32:58.040891+00:00",
-  "clube||Smiles||": "2026-11-17T14:48:17.853491+00:00",
+  "clube||Smiles||": "2026-11-27T15:13:19.627864+00:00",
   "passagem|Azul Fidelidade|10,130": "2026-11-04T18:32:11.910067+00:00",
   "passagem|Smiles|8.000": "2026-11-04T19:39:50.882966+00:00",
   "passagem||2.048,600": "2026-11-04T19:39:51.339410+00:00",
