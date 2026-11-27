@@ -1,5 +1,101 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=586061",
+  "titulo": "Azul oferece até 12% de desconto em ingressos Disney a partir de 4 dias",
+  "link": "https://passageirodeprimeira.com/azul-oferece-ate-12-de-desconto-em-ingressos-disney-a-partir-de-4-dias/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Azul está oferecendo cupons com até 12% de desconto na compra de ingressos para os parques da Disney, válido para reservas feitas hoje, 27/11/2026. O cupom “ALEGRIA12” garante 12% de desconto em reais, enquanto o “SONHO10” concede 10% no resgate em pontos. Aproveite essa oportunidade para garantir sua viagem mágica até 31/12/2027!",
+  "categorias": [
+   "Promoções",
+   "Outros"
+  ],
+  "data": "2026-11-27T15:45:20+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 12,
+  "milheiro_citado": null,
+  "prazo": "2026-12-31",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T16:18:40.189320+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=152116",
+  "titulo": "Azul Friday! Resgate passagens internacionais no Azul pelo Mundo com até 15% de desconto",
+  "link": "https://pontospravoar.com/azul-friday-resgate-passagens-internacionais-azul-pelo-mundo-ate-15-porcento-desconto/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Planejando sua próxima viagem? Aproveite a oferta da Azul Friday, em que é possível resgatar passagens internacionais no Azul pelo Mundo com até 15% de desconto. A promoção é válida até o dia 29 de novembro e você confere os detalhes a seguir. Passagens no Azul pelo Mundo com até 15% de desconto O desconto…",
+  "categorias": [
+   "Azul Fidelidade",
+   "Black Friday",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "Azul Friday",
+   "azul pelo mundo"
+  ],
+  "data": "2026-11-27T16:00:17+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 15,
+  "milheiro_citado": null,
+  "prazo": "2026-11-29",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Passagem em dinheiro",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T16:18:40.283485+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=586124",
+  "titulo": "Festival de Pontos Livelo! Ganhe até 16 pontos por real gasto na Centauro e mais parceiros",
+  "link": "https://passageirodeprimeira.com/festival-pontos-livelo-ganhe-ate-16-pontos-por-real-gasto-centauro-mais-parceiros/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo está oferecendo até 16 pontos por real gasto na Centauro e mais parceiros para assinantes do Clube Livelo. As ofertas contam com pontuações e validades diferentes. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-27T16:03:26+00:00",
+  "pontos_por_real": 16.0,
+  "parceiro": "Centauro",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo||16.0|Centauro",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T16:18:40.188519+00:00",
+  "link_oficial": "https://www.livelo.com.br/juntar-pontos/todos-os-parceiros",
+  "codigo": "RT-0317"
+ },
+ {
   "id": "https://pontospravoar.com/?p=152172",
   "titulo": "Orange Friday! Clube Smiles 1.000 oferece 14 mil milhas na adesão com milheiro a partir de R$ 13,07",
   "link": "https://pontospravoar.com/orange-friday-clube-smiles-1000-oferece-14-mil-milhas-adesao-milheiro-13-reais-07-centavos/",
@@ -12960,99 +13056,5 @@
   "motivos": [],
   "visto_em": "2026-11-12T22:14:59.357312+00:00",
   "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581797",
-  "titulo": "Cartão LATAM Pass Itaú Platinum: 16 mil milhas na adesão e até 35% de bônus nas transferências de pontos",
-  "link": "https://passageirodeprimeira.com/cartao-latam-pass-itau-platinum-16-mil-milhas-na-adesao-e-ate-35-de-bonus-nas-transferencias-de-pontos/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Você sabia que solicitando o cartão LATAM Pass Itaú Platinum e assinando o Clube LATAM Pass você pode garantir até 35% de bônus nas transferências de pontos de qualquer parceiro sem precisar aguardar futuras campanhas?",
-  "categorias": [
-   "Promoções",
-   "Bancos e Cartões"
-  ],
-  "data": "2026-11-12T20:50:38+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [
-   "Itaú"
-  ],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 35,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "transferencia|Itaú|LATAM Pass|35|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 35%"
-  ],
-  "visto_em": "2026-11-12T21:27:35.788055+00:00",
-  "link_oficial": "https://www.itau.com.br/cartoes/escolha/g/latam-pass-mastercard-platinum/",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149287",
-  "titulo": "O que avaliar antes de entrar em um consórcio com a Liga Vitória e ganhar pontos Livelo",
-  "link": "https://pontospravoar.com/avaliar-antes-entrar-consorcio-liga-vitoria-pontos-livelo/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Saber o que avaliar antes de entrar em um consórcio é o passo inicial para garantir que a aquisição programada de um bem caiba no orçamento sem surpresas. A Liga Vitória orienta a comparação de alternativas para imóveis e veículos conforme o momento de compra de cada cliente, permitindo ainda acumular pontos por meio da parceria…",
-  "categorias": [
-   "Publicidade",
-   "Liga Vitória",
-   "PUBLICIDADE"
-  ],
-  "data": "2026-11-12T21:00:21+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [
-   "Livelo"
-  ],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|Livelo||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-12T21:27:35.988562+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581814",
-  "titulo": "Já votou? Saiba tudo sobre o Prêmio Passageiro de Primeira 2026 e participe",
-  "link": "https://passageirodeprimeira.com/ja-votou-saiba-tudo-sobre-o-premio-passageiro-de-primeira-2026-e-participe/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Seguem abertas as votações do Prêmio Passageiro de Primeira 2026! 🎉 Com 24 categorias para você eleger o seu queridinho do universo de fidelidade, cartões de crédito e aviação, a nossa quarta edição chega para ser o maior e melhor termômetro do mercado. Além disso, assim como nos anos anteriores, a premiação também possui como objetivo a causa social e, neste ano, o Passageiro de Primeira vai se c",
-  "categorias": [
-   "Notícias",
-   "Outros"
-  ],
-  "data": "2026-11-12T21:10:39+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-12T21:27:35.787588+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]

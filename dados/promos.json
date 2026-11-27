@@ -414,7 +414,8 @@
   "passagem|LATAM Pass|29": "2026-11-27T11:46:33.366190+00:00",
   "clube|Livelo||30|": "2026-11-27T14:14:18.120689+00:00",
   "transferencia||Esfera|80|": "2026-11-27T14:14:18.906146+00:00",
-  "passagem||12,2.476": "2026-11-27T14:14:21.815139+00:00"
+  "passagem||12,2.476": "2026-11-27T14:14:21.815139+00:00",
+  "acumulo|Livelo||16.0|Centauro": "2026-11-27T16:18:41.466835+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -455,7 +456,8 @@
   ],
   "Centauro>Livelo": [
    14.0,
-   15.0
+   15.0,
+   16.0
   ],
   "Magalu>Smiles": [
    6.0,

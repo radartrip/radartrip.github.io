@@ -1,5 +1,5 @@
 {
- "ultimo": 316,
+ "ultimo": 317,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4800,6 +4800,22 @@
     "categoria": "clube",
     "programas": [
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0317",
+   "enviado_em": "2026-11-27T16:18:41.463583+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Festival de Pontos Livelo! Ganhe até 16 pontos por real gasto na Centauro e mais parceiros",
+   "link": "https://passageirodeprimeira.com/festival-pontos-livelo-ganhe-ate-16-pontos-por-real-gasto-centauro-mais-parceiros/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }
