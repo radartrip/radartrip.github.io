@@ -149,7 +149,8 @@
   "https://passageirodeprimeira.com/?p=585782",
   "https://passageirodeprimeira.com/?p=585676",
   "https://passageirodeprimeira.com/?p=585950",
-  "https://pontospravoar.com/?p=152239"
+  "https://pontospravoar.com/?p=152239",
+  "https://pontospravoar.com/?p=152287"
  ],
  "resgates": [
   {
@@ -771,6 +772,29 @@
    "post": "https://pontospravoar.com/alerta-pasagens-ppv-trechos-internacionais-14960-milhas-latam-pass/",
    "titulo": "Alerta de pasagens PPV: Trechos internacionais a partir de 14.960 milhas LATAM Pass",
    "visto_em": "2026-11-27T18:15:38.888413+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "FLN",
+   "origem_nome": "Brasília",
+   "destino_nome": "Florianópolis",
+   "milhas": 6400,
+   "milhas_clube": 5900,
+   "data": "2027-06-22",
+   "datas_texto": "22 de junho",
+   "cia": "",
+   "reserva": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ECONOMIC&children=0&departureDate=1813676400000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=&searchType=g3&segments=1&tripType=2&originAirport=BSB&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=FLN&destinCity=&destinCountry=&destinAirportIsAny=false&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Junho/2027: 22"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": 712,
+   "preco_origem": "estimativa: metade do ida e volta",
+   "milheiro": 111.25,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-passagens-ppv-smiles-resgates-apenas-3400-milhas/",
+   "titulo": "Alerta de passagens PPV: Smiles tem resgates a partir de apenas 3.400 milhas!",
+   "visto_em": "2026-11-27T19:28:09.044332+00:00"
   }
  ]
 }

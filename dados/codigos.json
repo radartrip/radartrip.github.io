@@ -1,5 +1,5 @@
 {
- "ultimo": 320,
+ "ultimo": 323,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4870,6 +4870,52 @@
      "BSB-MVD"
     ]
    }
+  },
+  {
+   "codigo": "RT-0321",
+   "enviado_em": "2026-11-27T19:28:09.678314+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta de passagens PPV: Smiles tem resgates a partir de apenas 3.400 milhas!",
+   "link": "https://pontospravoar.com/alerta-passagens-ppv-smiles-resgates-apenas-3400-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Smiles"
+    ],
+    "trechos": [
+     "BSB-FLN"
+    ]
+   }
+  },
+  {
+   "codigo": "RT-0322",
+   "enviado_em": "2026-11-27T19:28:10.747355+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Livelo oferece ida e volta para Lisboa em Executiva por R$ 6.273 + taxas",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-ida-e-volta-para-lisboa-em-executiva-por-r-6-273-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0323",
+   "enviado_em": "2026-11-27T19:28:28.889745+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-SCL",
+   "preco": 1796,
+   "media": 2772,
+   "ida": "2027-01-01",
+   "volta": "2027-01-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SCL%20on%202027-01-01%20through%202027-01-24"
   }
  ]
 }
