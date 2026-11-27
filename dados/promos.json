@@ -147,6 +147,21 @@
    "visto_em": "2026-11-27",
    "titulo": "Receba até 392.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 23,92",
    "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "compra|Livelo|||",
+   "categoria": "compra",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 29.13,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Livelo oferece até 57,1 % de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,13",
+   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
   }
  ],
  "vitrine": {
@@ -342,7 +357,10 @@
   "passagem|LATAM Pass|6.044": "2026-11-27T03:04:36.143493+00:00",
   "passagem|LATAM Pass|940": "2026-11-27T03:04:36.790343+00:00",
   "passagem|LATAM Pass|2.348": "2026-11-27T03:04:37.542737+00:00",
-  "passagem|LATAM Pass|10.070": "2026-11-27T03:04:41.341140+00:00"
+  "passagem|LATAM Pass|10.070": "2026-11-27T03:04:41.341140+00:00",
+  "passagem|Azul Fidelidade|176": "2026-11-27T04:13:59.820836+00:00",
+  "compra|Livelo|||": "2026-11-27T04:14:00.627854+00:00",
+  "passagem|LATAM Pass|194": "2026-11-27T04:14:01.604994+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -352,7 +370,8 @@
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.057121+00:00",
   "clube|Livelo|||>>transferencia|Esfera,Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.718096+00:00",
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|90|>>Azul Fidelidade": "2026-11-16T16:32:17.025438+00:00",
-  "clube|Livelo|||>>transferencia|Livelo|Smiles|80|>>Smiles": "2026-11-27T03:04:42.819751+00:00"
+  "clube|Livelo|||>>transferencia|Livelo|Smiles|80|>>Smiles": "2026-11-27T03:04:42.819751+00:00",
+  "compra|Livelo|||>>transferencia|Livelo|Smiles|80|>>Smiles": "2026-11-27T04:14:02.007569+00:00"
  },
  "acumulo": {
   "Magalu>Azul Fidelidade": [

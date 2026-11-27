@@ -1,5 +1,5 @@
 {
- "ultimo": 304,
+ "ultimo": 308,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4614,6 +4614,70 @@
    "ida": "2027-02-22",
    "volta": "2027-03-01",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202027-02-22%20through%202027-03-01"
+  },
+  {
+   "codigo": "RT-0305",
+   "enviado_em": "2026-11-27T04:13:59.817714+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Azul tem passagens a partir de R$ 176 por trecho",
+   "link": "https://passageirodeprimeira.com/azul-tem-passagens-a-partir-de-r-176-por-trecho/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0306",
+   "enviado_em": "2026-11-27T04:14:00.624786+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Livelo oferece até 57,1 % de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,13",
+   "link": "https://passageirodeprimeira.com/livelo-oferece-ate-571-de-desconto-na-compra-de-pontos-para-assinantes-do-clube-milheiro-a-partir-de-r-2913/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "compra",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0307",
+   "enviado_em": "2026-11-27T04:14:01.601847+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Trecho de Recife para Barcelona em Executiva a partir de 194 milhas LATAM Pass + taxas",
+   "link": "https://passageirodeprimeira.com/recife-para-barcelona-executiva-a-partir-194-milhas-latam-pass-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0308",
+   "enviado_em": "2026-11-27T04:14:02.004375+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Smiles",
+   "milheiro_final": 16.18,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Smiles"
+    ],
+    "trechos": []
+   }
   }
  ]
 }
