@@ -14,21 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "compra|Esfera||55|",
-   "categoria": "compra",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 55,
-   "milheiro": null,
-   "prazo": "2026-11-30",
-   "visto_em": "2026-11-24",
-   "titulo": "Blackíssima! Compre pontos Esfera com até 55% de desconto com o cupom do PPV",
-   "link": "https://www.esfera.com.vc/p/compra-de-pontos/e000100033"
-  },
-  {
    "assinatura": "transferencia||Azul Fidelidade|120|",
    "categoria": "transferencia",
    "origens": [],
@@ -117,21 +102,6 @@
    "visto_em": "2026-11-26",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 26 de novembro de 2026",
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
-  },
-  {
-   "assinatura": "clube|Livelo|||",
-   "categoria": "clube",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 23.92,
-   "prazo": "",
-   "visto_em": "2026-11-27",
-   "titulo": "Receba até 392.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 23,92",
-   "link": "https://www.livelo.com.br/clube"
   },
   {
    "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
@@ -228,6 +198,36 @@
    "visto_em": "2026-11-27",
    "titulo": "Transfira pontos Esfera + dinheiro para Azul – milheiro a partir de R$ 11,67",
    "link": "https://www.voeazul.com.br/br/pt/ofertas/esfera"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 22.45,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Receba 24 mil pontos ao assinar o Clube Livelo Essencial – Milheiro a partir de R$ 22,45",
+   "link": "https://www.livelo.com.br/clube"
+  },
+  {
+   "assinatura": "compra|Esfera||55|",
+   "categoria": "compra",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 55,
+   "milheiro": null,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Compre pontos na Blackíssima da Esfera com até 55% de desconto com o cupom do PPV",
+   "link": "https://www.esfera.com.vc/p/compra-de-pontos/e000100033"
   }
  ],
  "vitrine": {
