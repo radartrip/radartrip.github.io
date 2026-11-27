@@ -1,5 +1,67 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=585701",
+  "titulo": "Receba 10.000 pontos Livelo ao assinar o Clube Mini por apenas R$ 24,90 por mês",
+  "link": "https://passageirodeprimeira.com/receba-10-000-pontos-livelo-ao-assinar-o-clube-mini-por-apenas-r-2490-por-mes/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! A Livelo está oferecendo até 10.000 pontos ao assinar o Clube Mini por apenas R$ 24,90 por mês, com 1.000 pontos bônus na adesão e 500 pontos bônus mensais nos primeiros seis meses. A promoção é válida até 30 de novembro e exige o uso do cupom \"CLUBEPPBFMINI\".",
+  "categorias": [
+   "Promoções",
+   "Clube de pontos"
+  ],
+  "data": "2026-11-27T04:20:53+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T05:24:09.498079+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=585628",
+  "titulo": "Pink Hour Livelo! Acumule até 21 pontos por real gasto na Insider, Olympikus e mais parceiros",
+  "link": "https://passageirodeprimeira.com/pink-hour-livelo-acumule-ate-21-pontos-por-real-gasto-na-insider-olympikus-e-mais-parceiros/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! A Livelo está oferecendo até 21 pontos por real gasto na Insider, 15 pontos na Olympikus e até 10 pontos na Decolar, entre outros parceiros. Mas corra, as ofertas são válidas até às 12h de hoje (27).",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-27T04:30:36+00:00",
+  "pontos_por_real": 21.0,
+  "parceiro": "Decolar",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": true,
+  "assinatura": "acumulo|Livelo||21.0|Decolar",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T05:24:09.497242+00:00",
+  "link_oficial": "https://www.livelo.com.br/juntar-pontos/parceiros/insider-store/INS",
+  "codigo": "RT-0309"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=585821",
   "titulo": "Azul tem passagens a partir de R$ 176 por trecho",
   "link": "https://passageirodeprimeira.com/azul-tem-passagens-a-partir-de-r-176-por-trecho/",
@@ -12955,68 +13017,5 @@
   "visto_em": "2026-11-12T15:00:29.748613+00:00",
   "link_oficial": "",
   "codigo": "RT-0126"
- },
- {
-  "id": "https://pontospravoar.com/?p=149634",
-  "titulo": "Azul Friday! Aproveite até 20% de desconto em passagens no Azul Fidelidade",
-  "link": "https://pontospravoar.com/azul-friday-aproveite-ate-20-porcento-desconto-passagens-azul-fidelidade/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Planejando sua próxima aventura? Seguindo com as ofertas antecipadas da Azul Friday, o Azul Fidelidade acaba de liberar até 20% de desconto no resgate de passagens nacionais com pontos para os clientes do Clube Azul. A seguir, confira os detalhes desta oferta válida até o dia 15 de novembro. Azul Fidelidade com até 20% OFF…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade"
-  ],
-  "data": "2026-11-12T14:09:09+00:00",
-  "nacional": true,
-  "categoria": "clube",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 20,
-  "milheiro_citado": null,
-  "prazo": "2026-11-15",
-  "repostagem": false,
-  "assinatura": "clube||Azul Fidelidade|20|",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-12T15:00:30.534653+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://pontospravoar.com/?p=149461",
-  "titulo": "Gastronomia amazônica chega aos voos da Azul em parceria com a Manioca",
-  "link": "https://pontospravoar.com/gastronomia-amazonica-chega-aos-voos-da-azul-em-parceria-com-a-manioca/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Passageiros de cinco voos da Azul receberam produtos da gastronomia paraense em uma ação que levou sabores da Amazônia para dentro das aeronaves; a iniciativa distribuiu mais de 800 pacotes de farofa com ervas amazônicas e sorteou kits especiais da marca Manioca. Farofa com ingredientes do Pará chegou a voos da Azul A Azul e…",
-  "categorias": [
-   "Azul",
-   "Empresas Aéreas",
-   "Notícias",
-   "azul",
-   "AZUL LINHAS AEREAS"
-  ],
-  "data": "2026-11-12T14:30:54+00:00",
-  "nacional": false,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-12T15:00:30.534017+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]

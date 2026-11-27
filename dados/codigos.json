@@ -1,5 +1,5 @@
 {
- "ultimo": 308,
+ "ultimo": 309,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4675,6 +4675,22 @@
     "programas": [
      "Livelo",
      "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0309",
+   "enviado_em": "2026-11-27T05:24:10.538599+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Pink Hour Livelo! Acumule até 21 pontos por real gasto na Insider, Olympikus e mais parceiros",
+   "link": "https://passageirodeprimeira.com/pink-hour-livelo-acumule-ate-21-pontos-por-real-gasto-na-insider-olympikus-e-mais-parceiros/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Livelo"
     ],
     "trechos": []
    }
