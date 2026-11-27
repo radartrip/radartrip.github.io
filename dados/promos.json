@@ -166,6 +166,38 @@
    "link": "https://www.voeazul.com.br/br/pt/ofertas/esfera"
   },
   {
+   "assinatura": "transferencia|Esfera|Smiles|80|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Smiles"
+   ],
+   "bonus": 80,
+   "desconto": 79,
+   "milheiro": null,
+   "prazo": "2026-11-30",
+   "visto_em": "2026-11-27",
+   "titulo": "Orange Friday! Smiles oferece até 80% de bônus nas transferências de pontos com parceiros + 79% OFF na compra de milhas",
+   "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-27-11-2026"
+  },
+  {
+   "assinatura": "transferencia||Esfera|80|",
+   "categoria": "transferencia",
+   "origens": [],
+   "destinos": [
+    "Esfera"
+   ],
+   "bonus": 80,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-27",
+   "visto_em": "2026-11-27",
+   "titulo": "Apenas hoje! Esfera oferece 80% de bônus na transferência de pontos para o ConnectMiles",
+   "link": "http://www.esfera.com.vc/p/copa-airlines/e000100695"
+  },
+  {
    "assinatura": "compra|Livelo|||",
    "categoria": "compra",
    "origens": [
@@ -174,11 +206,11 @@
    "destinos": [],
    "bonus": 0,
    "desconto": 0,
-   "milheiro": null,
+   "milheiro": 29.47,
    "prazo": "",
    "visto_em": "2026-11-27",
-   "titulo": "Pink Friday! Livelo oferece 56,6% de desconto na compra de pontos + 3% no Pix",
-   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos?skuId=LIVSKUCompraDePontos"
+   "titulo": "Livelo oferece até 56,6% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,47",
+   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
   }
  ],
  "vitrine": {
@@ -303,7 +335,7 @@
   "clube||Azul Fidelidade||": "2026-11-17T15:44:22.090453+00:00",
   "passagem|LATAM Pass|1.190,49": "2026-11-17T15:44:23.182827+00:00",
   "passagem|Azul Fidelidade|15,198": "2026-11-17T17:44:45.349766+00:00",
-  "transferencia|Esfera|Smiles|80|": "2026-11-17T19:44:10.007700+00:00",
+  "transferencia|Esfera|Smiles|80|": "2026-11-27T14:14:19.852853+00:00",
   "passagem|LATAM Pass|104,4.403": "2026-11-17T19:44:11.208262+00:00",
   "passagem|Azul Fidelidade|4.500": "2026-11-17T19:44:11.926949+00:00",
   "passagem|LATAM Pass|55": "2026-11-17T21:32:10.222330+00:00",
@@ -379,7 +411,10 @@
   "compra|Livelo|||": "2026-11-27T04:14:00.627854+00:00",
   "passagem|LATAM Pass|194": "2026-11-27T04:14:01.604994+00:00",
   "acumulo|Livelo||21.0|Decolar": "2026-11-27T05:24:10.541803+00:00",
-  "passagem|LATAM Pass|29": "2026-11-27T11:46:33.366190+00:00"
+  "passagem|LATAM Pass|29": "2026-11-27T11:46:33.366190+00:00",
+  "clube|Livelo||30|": "2026-11-27T14:14:18.120689+00:00",
+  "transferencia||Esfera|80|": "2026-11-27T14:14:18.906146+00:00",
+  "passagem||12,2.476": "2026-11-27T14:14:21.815139+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
