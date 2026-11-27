@@ -148,7 +148,8 @@
   "https://passageirodeprimeira.com/?p=585622",
   "https://passageirodeprimeira.com/?p=585782",
   "https://passageirodeprimeira.com/?p=585676",
-  "https://passageirodeprimeira.com/?p=585950"
+  "https://passageirodeprimeira.com/?p=585950",
+  "https://pontospravoar.com/?p=152239"
  ],
  "resgates": [
   {
@@ -747,6 +748,29 @@
    "post": "https://pontospravoar.com/latam-friday-voos-nacionais-119-reais-2535-milhas/",
    "titulo": "LATAM Friday! Voos nacionais a partir de R$ 119 ou 2.535 milhas",
    "visto_em": "2026-11-26T19:45:28.121241+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "MVD",
+   "origem_nome": "Brasília",
+   "destino_nome": "Montevidéu",
+   "milhas": 25930,
+   "milhas_clube": null,
+   "data": "2027-01-23",
+   "datas_texto": "23 de janeiro",
+   "cia": "",
+   "reserva": "https://www.latamairlines.com/br/pt/oferta-voos/?origin=BSB&outbound=2027-01-23&destination=MVD&inbound=null&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_articulo_20261126_latam-friday",
+   "datas_mes": [
+    "Janeiro/2027: 23"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 854,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 32.93,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/alerta-pasagens-ppv-trechos-internacionais-14960-milhas-latam-pass/",
+   "titulo": "Alerta de pasagens PPV: Trechos internacionais a partir de 14.960 milhas LATAM Pass",
+   "visto_em": "2026-11-27T18:15:38.888413+00:00"
   }
  ]
 }

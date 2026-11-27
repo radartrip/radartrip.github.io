@@ -1,5 +1,163 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=152239",
+  "titulo": "Alerta de pasagens PPV: Trechos internacionais a partir de 14.960 milhas LATAM Pass",
+  "link": "https://pontospravoar.com/alerta-pasagens-ppv-trechos-internacionais-14960-milhas-latam-pass/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Que tal aproveitar esta Black Friday para planejar sua próxima viagem internacional usando milhas LATAM Pass? O alerta de passagens PPV traz novas oportunidades pelo LATAM Pass, com passagens para diferentes destinos na América do Sul, Caribe e Estados Unidos, a partir de 14 mil milhas + taxas. Confira as opções selecionadas e aproveite para…",
+  "categorias": [
+   "Emissões com Pontos",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "ALERTAS DE EMISSÕES",
+   "Emissão com Milhas"
+  ],
+  "data": "2026-11-27T17:30:31+00:00",
+  "nacional": false,
+  "categoria": "passagem",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "passagem|LATAM Pass|14.960",
+  "escopo": "internacional",
+  "tipo": "Passagem com milhas",
+  "prioridade": "alta",
+  "motivos": [
+   "LATAM Pass de GYN/BSB",
+   "resgate de GYN/BSB"
+  ],
+  "visto_em": "2026-11-27T18:15:23.057317+00:00",
+  "trechos_total": 10,
+  "resgates": [
+   {
+    "origem": "BSB",
+    "destino": "MVD",
+    "origem_nome": "Brasília",
+    "destino_nome": "Montevidéu",
+    "milhas": 25930,
+    "milhas_clube": null,
+    "data": "2027-01-23",
+    "datas_texto": "23 de janeiro",
+    "cia": "",
+    "reserva": "https://www.latamairlines.com/br/pt/oferta-voos/?origin=BSB&outbound=2027-01-23&destination=MVD&inbound=null&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&sort=RECOMMENDED&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_articulo_20261126_latam-friday",
+    "datas_mes": [
+     "Janeiro/2027: 23"
+    ],
+    "programa": "LATAM Pass",
+    "preco_dinheiro": 854,
+    "preco_origem": "LATAM ao vivo",
+    "milheiro": 32.93,
+    "veredito": "milhas"
+   }
+  ],
+  "codigo": "RT-0320"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=586189",
+  "titulo": "Livelo oferece 30% de desconto no resgate de passagens em Classe Executiva",
+  "link": "https://passageirodeprimeira.com/livelo-oferece-30-de-desconto-no-resgate-de-passagens-em-classe-executiva-4/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Livelo lançou uma promoção imperdível com até 30% de desconto no resgate de passagens em Classe Executiva para assinantes do Clube Livelo, válida até domingo (29). Utilize o código \"EXECUTIVA30\" para garantir o desconto e aproveite essa oportunidade de viajar com mais conforto. Lembre-se que as taxas são cobradas à parte e a oferta está sujeita à disponibilidade.",
+  "categorias": [
+   "Promoções",
+   "Passagens Aéreas"
+  ],
+  "data": "2026-11-27T17:37:24+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 30,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "clube|Livelo||30|",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T18:15:22.980473+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=581885",
+  "titulo": "Resgate produtos no Shopping Azul com até 80% de desconto",
+  "link": "https://passageirodeprimeira.com/resgate-produtos-shopping-azul-com-ate-80-desconto/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "O Azul Fidelidade está com uma no Shopping Azul, que oferece condições especiais para resgatar produtos usando pontos ou pontos + dinheiro. A promoção é válida até segunda (30) e conta com produtos chegando a 80% de desconto. Confira!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-27T17:57:20+00:00",
+  "pontos_por_real": 0,
+  "parceiro": "",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 80,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|80|",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T18:15:22.979683+00:00",
+  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=152070",
+  "titulo": "Azul Friday! Azul Fidelidade oferece até 14 pontos por real gasto no Magalu",
+  "link": "https://pontospravoar.com/azul-friday-azul-fidelidade-oferece-ate-14-pontos-real-gasto-magalu/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Está de olho em algum produto para comprar nesta Black Friday? Então vale a pena conferir a nova campanha do Azul Fidelidade, em parceria com o Magalu, que oferece até 14 pontos por real gasto em categorias selecionadas. A promoção é válida até 30 de novembro e é uma ótima oportunidade para turbinar seu saldo…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Azul Fidelidade",
+   "Black Friday",
+   "Programas de Fidelidade",
+   "Promoções",
+   "azul fidelidade",
+   "Azul Friday",
+   "MAGALU"
+  ],
+  "data": "2026-11-27T18:00:33+00:00",
+  "pontos_por_real": 14.0,
+  "parceiro": "Magalu",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|14.0|Magalu",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T18:15:23.056317+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
   "id": "https://passageirodeprimeira.com/?p=586251",
   "titulo": "Transfira pontos Esfera + dinheiro para Azul – milheiro a partir de R$ 11,67",
   "link": "https://passageirodeprimeira.com/transfira-pontos-esfera-dinheiro-para-azul-milheiro-a-partir-de-r-1167/",
@@ -12926,139 +13084,5 @@
   "visto_em": "2026-11-13T13:54:14.833043+00:00",
   "link_oficial": "https://www.livelo.com.br/clube",
   "codigo": "RT-0132"
- },
- {
-  "id": "https://pontospravoar.com/?p=149792",
-  "titulo": "Prorrogou! Ganhe até 15 pontos Azul Fidelidade por real gasto no Magalu",
-  "link": "https://pontospravoar.com/prorrogou-ganhe-ate-15-pontos-azul-fidelidade-real-gasto-magalu/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "A promoção do Azul Fidelidade, em parceria com o Magalu, segue valendo por mais tempo! A campanha em que é possível acumular até 15 pontos por cada real gasto nas compras elegíveis agora vai até amanhã, dia 14 de novembro. Confira os detalhes da oferta a seguir. Azul Fidelidade e Magalu O acúmulo turbinado de…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "MAGALU"
-  ],
-  "data": "2026-11-13T12:00:20+00:00",
-  "pontos_por_real": 15.0,
-  "parceiro": "Magalu",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-14",
-  "repostagem": true,
-  "assinatura": "acumulo||Azul Fidelidade|15.0|Magalu",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T12:43:04.767455+00:00",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581852",
-  "titulo": "Partiu Europa? Trecho para Roma a partir de 68 mil milhas LATAM Pass + taxas",
-  "link": "https://passageirodeprimeira.com/partiu-europa-trecho-roma-a-partir-68-mil-milhas-latam-pass-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 68.229 milhas LATAM Pass + taxas.",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-13T12:28:07+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|68",
-  "escopo": "internacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T12:43:04.583154+00:00",
-  "trechos_total": 1,
-  "resgates": [],
-  "link_oficial": "https://latampass.latam.com",
-  "codigo": "RT-0131"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581611",
-  "titulo": "Último dia para ganhar 35% de bônus transferindo pontos da Livelo para a Qatar Airways",
-  "link": "https://passageirodeprimeira.com/ultimo-dia-para-ganhar-35-de-bonus-transferindo-pontos-da-livelo-para-a-qatar-airways/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Livelo está oferecendo 35% de bônus na transferência de pontos para o Privilege Club da Qatar Airways, mas atenção: a promoção é válida apenas até hoje (13). A cada 30 mil pontos transferidos, você recebe 13.500 Avios, tornando a oportunidade ainda mais atrativa. Não perca essa chance de potencializar suas milhas!",
-  "categorias": [
-   "Promoções",
-   "Transferência de pontos"
-  ],
-  "data": "2026-11-13T11:00:52+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "Livelo"
-  ],
-  "bonus": 35,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-13",
-  "repostagem": true,
-  "assinatura": "transferencia||Livelo|35|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 35%"
-  ],
-  "visto_em": "2026-11-13T11:44:40.042764+00:00",
-  "link_oficial": "https://www.livelo.com.br/livelo-para-parceiros/qatar/QATTransfer",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149591",
-  "titulo": "Congele tarifas nacionais e internacionais com 70% de desconto no Azul Fidelidade",
-  "link": "https://pontospravoar.com/congele-tarifas-nacionais-e-internacionais-com-70-de-desconto-no-azul-fidelidade/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Perdeu o prazo da última oferta? Aproveite, pois o Azul Fidelidade voltou a oferecer aos seus clientes a possibilidade de congelar tarifas nacionais e internacionais com 70% de desconto. Desta vez, a promoção ficará disponível até o dia 15 de novembro. Congelamento de tarifa O congelamento de tarifa permite, mediante o pagamento de uma taxa, que…",
-  "categorias": [
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "azul fidelidade",
-   "Congelamento de Tarifa",
-   "tarifa congelada"
-  ],
-  "data": "2026-11-13T11:00:57+00:00",
-  "nacional": true,
-  "categoria": "",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 70,
-  "milheiro_citado": null,
-  "prazo": "2026-11-15",
-  "repostagem": true,
-  "assinatura": "",
-  "tipo": "Notícia / outros",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T11:44:40.171172+00:00",
-  "fora_vitrine": "sem critério de vitrine"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "ultimo": 319,
+ "ultimo": 320,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4851,6 +4851,24 @@
      "LATAM Pass"
     ],
     "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0320",
+   "enviado_em": "2026-11-27T18:15:39.542443+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta de pasagens PPV: Trechos internacionais a partir de 14.960 milhas LATAM Pass",
+   "link": "https://pontospravoar.com/alerta-pasagens-ppv-trechos-internacionais-14960-milhas-latam-pass/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-MVD"
+    ]
    }
   }
  ]
