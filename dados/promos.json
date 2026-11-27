@@ -149,6 +149,23 @@
    "link": "https://www.livelo.com.br/clube"
   },
   {
+   "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 120,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-27",
+   "visto_em": "2026-11-27",
+   "titulo": "Só hoje! Azul Fidelidade oferece até 120% de bônus nas transferências da Esfera",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/esfera"
+  },
+  {
    "assinatura": "compra|Livelo|||",
    "categoria": "compra",
    "origens": [
@@ -157,11 +174,11 @@
    "destinos": [],
    "bonus": 0,
    "desconto": 0,
-   "milheiro": 29.13,
+   "milheiro": null,
    "prazo": "",
    "visto_em": "2026-11-27",
-   "titulo": "Livelo oferece até 57,1 % de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,13",
-   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
+   "titulo": "Pink Friday! Livelo oferece 56,6% de desconto na compra de pontos + 3% no Pix",
+   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos?skuId=LIVSKUCompraDePontos"
   }
  ],
  "vitrine": {
