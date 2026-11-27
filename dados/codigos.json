@@ -1,5 +1,5 @@
 {
- "ultimo": 330,
+ "ultimo": 331,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -5018,6 +5018,22 @@
     "programas": [
      "Azul Fidelidade",
      "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0331",
+   "enviado_em": "2026-11-27T23:21:51.956602+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "Alerta de passagens PPV: Confira 10 resgates a partir de 3.500 pontos Azul Fidelidade",
+   "link": "https://pontospravoar.com/alerta-de-passagens-ppv-confira-10-resgates-a-partir-de-3-500-pontos-azul-fidelidade/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Azul Fidelidade"
     ],
     "trechos": []
    }
