@@ -132,12 +132,27 @@
    "visto_em": "2026-11-26",
    "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 26 de novembro de 2026",
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
+  },
+  {
+   "assinatura": "clube|Livelo|||",
+   "categoria": "clube",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": 23.92,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Receba até 392.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 23,92",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {
   "transferencia|Livelo|Azul Fidelidade|130|": "2026-11-03T17:09:31.008585+00:00",
   "transferencia||LATAM Pass|25|": "2026-11-25T11:50:44.344695+00:00",
-  "clube|Livelo|||": "2026-11-13T13:54:16.605065+00:00",
+  "clube|Livelo|||": "2026-11-27T03:04:42.408697+00:00",
   "transferencia|Livelo|Azul Fidelidade|100|": "2026-11-03T17:09:36.709263+00:00",
   "compra|Livelo||56|": "2026-11-03T19:00:44.072118+00:00",
   "transferencia|Caixa|Azul Fidelidade|120|": "2026-11-04T14:48:52.060709+00:00",
@@ -321,7 +336,13 @@
   "passagem|LATAM Pass|10,3.895": "2026-11-26T19:45:32.165940+00:00",
   "passagem|LATAM Pass|267,55": "2026-11-26T19:45:36.090955+00:00",
   "passagem|LATAM Pass|1.597,10,2027": "2026-11-26T20:35:54.848470+00:00",
-  "passagem|Azul Fidelidade|76": "2026-11-26T21:32:12.287900+00:00"
+  "passagem|Azul Fidelidade|76": "2026-11-26T21:32:12.287900+00:00",
+  "passagem|LATAM Pass|3.564": "2026-11-27T03:04:34.725256+00:00",
+  "passagem|LATAM Pass|267,40": "2026-11-27T03:04:35.378307+00:00",
+  "passagem|LATAM Pass|6.044": "2026-11-27T03:04:36.143493+00:00",
+  "passagem|LATAM Pass|940": "2026-11-27T03:04:36.790343+00:00",
+  "passagem|LATAM Pass|2.348": "2026-11-27T03:04:37.542737+00:00",
+  "passagem|LATAM Pass|10.070": "2026-11-27T03:04:41.341140+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
@@ -330,7 +351,8 @@
   "compra|Livelo||56|>>transferencia|Livelo|Azul Fidelidade|100|>>Azul Fidelidade": "2026-11-03T19:00:45.109209+00:00",
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.057121+00:00",
   "clube|Livelo|||>>transferencia|Esfera,Livelo|Azul Fidelidade|120|>>Azul Fidelidade": "2026-11-16T14:47:22.718096+00:00",
-  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|90|>>Azul Fidelidade": "2026-11-16T16:32:17.025438+00:00"
+  "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|90|>>Azul Fidelidade": "2026-11-16T16:32:17.025438+00:00",
+  "clube|Livelo|||>>transferencia|Livelo|Smiles|80|>>Smiles": "2026-11-27T03:04:42.819751+00:00"
  },
  "acumulo": {
   "Magalu>Azul Fidelidade": [

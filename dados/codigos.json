@@ -1,5 +1,5 @@
 {
- "ultimo": 295,
+ "ultimo": 304,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4474,6 +4474,146 @@
    "ida": "2027-01-19",
    "volta": "2027-01-26",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FOR%20on%202027-01-19%20through%202027-01-26"
+  },
+  {
+   "codigo": "RT-0296",
+   "enviado_em": "2026-11-27T03:04:34.722103+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "África do Sul 🇿🇦 Mega Promo Latam tem voos para Joanesburgo ou Cidade do Cabo a partir de R$ 3.564 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-mega-promo-latam-africa-do-sul-26-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0297",
+   "enviado_em": "2026-11-27T03:04:35.375109+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "🔴 [LIVE] MEGA PROMO LATAM: até 40% OFF! Brasil, Chile, EUA e Europa | Nacionais desde R$ 267 ida e volta",
+   "link": "https://www.melhoresdestinos.com.br/live-mega-promo-latam-black-friday-2026-yt.html",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0298",
+   "enviado_em": "2026-11-27T03:04:36.140196+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Oceania! Mega Promo Latam tem voos para Austrália ou Nova Zelândia a partir de R$ 6.044 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-mega-promo-latam-oceania-26-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0299",
+   "enviado_em": "2026-11-27T03:04:36.787120+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "América do Sul! Latam, Jetsmart e Sky têm voos para Argentina, Chile, Uruguai e mais destinos a partir de R$ 940 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-mega-promo-latam-america-do-sul-26-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0300",
+   "enviado_em": "2026-11-27T03:04:37.539446+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "México e Caribe! Mega Promo Latam tem voos para Costa Rica, Cancún e mais a partir de R$ 2.348 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-mega-promo-latam-caribe-mexico-26-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0301",
+   "enviado_em": "2026-11-27T03:04:41.337963+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Europa de Executiva! Mega Promo Latam tem voos para Lisboa, Madri e outras cidades a partir de R$ 10.070 ida e volta!",
+   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-mega-promo-latam-executiva-europa-26-11-26",
+   "fonte": "Melhores Destinos",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0302",
+   "enviado_em": "2026-11-27T03:04:42.405339+00:00",
+   "canal": true,
+   "tipo": "Clube / compra de pontos",
+   "titulo": "Receba até 392.000 pontos ao assinar o Clube Livelo Premium – Milheiro a partir de R$ 23,92",
+   "link": "https://passageirodeprimeira.com/receba-ate-392-000-pontos-ao-assinar-o-clube-livelo-premium-milheiro-a-partir-de-r-2392/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "clube",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0303",
+   "enviado_em": "2026-11-27T03:04:42.816476+00:00",
+   "canal": true,
+   "tipo": "Combo",
+   "titulo": "Livelo → Smiles",
+   "milheiro_final": 13.29,
+   "etiquetas": {
+    "categoria": "combo",
+    "programas": [
+     "Livelo",
+     "Smiles"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0304",
+   "enviado_em": "2026-11-27T03:04:51.380495+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-LIS",
+   "preco": 4425,
+   "media": 5395,
+   "ida": "2027-02-22",
+   "volta": "2027-03-01",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202027-02-22%20through%202027-03-01"
   }
  ]
 }
