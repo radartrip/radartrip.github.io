@@ -1,5 +1,5 @@
 {
- "ultimo": 328,
+ "ultimo": 330,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -4988,6 +4988,39 @@
    "ida": "2027-02-10",
    "volta": "2027-02-17",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SSA%20on%202027-02-10%20through%202027-02-17"
+  },
+  {
+   "codigo": "RT-0329",
+   "enviado_em": "2026-11-27T21:24:48.424458+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "LATAM Friday! Ganhe até 10 milhas por real gasto em compras na Polishop",
+   "link": "https://pontospravoar.com/latam-friday-ganhe-ate-10-milhas-real-gasto-compras-polishop/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0330",
+   "enviado_em": "2026-11-27T21:24:49.925149+00:00",
+   "canal": true,
+   "tipo": "Acúmulo de pontos",
+   "titulo": "Confira as melhores ofertas da Black Friday que seguem valendo!",
+   "link": "https://passageirodeprimeira.com/confira-as-melhores-ofertas-da-black-friday-que-seguem-valendo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "acumulo",
+    "programas": [
+     "Azul Fidelidade",
+     "Livelo"
+    ],
+    "trechos": []
+   }
   }
  ]
 }

@@ -1,5 +1,177 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=152121",
+  "titulo": "Pink Friday! Clube Livelo Essencial oferece 13 mil pontos no 1° mês de assinatura",
+  "link": "https://pontospravoar.com/pink-friday-clube-livelo-essencial-oferece-13-mil-pontos-primeiro-mes-assinatura/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Mais uma oferta de Pink Friday! A Livelo está com uma campanha especial de adesão ao Clube Livelo Essencial, permitindo que novos assinantes acumulem 24 mil pontos na modalidade anual, sendo 13 mil pontos creditados logo no primeiro mês de assinatura. A condição promocional é válida somente até 30 de novembro. Confira os valores, as…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Black Friday",
+   "Livelo",
+   "Programas de Fidelidade",
+   "Promoções",
+   "assinatura livelo",
+   "Clube Livelo Essencial",
+   "livelo",
+   "Pink Friday"
+  ],
+  "data": "2026-11-27T20:30:53+00:00",
+  "nacional": false,
+  "categoria": "clube",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-30",
+  "repostagem": false,
+  "assinatura": "clube|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T21:24:22.756136+00:00",
+  "fora_vitrine": "clube sem milheiro informado"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=586344",
+  "titulo": "Somente hoje! Azul Fidelidade oferece até 14 pontos por real na Renner",
+  "link": "https://passageirodeprimeira.com/somente-hoje-azul-fidelidade-oferece-ate-14-pontos-por-real-na-renner/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Muito bom! O Azul Fidelidade está oferecendo até 14 pontos por real gasto em compras na Renner, mas atenção: a promoção é válida somente até 23h59 de hoje (27). Assinantes do Clube Azul acumulam 14 pontos, enquanto os clientes comuns ganham 8 pontos por real.",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-27T20:40:37+00:00",
+  "pontos_por_real": 14.0,
+  "parceiro": "Renner",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||Azul Fidelidade|14.0|Renner",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T21:24:22.705213+00:00",
+  "fora_vitrine": "repetição de promoção já enviada"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=586247",
+  "titulo": "Transamerica Resort Comandatuba All Inclusive com mais de 25% de desconto na Azul Viagens",
+  "link": "https://passageirodeprimeira.com/transamerica-resort-comandatuba-all-inclusive-com-mais-de-25-de-desconto-na-azul-viagens/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "Imperdível! O Azul Fidelidade e o Passageiro de Primeira se uniram para oferecer um cupom exclusivo de 22% de desconto em reservas pagantes ou com pontos de qualquer hotel, aluguéis de carros e pacotes na Azul Viagens! Além disso, é possível gerar o milheiro Azul a partir de R$ 11,67 transferindo pontos Esfera com bônus na modalidade Pontos + Dinheiro.",
+  "categorias": [
+   "Promoções",
+   "Hotéis"
+  ],
+  "data": "2026-11-27T21:00:17+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [
+   "Esfera"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 25,
+  "milheiro_citado": 11.67,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T21:24:22.703695+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
+  "id": "https://pontospravoar.com/?p=152148",
+  "titulo": "LATAM Friday! Ganhe até 10 milhas por real gasto em compras na Polishop",
+  "link": "https://pontospravoar.com/latam-friday-ganhe-ate-10-milhas-real-gasto-compras-polishop/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "LATAM Friday! O Shopping LATAM Pass, em parceria com a Polishop, está com uma oferta que permite aos clientes acumularem até 10 milhas por real gasto em produtos selecionados. Essa é uma boa oportunidade para aproveitar as ofertas da Black Friday e turbinar seu saldo de milhas. Confira as condições da campanha e saiba como…",
+  "categorias": [
+   "Acumulando Milhas",
+   "Black Friday",
+   "LATAM Pass",
+   "Programas de Fidelidade",
+   "Promoções",
+   "LATAM Friday",
+   "POLISHOP"
+  ],
+  "data": "2026-11-27T21:00:31+00:00",
+  "pontos_por_real": 10.0,
+  "parceiro": "Polishop",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [],
+  "programas_destino": [
+   "LATAM Pass"
+  ],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "acumulo||LATAM Pass|10.0|Polishop",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T21:24:22.755564+00:00",
+  "link_oficial": "https://latampass.latam.com",
+  "codigo": "RT-0329"
+ },
+ {
+  "id": "https://passageirodeprimeira.com/?p=586364",
+  "titulo": "Confira as melhores ofertas da Black Friday que seguem valendo!",
+  "link": "https://passageirodeprimeira.com/confira-as-melhores-ofertas-da-black-friday-que-seguem-valendo/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "A Black Friday do PP continua com ofertas imperdíveis! A Livelo está oferecendo até 16 pontos por real gasto na Centauro até 27/11/2026, e a Azul Viagens prorrogou o desconto de 22% com o cupom ESPECIALPP para reservas até 26/11/2026. Além disso, ao assinar o Clube Livelo Premium, você pode acumular até 392.000 pontos em um ano.",
+  "categorias": [
+   "Promoções",
+   "Outros"
+  ],
+  "data": "2026-11-27T21:20:16+00:00",
+  "pontos_por_real": 16.0,
+  "parceiro": "Centauro",
+  "acumulo_forte_texto": false,
+  "nacional": false,
+  "categoria": "acumulo",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [
+   "Azul Fidelidade"
+  ],
+  "bonus": 0,
+  "desconto": 22,
+  "milheiro_citado": null,
+  "prazo": "2026-11-27",
+  "repostagem": false,
+  "assinatura": "acumulo|Livelo|Azul Fidelidade|22|Centauro",
+  "tipo": "Acúmulo de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-27T21:24:22.702725+00:00",
+  "link_oficial": "https://www.livelo.com.br/juntar-pontos/parceiros/centauro/CEN?_gl=1%2A9qsov%2A_gcl_aw%2AR0NMLjE3ODIxMjc5ODcuQ2p3S0NBand1dVBSQmhBbkVpd0EySmk4ZWd2TWZ1MVh4VXQtNndIOEV3a29hY29ucDRleTZ1R3pSNjNTQXdJcVRNZHlKZnlQdlBCT0xob0NIZDhRQXZEX0J3RQ..%2A_gcl_au%2AOTczMTQyNzk4LjE3Nzc2NzM4NTEuMTYwNTYzOTA3OC4xNzgwODM4OTgzLjE3ODA4Mzk5Mzc.%2A_ga%2AODEzNDQ5MjA4LjE3Nzc2NzM4NTE.%2A_ga_4SG1B1GBJV%2AczE3ODU0MTc5MTckbzc3JGcxJHQxNzg1NDE5MDU0JGo1NCRsMCRoNzIxMDAyNTA1JGROWEE5UkZqc0lQZnhBODBTRW4yTmVxdklWTy0xYTZsbXN3",
+  "codigo": "RT-0330"
+ },
+ {
   "id": "https://pontospravoar.com/?p=152308",
   "titulo": "Pink Friday! Faça o upgrade para o Clube Livelo Especial e acumule 104 mil pontos",
   "link": "https://pontospravoar.com/pink-friday-faca-upgrade-clube-livelo-especial-acumule-104-mil-pontos/",
@@ -12958,170 +13130,6 @@
   "prioridade": "normal",
   "motivos": [],
   "visto_em": "2026-11-13T19:07:32.337899+00:00",
-  "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581861",
-  "titulo": "Voe para Barcelona a partir de 94 mil pontos Azul + taxas",
-  "link": "https://passageirodeprimeira.com/muito-bom-voe-barcelona-a-partir-94-mil-pontos-azul-taxas/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Barcelona (BCN). Os voos são operados pela Royal Air Maroc e a emissão pode ser feita a partir de 94.500 pontos Azul Fidelidade + taxas. Confira!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-13T18:44:59+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|Azul Fidelidade|94",
-  "escopo": "nacional",
-  "tipo": "Passagem com milhas",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T19:07:32.211888+00:00",
-  "trechos_total": 1,
-  "resgates": [],
-  "link_oficial": "https://www.voeazul.com.br",
-  "codigo": "RT-0135"
- },
- {
-  "id": "https://pontospravoar.com/?p=149881",
-  "titulo": "Acaba hoje! Smiles oferece até 70% de bônus na transferência de pontos + cupom",
-  "link": "https://pontospravoar.com/acaba-hoje-smiles-oferece-ate-70-porcento-bonus-transferencia-pontos-cupom/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "Vai transferir seus pontos? Aproveite, pois hoje termina a oferta da Smiles, oferecendo até 70% de bônus na transferência de pontos de todos os clientes. Além disso, oferece um cupom de 76% de desconto na compra de milhas. Vamos aos detalhes! Promoção Smiles e parceiros Nesta campanha de transferências de pontos, a bonificação está estruturada da…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Smiles",
-   "TRANSFERÊNCIA BONIFICADA"
-  ],
-  "data": "2026-11-13T17:30:26+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "Smiles"
-  ],
-  "bonus": 70,
-  "desconto": 76,
-  "milheiro_citado": null,
-  "prazo": "2026-11-13",
-  "repostagem": true,
-  "assinatura": "transferencia||Smiles|70|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 70%"
-  ],
-  "visto_em": "2026-11-13T18:13:16.268666+00:00",
-  "link_oficial": "http://www.smiles.com.br/portal/promo/orangefriday-bancos-11-2026",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://pontospravoar.com/?p=149876",
-  "titulo": "Apenas hoje! Azul Fidelidade e Alloyal com até 120% de bônus na transferência de pontos",
-  "link": "https://pontospravoar.com/apenas-hoje-azul-fidelidade-alloyal-ate-120-porcento-bonus-transferencia-pontos/",
-  "fonte": "Pontos pra Voar",
-  "resumo": "O Azul Fidelidade liberou uma promoção relâmpago na Azul Friday. Desta vez, está oferecendo aos seus clientes até 120% de bônus na transferência de pontos Alloyal. Ficou interessado? Aproveite, pois essa oferta é válida apenas hoje, dia 13 de novembro. Azul Fidelidade e Alloyal Para esta campanha, a bonificação está estruturada da seguinte forma: 90%…",
-  "categorias": [
-   "Acumulando Milhas",
-   "Azul Fidelidade",
-   "Programas de Fidelidade",
-   "Promoções",
-   "Alloyal",
-   "azul fidelidade"
-  ],
-  "data": "2026-11-13T18:00:41+00:00",
-  "nacional": false,
-  "categoria": "transferencia",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 120,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "2026-11-13",
-  "repostagem": true,
-  "assinatura": "transferencia||Azul Fidelidade|120|",
-  "tipo": "Transferência bonificada",
-  "prioridade": "alta",
-  "motivos": [
-   "bônus de 120%",
-   "promoção relâmpago"
-  ],
-  "visto_em": "2026-11-13T18:13:16.268115+00:00",
-  "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/alloyal?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
-  "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=581877",
-  "titulo": "Azul Fidelidade oferece até 20% de desconto em passagens nacionais",
-  "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-20-de-desconto-em-passagens-nacionais-4/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "A Azul está oferecendo até 20% de desconto na emissão de passagens nacionais para assinantes do Clube Azul. A promoção é válida até 23h59 de domingo (15) e contempla voos de 01/12/2026 a 30/06/2027, com algumas datas excluídas. Não perca essa oportunidade de viajar com milhas!",
-  "categorias": [
-   "Promoções",
-   "Passagens Aéreas"
-  ],
-  "data": "2026-11-13T17:20:20+00:00",
-  "nacional": true,
-  "categoria": "clube",
-  "programas_origem": [],
-  "programas_destino": [
-   "Azul Fidelidade"
-  ],
-  "bonus": 0,
-  "desconto": 20,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "clube||Azul Fidelidade|20|",
-  "tipo": "Clube / compra de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T18:13:16.054125+00:00",
-  "fora_vitrine": "clube sem milheiro informado"
- },
- {
-  "id": "https://passageirodeprimeira.com/?p=580943",
-  "titulo": "Conheça o PortoPlus, programa de pontos e benefícios dos cartões Porto Bank",
-  "link": "https://passageirodeprimeira.com/conheca-o-portoplus-programa-de-pontos-e-beneficios-dos-cartoes-porto-bank/",
-  "fonte": "Passageiro de Primeira",
-  "resumo": "Quem usa um Cartão de Crédito Porto Bank pode acumular pontos no PortoPlus nas compras do dia a dia. Esses pontos podem virar milhas, ajudar a economizar na renovação do seguro ou até render ingressos para a Fórmula 1, como aconteceu no GP de São Paulo 2026. Nesta matéria, vamos te mostrar como funciona o programa de pontos e benefícios dos cartões Porto Bank, entender como acumular pontos e desco",
-  "categorias": [
-   "Quadros",
-   "Publicidade"
-  ],
-  "data": "2026-11-13T17:50:40+00:00",
-  "pontos_por_real": 0,
-  "parceiro": "",
-  "acumulo_forte_texto": false,
-  "nacional": false,
-  "categoria": "acumulo",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "acumulo|||0|",
-  "tipo": "Acúmulo de pontos",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T18:13:16.053353+00:00",
   "fora_vitrine": "acúmulo genérico (fica nos bastidores)"
  }
 ]
