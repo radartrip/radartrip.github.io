@@ -211,6 +211,23 @@
    "visto_em": "2026-11-27",
    "titulo": "Orange Friday! Clube Smiles 1.000 oferece 14 mil milhas na adesão com milheiro a partir de R$ 13,07",
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja"
+  },
+  {
+   "assinatura": "transferencia|Esfera|Azul Fidelidade|90|",
+   "categoria": "transferencia",
+   "origens": [
+    "Esfera"
+   ],
+   "destinos": [
+    "Azul Fidelidade"
+   ],
+   "bonus": 90,
+   "desconto": 0,
+   "milheiro": 11.67,
+   "prazo": "",
+   "visto_em": "2026-11-27",
+   "titulo": "Transfira pontos Esfera + dinheiro para Azul – milheiro a partir de R$ 11,67",
+   "link": "https://www.voeazul.com.br/br/pt/ofertas/esfera"
   }
  ],
  "vitrine": {
@@ -415,7 +432,9 @@
   "clube|Livelo||30|": "2026-11-27T14:14:18.120689+00:00",
   "transferencia||Esfera|80|": "2026-11-27T14:14:18.906146+00:00",
   "passagem||12,2.476": "2026-11-27T14:14:21.815139+00:00",
-  "acumulo|Livelo||16.0|Centauro": "2026-11-27T16:18:41.466835+00:00"
+  "acumulo|Livelo||16.0|Centauro": "2026-11-27T16:18:41.466835+00:00",
+  "transferencia|Esfera|Azul Fidelidade|90|": "2026-11-27T17:27:52.227765+00:00",
+  "passagem|LATAM Pass|52.393": "2026-11-27T17:27:53.255333+00:00"
  },
  "combos": {
   "clube|Livelo|||>>transferencia|Livelo|Azul Fidelidade|130|>>Azul Fidelidade": "2026-11-03T17:09:37.275952+00:00",
