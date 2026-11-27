@@ -29,38 +29,6 @@
    "link": "https://www.smiles.com.br/portal/campanha/clubesmiles/assineja/20261102"
   },
   {
-   "assinatura": "compra||Smiles|375|",
-   "categoria": "compra",
-   "origens": [],
-   "destinos": [
-    "Smiles"
-   ],
-   "bonus": 375,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-26",
-   "visto_em": "2026-11-21",
-   "titulo": "Smiles com bônus de até 375% na compra de milhas",
-   "link": "http://www.smiles.com.br/portal/campanhas/comprademilhas-375-20261119"
-  },
-  {
-   "assinatura": "clube|Itaú|Azul Fidelidade||",
-   "categoria": "clube",
-   "origens": [
-    "Itaú"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 9.0,
-   "prazo": "",
-   "visto_em": "2026-11-23",
-   "titulo": "Oferta relâmpago! Clube Azul 5.000 anual a partir de R$ 45 por mês com milheiro a partir de R$ 9",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/adesao-relampago"
-  },
-  {
    "assinatura": "compra|Esfera||55|",
    "categoria": "compra",
    "origens": [
