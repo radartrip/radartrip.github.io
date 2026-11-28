@@ -106,21 +106,6 @@
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-27-11-2026"
   },
   {
-   "assinatura": "compra|Livelo|||",
-   "categoria": "compra",
-   "origens": [
-    "Livelo"
-   ],
-   "destinos": [],
-   "bonus": 0,
-   "desconto": 0,
-   "milheiro": 29.47,
-   "prazo": "",
-   "visto_em": "2026-11-27",
-   "titulo": "Livelo oferece até 56,6% de desconto na compra de pontos para assinantes do Clube – milheiro a partir de R$ 29,47",
-   "link": "https://www.livelo.com.br/compra-de-pontos/produto/LIVCompraDePontos"
-  },
-  {
    "assinatura": "clube||Smiles||",
    "categoria": "clube",
    "origens": [],
@@ -181,6 +166,21 @@
    "visto_em": "2026-11-27",
    "titulo": "Compre pontos na Blackíssima da Esfera com até 55% de desconto com o cupom do PPV",
    "link": "https://www.esfera.com.vc/p/compra-de-pontos/e000100033"
+  },
+  {
+   "assinatura": "compra|Livelo|||",
+   "categoria": "compra",
+   "origens": [
+    "Livelo"
+   ],
+   "destinos": [],
+   "bonus": 0,
+   "desconto": 0,
+   "milheiro": null,
+   "prazo": "2026-11-28",
+   "visto_em": "2026-11-28",
+   "titulo": "Assine o Clube Livelo e turbine seu acúmulo no Festival de Pontos",
+   "link": "https://www.livelo.com.br/clube"
   }
  ],
  "vitrine": {

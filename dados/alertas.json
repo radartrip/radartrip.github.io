@@ -1,5 +1,35 @@
 [
  {
+  "id": "https://passageirodeprimeira.com/?p=586174",
+  "titulo": "Assine o Clube Livelo e turbine seu acúmulo no Festival de Pontos",
+  "link": "https://passageirodeprimeira.com/assine-o-clube-livelo-e-turbine-seu-acumulo-no-festival-de-pontos-2/",
+  "fonte": "Passageiro de Primeira",
+  "resumo": "[Oferta] Hoje (28) é o último dia para aproveitar o Festival de Pontos da Livelo, que oferece até 112.000 pontos bônus em novas assinaturas do Clube Premium com o cupom \"CLUBEPPBF26\". Além disso, até segunda-feira (30), assinantes podem comprar pontos com até 56,6% de desconto, resultando em mil pontos por apenas R$ 30,38. Não perca essa chance de turbinar seu acúmulo!",
+  "categorias": [
+   "Promoções",
+   "Compre e pontue"
+  ],
+  "data": "2026-11-28T11:00:13+00:00",
+  "nacional": false,
+  "categoria": "compra",
+  "programas_origem": [
+   "Livelo"
+  ],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "2026-11-28",
+  "repostagem": true,
+  "assinatura": "compra|Livelo|||",
+  "tipo": "Clube / compra de pontos",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-28T11:30:18.852959+00:00",
+  "link_oficial": "https://www.livelo.com.br/clube",
+  "fora_vitrine": "compra sem desconto/milheiro forte"
+ },
+ {
   "id": "https://pontospravoar.com/?p=152368",
   "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos da Black Friday!",
   "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-black-friday-dia-27-novembro-2026/",
@@ -13107,31 +13137,5 @@
   "visto_em": "2026-11-13T20:48:18.947101+00:00",
   "link_oficial": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo",
   "fora_vitrine": "repetição de promoção já enviada"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=647420",
-  "titulo": "Porto de Galinhas! Voos + hospedagem all inclusive no Enotel a partir de R$ 3.699 por pessoa em até 10x sem juros",
-  "link": "https://www.melhoresdestinos.com.br/promocao/porto-de-galinhas-voos-hospedagem-all-inclusive-no-enotel-13nov26",
-  "fonte": "Melhores Destinos",
-  "resumo": "Porto de Galinhas é um dos destinos mais encantadores do Nordeste. Famoso pelas piscinas naturais entre recifes, pelo mar cristalino e pelo visual paradisíaco, o local conta com ótima estrutura turística e é perfeito para umas férias em família. Uma boa opção para sua próxima viagem para lá é se hospedar no Enotel Porto de…",
-  "categorias": [],
-  "data": "2026-11-13T13:30:06+00:00",
-  "nacional": true,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem||10,3.699",
-  "escopo": "nacional",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T20:48:17.932200+00:00",
-  "link_oficial": "",
-  "codigo": "RT-0137"
  }
 ]
