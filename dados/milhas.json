@@ -154,7 +154,8 @@
   "https://passageirodeprimeira.com/?p=586315",
   "https://passageirodeprimeira.com/?p=586515",
   "https://pontospravoar.com/?p=152488",
-  "https://pontospravoar.com/?p=152470"
+  "https://pontospravoar.com/?p=152470",
+  "https://pontospravoar.com/?p=152542"
  ],
  "resgates": [
   {
@@ -845,6 +846,29 @@
    "post": "https://pontospravoar.com/latam-friday-resgate-passagens-119-reais-2-mil-milhas/",
    "titulo": "LATAM Friday! Resgate passagens a partir de R$ 119 ou 2 mil milhas",
    "visto_em": "2026-11-28T14:38:14.730717+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "VIX",
+   "origem_nome": "Brasília",
+   "destino_nome": "Vitória",
+   "milhas": 7300,
+   "milhas_clube": 7100,
+   "data": "2027-03-11",
+   "datas_texto": "11 de março",
+   "cia": "",
+   "reserva": "http://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1804734000000&infants=0&isElegible=false&isFlexibleDateChecked=true&returnDate=1805425199000&searchType=g3&segments=1&tripType=1&originAirport=BSB&destinationAirport=VIX&novo-resultado-voos=true&utm_source=pontos_pra_voar&utm_medium=cpa",
+   "datas_mes": [
+    "Março/2027: 11"
+   ],
+   "programa": "Smiles",
+   "preco_dinheiro": null,
+   "preco_origem": "",
+   "milheiro": null,
+   "veredito": "",
+   "post": "https://pontospravoar.com/alerta-ppv-resgate-passagens-smiles-apenas-3400-milhas-taxas/",
+   "titulo": "Alerta PPV! Resgate passagens na Smiles a partir de apenas 3.400 milhas + taxas",
+   "visto_em": "2026-11-28T16:17:42.542451+00:00"
   }
  ]
 }
