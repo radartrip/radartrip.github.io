@@ -1,5 +1,5 @@
 {
- "ultimo": 345,
+ "ultimo": 346,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -5215,6 +5215,22 @@
      "BSB-VIX",
      "BSB-UDI"
     ]
+   }
+  },
+  {
+   "codigo": "RT-0346",
+   "enviado_em": "2026-11-28T17:15:03.436106+00:00",
+   "canal": true,
+   "tipo": "Passagem em dinheiro",
+   "titulo": "Voe para Barcelona em Executiva por R$ 3.874 + taxas com a Livelo – confira o passo a passo",
+   "link": "https://passageirodeprimeira.com/voe-para-barcelona-em-executiva-por-r-3-874-taxas-com-a-livelo/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "Livelo"
+    ],
+    "trechos": []
    }
   }
  ]
