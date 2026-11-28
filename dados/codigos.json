@@ -1,5 +1,5 @@
 {
- "ultimo": 342,
+ "ultimo": 344,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -5169,6 +5169,34 @@
     "programas": [],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0343",
+   "enviado_em": "2026-11-28T13:47:06.463787+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM Friday oferece passagens promocionais a partir de 2 mil milhas + taxas",
+   "link": "https://passageirodeprimeira.com/latam-friday-oferece-passagens-promocionais-a-partir-de-2-mil-milhas-taxas/",
+   "fonte": "Passageiro de Primeira",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": []
+   }
+  },
+  {
+   "codigo": "RT-0344",
+   "enviado_em": "2026-11-28T13:47:23.997858+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-JPA",
+   "preco": 866,
+   "media": 1705,
+   "ida": "2027-05-05",
+   "volta": "2027-05-12",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20JPA%20on%202027-05-05%20through%202027-05-12"
   }
  ]
 }
