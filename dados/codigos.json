@@ -1,5 +1,5 @@
 {
- "ultimo": 331,
+ "ultimo": 340,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -5037,6 +5037,114 @@
     ],
     "trechos": []
    }
+  },
+  {
+   "codigo": "RT-0332",
+   "enviado_em": "2026-11-28T01:48:09.613270+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-REC",
+   "preco": 521,
+   "media": 743,
+   "ida": "2027-05-14",
+   "volta": "2027-05-19",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-05-14%20through%202027-05-19"
+  },
+  {
+   "codigo": "RT-0333",
+   "enviado_em": "2026-11-28T01:48:10.017687+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-SSA",
+   "preco": 391,
+   "media": 635,
+   "ida": "2027-03-05",
+   "volta": "2027-03-10",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SSA%20on%202027-03-05%20through%202027-03-10"
+  },
+  {
+   "codigo": "RT-0334",
+   "enviado_em": "2026-11-28T01:48:11.024554+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-FOR",
+   "preco": 535,
+   "media": 994,
+   "ida": "2027-03-05",
+   "volta": "2027-03-10",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FOR%20on%202027-03-05%20through%202027-03-10"
+  },
+  {
+   "codigo": "RT-0335",
+   "enviado_em": "2026-11-28T01:48:11.429654+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-MCZ",
+   "preco": 652,
+   "media": 1572,
+   "ida": "2027-05-07",
+   "volta": "2027-05-12",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCZ%20on%202027-05-07%20through%202027-05-12"
+  },
+  {
+   "codigo": "RT-0336",
+   "enviado_em": "2026-11-28T01:48:11.825765+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-NAT",
+   "preco": 695,
+   "media": 1233,
+   "ida": "2027-05-21",
+   "volta": "2027-05-26",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202027-05-21%20through%202027-05-26"
+  },
+  {
+   "codigo": "RT-0337",
+   "enviado_em": "2026-11-28T01:48:15.367347+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-BPS",
+   "preco": 582,
+   "media": 1719,
+   "ida": "2027-04-16",
+   "volta": "2027-04-21",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BPS%20on%202027-04-16%20through%202027-04-21"
+  },
+  {
+   "codigo": "RT-0338",
+   "enviado_em": "2026-11-28T01:48:15.766970+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-RIO",
+   "preco": 486,
+   "media": 580,
+   "ida": "2027-02-26",
+   "volta": "2027-03-03",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20RIO%20on%202027-02-26%20through%202027-03-03"
+  },
+  {
+   "codigo": "RT-0339",
+   "enviado_em": "2026-11-28T01:48:16.162770+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-BUE",
+   "preco": 1861,
+   "media": 2672,
+   "ida": "2027-02-19",
+   "volta": "2027-02-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BUE%20on%202027-02-19%20through%202027-02-24"
+  },
+  {
+   "codigo": "RT-0340",
+   "enviado_em": "2026-11-28T01:48:16.560270+00:00",
+   "canal": true,
+   "tipo": "Preço em queda",
+   "rota": "BSB-LIS",
+   "preco": 4152,
+   "media": 5278,
+   "ida": "2027-02-19",
+   "volta": "2027-02-24",
+   "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202027-02-19%20through%202027-02-24"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ultima_consulta": "2026-11-27T23:21:52.684468+00:00",
+ "ultima_consulta": "2026-11-28T01:47:54.507784+00:00",
  "historico": {
   "GYN-SSA": [
    {
@@ -4910,6 +4910,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 1563,
+    "ida": "2027-01-18",
+    "volta": "2027-01-23",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SSA%20on%202027-01-18%20through%202027-01-23",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 1563,
     "ida": "2027-01-18",
     "volta": "2027-01-23",
@@ -9837,6 +9848,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FOR%20on%202027-01-19%20through%202027-01-26",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1299,
+    "ida": "2027-01-19",
+    "volta": "2027-01-26",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20FOR%20on%202027-01-19%20through%202027-01-26",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-NAT": [
@@ -14748,6 +14770,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 1427,
+    "ida": "2027-06-01",
+    "volta": "2027-06-03",
+    "cia": "LATAM",
+    "escalas": 2,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20NAT%20on%202027-06-01%20through%202027-06-03",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 1427,
     "ida": "2027-06-01",
     "volta": "2027-06-03",
@@ -19675,6 +19708,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SAO%20on%202027-04-30%20through%202027-05-01",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 609,
+    "ida": "2027-04-30",
+    "volta": "2027-05-01",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20SAO%20on%202027-04-30%20through%202027-05-01",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-RIO": [
@@ -24586,6 +24630,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 843,
+    "ida": "2027-05-21",
+    "volta": "2027-05-24",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20RIO%20on%202027-05-21%20through%202027-05-24",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 843,
     "ida": "2027-05-21",
     "volta": "2027-05-24",
@@ -32058,6 +32113,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20LIS%20on%202027-09-01%20through%202027-09-29",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 6455,
+    "ida": "2027-09-01",
+    "volta": "2027-09-29",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20LIS%20on%202027-09-01%20through%202027-09-29",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-MCO": [
@@ -35517,6 +35583,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 6888,
+    "ida": "2026-12-29",
+    "volta": "2027-01-12",
+    "cia": "LATAM",
+    "escalas": 2,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20MCO%20on%202026-12-29%20through%202027-01-12",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 6888,
     "ida": "2026-12-29",
     "volta": "2027-01-12",
@@ -40411,6 +40488,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-02-20%20through%202027-02-26",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 521,
+    "ida": "2027-05-14",
+    "volta": "2027-05-19",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20REC%20on%202027-05-14%20through%202027-05-19",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-MCZ": [
@@ -45297,6 +45385,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCZ%20on%202027-01-22%20through%202027-01-30",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 652,
+    "ida": "2027-05-07",
+    "volta": "2027-05-12",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCZ%20on%202027-05-07%20through%202027-05-12",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-BPS": [
@@ -48982,6 +49081,17 @@
     "cia": "LATAM",
     "escalas": 0,
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BPS%20on%202026-12-20%20through%202026-12-27",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 582,
+    "ida": "2027-04-16",
+    "volta": "2027-04-21",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BPS%20on%202027-04-16%20through%202027-04-21",
     "fonte": "datas",
     "origem": "BSB"
    }
@@ -53331,6 +53441,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BUE%20on%202027-04-19%20through%202027-04-30",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1861,
+    "ida": "2027-02-19",
+    "volta": "2027-02-24",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20BUE%20on%202027-02-19%20through%202027-02-24",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-SCL": [
@@ -57175,6 +57296,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 1799,
+    "ida": "2027-01-01",
+    "volta": "2027-01-24",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SCL%20on%202027-01-01%20through%202027-01-24",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 1799,
     "ida": "2027-01-01",
     "volta": "2027-01-24",
@@ -62058,6 +62190,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SSA%20on%202027-02-10%20through%202027-02-17",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 391,
+    "ida": "2027-03-05",
+    "volta": "2027-03-10",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SSA%20on%202027-03-05%20through%202027-03-10",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-FOR": [
@@ -66931,6 +67074,17 @@
     "cia": "LATAM",
     "escalas": 0,
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FOR%20on%202027-06-17%20through%202027-06-21",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 535,
+    "ida": "2027-03-05",
+    "volta": "2027-03-10",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FOR%20on%202027-03-05%20through%202027-03-10",
     "fonte": "datas",
     "origem": "BSB"
    }
@@ -71808,6 +71962,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202026-12-05%20through%202026-12-18",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 695,
+    "ida": "2027-05-21",
+    "volta": "2027-05-26",
+    "cia": "LATAM",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20NAT%20on%202027-05-21%20through%202027-05-26",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-SAO": [
@@ -76681,6 +76846,17 @@
     "cia": "Azul",
     "escalas": 0,
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SAO%20on%202027-03-10%20through%202027-03-15",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 357,
+    "ida": "2027-03-12",
+    "volta": "2027-03-17",
+    "cia": "Azul",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20SAO%20on%202027-03-12%20through%202027-03-17",
     "fonte": "datas",
     "origem": "BSB"
    }
@@ -81558,6 +81734,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20RIO%20on%202027-03-16%20through%202027-03-24",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 486,
+    "ida": "2027-02-26",
+    "volta": "2027-03-03",
+    "cia": "Gol",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20RIO%20on%202027-02-26%20through%202027-03-03",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-FLN": [
@@ -86425,6 +86612,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 1424,
+    "ida": "2026-12-22",
+    "volta": "2026-12-22",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20FLN%20on%202026-12-22%20through%202026-12-22",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 1424,
     "ida": "2026-12-22",
     "volta": "2026-12-22",
@@ -93367,6 +93565,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202027-02-22%20through%202027-03-01",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 4152,
+    "ida": "2027-02-19",
+    "volta": "2027-02-24",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20LIS%20on%202027-02-19%20through%202027-02-24",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-MCO": [
@@ -98234,6 +98443,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 3825,
+    "ida": "2027-03-02",
+    "volta": "2027-03-16",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20MCO%20on%202027-03-02%20through%202027-03-16",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 3825,
     "ida": "2027-03-02",
     "volta": "2027-03-16",
@@ -106001,6 +106221,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20JPA%20on%202027-02-17%20through%202027-02-24",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1220,
+    "ida": "2027-02-17",
+    "volta": "2027-02-24",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20JPA%20on%202027-02-17%20through%202027-02-24",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "BSB-JPA": [
@@ -110854,6 +111085,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20JPA%20on%202026-12-21%20through%202026-12-26",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1724,
+    "ida": "2026-12-21",
+    "volta": "2026-12-26",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20JPA%20on%202026-12-21%20through%202026-12-26",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-IOS": [
@@ -114819,6 +115061,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 825,
+    "ida": "2027-08-01",
+    "volta": "2027-08-06",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20IOS%20on%202027-08-01%20through%202027-08-06",
+    "fonte": "datas",
+    "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 825,
     "ida": "2027-08-01",
     "volta": "2027-08-06",
@@ -118825,6 +119078,17 @@
    },
    {
     "t": "2026-11-27T23:21:52.684468+00:00",
+    "preco": 1021,
+    "ida": "2027-04-15",
+    "volta": "2027-04-22",
+    "cia": "Gol",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20MCZ%20on%202027-04-15%20through%202027-04-22",
+    "fonte": "datas",
+    "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
     "preco": 1021,
     "ida": "2027-04-15",
     "volta": "2027-04-22",
@@ -124502,6 +124766,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20BPS%20on%202027-03-31%20through%202027-04-07",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1540,
+    "ida": "2027-03-31",
+    "volta": "2027-04-07",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20BPS%20on%202027-03-31%20through%202027-04-07",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "GYN-REC": [
@@ -128596,6 +128871,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20REC%20on%202027-01-13%20through%202027-01-20",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1588,
+    "ida": "2027-01-13",
+    "volta": "2027-01-20",
+    "cia": "Azul",
+    "escalas": 0,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20REC%20on%202027-01-13%20through%202027-01-20",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ],
   "BSB-AJU": [
@@ -131359,6 +131645,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20AJU%20on%202027-01-20%20through%202027-01-31",
     "fonte": "datas",
     "origem": "BSB"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 1454,
+    "ida": "2027-01-20",
+    "volta": "2027-01-31",
+    "cia": "Azul",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20AJU%20on%202027-01-20%20through%202027-01-31",
+    "fonte": "datas",
+    "origem": "BSB"
    }
   ],
   "BSB-NVT": [
@@ -133915,6 +134212,17 @@
     "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20BUE%20on%202027-01-14%20through%202027-01-22",
     "fonte": "datas",
     "origem": "GYN"
+   },
+   {
+    "t": "2026-11-28T01:47:54.507784+00:00",
+    "preco": 3067,
+    "ida": "2027-01-14",
+    "volta": "2027-01-22",
+    "cia": "LATAM",
+    "escalas": 1,
+    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20GYN%20to%20BUE%20on%202027-01-14%20through%202027-01-22",
+    "fonte": "datas",
+    "origem": "GYN"
    }
   ]
  },
@@ -133924,16 +134232,16 @@
    "t": "2026-11-26T21:32:13.009201+00:00"
   },
   "BSB-NAT": {
-   "preco": 1072,
-   "t": "2026-11-26T22:37:18.484645+00:00"
+   "preco": 695,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   },
   "BSB-REC": {
-   "preco": 743,
-   "t": "2026-11-22T19:20:48.211126+00:00"
+   "preco": 521,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   },
   "BSB-MCZ": {
-   "preco": 1288,
-   "t": "2026-11-08T15:02:30.139957+00:00"
+   "preco": 652,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   },
   "GYN-SSA": {
    "preco": 1461,
@@ -133956,8 +134264,8 @@
    "t": "2026-11-12T16:07:50.541108+00:00"
   },
   "BSB-BUE": {
-   "preco": 2804,
-   "t": "2026-11-13T20:48:25.258641+00:00"
+   "preco": 1861,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   },
   "GYN-FOR": {
    "preco": 1299,
@@ -133972,8 +134280,8 @@
    "t": "2026-11-16T16:32:17.666583+00:00"
   },
   "BSB-LIS": {
-   "preco": 4425,
-   "t": "2026-11-27T03:04:43.450568+00:00"
+   "preco": 4152,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   },
   "GYN-POA": {
    "preco": 867,
@@ -134008,8 +134316,20 @@
    "t": "2026-11-27T19:28:11.485013+00:00"
   },
   "BSB-SSA": {
-   "preco": 533,
-   "t": "2026-11-27T20:25:26.470714+00:00"
+   "preco": 391,
+   "t": "2026-11-28T01:47:54.507784+00:00"
+  },
+  "BSB-FOR": {
+   "preco": 535,
+   "t": "2026-11-28T01:47:54.507784+00:00"
+  },
+  "BSB-BPS": {
+   "preco": 582,
+   "t": "2026-11-28T01:47:54.507784+00:00"
+  },
+  "BSB-RIO": {
+   "preco": 486,
+   "t": "2026-11-28T01:47:54.507784+00:00"
   }
  },
  "versao": 6,
