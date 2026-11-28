@@ -1,5 +1,5 @@
 {
- "ultimo": 344,
+ "ultimo": 345,
  "alertas": [
   {
    "codigo": "RT-0001",
@@ -5197,6 +5197,25 @@
    "ida": "2027-05-05",
    "volta": "2027-05-12",
    "link": "https://www.google.com/travel/flights?hl=pt-BR&gl=BR&curr=BRL&q=Flights%20from%20BSB%20to%20JPA%20on%202027-05-05%20through%202027-05-12"
+  },
+  {
+   "codigo": "RT-0345",
+   "enviado_em": "2026-11-28T14:38:15.194387+00:00",
+   "canal": true,
+   "tipo": "Passagem com milhas",
+   "titulo": "LATAM Friday! Resgate passagens a partir de R$ 119 ou 2 mil milhas",
+   "link": "https://pontospravoar.com/latam-friday-resgate-passagens-119-reais-2-mil-milhas/",
+   "fonte": "Pontos pra Voar",
+   "etiquetas": {
+    "categoria": "passagem",
+    "programas": [
+     "LATAM Pass"
+    ],
+    "trechos": [
+     "BSB-VIX",
+     "BSB-UDI"
+    ]
+   }
   }
  ]
 }

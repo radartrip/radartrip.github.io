@@ -152,7 +152,8 @@
   "https://pontospravoar.com/?p=152239",
   "https://pontospravoar.com/?p=152287",
   "https://passageirodeprimeira.com/?p=586315",
-  "https://passageirodeprimeira.com/?p=586515"
+  "https://passageirodeprimeira.com/?p=586515",
+  "https://pontospravoar.com/?p=152488"
  ],
  "resgates": [
   {
@@ -797,6 +798,52 @@
    "post": "https://pontospravoar.com/alerta-passagens-ppv-smiles-resgates-apenas-3400-milhas/",
    "titulo": "Alerta de passagens PPV: Smiles tem resgates a partir de apenas 3.400 milhas!",
    "visto_em": "2026-11-27T19:28:09.044332+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "VIX",
+   "origem_nome": "Brasília",
+   "destino_nome": "Vitória",
+   "milhas": 2952,
+   "milhas_clube": null,
+   "data": "2027-03-10",
+   "datas_texto": "10 de março",
+   "cia": "",
+   "reserva": "http://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=VIX&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&outbound=2027-03-10T00%3A00%3A00.000Z&inbound=null&sort=PRICE%2Casc&exp_id=b085bd7c-e846-4351-8f3b-653cd4cfd5fd&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_articulo_20261126_latam-friday",
+   "datas_mes": [
+    "Março/2027: 10"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 175,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 59.28,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/latam-friday-resgate-passagens-119-reais-2-mil-milhas/",
+   "titulo": "LATAM Friday! Resgate passagens a partir de R$ 119 ou 2 mil milhas",
+   "visto_em": "2026-11-28T14:38:14.730707+00:00"
+  },
+  {
+   "origem": "BSB",
+   "destino": "UDI",
+   "origem_nome": "Brasília",
+   "destino_nome": "Uberlândia",
+   "milhas": 3539,
+   "milhas_clube": null,
+   "data": "2027-04-06",
+   "datas_texto": "6 de abril",
+   "cia": "",
+   "reserva": "http://www.latamairlines.com/br/pt/oferta-voos?origin=BSB&destination=UDI&adt=1&chd=0&inf=0&trip=OW&cabin=Economy&redemption=true&outbound=2027-04-06T00%3A00%3A00.000Z&inbound=null&sort=PRICE%2Casc&exp_id=b085bd7c-e846-4351-8f3b-653cd4cfd5fd&utm_source=pontos-para-voar&utm_medium=affiliate&utm_campaign=br_ltm_pontos-para-voar_affiliate_tkt_aon_conv_lower&utm_content=aberta_articulo_20261126_latam-friday",
+   "datas_mes": [
+    "Abril/2027: 6"
+   ],
+   "programa": "LATAM Pass",
+   "preco_dinheiro": 164,
+   "preco_origem": "LATAM ao vivo",
+   "milheiro": 46.34,
+   "veredito": "milhas",
+   "post": "https://pontospravoar.com/latam-friday-resgate-passagens-119-reais-2-mil-milhas/",
+   "titulo": "LATAM Friday! Resgate passagens a partir de R$ 119 ou 2 mil milhas",
+   "visto_em": "2026-11-28T14:38:14.730717+00:00"
   }
  ]
 }
