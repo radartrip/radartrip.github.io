@@ -14,21 +14,6 @@
    "link": ""
   },
   {
-   "assinatura": "transferencia||Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "",
-   "visto_em": "2026-11-24",
-   "titulo": "Transfira pontos do Premmia para o Azul Fidelidade com até 120% de bônus",
-   "link": "http://www.voeazul.com.br/br/pt/ofertas/premmia?s_afili=afiliados_brv_azf_ppv_conteudo_uf_programas-fid_pass_afiliado_cpvnd_rspnsv_lp_pontospravoar_responsivo"
-  },
-  {
    "assinatura": "transferencia||Smiles|70|",
    "categoria": "transferencia",
    "origens": [],
@@ -104,23 +89,6 @@
    "link": "http://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB"
   },
   {
-   "assinatura": "transferencia|Esfera|Azul Fidelidade|120|",
-   "categoria": "transferencia",
-   "origens": [
-    "Esfera"
-   ],
-   "destinos": [
-    "Azul Fidelidade"
-   ],
-   "bonus": 120,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-27",
-   "visto_em": "2026-11-27",
-   "titulo": "Só hoje! Azul Fidelidade oferece até 120% de bônus nas transferências da Esfera",
-   "link": "https://www.voeazul.com.br/br/pt/ofertas/esfera"
-  },
-  {
    "assinatura": "transferencia|Esfera|Smiles|80|",
    "categoria": "transferencia",
    "origens": [
@@ -136,21 +104,6 @@
    "visto_em": "2026-11-27",
    "titulo": "Orange Friday! Smiles oferece até 80% de bônus nas transferências de pontos com parceiros + 79% OFF na compra de milhas",
    "link": "https://www.smiles.com.br/portal/campanhas/orangefriday-bancos-27-11-2026"
-  },
-  {
-   "assinatura": "transferencia||Esfera|80|",
-   "categoria": "transferencia",
-   "origens": [],
-   "destinos": [
-    "Esfera"
-   ],
-   "bonus": 80,
-   "desconto": 0,
-   "milheiro": null,
-   "prazo": "2026-11-27",
-   "visto_em": "2026-11-27",
-   "titulo": "Apenas hoje! Esfera oferece 80% de bônus na transferência de pontos para o ConnectMiles",
-   "link": "http://www.esfera.com.vc/p/copa-airlines/e000100695"
   },
   {
    "assinatura": "compra|Livelo|||",

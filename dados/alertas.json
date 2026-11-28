@@ -1,5 +1,33 @@
 [
  {
+  "id": "https://pontospravoar.com/?p=152368",
+  "titulo": "Radar PPV! Resumo das promoções de acúmulo e transferência de pontos da Black Friday!",
+  "link": "https://pontospravoar.com/radar-ppv-resumo-promocoes-acumulo-transferencia-pontos-black-friday-dia-27-novembro-2026/",
+  "fonte": "Pontos pra Voar",
+  "resumo": "Sexta-feira de Black Friday! O Radar PPV está no ar com uma seleção das principais oportunidades em pontos, milhas, viagens e promoções. Nossa equipe reuniu os destaques do dia para você acompanhar as ofertas que merecem atenção e aproveitar as melhores oportunidades da temporada. Promoções de acúmulo de pontos ¹ pontos por dólar. Promoções de…",
+  "categorias": [
+   "Black Friday",
+   "Radar PPV",
+   "RADAR PPV"
+  ],
+  "data": "2026-11-27T23:30:50+00:00",
+  "nacional": false,
+  "categoria": "",
+  "programas_origem": [],
+  "programas_destino": [],
+  "bonus": 0,
+  "desconto": 0,
+  "milheiro_citado": null,
+  "prazo": "",
+  "repostagem": false,
+  "assinatura": "",
+  "tipo": "Notícia / outros",
+  "prioridade": "normal",
+  "motivos": [],
+  "visto_em": "2026-11-28T00:16:29.842018+00:00",
+  "fora_vitrine": "sem critério de vitrine"
+ },
+ {
   "id": "https://pontospravoar.com/?p=152317",
   "titulo": "Alerta de passagens PPV: Confira 10 resgates a partir de 3.500 pontos Azul Fidelidade",
   "link": "https://pontospravoar.com/alerta-de-passagens-ppv-confira-10-resgates-a-partir-de-3-500-pontos-azul-fidelidade/",
@@ -13105,33 +13133,5 @@
   "visto_em": "2026-11-13T20:48:17.932200+00:00",
   "link_oficial": "",
   "codigo": "RT-0137"
- },
- {
-  "id": "https://www.melhoresdestinos.com.br/?post_type=promocao&p=647436",
-  "titulo": "Muito bom! Voos diretos da Delta/Latam para Nova York a partir de R$ 2.733 saindo do Rio de Janeiro",
-  "link": "https://www.melhoresdestinos.com.br/promocao/muito-bom-voos-diretos-nova-york-rio-13nov26",
-  "fonte": "Melhores Destinos",
-  "resumo": "A Delta está com ótimos preços para quem quer ir para Nova York saindo do Rio de Janeiro. Os seus voos diretos, operados em codeshare com a Latam, estão bem baratos e valem muito a pena. Aproveite o que há de melhor da Big Apple com passagens aéreas a partir de apenas R$ 2.733, ida…",
-  "categorias": [],
-  "data": "2026-11-13T13:57:34+00:00",
-  "nacional": false,
-  "categoria": "passagem",
-  "programas_origem": [],
-  "programas_destino": [
-   "LATAM Pass"
-  ],
-  "bonus": 0,
-  "desconto": 0,
-  "milheiro_citado": null,
-  "prazo": "",
-  "repostagem": false,
-  "assinatura": "passagem|LATAM Pass|2.733",
-  "escopo": "internacional",
-  "tipo": "Passagem em dinheiro",
-  "prioridade": "normal",
-  "motivos": [],
-  "visto_em": "2026-11-13T20:48:17.931047+00:00",
-  "link_oficial": "https://latampass.latam.com",
-  "codigo": "RT-0138"
  }
 ]
